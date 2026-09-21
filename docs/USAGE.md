@@ -3,15 +3,15 @@
 ## Quick Start URLs
 
 - **Master Playlist (All Active Channels):**
-  `https://deep933922-debug.github.io/livora-tv/playlists/index.m3u`
+  `https://deep-dev-official.github.io/livora-tv/playlists/index.m3u`
 - **India Playlist:**
-  `https://deep933922-debug.github.io/livora-tv/playlists/india.m3u`
+  `https://deep-dev-official.github.io/livora-tv/playlists/india.m3u`
 - **Bangladesh Playlist:**
-  `https://deep933922-debug.github.io/livora-tv/playlists/bangladesh.m3u`
+  `https://deep-dev-official.github.io/livora-tv/playlists/bangladesh.m3u`
 - **Sports Playlist:**
-  `https://deep933922-debug.github.io/livora-tv/playlists/sports.m3u`
+  `https://deep-dev-official.github.io/livora-tv/playlists/sports.m3u`
 - **News Playlist:**
-  `https://deep933922-debug.github.io/livora-tv/playlists/news.m3u`
+  `https://deep-dev-official.github.io/livora-tv/playlists/news.m3u`
 
 ---
 

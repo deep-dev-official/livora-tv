@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://deep933922-debug.github.io/livora-tv/epg/epg.xml.gz"
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
 
 
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png" group-title="General",3sat (HD)

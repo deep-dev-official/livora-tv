@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://deep933922-debug.github.io/livora-tv/epg/epg.xml.gz"
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
 
 
 #EXTINF:-1 tvg-id="24News.in" tvg-name="24 News" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="News",24 News (576p)

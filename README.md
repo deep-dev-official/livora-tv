@@ -4,7 +4,7 @@
 
 Livora TV is an independent, automated IPTV playlist platform that provides verified, publicly accessible broadcast streams. The platform runs a scheduled health-checking pipeline every 12 hours that filters out dead links, broken manifests, and unreachable hosts to ensure reliable playback.
 
-[![Validation Pipeline](https://github.com/deep933922-debug/livora-tv/actions/workflows/update.yml/badge.svg)](https://github.com/deep933922-debug/livora-tv/actions)
+[![Validation Pipeline](https://github.com/deep-dev-official/livora-tv/actions/workflows/update.yml/badge.svg)](https://github.com/deep-dev-official/livora-tv/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -15,19 +15,19 @@ Add any of the following URLs directly into your IPTV player (VLC, TiviMate, Kod
 
 | Playlist | Description | Direct M3U URL |
 | :--- | :--- | :--- |
-| **Master** | All verified active streams worldwide | `https://deep933922-debug.github.io/livora-tv/playlists/index.m3u` |
-| **All Channels** | Complete active channels playlist | `https://deep933922-debug.github.io/livora-tv/playlists/all.m3u` |
-| **India** | Verified Indian channels | `https://deep933922-debug.github.io/livora-tv/playlists/india.m3u` |
-| **Bangladesh** | Verified Bangladeshi channels | `https://deep933922-debug.github.io/livora-tv/playlists/bangladesh.m3u` |
-| **News** | Global and regional live news feeds | `https://deep933922-debug.github.io/livora-tv/playlists/news.m3u` |
-| **Sports** | Sports channels and events | `https://deep933922-debug.github.io/livora-tv/playlists/sports.m3u` |
-| **Entertainment** | General entertainment channels | `https://deep933922-debug.github.io/livora-tv/playlists/entertainment.m3u` |
-| **Movies** | Movies and cinema broadcasts | `https://deep933922-debug.github.io/livora-tv/playlists/movies.m3u` |
-| **Kids** | Children & family entertainment | `https://deep933922-debug.github.io/livora-tv/playlists/kids.m3u` |
-| **Music** | 24/7 music video streams | `https://deep933922-debug.github.io/livora-tv/playlists/music.m3u` |
-| **Bengali** | Bengali language channels | `https://deep933922-debug.github.io/livora-tv/playlists/bengali.m3u` |
-| **Hindi** | Hindi language channels | `https://deep933922-debug.github.io/livora-tv/playlists/hindi.m3u` |
-| **English** | English language channels | `https://deep933922-debug.github.io/livora-tv/playlists/english.m3u` |
+| **Master** | All verified active streams worldwide | `https://deep-dev-official.github.io/livora-tv/playlists/index.m3u` |
+| **All Channels** | Complete active channels playlist | `https://deep-dev-official.github.io/livora-tv/playlists/all.m3u` |
+| **India** | Verified Indian channels | `https://deep-dev-official.github.io/livora-tv/playlists/india.m3u` |
+| **Bangladesh** | Verified Bangladeshi channels | `https://deep-dev-official.github.io/livora-tv/playlists/bangladesh.m3u` |
+| **News** | Global and regional live news feeds | `https://deep-dev-official.github.io/livora-tv/playlists/news.m3u` |
+| **Sports** | Sports channels and events | `https://deep-dev-official.github.io/livora-tv/playlists/sports.m3u` |
+| **Entertainment** | General entertainment channels | `https://deep-dev-official.github.io/livora-tv/playlists/entertainment.m3u` |
+| **Movies** | Movies and cinema broadcasts | `https://deep-dev-official.github.io/livora-tv/playlists/movies.m3u` |
+| **Kids** | Children & family entertainment | `https://deep-dev-official.github.io/livora-tv/playlists/kids.m3u` |
+| **Music** | 24/7 music video streams | `https://deep-dev-official.github.io/livora-tv/playlists/music.m3u` |
+| **Bengali** | Bengali language channels | `https://deep-dev-official.github.io/livora-tv/playlists/bengali.m3u` |
+| **Hindi** | Hindi language channels | `https://deep-dev-official.github.io/livora-tv/playlists/hindi.m3u` |
+| **English** | English language channels | `https://deep-dev-official.github.io/livora-tv/playlists/english.m3u` |
 
 ---
 
@@ -52,7 +52,7 @@ Add any of the following URLs directly into your IPTV player (VLC, TiviMate, Kod
 
 ```bash
 # Clone repository
-git clone https://github.com/deep933922-debug/livora-tv.git
+git clone https://github.com/deep-dev-official/livora-tv.git
 cd livora-tv
 
 # Execute the complete automated pipeline

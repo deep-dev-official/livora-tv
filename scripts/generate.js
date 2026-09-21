@@ -32,7 +32,7 @@ export function buildM3uEntry(channel, stream) {
 }
 
 export function createM3uHeader() {
-  return '#EXTM3U x-tvg-url="https://deep933922-debug.github.io/livora-tv/epg/epg.xml.gz"\n';
+  return '#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"\n';
 }
 
 export async function generatePlaylists() {
