@@ -1,0 +1,374 @@
+[
+  {
+    "id": "ajmantv-ae",
+    "name": "Ajman TV",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/hVNIwgE.png",
+    "epgId": "AjmanTV.ae",
+    "streams": [
+      {
+        "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:13.989Z",
+        "http_status": 200,
+        "latency_ms": 1478
+      }
+    ]
+  },
+  {
+    "id": "alarabiya-ae",
+    "name": "Alarabiya",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/NXFkYFj.png",
+    "epgId": "Alarabiya.ae",
+    "streams": [
+      {
+        "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:17.988Z",
+        "http_status": 206,
+        "latency_ms": 1622
+      },
+      {
+        "url": "http://185.9.2.18/chid_146/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:16.784Z",
+        "http_status": 206,
+        "latency_ms": 353
+      },
+      {
+        "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:18.123Z",
+        "http_status": 206,
+        "latency_ms": 1626
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:18.545Z",
+        "http_status": 206,
+        "latency_ms": 2038
+      }
+    ]
+  },
+  {
+    "id": "alarabiya-ae",
+    "name": "Alarabiya",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/NXFkYFj.png",
+    "epgId": "Alarabiya.ae",
+    "streams": [
+      {
+        "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:17.988Z",
+        "http_status": 206,
+        "latency_ms": 1622
+      },
+      {
+        "url": "http://185.9.2.18/chid_146/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:16.784Z",
+        "http_status": 206,
+        "latency_ms": 353
+      },
+      {
+        "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:18.123Z",
+        "http_status": 206,
+        "latency_ms": 1626
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:18.545Z",
+        "http_status": 206,
+        "latency_ms": 2038
+      }
+    ]
+  },
+  {
+    "id": "alarabiya-ae",
+    "name": "Alarabiya",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/NXFkYFj.png",
+    "epgId": "Alarabiya.ae",
+    "streams": [
+      {
+        "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:17.988Z",
+        "http_status": 206,
+        "latency_ms": 1622
+      },
+      {
+        "url": "http://185.9.2.18/chid_146/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:16.784Z",
+        "http_status": 206,
+        "latency_ms": 353
+      },
+      {
+        "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:18.123Z",
+        "http_status": 206,
+        "latency_ms": 1626
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:18.545Z",
+        "http_status": 206,
+        "latency_ms": 2038
+      }
+    ]
+  },
+  {
+    "id": "alarabiya-ae",
+    "name": "Alarabiya",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/NXFkYFj.png",
+    "epgId": "Alarabiya.ae",
+    "streams": [
+      {
+        "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:17.988Z",
+        "http_status": 206,
+        "latency_ms": 1622
+      },
+      {
+        "url": "http://185.9.2.18/chid_146/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:16.784Z",
+        "http_status": 206,
+        "latency_ms": 353
+      },
+      {
+        "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:18.123Z",
+        "http_status": 206,
+        "latency_ms": 1626
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:18.545Z",
+        "http_status": 206,
+        "latency_ms": 2038
+      }
+    ]
+  },
+  {
+    "id": "alarabiyabusiness-ae",
+    "name": "Al Arabiya Business",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Business",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/eEV4r6J.jpg",
+    "epgId": "AlArabiyaBusiness.ae",
+    "streams": [
+      {
+        "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:18.112Z",
+        "http_status": 206,
+        "latency_ms": 1593
+      }
+    ]
+  },
+  {
+    "id": "alarabiyaprograms-ae",
+    "name": "Al Arabiya Programs",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Documentary",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Hoc3cfO.png",
+    "epgId": "AlArabiyaPrograms.ae",
+    "streams": [
+      {
+        "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1280p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:18.527Z",
+        "http_status": 206,
+        "latency_ms": 1743
+      }
+    ]
+  },
+  {
+    "id": "alqamartv-ae",
+    "name": "Al Qamar TV",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/zkBT0C8.png",
+    "epgId": "AlQamarTV.ae",
+    "streams": [
+      {
+        "url": "https://streamer3.premio.link/alqamar/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:22.191Z",
+        "http_status": 206,
+        "latency_ms": 715
+      }
+    ]
+  },
+  {
+    "id": "alshallaltv-ae",
+    "name": "Al Shallal TV",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/otAHLRo.png",
+    "epgId": "AlShallalTV.ae",
+    "streams": [
+      {
+        "url": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:24.882Z",
+        "http_status": 206,
+        "latency_ms": 2256
+      }
+    ]
+  },
+  {
+    "id": "alsharqiyaminkabla-ae",
+    "name": "Al Sharqiya Min Kabla",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/m4qheI4.png",
+    "epgId": "AlSharqiyaMinKabla.ae",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:25.371Z",
+        "http_status": 200,
+        "latency_ms": 2313
+      }
+    ]
+  }
+]

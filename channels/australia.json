@@ -1,0 +1,1048 @@
+[
+  {
+    "id": "2gb-au",
+    "name": "2GB",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.ibb.co/jwM8DFG/2GB-1.png",
+    "epgId": "2GB.au",
+    "streams": [
+      {
+        "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:43.310Z",
+        "http_status": 200,
+        "latency_ms": 297
+      }
+    ]
+  },
+  {
+    "id": "3aw-au",
+    "name": "3AW",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Z4MdB0S.png",
+    "epgId": "3AW.au",
+    "streams": [
+      {
+        "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:43.306Z",
+        "http_status": 200,
+        "latency_ms": 285
+      }
+    ]
+  },
+  {
+    "id": "6pr-au",
+    "name": "6PR",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Q9iCxg1.png",
+    "epgId": "6PR.au",
+    "streams": [
+      {
+        "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:44.585Z",
+        "http_status": 200,
+        "latency_ms": 763
+      }
+    ]
+  },
+  {
+    "id": "10bold-au",
+    "name": "10 Bold",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "Lifestyle",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/2xglh33.png",
+    "epgId": "10Bold.au",
+    "streams": [
+      {
+        "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:49.577Z",
+        "http_status": 200,
+        "latency_ms": 2992
+      }
+    ]
+  },
+  {
+    "id": "abcentertains-au",
+    "name": "ABC Entertains",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "Education",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png",
+    "epgId": "ABCEntertains.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-me.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:57.926Z",
+        "http_status": 206,
+        "latency_ms": 1908
+      }
+    ]
+  },
+  {
+    "id": "abckids-au",
+    "name": "ABC Kids",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+    "epgId": "ABCKids.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-kids.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.149Z",
+        "http_status": 206,
+        "latency_ms": 2485
+      }
+    ]
+  },
+  {
+    "id": "abcnews-au",
+    "name": "ABC News",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/BrW7gk8.png",
+    "epgId": "ABCNews.au",
+    "streams": [
+      {
+        "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:57.507Z",
+        "http_status": 200,
+        "latency_ms": 272
+      },
+      {
+        "url": "https://c.mjh.nz/abc-news.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:58.331Z",
+        "http_status": 206,
+        "latency_ms": 1088
+      }
+    ]
+  },
+  {
+    "id": "abcnews-au",
+    "name": "ABC News",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/BrW7gk8.png",
+    "epgId": "ABCNews.au",
+    "streams": [
+      {
+        "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:57.507Z",
+        "http_status": 200,
+        "latency_ms": 272
+      },
+      {
+        "url": "https://c.mjh.nz/abc-news.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:58.331Z",
+        "http_status": 206,
+        "latency_ms": 1088
+      }
+    ]
+  },
+  {
+    "id": "abctv-au",
+    "name": "ABC TV",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/DPVQSjM.png",
+    "epgId": "ABCTV.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-act.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.450Z",
+        "http_status": 206,
+        "latency_ms": 1026
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nsw.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.982Z",
+        "http_status": 206,
+        "latency_ms": 1543
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nt.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:58.962Z",
+        "http_status": 206,
+        "latency_ms": 486
+      },
+      {
+        "url": "https://c.mjh.nz/abc-qld.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.837Z",
+        "http_status": 206,
+        "latency_ms": 3174
+      },
+      {
+        "url": "https://c.mjh.nz/abc-sa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.976Z",
+        "http_status": 206,
+        "latency_ms": 2023
+      },
+      {
+        "url": "https://c.mjh.nz/abc-tas.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:02.197Z",
+        "http_status": 206,
+        "latency_ms": 3235
+      },
+      {
+        "url": "https://c.mjh.nz/abc-vic.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.100Z",
+        "http_status": 206,
+        "latency_ms": 1950
+      },
+      {
+        "url": "https://c.mjh.nz/abc-wa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.546Z",
+        "http_status": 206,
+        "latency_ms": 1096
+      }
+    ]
+  },
+  {
+    "id": "abctv-au",
+    "name": "ABC TV",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/DPVQSjM.png",
+    "epgId": "ABCTV.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-act.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.450Z",
+        "http_status": 206,
+        "latency_ms": 1026
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nsw.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.982Z",
+        "http_status": 206,
+        "latency_ms": 1543
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nt.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:58.962Z",
+        "http_status": 206,
+        "latency_ms": 486
+      },
+      {
+        "url": "https://c.mjh.nz/abc-qld.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.837Z",
+        "http_status": 206,
+        "latency_ms": 3174
+      },
+      {
+        "url": "https://c.mjh.nz/abc-sa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.976Z",
+        "http_status": 206,
+        "latency_ms": 2023
+      },
+      {
+        "url": "https://c.mjh.nz/abc-tas.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:02.197Z",
+        "http_status": 206,
+        "latency_ms": 3235
+      },
+      {
+        "url": "https://c.mjh.nz/abc-vic.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.100Z",
+        "http_status": 206,
+        "latency_ms": 1950
+      },
+      {
+        "url": "https://c.mjh.nz/abc-wa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.546Z",
+        "http_status": 206,
+        "latency_ms": 1096
+      }
+    ]
+  },
+  {
+    "id": "abctv-au",
+    "name": "ABC TV",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/DPVQSjM.png",
+    "epgId": "ABCTV.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-act.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.450Z",
+        "http_status": 206,
+        "latency_ms": 1026
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nsw.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.982Z",
+        "http_status": 206,
+        "latency_ms": 1543
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nt.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:58.962Z",
+        "http_status": 206,
+        "latency_ms": 486
+      },
+      {
+        "url": "https://c.mjh.nz/abc-qld.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.837Z",
+        "http_status": 206,
+        "latency_ms": 3174
+      },
+      {
+        "url": "https://c.mjh.nz/abc-sa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.976Z",
+        "http_status": 206,
+        "latency_ms": 2023
+      },
+      {
+        "url": "https://c.mjh.nz/abc-tas.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:02.197Z",
+        "http_status": 206,
+        "latency_ms": 3235
+      },
+      {
+        "url": "https://c.mjh.nz/abc-vic.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.100Z",
+        "http_status": 206,
+        "latency_ms": 1950
+      },
+      {
+        "url": "https://c.mjh.nz/abc-wa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.546Z",
+        "http_status": 206,
+        "latency_ms": 1096
+      }
+    ]
+  },
+  {
+    "id": "abctv-au",
+    "name": "ABC TV",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/DPVQSjM.png",
+    "epgId": "ABCTV.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-act.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.450Z",
+        "http_status": 206,
+        "latency_ms": 1026
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nsw.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.982Z",
+        "http_status": 206,
+        "latency_ms": 1543
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nt.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:58.962Z",
+        "http_status": 206,
+        "latency_ms": 486
+      },
+      {
+        "url": "https://c.mjh.nz/abc-qld.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.837Z",
+        "http_status": 206,
+        "latency_ms": 3174
+      },
+      {
+        "url": "https://c.mjh.nz/abc-sa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.976Z",
+        "http_status": 206,
+        "latency_ms": 2023
+      },
+      {
+        "url": "https://c.mjh.nz/abc-tas.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:02.197Z",
+        "http_status": 206,
+        "latency_ms": 3235
+      },
+      {
+        "url": "https://c.mjh.nz/abc-vic.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.100Z",
+        "http_status": 206,
+        "latency_ms": 1950
+      },
+      {
+        "url": "https://c.mjh.nz/abc-wa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.546Z",
+        "http_status": 206,
+        "latency_ms": 1096
+      }
+    ]
+  },
+  {
+    "id": "abctv-au",
+    "name": "ABC TV",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/DPVQSjM.png",
+    "epgId": "ABCTV.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-act.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.450Z",
+        "http_status": 206,
+        "latency_ms": 1026
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nsw.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.982Z",
+        "http_status": 206,
+        "latency_ms": 1543
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nt.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:58.962Z",
+        "http_status": 206,
+        "latency_ms": 486
+      },
+      {
+        "url": "https://c.mjh.nz/abc-qld.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.837Z",
+        "http_status": 206,
+        "latency_ms": 3174
+      },
+      {
+        "url": "https://c.mjh.nz/abc-sa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.976Z",
+        "http_status": 206,
+        "latency_ms": 2023
+      },
+      {
+        "url": "https://c.mjh.nz/abc-tas.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:02.197Z",
+        "http_status": 206,
+        "latency_ms": 3235
+      },
+      {
+        "url": "https://c.mjh.nz/abc-vic.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.100Z",
+        "http_status": 206,
+        "latency_ms": 1950
+      },
+      {
+        "url": "https://c.mjh.nz/abc-wa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.546Z",
+        "http_status": 206,
+        "latency_ms": 1096
+      }
+    ]
+  },
+  {
+    "id": "abctv-au",
+    "name": "ABC TV",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/DPVQSjM.png",
+    "epgId": "ABCTV.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-act.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.450Z",
+        "http_status": 206,
+        "latency_ms": 1026
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nsw.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.982Z",
+        "http_status": 206,
+        "latency_ms": 1543
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nt.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:58.962Z",
+        "http_status": 206,
+        "latency_ms": 486
+      },
+      {
+        "url": "https://c.mjh.nz/abc-qld.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.837Z",
+        "http_status": 206,
+        "latency_ms": 3174
+      },
+      {
+        "url": "https://c.mjh.nz/abc-sa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.976Z",
+        "http_status": 206,
+        "latency_ms": 2023
+      },
+      {
+        "url": "https://c.mjh.nz/abc-tas.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:02.197Z",
+        "http_status": 206,
+        "latency_ms": 3235
+      },
+      {
+        "url": "https://c.mjh.nz/abc-vic.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.100Z",
+        "http_status": 206,
+        "latency_ms": 1950
+      },
+      {
+        "url": "https://c.mjh.nz/abc-wa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.546Z",
+        "http_status": 206,
+        "latency_ms": 1096
+      }
+    ]
+  },
+  {
+    "id": "abctv-au",
+    "name": "ABC TV",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/DPVQSjM.png",
+    "epgId": "ABCTV.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-act.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.450Z",
+        "http_status": 206,
+        "latency_ms": 1026
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nsw.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.982Z",
+        "http_status": 206,
+        "latency_ms": 1543
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nt.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:58.962Z",
+        "http_status": 206,
+        "latency_ms": 486
+      },
+      {
+        "url": "https://c.mjh.nz/abc-qld.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.837Z",
+        "http_status": 206,
+        "latency_ms": 3174
+      },
+      {
+        "url": "https://c.mjh.nz/abc-sa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.976Z",
+        "http_status": 206,
+        "latency_ms": 2023
+      },
+      {
+        "url": "https://c.mjh.nz/abc-tas.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:02.197Z",
+        "http_status": 206,
+        "latency_ms": 3235
+      },
+      {
+        "url": "https://c.mjh.nz/abc-vic.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.100Z",
+        "http_status": 206,
+        "latency_ms": 1950
+      },
+      {
+        "url": "https://c.mjh.nz/abc-wa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.546Z",
+        "http_status": 206,
+        "latency_ms": 1096
+      }
+    ]
+  },
+  {
+    "id": "abctv-au",
+    "name": "ABC TV",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/DPVQSjM.png",
+    "epgId": "ABCTV.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-act.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.450Z",
+        "http_status": 206,
+        "latency_ms": 1026
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nsw.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:59.982Z",
+        "http_status": 206,
+        "latency_ms": 1543
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nt.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:58.962Z",
+        "http_status": 206,
+        "latency_ms": 486
+      },
+      {
+        "url": "https://c.mjh.nz/abc-qld.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.837Z",
+        "http_status": 206,
+        "latency_ms": 3174
+      },
+      {
+        "url": "https://c.mjh.nz/abc-sa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.976Z",
+        "http_status": 206,
+        "latency_ms": 2023
+      },
+      {
+        "url": "https://c.mjh.nz/abc-tas.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:02.197Z",
+        "http_status": 206,
+        "latency_ms": 3235
+      },
+      {
+        "url": "https://c.mjh.nz/abc-vic.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:01.100Z",
+        "http_status": 206,
+        "latency_ms": 1950
+      },
+      {
+        "url": "https://c.mjh.nz/abc-wa.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:00.546Z",
+        "http_status": 206,
+        "latency_ms": 1096
+      }
+    ]
+  },
+  {
+    "id": "abctvplus-au",
+    "name": "ABC TV Plus",
+    "country": "AU",
+    "countryName": "Australia",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/500px-ABC_TV_Plus_logo_2021.svg.png",
+    "epgId": "ABCTVPlus.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-tv-plus.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:05.193Z",
+        "http_status": 206,
+        "latency_ms": 5211
+      }
+    ]
+  }
+]

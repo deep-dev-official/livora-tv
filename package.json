@@ -1,0 +1,30 @@
+{
+  "name": "livora-tv",
+  "version": "1.0.0",
+  "description": "Production-ready automated IPTV playlist and stream management platform",
+  "main": "scripts/generate.js",
+  "type": "module",
+  "author": "DEEP_DEV",
+  "license": "MIT",
+  "scripts": {
+    "import": "node scripts/import.js",
+    "normalize": "node scripts/normalize.js",
+    "validate": "node scripts/validate.js",
+    "generate": "node scripts/generate.js",
+    "report": "node scripts/report.js",
+    "pipeline": "node scripts/import.js && node scripts/normalize.js && node scripts/validate.js && node scripts/generate.js && node scripts/report.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [
+    "iptv",
+    "livora-tv",
+    "m3u",
+    "m3u8",
+    "hls",
+    "playlists",
+    "stream-checker"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

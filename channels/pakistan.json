@@ -1,0 +1,170 @@
+[
+  {
+    "id": "7news-pk",
+    "name": "7 News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/PTl92P5.png",
+    "epgId": "7News.pk",
+    "streams": [
+      {
+        "url": "https://sscsott.com/7news/live/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:45.394Z",
+        "http_status": 206,
+        "latency_ms": 652
+      }
+    ]
+  },
+  {
+    "id": "8xm-pk",
+    "name": "8XM",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Music",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
+    "epgId": "8XM.pk",
+    "streams": [
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:46.012Z",
+        "http_status": 206,
+        "latency_ms": 1233
+      }
+    ]
+  },
+  {
+    "id": "24newshd-pk",
+    "name": "24 News HD",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/IH6AaWm.jpeg",
+    "epgId": "24NewsHD.pk",
+    "streams": [
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:47.191Z",
+        "http_status": 206,
+        "latency_ms": 170
+      }
+    ]
+  },
+  {
+    "id": "92newshd-pk",
+    "name": "92 News HD",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/eqKrL9S.png",
+    "epgId": "92NewsHD.pk",
+    "streams": [
+      {
+        "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:49.010Z",
+        "http_status": 206,
+        "latency_ms": 84
+      }
+    ]
+  },
+  {
+    "id": "365news-pk",
+    "name": "365 News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/8I6PWof.png",
+    "epgId": "365News.pk",
+    "streams": [
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:49.423Z",
+        "http_status": 206,
+        "latency_ms": 168
+      }
+    ]
+  },
+  {
+    "id": "abnnews-pk",
+    "name": "ABN News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/R7BThkR.jpeg",
+    "epgId": "ABNNews.pk",
+    "streams": [
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:03.038Z",
+        "http_status": 206,
+        "latency_ms": 1178
+      }
+    ]
+  },
+  {
+    "id": "aiknews-pk",
+    "name": "Aik News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/svPXoAP.png",
+    "epgId": "AikNews.pk",
+    "streams": [
+      {
+        "url": "https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:13.732Z",
+        "http_status": 206,
+        "latency_ms": 1810
+      }
+    ]
+  }
+]

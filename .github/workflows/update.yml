@@ -1,0 +1,45 @@
+name: Livora TV Scheduled Pipeline
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-streams:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci || npm install
+
+      - name: Execute Full Pipeline
+        run: npm run pipeline
+
+      - name: Run Test Suite
+        run: npm test
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add channels/ playlists/ streams/ web/ stats.json HEALTH_REPORT.md
+          if git diff --staged --quiet; then
+            echo "No stream updates detected."
+          else
+            git commit -m "chore(automated): update streams and playlists [skip ci]"
+            git push
+          fi
