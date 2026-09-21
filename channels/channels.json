@@ -2201,6 +2201,24 @@
         "last_checked": "2026-09-21T10:49:50.558Z",
         "http_status": 200,
         "latency_ms": 88
+      },
+      {
+        "url": "https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-561573/main.m3u8?ads.channel=4923&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1757248550~exp=1757270150~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-561573/*!/payload/yupptvott_5_-1_f22a9ff995a34b88_IN_171.76.87.153_yuppfast_2_channel_20_-1/*~data=yupptvott_5_-1_f22a9ff995a34b88_IN_171.76.87.153_yuppfast_2_channel_20_-1~hmac=e01aba95098531a76fa8e10c58a4a57613c277e3be7262b0e16b755a56f60ff9&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=RepublicBharat&ads.language=HIN&ads.user=0",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 1195,
+        "last_checked": "2026-09-21T11:18:00.781Z"
+      },
+      {
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8?ads.channel=6604&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1757249403~exp=1757271003~acl=!*/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/*!/payload/yupptvott_5_-1_f22a9ff995a34b88_IN_171.76.87.153_yuppfast_2_channel_47_-1/*~data=yupptvott_5_-1_f22a9ff995a34b88_IN_171.76.87.153_yuppfast_2_channel_47_-1~hmac=a8fb2d44cab56e3982eaeb59f59beb88a5ef4665a9d7515a94c3df9056999abe&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Bollywood4U&ads.language=HIN&ads.user=0",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 2491,
+        "last_checked": "2026-09-21T11:18:02.061Z"
       }
     ]
   },
@@ -2422,6 +2440,15 @@
         "last_checked": "2026-09-21T10:49:51.602Z",
         "http_status": 200,
         "latency_ms": 554
+      },
+      {
+        "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 438,
+        "last_checked": "2026-09-21T11:18:01.190Z"
       }
     ]
   },
@@ -3930,6 +3957,15 @@
         "last_checked": "2026-09-21T10:50:02.735Z",
         "http_status": 206,
         "latency_ms": 39
+      },
+      {
+        "url": "https://abplive.vgcdn.net/ptnr-yupptv/title-ABP_News_yupp/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1e0dff06-24fb-4d91-9d57-fb6e918834e2/master.m3u8?ads.channel=225&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1757248927~exp=1757270527~acl=!*/ptnr-yupptv/title-ABP_News_yupp/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1e0dff06-24fb-4d91-9d57-fb6e918834e2/*!/payload/yupptvott_5_-1_f22a9ff995a34b88_IN_171.76.87.153_yuppfast_2_channel_225_-1/*~data=yupptvott_5_-1_f22a9ff995a34b88_IN_171.76.87.153_yuppfast_2_channel_225_-1~hmac=f5dc0e00491538c2b84c61544c37f39eab6727b839704ae5e44bd1e673b8a02a&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ABPNews&ads.language=HIN&ads.user=0",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 1549,
+        "last_checked": "2026-09-21T11:18:01.751Z"
       }
     ]
   },
@@ -37194,6 +37230,15 @@
         "httpReferrer": "",
         "userAgent": "",
         "last_checked": null
+      },
+      {
+        "url": "https://vg-indiatvyupp.akamaized.net/ptnr-yupptv/title-Indiatvmi/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb243fa-9ec5-4045-9d1d-0326debcace6/main.m3u8?ads.channel=115&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1757248765~exp=1757270365~acl=!*/ptnr-yupptv/title-Indiatvmi/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb243fa-9ec5-4045-9d1d-0326debcace6/*!/payload/yupptvott_5_-1_f22a9ff995a34b88_IN_171.76.87.153_yuppfast_2_channel_231_-1/*~data=yupptvott_5_-1_f22a9ff995a34b88_IN_171.76.87.153_yuppfast_2_channel_231_-1~hmac=ae81c8001fb6488b9763a4f9f282b86219141dc0c77fd7e11aa7ee7fe81df7d2&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=IndiaTV&ads.language=HIN&ads.user=0",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 880,
+        "last_checked": "2026-09-21T11:18:00.801Z"
       }
     ]
   },
@@ -95291,6 +95336,737 @@
         "httpReferrer": "",
         "userAgent": "",
         "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "colors-bangla-hd",
+    "name": "Colors Bangla HD",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "colors-bangla-hd",
+    "streams": [
+      {
+        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 513,
+        "last_checked": "2026-09-21T11:17:28.889Z"
+      },
+      {
+        "url": "https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 290,
+        "last_checked": "2026-09-21T11:17:34.542Z"
+      }
+    ]
+  },
+  {
+    "id": "bangla-jago",
+    "name": "Bangla Jago",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "freecatv",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "bangla-jago",
+    "streams": [
+      {
+        "url": "http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 699,
+        "last_checked": "2026-09-21T11:17:29.074Z"
+      }
+    ]
+  },
+  {
+    "id": "high-news",
+    "name": "HIGH NEWS",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "freecatv",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "high-news",
+    "streams": [
+      {
+        "url": "http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 754,
+        "last_checked": "2026-09-21T11:17:29.130Z"
+      }
+    ]
+  },
+  {
+    "id": "abp-ananda",
+    "name": "ABP Ananda",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "freecatv",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "abp-ananda",
+    "streams": [
+      {
+        "url": "https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 856,
+        "last_checked": "2026-09-21T11:17:29.232Z"
+      },
+      {
+        "url": "https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 12,
+        "last_checked": "2026-09-21T11:17:41.219Z"
+      }
+    ]
+  },
+  {
+    "id": "channel-y",
+    "name": "Channel Y",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "channel-y",
+    "streams": [
+      {
+        "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 1764,
+        "last_checked": "2026-09-21T11:17:30.139Z"
+      }
+    ]
+  },
+  {
+    "id": "ekushey-tv",
+    "name": "Ekushey TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "ekushey-tv",
+    "streams": [
+      {
+        "url": "http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 3362,
+        "last_checked": "2026-09-21T11:17:31.739Z"
+      },
+      {
+        "url": "https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 134,
+        "last_checked": "2026-09-21T11:17:41.065Z"
+      }
+    ]
+  },
+  {
+    "id": "hollywood-hd",
+    "name": "Hollywood HD",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "freecatv",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "hollywood-hd",
+    "streams": [
+      {
+        "url": "http://iptv.prosto.tv:7000/ch50/video.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 4385,
+        "last_checked": "2026-09-21T11:17:32.761Z"
+      }
+    ]
+  },
+  {
+    "id": "eekushey-tv",
+    "name": "Eekushey TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "eekushey-tv",
+    "streams": [
+      {
+        "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 365,
+        "last_checked": "2026-09-21T11:17:32.767Z"
+      }
+    ]
+  },
+  {
+    "id": "zee-bangla-hd",
+    "name": "ZEE BANGLA HD",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "zee-bangla-hd",
+    "streams": [
+      {
+        "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 415,
+        "last_checked": "2026-09-21T11:17:34.551Z"
+      }
+    ]
+  },
+  {
+    "id": "zee-bangla-30min-left",
+    "name": "Zee Bangla (30min Left)",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "zee-bangla-30min-left",
+    "streams": [
+      {
+        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 636,
+        "last_checked": "2026-09-21T11:17:34.862Z"
+      }
+    ]
+  },
+  {
+    "id": "star-jalsha-hd-30min-left",
+    "name": "Star Jalsha HD (30min Left)",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "star-jalsha-hd-30min-left",
+    "streams": [
+      {
+        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 83,
+        "last_checked": "2026-09-21T11:17:35.716Z"
+      }
+    ]
+  },
+  {
+    "id": "zee-bangla",
+    "name": "Zee Bangla 🇮🇳",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "zee-bangla",
+    "streams": [
+      {
+        "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 1265,
+        "last_checked": "2026-09-21T11:17:35.817Z"
+      }
+    ]
+  },
+  {
+    "id": "zee-bangla-hd-2",
+    "name": "Zee Bangla HD 2",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "zee-bangla-hd-2",
+    "streams": [
+      {
+        "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/thenayeemparvez.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 76,
+        "last_checked": "2026-09-21T11:17:35.893Z"
+      }
+    ]
+  },
+  {
+    "id": "ekusey-tv",
+    "name": "Ekusey TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "ekusey-tv",
+    "streams": [
+      {
+        "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 1449,
+        "last_checked": "2026-09-21T11:17:37.183Z"
+      }
+    ]
+  },
+  {
+    "id": "qatar-tv-2-720p",
+    "name": "Qatar TV 2 (720p)",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "qatar-tv-2-720p",
+    "streams": [
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 871,
+        "last_checked": "2026-09-21T11:17:38.055Z"
+      }
+    ]
+  },
+  {
+    "id": "cgtn",
+    "name": "CGTN",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "cgtn",
+    "streams": [
+      {
+        "url": "http://iptv.prosto.tv:7000/ch84/video.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 373,
+        "last_checked": "2026-09-21T11:17:38.346Z"
+      }
+    ]
+  },
+  {
+    "id": "abp-ananda-akamai",
+    "name": "ABP Ananda (akamai)",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "abp-ananda-akamai",
+    "streams": [
+      {
+        "url": "https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 3178,
+        "last_checked": "2026-09-21T11:17:41.193Z"
+      }
+    ]
+  },
+  {
+    "id": "ekushe-tv-ch-1",
+    "name": "Ekushe TV Ch-1",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "ekushe-tv-ch-1",
+    "streams": [
+      {
+        "url": "http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 254,
+        "last_checked": "2026-09-21T11:17:41.320Z"
+      }
+    ]
+  },
+  {
+    "id": "sony-aath",
+    "name": "Sony Aath",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "",
+    "epgId": "sony-aath",
+    "streams": [
+      {
+        "url": "http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 3681,
+        "last_checked": "2026-09-21T11:17:42.027Z"
+      }
+    ]
+  },
+  {
+    "id": "znews-in",
+    "name": "Z News",
+    "country": "IN",
+    "countryName": "India",
+    "category": "News",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "https://india.mom-gmr.org/uploads/_processed_/f/0/csm_16519-1592_import_82f128ba68.png",
+    "epgId": "znews.in",
+    "streams": [
+      {
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8?ads.channel=1501&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1757248874~exp=1757270474~acl=!*/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/*!/payload/yupptvott_5_-1_f22a9ff995a34b88_IN_171.76.87.153_yuppfast_2_channel_13_-1/*~data=yupptvott_5_-1_f22a9ff995a34b88_IN_171.76.87.153_yuppfast_2_channel_13_-1~hmac=8f2edb00612097d45ee13a95a2a198d6a4072bf4313aa1a718d71cc17694f8ad&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=ZeeNews&ads.language=HIN&ads.user=0",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 735,
+        "last_checked": "2026-09-21T11:18:00.803Z"
+      }
+    ]
+  },
+  {
+    "id": "etnowswadesh-in",
+    "name": "ET Now Swadesh (720p)",
+    "country": "IN",
+    "countryName": "India",
+    "category": "Undefined",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "https://i.imgur.com/AJpMZIv.png",
+    "epgId": "ETNowSwadesh.in",
+    "streams": [
+      {
+        "url": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 1376,
+        "last_checked": "2026-09-21T11:18:06.347Z"
+      }
+    ]
+  },
+  {
+    "id": "india-tv-720p",
+    "name": "India TV 720p",
+    "country": "IN",
+    "countryName": "India",
+    "category": "News",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",
+    "epgId": "india-tv-720p",
+    "streams": [
+      {
+        "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 82,
+        "last_checked": "2026-09-21T11:18:07.771Z"
+      }
+    ]
+  },
+  {
+    "id": "aaj-tak-720p",
+    "name": "Aaj Tak 720p",
+    "country": "IN",
+    "countryName": "India",
+    "category": "News",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",
+    "epgId": "aaj-tak-720p",
+    "streams": [
+      {
+        "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "http_status": 200,
+        "latency_ms": 58,
+        "last_checked": "2026-09-21T11:18:07.829Z"
+      }
+    ]
+  },
+  {
+    "id": "aaj-tak",
+    "name": "Aaj Tak",
+    "country": "IN",
+    "countryName": "India",
+    "category": "News",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",
+    "epgId": "aaj-tak",
+    "streams": [
+      {
+        "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 168,
+        "last_checked": "2026-09-21T11:18:07.858Z"
+      }
+    ]
+  },
+  {
+    "id": "aaj-tak-hd-720p",
+    "name": "Aaj Tak HD 720p",
+    "country": "IN",
+    "countryName": "India",
+    "category": "News",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png",
+    "epgId": "aaj-tak-hd-720p",
+    "streams": [
+      {
+        "url": "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "http_status": 200,
+        "latency_ms": 74,
+        "last_checked": "2026-09-21T11:18:07.899Z"
+      }
+    ]
+  },
+  {
+    "id": "ndtv-india-480p",
+    "name": "NDTV India 480p",
+    "country": "IN",
+    "countryName": "India",
+    "category": "News",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",
+    "epgId": "ndtv-india-480p",
+    "streams": [
+      {
+        "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@2.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 223,
+        "last_checked": "2026-09-21T11:18:08.063Z"
+      }
+    ]
+  },
+  {
+    "id": "ndtv-india",
+    "name": "NDTV India",
+    "country": "IN",
+    "countryName": "India",
+    "category": "News",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",
+    "epgId": "ndtv-india",
+    "streams": [
+      {
+        "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 408,
+        "last_checked": "2026-09-21T11:18:08.237Z"
+      }
+    ]
+  },
+  {
+    "id": "abp-news",
+    "name": "ABP News",
+    "country": "IN",
+    "countryName": "India",
+    "category": "News",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",
+    "epgId": "abp-news",
+    "streams": [
+      {
+        "url": "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 200,
+        "latency_ms": 2230,
+        "last_checked": "2026-09-21T11:18:10.089Z"
+      }
+    ]
+  },
+  {
+    "id": "france",
+    "name": "FRANCE",
+    "country": "IN",
+    "countryName": "India",
+    "category": "General",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "",
+    "epgId": "france",
+    "streams": [
+      {
+        "url": "https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 3474,
+        "last_checked": "2026-09-21T11:18:11.373Z"
+      }
+    ]
+  },
+  {
+    "id": "france-24",
+    "name": "France 24",
+    "country": "IN",
+    "countryName": "India",
+    "category": "General",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "",
+    "epgId": "france-24",
+    "streams": [
+      {
+        "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 4457,
+        "last_checked": "2026-09-21T11:18:16.170Z"
+      }
+    ]
+  },
+  {
+    "id": "476",
+    "name": "SONY MAX HD{SONYLIV}",
+    "country": "IN",
+    "countryName": "India",
+    "category": "SONYLIV",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+    "epgId": "476",
+    "streams": [
+      {
+        "url": "https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 1719,
+        "last_checked": "2026-09-21T11:18:30.670Z"
+      }
+    ]
+  },
+  {
+    "id": "tma",
+    "name": "TMA",
+    "country": "IN",
+    "countryName": "India",
+    "category": "General",
+    "language": "hin",
+    "languageName": "Hindi",
+    "logo": "",
+    "epgId": "tma",
+    "streams": [
+      {
+        "url": "http://hls.tmacaraibes.com/live/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "http_status": 206,
+        "latency_ms": 694,
+        "last_checked": "2026-09-21T11:18:36.340Z"
       }
     ]
   }

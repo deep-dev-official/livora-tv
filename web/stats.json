@@ -1,30 +1,31 @@
 {
   "platform": "Livora TV",
-  "total_channels": 193,
-  "total_active_streams": 302,
-  "total_monitored_channels": 3302,
-  "total_countries": 9,
+  "total_channels": 226,
+  "total_active_streams": 342,
+  "total_monitored_channels": 3334,
+  "total_countries": 10,
   "total_languages": 24,
-  "total_categories": 21,
-  "last_updated": "2026-09-21T11:12:50.695Z",
+  "total_categories": 24,
+  "last_updated": "2026-09-21T11:18:53.614Z",
   "country_breakdown": {
     "United States": 147,
     "Australia": 17,
     "Canada": 2,
     "Germany": 12,
     "France": 12,
-    "India": 73,
+    "India": 91,
     "Pakistan": 7,
     "Saudi Arabia": 22,
-    "United Arab Emirates": 10
+    "United Arab Emirates": 10,
+    "Bangladesh": 22
   },
   "category_breakdown": {
     "Movies": 12,
-    "News": 75,
-    "Religious": 54,
+    "News": 87,
+    "Religious": 55,
     "Kids": 4,
     "Music": 27,
-    "General": 58,
+    "General": 78,
     "Entertainment": 22,
     "Series": 14,
     "Family": 2,
@@ -39,7 +40,10 @@
     "Legislative": 2,
     "Weather": 5,
     "Animation": 1,
-    "Documentary": 4
+    "Documentary": 4,
+    "freecatv": 5,
+    "Undefined": 1,
+    "SONYLIV": 1
   },
   "available_playlists": {
     "master": "playlists/index.m3u",
@@ -53,7 +57,8 @@
       "playlists/india.m3u",
       "playlists/pakistan.m3u",
       "playlists/saudi-arabia.m3u",
-      "playlists/united-arab-emirates.m3u"
+      "playlists/united-arab-emirates.m3u",
+      "playlists/bangladesh.m3u"
     ],
     "languages": [
       "playlists/english.m3u",
@@ -102,7 +107,10 @@
       "playlists/legislative.m3u",
       "playlists/weather.m3u",
       "playlists/animation.m3u",
-      "playlists/documentary.m3u"
+      "playlists/documentary.m3u",
+      "playlists/freecatv.m3u",
+      "playlists/undefined.m3u",
+      "playlists/sonyliv.m3u"
     ]
   }
 }

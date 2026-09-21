@@ -174,3 +174,63 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AltenburgTV.de" tvg-name="Altenburg TV" tvg-logo="https://i.imgur.com/3JriZGR.png" group-title="General",Altenburg TV (HD)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
+
+#EXTINF:-1 tvg-id="colors-bangla-hd" tvg-name="Colors Bangla HD" tvg-logo="" group-title="General",Colors Bangla HD (HD)
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="colors-bangla-hd" tvg-name="Colors Bangla HD" tvg-logo="" group-title="General",Colors Bangla HD (HD)
+https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="channel-y" tvg-name="Channel Y" tvg-logo="" group-title="General",Channel Y (HD)
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ekushey-tv" tvg-name="Ekushey TV" tvg-logo="" group-title="General",Ekushey TV (HD)
+http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-id="ekushey-tv" tvg-name="Ekushey TV" tvg-logo="" group-title="General",Ekushey TV (HD)
+https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-id="eekushey-tv" tvg-name="Eekushey TV" tvg-logo="" group-title="General",Eekushey TV (HD)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-id="zee-bangla-hd" tvg-name="ZEE BANGLA HD" tvg-logo="" group-title="General",ZEE BANGLA HD (HD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+
+#EXTINF:-1 tvg-id="zee-bangla-30min-left" tvg-name="Zee Bangla (30min Left)" tvg-logo="" group-title="General",Zee Bangla (30min Left) (HD)
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="star-jalsha-hd-30min-left" tvg-name="Star Jalsha HD (30min Left)" tvg-logo="" group-title="General",Star Jalsha HD (30min Left) (HD)
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="zee-bangla" tvg-name="Zee Bangla 🇮🇳" tvg-logo="" group-title="General",Zee Bangla 🇮🇳 (HD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
+
+#EXTINF:-1 tvg-id="zee-bangla-hd-2" tvg-name="Zee Bangla HD 2" tvg-logo="" group-title="General",Zee Bangla HD 2 (HD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/thenayeemparvez.m3u8
+
+#EXTINF:-1 tvg-id="ekusey-tv" tvg-name="Ekusey TV" tvg-logo="" group-title="General",Ekusey TV (HD)
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-id="qatar-tv-2-720p" tvg-name="Qatar TV 2 (720p)" tvg-logo="" group-title="General",Qatar TV 2 (720p) (HD)
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="" group-title="General",CGTN (HD)
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+
+#EXTINF:-1 tvg-id="abp-ananda-akamai" tvg-name="ABP Ananda (akamai)" tvg-logo="" group-title="General",ABP Ananda (akamai) (HD)
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
+
+#EXTINF:-1 tvg-id="ekushe-tv-ch-1" tvg-name="Ekushe TV Ch-1" tvg-logo="" group-title="General",Ekushe TV Ch-1 (HD)
+http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-logo="" group-title="General",Sony Aath (HD)
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
+
+#EXTINF:-1 tvg-id="france" tvg-name="FRANCE" tvg-logo="" group-title="General",FRANCE (HD)
+https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
+
+#EXTINF:-1 tvg-id="france-24" tvg-name="France 24" tvg-logo="" group-title="General",France 24 (HD)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-id="tma" tvg-name="TMA" tvg-logo="" group-title="General",TMA (HD)
+http://hls.tmacaraibes.com/live/index.m3u8
