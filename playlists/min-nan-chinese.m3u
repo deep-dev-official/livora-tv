@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="DaliTV.tw" tvg-name="Dali TV" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="General",Dali TV (720p)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8

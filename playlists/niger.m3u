@@ -1,0 +1,14 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="DouniaTV.ne" tvg-name="Dounia TV" tvg-logo="https://i.imgur.com/ENBCDaQ.png" group-title="General",Dounia TV (HD)
+https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
+
+#EXTINF:-1 tvg-id="SaraouniaTV.ne" tvg-name="Saraounia TV" tvg-logo="https://i.imgur.com/O8XIcpH.png" group-title="General",Saraounia TV (HD)
+https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+
+#EXTINF:-1 tvg-id="TalTV.ne" tvg-name="Tal TV" tvg-logo="https://i.imgur.com/KWMP0t1.png" group-title="Entertainment",Tal TV (1080p)
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleSahel.ne" tvg-name="Tele Sahel" tvg-logo="https://i.imgur.com/vboq428.png" group-title="General",Tele Sahel (1080p)
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8

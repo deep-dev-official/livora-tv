@@ -1,0 +1,888 @@
+[
+  {
+    "id": "aqlvoy-uz",
+    "name": "Aqlvoy",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Kids",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/ekF5cAi.png",
+    "epgId": "Aqlvoy.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bizcinema-uz",
+    "name": "BIZ Cinema",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Movies",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
+    "epgId": "BIZCinema.uz",
+    "streams": [
+      {
+        "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bizcinema-uz",
+    "name": "BIZ Cinema",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Movies",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
+    "epgId": "BIZCinema.uz",
+    "streams": [
+      {
+        "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bizmusic-uz",
+    "name": "BIZ Music",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Music",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg",
+    "epgId": "BIZMusic.uz",
+    "streams": [
+      {
+        "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bizmusic-uz",
+    "name": "BIZ Music",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Music",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg",
+    "epgId": "BIZMusic.uz",
+    "streams": [
+      {
+        "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "biztv-uz",
+    "name": "BIZ TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Entertainment",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://biztv.uz/static/media/logo.5f993187.png",
+    "epgId": "BIZTV.uz",
+    "streams": [
+      {
+        "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "biztv-uz",
+    "name": "BIZ TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Entertainment",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://biztv.uz/static/media/logo.5f993187.png",
+    "epgId": "BIZTV.uz",
+    "streams": [
+      {
+        "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bolajon-uz",
+    "name": "Bolajon",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Kids",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/s7o0ifu.png",
+    "epgId": "Bolajon.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1007/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cheksiztv-uz",
+    "name": "Cheksiz TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Entertainment",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/f7hHmmR.jpeg",
+    "epgId": "CheksizTV.uz",
+    "streams": [
+      {
+        "url": "https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dasturxontv-uz",
+    "name": "Dasturxon TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/APM2ej5.jpeg",
+    "epgId": "DasturxonTV.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dunyoboylab-uz",
+    "name": "Dunyo bo'ylab",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/KArB5U6.png",
+    "epgId": "Dunyoboylab.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fargonamtrk-uz",
+    "name": "Farg'ona MTRK",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/RYjQOfo.jpeg",
+    "epgId": "FargonaMTRK.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ftv-uz",
+    "name": "FTV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Music",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/7lpISyN.jpg",
+    "epgId": "FTV.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1018/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "futboltv-uz",
+    "name": "Futbol TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Sports",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.ibb.co/h1gQSkbB/Futbol-TV.png",
+    "epgId": "FutbolTV.uz",
+    "streams": [
+      {
+        "url": "http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kinoteatr-uz",
+    "name": "Kinoteatr",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Movies",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/emH1BgC.png",
+    "epgId": "Kinoteatr.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "madaniyatvamarifat-uz",
+    "name": "Madaniyat va ma'rifat",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/eeNLXCP.png",
+    "epgId": "Madaniyatvamarifat.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mahalla-uz",
+    "name": "Mahalla",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/GtABiJI.png",
+    "epgId": "Mahalla.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "makontv-uz",
+    "name": "Makon TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Entertainment",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/vCc0ED1.png",
+    "epgId": "MakonTV.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "milliy-uz",
+    "name": "Milliy",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/v4FBm26.png",
+    "epgId": "Milliy.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://milliy.tv/hls/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "milliy-uz",
+    "name": "Milliy",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/v4FBm26.png",
+    "epgId": "Milliy.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://milliy.tv/hls/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "muztvuzbekistan-uz",
+    "name": "Muz TV Uzbekistan",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Music",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://s8.vcdn.biz/static/f/6010782281/image.jpg",
+    "epgId": "MuzTVUzbekistan.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "my5-uz",
+    "name": "MY5",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Entertainment",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/bjlzu5k.png",
+    "epgId": "MY5.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "navo-uz",
+    "name": "Navo",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/7dZ64y9.png",
+    "epgId": "Navo.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "navoiymtrk-uz",
+    "name": "Navoiy MTRK",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/qa4VlYh.png",
+    "epgId": "NavoiyMTRK.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nurafshontv-uz",
+    "name": "Nurafshon TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/MMdNyBU.jpeg",
+    "epgId": "NurafshonTV.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ozbekiston24-uz",
+    "name": "O'zbekiston 24",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "News",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/VRFhKbw.png",
+    "epgId": "Ozbekiston24.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ozbekiston-uz",
+    "name": "O'zbekiston",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/QUIIhTD.png",
+    "epgId": "Ozbekiston.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ozbekistontarixi-uz",
+    "name": "O'zbekiston Tarixi",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Documentary",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/iTTd3Ir.png",
+    "epgId": "OzbekistonTarixi.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qaraqalpaqstan-uz",
+    "name": "Qaraqalpaqstan",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/G3qrUJh.png",
+    "epgId": "Qaraqalpaqstan.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1467/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "renessanstv-uz",
+    "name": "Renessans TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/cVlcqCX.png",
+    "epgId": "RenessansTV.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sevimlitv-uz",
+    "name": "Sevimli TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Family",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/iMwzRlr.png",
+    "epgId": "SevimliTV.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport-uz",
+    "name": "Sport",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Sports",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/2WJE9CM.png",
+    "epgId": "Sport.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "taraqqiyottv-uz",
+    "name": "Taraqqiyot TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/V3rtPEl.jpg",
+    "epgId": "TaraqqiyotTV.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "toshkent-uz",
+    "name": "Toshkent",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/Z9R4nZg.png",
+    "epgId": "Toshkent.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "uzreporttv-uz",
+    "name": "UzReport TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "News",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/Bch2RHc.jpg",
+    "epgId": "UzReportTV.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yoshlar-uz",
+    "name": "Yoshlar",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "General",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/s4xfUSx.png",
+    "epgId": "Yoshlar.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zortv-uz",
+    "name": "Zo'r TV",
+    "country": "UZ",
+    "countryName": "Uzbekistan",
+    "category": "Entertainment",
+    "language": "uzb",
+    "languageName": "Uzbek",
+    "logo": "https://i.imgur.com/NuzyhVM.png",
+    "epgId": "ZorTV.uz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

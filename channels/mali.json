@@ -1,0 +1,148 @@
+[
+  {
+    "id": "d3tv-ml",
+    "name": "D3 TV",
+    "country": "ML",
+    "countryName": "Mali",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/uFEIBtB.png",
+    "epgId": "D3TV.ml",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "d3tv-ml",
+    "name": "D3 TV",
+    "country": "ML",
+    "countryName": "Mali",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/uFEIBtB.png",
+    "epgId": "D3TV.ml",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ortm1-ml",
+    "name": "ORTM 1",
+    "country": "ML",
+    "countryName": "Mali",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/eKUpcls.png",
+    "epgId": "ORTM1.ml",
+    "streams": [
+      {
+        "url": "http://69.64.57.208/ortm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ortm1-ml",
+    "name": "ORTM 1",
+    "country": "ML",
+    "countryName": "Mali",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/eKUpcls.png",
+    "epgId": "ORTM1.ml",
+    "streams": [
+      {
+        "url": "http://69.64.57.208/ortm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tm1tv-ml",
+    "name": "TM1 TV",
+    "country": "ML",
+    "countryName": "Mali",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/83BgaBa.png",
+    "epgId": "TM1TV.ml",
+    "streams": [
+      {
+        "url": "http://69.64.57.208/tm1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

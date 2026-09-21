@@ -1,0 +1,24 @@
+[
+  {
+    "id": "svgtv-vc",
+    "name": "SVG TV",
+    "country": "VC",
+    "countryName": "Saint Vincent and the Grenadines",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/fGLz34S.png",
+    "epgId": "SVGTV.vc",
+    "streams": [
+      {
+        "url": "https://customer-1drvoydzrkhpnbh4.cloudflarestream.com/64f76b07446d5d8801c4b9f6192ac79b/manifest/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

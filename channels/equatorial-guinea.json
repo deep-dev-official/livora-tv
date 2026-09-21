@@ -1,0 +1,46 @@
+[
+  {
+    "id": "soltv-gq",
+    "name": "SolTV",
+    "country": "GQ",
+    "countryName": "Equatorial Guinea",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TJHk6Va.png",
+    "epgId": "SolTV.gq",
+    "streams": [
+      {
+        "url": "https://stream.solmediaeg.com/soltv/soltv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvge-gq",
+    "name": "TVGE",
+    "country": "GQ",
+    "countryName": "Equatorial Guinea",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/iOdHgPd.png",
+    "epgId": "TVGE.gq",
+    "streams": [
+      {
+        "url": "http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

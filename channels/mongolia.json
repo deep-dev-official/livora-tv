@@ -1,0 +1,2640 @@
+[
+  {
+    "id": "asianbox-mn",
+    "name": "AsianBox",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Entertainment",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/WAYZSgx.png",
+    "epgId": "AsianBox.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "asianbox-mn",
+    "name": "AsianBox",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Entertainment",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/WAYZSgx.png",
+    "epgId": "AsianBox.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bloombergtvmongolia-mn",
+    "name": "Bloomberg TV Mongolia",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Business",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/OuogLHx.png",
+    "epgId": "BloombergTVMongolia.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bloombergtvmongolia-mn",
+    "name": "Bloomberg TV Mongolia",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Business",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/OuogLHx.png",
+    "epgId": "BloombergTVMongolia.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "c1-mn",
+    "name": "C1",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/v1mHG5x.png",
+    "epgId": "C1.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "c1-mn",
+    "name": "C1",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/v1mHG5x.png",
+    "epgId": "C1.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "centraltv-mn",
+    "name": "Central TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/E9wAUrT.png",
+    "epgId": "CentralTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "centraltv-mn",
+    "name": "Central TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/E9wAUrT.png",
+    "epgId": "CentralTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "centraltv-mn",
+    "name": "Central TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/E9wAUrT.png",
+    "epgId": "CentralTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel11-mn",
+    "name": "Channel 11",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/GztOajC.png",
+    "epgId": "Channel11.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel11-mn",
+    "name": "Channel 11",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/GztOajC.png",
+    "epgId": "Channel11.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cinema-mn",
+    "name": "Cinema",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Movies",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/yib6dM2.png",
+    "epgId": "Cinema.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cinema-mn",
+    "name": "Cinema",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Movies",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/yib6dM2.png",
+    "epgId": "Cinema.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cinema-mn",
+    "name": "Cinema",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Movies",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/yib6dM2.png",
+    "epgId": "Cinema.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cnbcmongolia-mn",
+    "name": "CNBC Mongolia",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://cnbc.mn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F07.5c42b114.png&w=828&q=75",
+    "epgId": "CNBCMongolia.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dreamtv-mn",
+    "name": "DreamTV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Entertainment",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/YPbvzgV.png",
+    "epgId": "DreamTV.mn",
+    "streams": [
+      {
+        "url": "https://xykt-fix.github.io/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dreamtv-mn",
+    "name": "DreamTV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Entertainment",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/YPbvzgV.png",
+    "epgId": "DreamTV.mn",
+    "streams": [
+      {
+        "url": "https://xykt-fix.github.io/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dreamtv-mn",
+    "name": "DreamTV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Entertainment",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/YPbvzgV.png",
+    "epgId": "DreamTV.mn",
+    "streams": [
+      {
+        "url": "https://xykt-fix.github.io/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eaglenews-mn",
+    "name": "Eagle News",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "News",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/2oqXpve.jpg",
+    "epgId": "EagleNews.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eaglenews-mn",
+    "name": "Eagle News",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "News",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/2oqXpve.jpg",
+    "epgId": "EagleNews.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "edutainmenttv-mn",
+    "name": "Edutainment TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Education",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/0m8t3vh.png",
+    "epgId": "EdutainmentTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "edutainmenttv-mn",
+    "name": "Edutainment TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Education",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/0m8t3vh.png",
+    "epgId": "EdutainmentTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "etv-mn",
+    "name": "ETV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "News",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png",
+    "epgId": "ETV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "etv-mn",
+    "name": "ETV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "News",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png",
+    "epgId": "ETV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "globaltv-mn",
+    "name": "Global TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/Es5FX4z.png",
+    "epgId": "GlobalTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "globaltv-mn",
+    "name": "Global TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/Es5FX4z.png",
+    "epgId": "GlobalTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gtv-mn",
+    "name": "GTV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/z18PSIo.png",
+    "epgId": "GTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gtv-mn",
+    "name": "GTV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/z18PSIo.png",
+    "epgId": "GTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "malchintv-mn",
+    "name": "Malchin TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Culture",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/vCdEBZo.png",
+    "epgId": "MalchinTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "malchintv-mn",
+    "name": "Malchin TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Culture",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/vCdEBZo.png",
+    "epgId": "MalchinTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnb-mn",
+    "name": "MNB",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/2.png",
+    "epgId": "MNB.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mnb.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnb-mn",
+    "name": "MNB",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/2.png",
+    "epgId": "MNB.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mnb.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnb-mn",
+    "name": "MNB",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/2.png",
+    "epgId": "MNB.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mnb.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnbmongoliinmedee-mn",
+    "name": "MNB Mongoliin Medee",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/KUvJzUD.png",
+    "epgId": "MNBMongoliinMedee.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mn2.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnbmongoliinmedee-mn",
+    "name": "MNB Mongoliin Medee",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/KUvJzUD.png",
+    "epgId": "MNBMongoliinMedee.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mn2.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnbmongoliinmedee-mn",
+    "name": "MNB Mongoliin Medee",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/KUvJzUD.png",
+    "epgId": "MNBMongoliinMedee.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mn2.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnbsport-mn",
+    "name": "MNB Sport",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Sports",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/z854PC3.png",
+    "epgId": "MNBSport.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mnb_sport.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnbsport-mn",
+    "name": "MNB Sport",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Sports",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/z854PC3.png",
+    "epgId": "MNBSport.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mnb_sport.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnbsport-mn",
+    "name": "MNB Sport",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Sports",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/z854PC3.png",
+    "epgId": "MNBSport.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mnb_sport.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnbworld-mn",
+    "name": "MNB World",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/PHlj84Q.png",
+    "epgId": "MNBWorld.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mnb_world.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnbworld-mn",
+    "name": "MNB World",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/PHlj84Q.png",
+    "epgId": "MNBWorld.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mnb_world.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnbworld-mn",
+    "name": "MNB World",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/PHlj84Q.png",
+    "epgId": "MNBWorld.mn",
+    "streams": [
+      {
+        "url": "https://live.mnb.mn/hls/mnb_world.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnplus-mn",
+    "name": "MN+",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Movies",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg",
+    "epgId": "MNPlus.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mongoliannewschannel-mn",
+    "name": "Mongolian News Channel",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "News",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/gMVqbwU.png",
+    "epgId": "MongolianNewsChannel.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mongoliannewschannel-mn",
+    "name": "Mongolian News Channel",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "News",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/gMVqbwU.png",
+    "epgId": "MongolianNewsChannel.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moviebox-mn",
+    "name": "MovieBox",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Movies",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/xeO1Zb4.png",
+    "epgId": "MovieBox.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moviebox-mn",
+    "name": "MovieBox",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Movies",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/xeO1Zb4.png",
+    "epgId": "MovieBox.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntv-mn",
+    "name": "NTV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/2JbqbPY.png",
+    "epgId": "NTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntv-mn",
+    "name": "NTV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/2JbqbPY.png",
+    "epgId": "NTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ontv-mn",
+    "name": "ONTV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/EzODUBO.png",
+    "epgId": "ONTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ontv-mn",
+    "name": "ONTV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/EzODUBO.png",
+    "epgId": "ONTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "parliamenttv-mn",
+    "name": "Parliament TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Legislative",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/OD7YKuz.jpeg",
+    "epgId": "ParliamentTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "parliamenttv-mn",
+    "name": "Parliament TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "Legislative",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/OD7YKuz.jpeg",
+    "epgId": "ParliamentTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sbn-mn",
+    "name": "SBN",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/E3fvpwn.png",
+    "epgId": "SBN.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sbn-mn",
+    "name": "SBN",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/E3fvpwn.png",
+    "epgId": "SBN.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sevenchannel-mn",
+    "name": "Seven Channel",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/9Ld5ATz.png",
+    "epgId": "SevenChannel.mn",
+    "streams": [
+      {
+        "url": "https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "soyongegeeruulegchtv-mn",
+    "name": "Soyon Gegeeruulegch TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/iBZVvtW.png",
+    "epgId": "SoyonGegeeruulegchTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "soyongegeeruulegchtv-mn",
+    "name": "Soyon Gegeeruulegch TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/iBZVvtW.png",
+    "epgId": "SoyonGegeeruulegchTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "startv-mn",
+    "name": "Star TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/R6hxJgl.png",
+    "epgId": "StarTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "startv-mn",
+    "name": "Star TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/R6hxJgl.png",
+    "epgId": "StarTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suldtv-mn",
+    "name": "Suld TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/CnLxehv.png",
+    "epgId": "SuldTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suldtv-mn",
+    "name": "Suld TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/CnLxehv.png",
+    "epgId": "SuldTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tengertv-mn",
+    "name": "TenGer TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/MmPvkcO.png",
+    "epgId": "TenGerTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tengertv-mn",
+    "name": "TenGer TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/MmPvkcO.png",
+    "epgId": "TenGerTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tmtv-mn",
+    "name": "TM TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/Bza9r7U.png",
+    "epgId": "TMTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tmtv-mn",
+    "name": "TM TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/Bza9r7U.png",
+    "epgId": "TMTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv5-mn",
+    "name": "TV5",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/asGQfGN.png",
+    "epgId": "TV5.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV5HD/HLSv3-FTA/TV5HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv5-mn",
+    "name": "TV5",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/asGQfGN.png",
+    "epgId": "TV5.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV5HD/HLSv3-FTA/TV5HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv8-mn",
+    "name": "TV8",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/EguOdxW.png",
+    "epgId": "TV8.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv8-mn",
+    "name": "TV8",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/EguOdxW.png",
+    "epgId": "TV8.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv8-mn",
+    "name": "TV8",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/EguOdxW.png",
+    "epgId": "TV8.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv9-mn",
+    "name": "TV9",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/QFteAgd.png",
+    "epgId": "TV9.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv9-mn",
+    "name": "TV9",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/QFteAgd.png",
+    "epgId": "TV9.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv25-mn",
+    "name": "TV 25",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/F3MMJMd.png",
+    "epgId": "TV25.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv25-mn",
+    "name": "TV 25",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/F3MMJMd.png",
+    "epgId": "TV25.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ubs-mn",
+    "name": "UBS",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/dIRMYYd.png",
+    "epgId": "UBS.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ubs-mn",
+    "name": "UBS",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/dIRMYYd.png",
+    "epgId": "UBS.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ulziitv-mn",
+    "name": "Ulzii TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/p7tsUTI.png",
+    "epgId": "UlziiTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ulziitv-mn",
+    "name": "Ulzii TV",
+    "country": "MN",
+    "countryName": "Mongolia",
+    "category": "General",
+    "language": "mon",
+    "languageName": "Mongolian",
+    "logo": "https://i.imgur.com/p7tsUTI.png",
+    "epgId": "UlziiTV.mn",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  }
+]

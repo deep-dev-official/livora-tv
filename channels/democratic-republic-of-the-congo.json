@@ -1,0 +1,354 @@
+[
+  {
+    "id": "antennea-cd",
+    "name": "Antenne A",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/tgxrcv7.png",
+    "epgId": "AntenneA.cd",
+    "streams": [
+      {
+        "url": "http://51.254.199.122:8080/antenne_a-plus/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "barakatelevision-cd",
+    "name": "Baraka Television",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/IKXddHN.png",
+    "epgId": "BarakaTelevision.cd",
+    "streams": [
+      {
+        "url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bossbrotherstv-cd",
+    "name": "Boss Brothers TV",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/rc9MXm5.png",
+    "epgId": "BossBrothersTV.cd",
+    "streams": [
+      {
+        "url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "congoplanettelevision-cd",
+    "name": "Congo Planet Television",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/9IIIvPf.png",
+    "epgId": "CongoPlanetTelevision.cd",
+    "streams": [
+      {
+        "url": "https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "digitalcongotv-cd",
+    "name": "Digital Congo TV",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/uz2Rsu7.png",
+    "epgId": "DigitalCongoTV.cd",
+    "streams": [
+      {
+        "url": "http://51.254.199.122:8080/DigitalCongoTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "evitv-cd",
+    "name": "EVI TV",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/fBc9JSM.png",
+    "epgId": "EVITV.cd",
+    "streams": [
+      {
+        "url": "https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kin24-cd",
+    "name": "Kin24",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/Lak10Wo.png",
+    "epgId": "Kin24.cd",
+    "streams": [
+      {
+        "url": "http://51.254.199.122:8080/kin24/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lbfdrtv-cd",
+    "name": "LBFD RTV",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/buMvLJc.jpeg",
+    "epgId": "LBFDRTV.cd",
+    "streams": [
+      {
+        "url": "https://tnt-television.com/LBFD_RTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lemondeen24h-cd",
+    "name": "Le Monde en 24h",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/2igwi7g.png",
+    "epgId": "LeMondeen24h.cd",
+    "streams": [
+      {
+        "url": "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lollywoodhdtv-cd",
+    "name": "Lollywood HD TV",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "Movies",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/fQhrsdr.png",
+    "epgId": "LollywoodHDTV.cd",
+    "streams": [
+      {
+        "url": "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mikubatv-cd",
+    "name": "Mikuba TV",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/yJehCQM.png",
+    "epgId": "MikubaTV.cd",
+    "streams": [
+      {
+        "url": "http://51.254.199.122:8080/MIKUBATV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "onetv-cd",
+    "name": "ONE-TV",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/Wob7gjp.png",
+    "epgId": "ONETV.cd",
+    "streams": [
+      {
+        "url": "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pstvhd-cd",
+    "name": "PSTV HD",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/xQlkuAa.png",
+    "epgId": "PSTVHD.cd",
+    "streams": [
+      {
+        "url": "http://51.254.199.122:8080/PSTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rlprotv-cd",
+    "name": "RL PRO TV",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "Documentary",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/PIBtCEN.jpeg",
+    "epgId": "RLPROTV.cd",
+    "streams": [
+      {
+        "url": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtnc3-cd",
+    "name": "RTNC 3",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/rr9Zsno.jpeg",
+    "epgId": "RTNC3.cd",
+    "streams": [
+      {
+        "url": "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtvs1-cd",
+    "name": "RTVS1",
+    "country": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/doaZCzy.png",
+    "epgId": "RTVS1.cd",
+    "streams": [
+      {
+        "url": "http://51.254.199.122:8080/RTVS1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

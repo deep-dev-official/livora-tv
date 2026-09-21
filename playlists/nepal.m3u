@@ -1,0 +1,47 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="CapitalTVHD.np" tvg-name="Capital TV HD" tvg-logo="https://i.imgur.com/EICHpGd.png" group-title="General",Capital TV HD (HD)
+https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
+
+#EXTINF:-1 tvg-id="CapitalTVHD.np" tvg-name="Capital TV HD" tvg-logo="https://i.imgur.com/EICHpGd.png" group-title="General",Capital TV HD (1080p)
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np" tvg-name="Divya Darshan TV" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV (1080p)
+https://live.divyadarshantv.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np" tvg-name="Divya Darshan TV" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="Religious",Divya Darshan TV (720p)
+http://live.divyadarshantv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IndigenousTelevision.np" tvg-name="Indigenous Television" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="General",Indigenous Television (720p)
+https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KantipurMax.np" tvg-name="Kantipur Max" tvg-logo="https://i.ibb.co/KzQzd3Tw/kantipurmaxhd.png" group-title="Movies",Kantipur Max (HD)
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General",Kantipur TV (HD)
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General",Kantipur TV (1080p)
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General",Kantipur TV (720p)
+http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General",Kantipur TV (HD)
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="MithilaNepalTV.np" tvg-name="Mithila Nepal TV" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="General",Mithila Nepal TV (1080p)
+http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-id="Public4KTV.np" tvg-name="Public 4K TV" tvg-logo="https://i.imgur.com/JxEzgDP.png" group-title="Entertainment",Public 4K TV (HD)
+http://103.180.240.141:8080/hls/main1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RayTVHD.np" tvg-name="Ray TV HD" tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="Entertainment",Ray TV HD (HD)
+https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
+
+#EXTINF:-1 tvg-id="RayTVHD.np" tvg-name="Ray TV HD" tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="Entertainment",Ray TV HD (576p)
+https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8
+
+#EXTINF:-1 tvg-id="TVTodayJanakpur.np" tvg-name="TV Today Janakpur" tvg-logo="https://i.imgur.com/5fZF69m.png" group-title="Entertainment",TV Today Janakpur (HD)
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8

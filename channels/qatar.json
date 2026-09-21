@@ -1,0 +1,4578 @@
+[
+  {
+    "id": "alarabytv2-qa",
+    "name": "Al Araby TV 2",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Gp5mNea.png",
+    "epgId": "AlArabyTV2.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alarabytv2-qa",
+    "name": "Al Araby TV 2",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Gp5mNea.png",
+    "epgId": "AlArabyTV2.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alarabytv2-qa",
+    "name": "Al Araby TV 2",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Gp5mNea.png",
+    "epgId": "AlArabyTV2.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alarabytv-qa",
+    "name": "Al Araby TV",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/YMqWEe4.png",
+    "epgId": "AlArabyTV.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alarabytv-qa",
+    "name": "Al Araby TV",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/YMqWEe4.png",
+    "epgId": "AlArabyTV.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera2-qa",
+    "name": "Al Jazeera 2",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/miq8O1Q.png",
+    "epgId": "AlJazeera2.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeera-qa",
+    "name": "Al Jazeera",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540",
+    "epgId": "AlJazeera.qa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://170.83.16.50/ALJAZEERA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-7.pishow.tv/live/429/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/131/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeradocumentary-qa",
+    "name": "Al Jazeera Documentary",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "Documentary",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/5dNJlLo.png",
+    "epgId": "AlJazeeraDocumentary.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeradocumentary-qa",
+    "name": "Al Jazeera Documentary",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "Documentary",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/5dNJlLo.png",
+    "epgId": "AlJazeeraDocumentary.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeradocumentary-qa",
+    "name": "Al Jazeera Documentary",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "Documentary",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/5dNJlLo.png",
+    "epgId": "AlJazeeraDocumentary.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeradocumentary-qa",
+    "name": "Al Jazeera Documentary",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "Documentary",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/5dNJlLo.png",
+    "epgId": "AlJazeeraDocumentary.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeramubasher24-qa",
+    "name": "Al Jazeera Mubasher 24",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "epgId": "AlJazeeraMubasher24.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeramubasher24-qa",
+    "name": "Al Jazeera Mubasher 24",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "epgId": "AlJazeeraMubasher24.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeramubasher24-qa",
+    "name": "Al Jazeera Mubasher 24",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "epgId": "AlJazeeraMubasher24.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeramubasher-qa",
+    "name": "Al Jazeera Mubasher",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "epgId": "AlJazeeraMubasher.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeramubasher-qa",
+    "name": "Al Jazeera Mubasher",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "epgId": "AlJazeeraMubasher.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeramubasher-qa",
+    "name": "Al Jazeera Mubasher",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "epgId": "AlJazeeraMubasher.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeramubasher-qa",
+    "name": "Al Jazeera Mubasher",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "epgId": "AlJazeeraMubasher.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeramubasherbroadcast2-qa",
+    "name": "Al Jazeera Mubasher Broadcast 2",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "epgId": "AlJazeeraMubasherBroadcast2.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeramubasherbroadcast2-qa",
+    "name": "Al Jazeera Mubasher Broadcast 2",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "epgId": "AlJazeeraMubasherBroadcast2.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aljazeeramubasherbroadcast2-qa",
+    "name": "Al Jazeera Mubasher Broadcast 2",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/DfJI4t5.png",
+    "epgId": "AlJazeeraMubasherBroadcast2.qa",
+    "streams": [
+      {
+        "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alkassthree-qa",
+    "name": "Alkass Three",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "Sports",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/d57BdFh.png",
+    "epgId": "AlkassThree.qa",
+    "streams": [
+      {
+        "url": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "almaareftv-qa",
+    "name": "Al Maaref TV",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/QFnztgo.png",
+    "epgId": "AlMaarefTV.qa",
+    "streams": [
+      {
+        "url": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alrayyanoldtv-qa",
+    "name": "Al Rayyan Old TV",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/4qB5iN0.png",
+    "epgId": "AlRayyanOldTV.qa",
+    "streams": [
+      {
+        "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer7.qna.org.qa/148136781_live/148136781_63.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alrayyanoldtv-qa",
+    "name": "Al Rayyan Old TV",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/4qB5iN0.png",
+    "epgId": "AlRayyanOldTV.qa",
+    "streams": [
+      {
+        "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer7.qna.org.qa/148136781_live/148136781_63.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alrayyantv-qa",
+    "name": "Al Rayyan TV",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Ts3RjTV.png",
+    "epgId": "AlRayyanTV.qa",
+    "streams": [
+      {
+        "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alrayyantv-qa",
+    "name": "Al Rayyan TV",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Ts3RjTV.png",
+    "epgId": "AlRayyanTV.qa",
+    "streams": [
+      {
+        "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "libyaalahrartv-qa",
+    "name": "Libya Al Ahrar TV",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/xkQKVGi.png",
+    "epgId": "LibyaAlAhrarTV.qa",
+    "streams": [
+      {
+        "url": "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://player.castr.com",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qatartelevision2-qa",
+    "name": "Qatar Television 2",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/iWJxDUm.png",
+    "epgId": "QatarTelevision2.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qatartelevision2-qa",
+    "name": "Qatar Television 2",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/iWJxDUm.png",
+    "epgId": "QatarTelevision2.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qatartelevision2-qa",
+    "name": "Qatar Television 2",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/iWJxDUm.png",
+    "epgId": "QatarTelevision2.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qatartelevision2-qa",
+    "name": "Qatar Television 2",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/iWJxDUm.png",
+    "epgId": "QatarTelevision2.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qatartelevision-qa",
+    "name": "Qatar Television",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "epgId": "QatarTelevision.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer1.qna.org.qa/148133273_live/148133273_63.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qatartelevision-qa",
+    "name": "Qatar Television",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "epgId": "QatarTelevision.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer1.qna.org.qa/148133273_live/148133273_63.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qatartelevision-qa",
+    "name": "Qatar Television",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "epgId": "QatarTelevision.qa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer1.qna.org.qa/148133273_live/148133273_63.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qatartvtheholyquran-qa",
+    "name": "Qatar TV The Holy Quran",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg",
+    "epgId": "QatarTVTheHolyQuran.qa",
+    "streams": [
+      {
+        "url": "https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qbc-qa",
+    "name": "QBC",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "Business",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg",
+    "epgId": "QBC.qa",
+    "streams": [
+      {
+        "url": "https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qbc-qa",
+    "name": "QBC",
+    "country": "QA",
+    "countryName": "Qatar",
+    "category": "Business",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg",
+    "epgId": "QBC.qa",
+    "streams": [
+      {
+        "url": "https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

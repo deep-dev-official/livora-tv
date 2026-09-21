@@ -1,0 +1,83 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-name="Beautiful Life TV" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="Religious",Beautiful Life TV (HD)
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGNTVChinese.tw" tvg-name="CGNTV Chinese" tvg-logo="https://i.imgur.com/bPoPAbR.png" group-title="Religious",CGNTV Chinese (1080p)
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+
+#EXTINF:-1 tvg-id="CTiVariety.tw" tvg-name="CTi Variety" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="General",CTi Variety (720p)
+http://23.237.10.66:16372/
+
+#EXTINF:-1 tvg-id="CTSNews.tw" tvg-name="CTS News" tvg-logo="https://i.imgur.com/V1EVtRm.png" group-title="News",CTS News (HD)
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="DaAi1.tw" tvg-name="DaAi 1" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi 1 (720p)
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-name="DaAi 2" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi 2 (720p)
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-name="DaAi 2" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi 2 (1080p)
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+
+#EXTINF:-1 tvg-id="DaliTV.tw" tvg-name="Dali TV" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="General",Dali TV (720p)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw" tvg-name="EBC Financial News" tvg-logo="https://i.imgur.com/uFDkOhV.png" group-title="News",EBC Financial News (1080p)
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="EBCNews.tw" tvg-name="EBC News" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="News",EBC News (1080p)
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="FTV.tw" tvg-name="FTV" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="General",FTV (720p)
+http://seb.sason.top/ptv/ftv.php?id=ms
+
+#EXTINF:-1 tvg-id="FTVOne.tw" tvg-name="FTV One" tvg-logo="https://i.imgur.com/HBT2o0I.png" group-title="General",FTV One (720p)
+http://seb.sason.top/ptv/ftv.php?id=dy
+
+#EXTINF:-1 tvg-id="FTVTaiwan.tw" tvg-name="FTV Taiwan" tvg-logo="https://i.imgur.com/p108I5g.png" group-title="News",FTV Taiwan (720p)
+http://seb.sason.top/ptv/ftv.php?id=tw
+
+#EXTINF:-1 tvg-id="Good2.tw" tvg-name="Good 2" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="Religious",Good 2 (720p)
+https://live.streamingfast.net/osmflivech2.m3u8
+
+#EXTINF:-1 tvg-id="GoodTV.tw" tvg-name="Good TV" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="Religious",Good TV (720p)
+https://live.streamingfast.net/osmflivech1.m3u8
+
+#EXTINF:-1 tvg-id="HakkaTV.tw" tvg-name="Hakka TV" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="Culture",Hakka TV (HD)
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+
+#EXTINF:-1 tvg-id="IndigenousTV.tw" tvg-name="Indigenous TV" tvg-logo="https://i.imgur.com/vmk4F9u.png" group-title="Culture",Indigenous TV (720p)
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MOMOTV.tw" tvg-name="MOMO TV" tvg-logo="https://m.momoshop.com.tw/img/message.png" group-title="Shop",MOMO TV (1080p)
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+
+#EXTINF:-1 tvg-id="SETNews.tw" tvg-name="SET News" tvg-logo="https://i.imgur.com/EGVbAvJ.png" group-title="News",SET News (1080p)
+http://seb.sason.top/sc/sllive_fhd.m3u8
+
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-name="Supreme Master TV" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="General",Supreme Master TV (720p)
+https://lbs-us1.suprememastertv.com/720p.m3u8
+
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-name="Taiwan Indigenous TV" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-name="Taiwan Indigenous TV" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General",Taiwan Indigenous TV (HD)
+https://h5cul1yar48um3t.wcetv.com/hls/titv.m3u8
+
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-name="Taiwan Plus TV" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="General",Taiwan Plus TV (1080p)
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TTV.tw" tvg-name="TTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png" group-title="General",TTV (720p)
+http://162.19.247.76:22222/live/taishi/index.m3u8
+
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-name="TVBS-Asia" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Entertainment",TVBS-Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-name="TVBS News" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="News",TVBS News (HD)
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="WXTV.tw" tvg-name="WXTV" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="Religious",WXTV (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8

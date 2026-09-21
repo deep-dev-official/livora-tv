@@ -1,0 +1,498 @@
+[
+  {
+    "id": "altynasyr-tm",
+    "name": "Altyn Asyr",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "General",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/D7RBtZ2.png",
+    "epgId": "AltynAsyr.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch001.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch001.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "altynasyr-tm",
+    "name": "Altyn Asyr",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "General",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/D7RBtZ2.png",
+    "epgId": "AltynAsyr.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch001.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch001.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arkadagtv-tm",
+    "name": "Arkadag TV",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "General",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/JdEb4Ug.png",
+    "epgId": "ArkadagTV.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch000.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch000.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arkadagtv-tm",
+    "name": "Arkadag TV",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "General",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/JdEb4Ug.png",
+    "epgId": "ArkadagTV.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch000.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch000.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "asgabat-tm",
+    "name": "Asgabat",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "General",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/EzjR1vo.png",
+    "epgId": "Asgabat.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch006.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch006.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "asgabat-tm",
+    "name": "Asgabat",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "General",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/EzjR1vo.png",
+    "epgId": "Asgabat.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch006.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch006.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "miras-tm",
+    "name": "Miras",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "Culture",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/pWbJzr9.png",
+    "epgId": "Miras.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch003.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch003.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "miras-tm",
+    "name": "Miras",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "Culture",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/pWbJzr9.png",
+    "epgId": "Miras.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch003.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch003.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "turkmenistan-tm",
+    "name": "Turkmenistan",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "General",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/iBBpBx4.png",
+    "epgId": "Turkmenistan.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch007.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch007.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "turkmenistan-tm",
+    "name": "Turkmenistan",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "General",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/iBBpBx4.png",
+    "epgId": "Turkmenistan.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch007.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch007.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "turkmenistansport-tm",
+    "name": "Turkmenistan Sport",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "Sports",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/n6vITLu.png",
+    "epgId": "TurkmenistanSport.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch004.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch004.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "turkmenistansport-tm",
+    "name": "Turkmenistan Sport",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "Sports",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/n6vITLu.png",
+    "epgId": "TurkmenistanSport.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch004.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch004.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "turkmenowazy-tm",
+    "name": "Turkmen Owazy",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "Music",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/Ap7l2jC.png",
+    "epgId": "TurkmenOwazy.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch005.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch005.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "turkmenowazy-tm",
+    "name": "Turkmen Owazy",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "Music",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/Ap7l2jC.png",
+    "epgId": "TurkmenOwazy.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch005.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch005.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yaslyk-tm",
+    "name": "Yaslyk",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "Education",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/QVWBNGM.png",
+    "epgId": "Yaslyk.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch002.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch002.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yaslyk-tm",
+    "name": "Yaslyk",
+    "country": "TM",
+    "countryName": "Turkmenistan",
+    "category": "Education",
+    "language": "tuk",
+    "languageName": "Turkmen",
+    "logo": "https://i.imgur.com/QVWBNGM.png",
+    "epgId": "Yaslyk.tm",
+    "streams": [
+      {
+        "url": "https://alpha.tv.online.tm/hls/ch002.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alpha.tv.online.tm/legacyhls/ch002.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

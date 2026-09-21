@@ -1,0 +1,492 @@
+[
+  {
+    "id": "adatv-cy",
+    "name": "Ada TV",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/YWmkUWU.png",
+    "epgId": "AdaTV.cy",
+    "streams": [
+      {
+        "url": "https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alfasport-cy",
+    "name": "Alfa Sport",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "Sports",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/vhMPYIW.png",
+    "epgId": "AlfaSport.cy",
+    "streams": [
+      {
+        "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ant1cyprus-cy",
+    "name": "ANT1 Cyprus",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "Entertainment",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/2KAObBt.png",
+    "epgId": "ANT1Cyprus.cy",
+    "streams": [
+      {
+        "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "citychannel-cy",
+    "name": "City Channel",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/oo2fxta.png",
+    "epgId": "CityChannel.cy",
+    "streams": [
+      {
+        "url": "https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "middleeasttv-cy",
+    "name": "Middle East TV",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/oKU5KeW.png",
+    "epgId": "MiddleEastTV.cy",
+    "streams": [
+      {
+        "url": "https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "omegachannel-cy",
+    "name": "Omega Channel",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.ibb.co/QrSzNn6/31087.png",
+    "epgId": "OmegaChannel.cy",
+    "streams": [
+      {
+        "url": "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rik1-cy",
+    "name": "RIK 1",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/31eq4lS.png",
+    "epgId": "RIK1.cy",
+    "streams": [
+      {
+        "url": "http://213.7.216.229:8888/udp/239.23.0.1:1234",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rik2-cy",
+    "name": "RIK 2",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/EZUDmtI.png",
+    "epgId": "RIK2.cy",
+    "streams": [
+      {
+        "url": "http://213.7.216.229:8888/udp/239.23.0.2:1234",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rikhd-cy",
+    "name": "RIK HD",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/xQnHaPy.png",
+    "epgId": "RIKHD.cy",
+    "streams": [
+      {
+        "url": "http://213.7.216.229:8888/udp/239.23.0.5:1234",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "riksat-cy",
+    "name": "RIK Sat",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/BIKwFhD.png",
+    "epgId": "RIKSat.cy",
+    "streams": [
+      {
+        "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "riksat-cy",
+    "name": "RIK Sat",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/BIKwFhD.png",
+    "epgId": "RIKSat.cy",
+    "streams": [
+      {
+        "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sat7arabic-cy",
+    "name": "Sat 7 Arabic",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/BzDjQeQ.png",
+    "epgId": "Sat7Arabic.cy",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sat7kids-cy",
+    "name": "Sat 7 Kids",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "Kids",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/M0ik0i2.png",
+    "epgId": "Sat7Kids.cy",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sat7pars-cy",
+    "name": "Sat 7 Pars",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "Religious",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/VTLQeul.png",
+    "epgId": "Sat7Pars.cy",
+    "streams": [
+      {
+        "url": "https://sat7phls.wns.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sat7turk-cy",
+    "name": "Sat 7 Turk",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/cKQIK4i.png",
+    "epgId": "Sat7Turk.cy",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sat7turk-cy",
+    "name": "Sat 7 Turk",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/cKQIK4i.png",
+    "epgId": "Sat7Turk.cy",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sat7turk-cy",
+    "name": "Sat 7 Turk",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/cKQIK4i.png",
+    "epgId": "Sat7Turk.cy",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sigmatv-cy",
+    "name": "Sigma TV",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/DXKx102.png",
+    "epgId": "SigmaTV.cy",
+    "streams": [
+      {
+        "url": "https://sl2.sigmatv.com/hls/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "voulitv-cy",
+    "name": "Vouli TV",
+    "country": "CY",
+    "countryName": "Cyprus",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.ibb.co/tzQ3jCR/cropped-VOULI-TV-LOGO-HIGH-RESOLUTION-BLUE.png",
+    "epgId": "VouliTV.cy",
+    "streams": [
+      {
+        "url": "https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

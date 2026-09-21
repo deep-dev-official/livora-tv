@@ -3,3 +3,102 @@
 
 #EXTINF:-1 tvg-id="4Kurd.fr" tvg-name="4Kurd" tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" group-title="Music",4Kurd (HD)
 https://4kuhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq" tvg-name="Afarin Baxcha" tvg-logo="https://afarin.tv/images/baxcha.png" group-title="Kids",Afarin Baxcha (1080p)
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfarinTV.iq" tvg-name="Afarin TV" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kids",Afarin TV (720p)
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlIraqiaKurdish.iq" tvg-name="Al Iraqia Kurdish" tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" group-title="General",Al Iraqia Kurdish (720p)
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+
+#EXTINF:-1 tvg-id="AmozhgaryTV.iq" tvg-name="Amozhgary TV" tvg-logo="https://i.imgur.com/sseqFsO.png" group-title="Religious",Amozhgary TV (HD)
+https://app-live.org/live/3268334b/index.m3u8
+
+#EXTINF:-1 tvg-id="AryenTV.se" tvg-name="Aryen TV" tvg-logo="https://i.imgur.com/hIhzT7t.png" group-title="General",Aryen TV (1080p)
+https://aryen.tv/live/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AvarTV.iq" tvg-name="Avar TV" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="General",Avar TV (1080p)
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.iq" tvg-name="Channel8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" group-title="News",Channel8 (720p)
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="CiraTV.de" tvg-name="Cira TV" tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="General",Cira TV (1080p)
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+
+#EXTINF:-1 tvg-id="CiraTV.de" tvg-name="Cira TV" tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="General",Cira TV (HD)
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+
+#EXTINF:-1 tvg-id="EmanTv.iq" tvg-name="EmanTv" tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="Family",EmanTv (1080p)
+https://avr.host247.net/live/emantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FarmodaTV.iq" tvg-name="FarmodaTV" tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="Religious",FarmodaTV (1080p)
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JinTV.nl" tvg-name="Jin TV" tvg-logo="https://i.imgur.com/37ajg2j.png" group-title="Culture",Jin TV (HD)
+https://live.jintv.org/medialive/jintv.m3u8
+
+#EXTINF:-1 tvg-id="KomalaTV.se" tvg-name="Komala TV" tvg-logo="https://i.imgur.com/D6KBLB8.png" group-title="Culture",Komala TV (HD)
+https://komhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="KurdChannel.iq" tvg-name="Kurd Channel" tvg-logo="https://i.imgur.com/xPwzad9.png" group-title="General",Kurd Channel (HD)
+https://kurdchhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Kurdistan24.iq" tvg-name="Kurdistan 24" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="News",Kurdistan 24 (1080p)
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+
+#EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-name="Kurdistan TV" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="General",Kurdistan TV (720p)
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kurdsat.iq" tvg-name="Kurdsat" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="Entertainment",Kurdsat (1080p)
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-1 tvg-id="Kurdsat.iq" tvg-name="Kurdsat" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="Entertainment",Kurdsat (576p)
+http://185.9.2.18/chid_1/index.m3u8
+
+#EXTINF:-1 tvg-id="KurdsatNews.iq" tvg-name="Kurdsat News" tvg-logo="https://i.imgur.com/F3XRwkt.png" group-title="News",Kurdsat News (1080p)
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+
+#EXTINF:-1 tvg-id="MedMuzik.tr" tvg-name="Med Muzik" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="Music",Med Muzik (1080p)
+http://54.36.110.140/live3/live3.m3u8
+
+#EXTINF:-1 tvg-id="Mixkurdy.iq" tvg-name="Mixkurdy" tvg-logo="https://i.imgur.com/WHeH5i7.png" group-title="Family",Mixkurdy (1080p)
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NRTTV.iq" tvg-name="NRT TV" tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="News",NRT TV (720p)
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PayamTV.iq" tvg-name="Payam TV" tvg-logo="https://i.imgur.com/qySEibb.png" group-title="News",Payam TV (1080p)
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
+
+#EXTINF:-1 tvg-id="PayamTV.iq" tvg-name="Payam TV" tvg-logo="https://i.imgur.com/qySEibb.png" group-title="News",Payam TV (720p)
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RudawTV.iq" tvg-name="Rudaw TV" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="News",Rudaw TV (1080p)
+https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+
+#EXTINF:-1 tvg-id="RudawTV.iq" tvg-name="Rudaw TV" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="News",Rudaw TV (1080p)
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="SterkTV.be" tvg-name="Sterk TV" tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="News",Sterk TV (1080p)
+https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+
+#EXTINF:-1 tvg-id="SterkTV.be" tvg-name="Sterk TV" tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="News",Sterk TV (1080p)
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" group-title="General",TRT Kurdi (720p)
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="WaarTV.iq" tvg-name="Waar TV" tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="General",Waar TV (1080p)
+https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
+
+#EXTINF:-1 tvg-id="WaarTV.iq" tvg-name="Waar TV" tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="General",Waar TV (1080p)
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ZarokTV.tr" tvg-name="Zarok TV" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="General",Zarok TV (720p)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ZoomNews.us" tvg-name="Zoom News" tvg-logo="https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkecPsZAttc95mD.jpg" group-title="News",Zoom News (720p)
+https://live.zoomnews.info/live/Zoom_playlist.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="RTB3.bf" tvg-name="RTB 3" tvg-logo="https://i.imgur.com/OFZm8ic.png" group-title="Culture",RTB 3 (HD)
+https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8

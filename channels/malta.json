@@ -1,0 +1,356 @@
+[
+  {
+    "id": "net-mt",
+    "name": "NET",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "General",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://i.imgur.com/K4Uve1n.png",
+    "epgId": "NET.mt",
+    "streams": [
+      {
+        "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/22.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://80.79.6.221:25461/smash/public/22",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "net-mt",
+    "name": "NET",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "General",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://i.imgur.com/K4Uve1n.png",
+    "epgId": "NET.mt",
+    "streams": [
+      {
+        "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/22.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://80.79.6.221:25461/smash/public/22",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "one-mt",
+    "name": "One",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "General",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://i.imgur.com/UPlfzFx.png",
+    "epgId": "One.mt",
+    "streams": [
+      {
+        "url": "https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://80.79.6.221:25461/smash/public/21",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "one-mt",
+    "name": "One",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "General",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://i.imgur.com/UPlfzFx.png",
+    "epgId": "One.mt",
+    "streams": [
+      {
+        "url": "https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://80.79.6.221:25461/smash/public/21",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "parliamentofmalta-mt",
+    "name": "Parliament of Malta",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "Legislative",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png",
+    "epgId": "ParliamentofMalta.mt",
+    "streams": [
+      {
+        "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://80.79.6.221:25461/smash/public/23",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "parliamentofmalta-mt",
+    "name": "Parliament of Malta",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "Legislative",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png",
+    "epgId": "ParliamentofMalta.mt",
+    "streams": [
+      {
+        "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://80.79.6.221:25461/smash/public/23",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "smashtv-mt",
+    "name": "Smash TV",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "General",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://i.imgur.com/Yg6ZWKu.png",
+    "epgId": "SmashTV.mt",
+    "streams": [
+      {
+        "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://80.79.6.221:25461/smash/public/1",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "smashtv-mt",
+    "name": "Smash TV",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "General",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://i.imgur.com/Yg6ZWKu.png",
+    "epgId": "SmashTV.mt",
+    "streams": [
+      {
+        "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://80.79.6.221:25461/smash/public/1",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvm-mt",
+    "name": "TVM",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "General",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://i.imgur.com/V0iMsED.png",
+    "epgId": "TVM.mt",
+    "streams": [
+      {
+        "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://80.79.6.221:25461/smash/public/19",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvm-mt",
+    "name": "TVM",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "General",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://i.imgur.com/V0iMsED.png",
+    "epgId": "TVM.mt",
+    "streams": [
+      {
+        "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://80.79.6.221:25461/smash/public/19",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmnewsplus-mt",
+    "name": "TVMnews+",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "News",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://i.imgur.com/CFcst4g.png",
+    "epgId": "TVMnewsPlus.mt",
+    "streams": [
+      {
+        "url": "http://80.79.6.221:25461/smash/public/20",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmsportplus-mt",
+    "name": "TVMsport+",
+    "country": "MT",
+    "countryName": "Malta",
+    "category": "Sports",
+    "language": "mlt",
+    "languageName": "Maltese",
+    "logo": "https://i.imgur.com/YIreFti.png",
+    "epgId": "TVMsportPlus.mt",
+    "streams": [
+      {
+        "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

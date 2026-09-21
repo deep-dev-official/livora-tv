@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="ERiTV1.er" tvg-name="ERi-TV 1" tvg-logo="https://i.imgur.com/bTR0Huw.png" group-title="General",ERi-TV 1 (576p)
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8

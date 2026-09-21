@@ -1,0 +1,544 @@
+[
+  {
+    "id": "3abntvuganda-ug",
+    "name": "3ABN TV Uganda",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/mml9lI2.png",
+    "epgId": "3ABNTVUganda.ug",
+    "streams": [
+      {
+        "url": "https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "acwugtv-ug",
+    "name": "ACW UG TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/8pzEmcJ.jpeg",
+    "epgId": "ACWUGTV.ug",
+    "streams": [
+      {
+        "url": "https://live.acwugtv.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alphadigital-ug",
+    "name": "Alpha Digital",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/sLt242H.png",
+    "epgId": "AlphaDigital.ug",
+    "streams": [
+      {
+        "url": "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arktv-ug",
+    "name": "Ark TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/yCHNZXD.png",
+    "epgId": "ArkTV.ug",
+    "streams": [
+      {
+        "url": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bbstv-ug",
+    "name": "BBS TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "General",
+    "language": "lug",
+    "languageName": "Ganda",
+    "logo": "https://i.imgur.com/Hub1AXv.png",
+    "epgId": "BBSTV.ug",
+    "streams": [
+      {
+        "url": "https://bbstv.ug/hls/ch01/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btmtv-ug",
+    "name": "BTM TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/NUvA2jf.png",
+    "epgId": "BTMTV.ug",
+    "streams": [
+      {
+        "url": "https://btmug.zerocdn.org/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btv-ug",
+    "name": "BTV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/rcHZ1al.png",
+    "epgId": "BTV.ug",
+    "streams": [
+      {
+        "url": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bukeddetv1-ug",
+    "name": "Bukedde TV 1",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "General",
+    "language": "lug",
+    "languageName": "Ganda",
+    "logo": "https://i.imgur.com/HFq5QlJ.png",
+    "epgId": "BukeddeTV1.ug",
+    "streams": [
+      {
+        "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bukeddetv2-ug",
+    "name": "Bukedde TV 2",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/ukwPZeY.png",
+    "epgId": "BukeddeTV2.ug",
+    "streams": [
+      {
+        "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dreamtv-ug",
+    "name": "Dream TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/XRUDhqQ.png",
+    "epgId": "DreamTV.ug",
+    "streams": [
+      {
+        "url": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "farajatelevision-ug",
+    "name": "Faraja Television",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/NmnOGHI.jpg",
+    "epgId": "FarajaTelevision.ug",
+    "streams": [
+      {
+        "url": "https://panel.freedomflixtv.org:3868/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "forttv-ug",
+    "name": "FORT TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
+    "epgId": "FORTTV.ug",
+    "streams": [
+      {
+        "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "galaxytv-ug",
+    "name": "Galaxy TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/P5OABe5.png",
+    "epgId": "GalaxyTV.ug",
+    "streams": [
+      {
+        "url": "https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://player.castr.com/live_43351ad0f3b411ed81c78fcc31887c54",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "guguddetv-ug",
+    "name": "Gugudde TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/XEakc6Q.png",
+    "epgId": "GuguddeTV.ug",
+    "streams": [
+      {
+        "url": "https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "krctv-ug",
+    "name": "KRC TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/8c9Uqks.jpeg",
+    "epgId": "KRCTV.ug",
+    "streams": [
+      {
+        "url": "https://channels.ad-ug.com/live/ch03/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kstvuganda-ug",
+    "name": "KSTV Uganda",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/MMPzPSl.png",
+    "epgId": "KSTVUganda.ug",
+    "streams": [
+      {
+        "url": "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kstvuganda-ug",
+    "name": "KSTV Uganda",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/MMPzPSl.png",
+    "epgId": "KSTVUganda.ug",
+    "streams": [
+      {
+        "url": "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rwenzoritv-ug",
+    "name": "Rwenzori TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "General",
+    "language": "koo",
+    "languageName": "Konzo",
+    "logo": "https://i.imgur.com/qo4QHfz.png",
+    "epgId": "RwenzoriTV.ug",
+    "streams": [
+      {
+        "url": "https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "salttv-ug",
+    "name": "Salt TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/AK9nE6Y.png",
+    "epgId": "SaltTV.ug",
+    "streams": [
+      {
+        "url": "https://live.salttelevision.com/app/stream/abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.salttelevision.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "salttv-ug",
+    "name": "Salt TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/AK9nE6Y.png",
+    "epgId": "SaltTV.ug",
+    "streams": [
+      {
+        "url": "https://live.salttelevision.com/app/stream/abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.salttelevision.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tayariwesttv-ug",
+    "name": "Tayari West TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "General",
+    "language": "lug",
+    "languageName": "Ganda",
+    "logo": "https://i.imgur.com/tbnOtUZ.jpeg",
+    "epgId": "TayariWestTV.ug",
+    "streams": [
+      {
+        "url": "https://stream.hydeinnovations.com/tarari-west/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvwest-ug",
+    "name": "TV West",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "General",
+    "language": "nyn",
+    "languageName": "Nyankole",
+    "logo": "https://i.imgur.com/EiJzkIz.png",
+    "epgId": "TVWest.ug",
+    "streams": [
+      {
+        "url": "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wanluotv-ug",
+    "name": "Wan Luo TV",
+    "country": "UG",
+    "countryName": "Uganda",
+    "category": "General",
+    "language": "ach",
+    "languageName": "Acoli",
+    "logo": "https://i.imgur.com/4PUUp3E.png",
+    "epgId": "WanLuoTV.ug",
+    "streams": [
+      {
+        "url": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

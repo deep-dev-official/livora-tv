@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="IshtarTV.iq" tvg-name="Ishtar TV" tvg-logo="https://i.imgur.com/qzApokm.png" group-title="Culture",Ishtar TV (1080p)
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBSV231.us" tvg-name="KBSV 23.1" tvg-logo="https://i.imgur.com/6lklsyN.png" group-title="General",KBSV 23.1 (720p)
+http://66.242.170.53/hls/live/temp/index.m3u8

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "gribuvisuzinat-lv",
+    "name": "Gribu visu zinat",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6d/%D0%A5%D0%BE%D1%87%D1%83_%D0%B2%D1%81%D1%91_%D0%B7%D0%BD%D0%B0%D1%82%D1%8C.svg",
+    "epgId": "Gribuvisuzinat.lv",
+    "streams": [
+      {
+        "url": "https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://void.greenhosting.ru/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ltv1-lv",
+    "name": "LTV1",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "General",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LTV1_%282022%29.svg/960px-LTV1_%282022%29.svg.png",
+    "epgId": "LTV1.lv",
+    "streams": [
+      {
+        "url": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/34/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ltv1-lv",
+    "name": "LTV1",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "General",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LTV1_%282022%29.svg/960px-LTV1_%282022%29.svg.png",
+    "epgId": "LTV1.lv",
+    "streams": [
+      {
+        "url": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/34/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ltv7-lv",
+    "name": "LTV7",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "Entertainment",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png",
+    "epgId": "LTV7.lv",
+    "streams": [
+      {
+        "url": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/371/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ltv7-lv",
+    "name": "LTV7",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "Entertainment",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png",
+    "epgId": "LTV7.lv",
+    "streams": [
+      {
+        "url": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/371/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "movifykino-lv",
+    "name": "Movify Kino",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "Movies",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/XIk5EJN.png",
+    "epgId": "MovifyKino.lv",
+    "streams": [
+      {
+        "url": "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://void.greenhosting.ru/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pingviins-lv",
+    "name": "Pingviins",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "Animation",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://i.imgur.com/hfXoJIY.png",
+    "epgId": "Pingviins.lv",
+    "streams": [
+      {
+        "url": "https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://void.greenhosting.ru/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pingviins-lv",
+    "name": "Pingviins",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "Animation",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://i.imgur.com/hfXoJIY.png",
+    "epgId": "Pingviins.lv",
+    "streams": [
+      {
+        "url": "https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://void.greenhosting.ru/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioswhtv-lv",
+    "name": "Radio SWH TV",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "Music",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://i.imgur.com/cFrNsXn.png",
+    "epgId": "RadioSWHTV.lv",
+    "streams": [
+      {
+        "url": "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "retv-lv",
+    "name": "Re TV",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "General",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://i.imgur.com/Z3cre5Xm.png",
+    "epgId": "ReTV.lv",
+    "streams": [
+      {
+        "url": "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "seatv-lv",
+    "name": "Sea TV",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "General",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://i.imgur.com/11dzVLi.png",
+    "epgId": "SeaTV.lv",
+    "streams": [
+      {
+        "url": "http://dtv.vol.net.ua/Sea_TV_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv3life-lv",
+    "name": "TV3 Life",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "Lifestyle",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://i.imgur.com/Tm8hj45.png",
+    "epgId": "TV3Life.lv",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/373/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvjurmala-lv",
+    "name": "TV Jurmala",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "General",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://i.imgur.com/tQHkHD0.png",
+    "epgId": "TVJurmala.lv",
+    "streams": [
+      {
+        "url": "https://air.star.lv/TV_Jurmala_multistream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnet-lv",
+    "name": "TVNET",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "General",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://i.imgur.com/jzv1ssE.png",
+    "epgId": "TVNET.lv",
+    "streams": [
+      {
+        "url": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vidusdaugavastelevizija-lv",
+    "name": "Vidusdaugavas Televizija",
+    "country": "LV",
+    "countryName": "Latvia",
+    "category": "General",
+    "language": "lav",
+    "languageName": "Latvian",
+    "logo": "https://i.imgur.com/L5U3PQR.png",
+    "epgId": "VidusdaugavasTelevizija.lv",
+    "streams": [
+      {
+        "url": "https://straume.vdtv.lv/vdtv2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

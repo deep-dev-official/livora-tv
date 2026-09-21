@@ -1,0 +1,90 @@
+[
+  {
+    "id": "douniatv-ne",
+    "name": "Dounia TV",
+    "country": "NE",
+    "countryName": "Niger",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/ENBCDaQ.png",
+    "epgId": "DouniaTV.ne",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "saraouniatv-ne",
+    "name": "Saraounia TV",
+    "country": "NE",
+    "countryName": "Niger",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/O8XIcpH.png",
+    "epgId": "SaraouniaTV.ne",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "taltv-ne",
+    "name": "Tal TV",
+    "country": "NE",
+    "countryName": "Niger",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/KWMP0t1.png",
+    "epgId": "TalTV.ne",
+    "streams": [
+      {
+        "url": "https://mediaserver1.castpin.com/hls/taltv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesahel-ne",
+    "name": "Tele Sahel",
+    "country": "NE",
+    "countryName": "Niger",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/vboq428.png",
+    "epgId": "TeleSahel.ne",
+    "streams": [
+      {
+        "url": "https://mediaserver1.castpin.com/hls/telesahel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

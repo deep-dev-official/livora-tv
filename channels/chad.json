@@ -1,0 +1,64 @@
+[
+  {
+    "id": "teletchad-td",
+    "name": "Tele Tchad",
+    "country": "TD",
+    "countryName": "Chad",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/udSzfHD.png",
+    "epgId": "TeleTchad.td",
+    "streams": [
+      {
+        "url": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://176.65.153.84:7013/play/a069/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teletchad-td",
+    "name": "Tele Tchad",
+    "country": "TD",
+    "countryName": "Chad",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/udSzfHD.png",
+    "epgId": "TeleTchad.td",
+    "streams": [
+      {
+        "url": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://176.65.153.84:7013/play/a069/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="RwenzoriTV.ug" tvg-name="Rwenzori TV" tvg-logo="https://i.imgur.com/qo4QHfz.png" group-title="General",Rwenzori TV (HD)
+https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8

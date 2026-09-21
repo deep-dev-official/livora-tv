@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="Tamyr.ru" tvg-name="Tamyr" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="Kids",Tamyr (HD)
+https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tamyr.ru" tvg-name="Tamyr" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="Kids",Tamyr (576p)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8

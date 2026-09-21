@@ -1,0 +1,400 @@
+[
+  {
+    "id": "2m-ma",
+    "name": "2M",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/PJYTfHi.png",
+    "epgId": "2M.ma",
+    "streams": [
+      {
+        "url": "http://185.9.2.18/chid_218/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "2mmonde-ma",
+    "name": "2M Monde",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/MvpntzA.png",
+    "epgId": "2MMonde.ma",
+    "streams": [
+      {
+        "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "http://www.radio2m.ma/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "2mmonde-ma",
+    "name": "2M Monde",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/MvpntzA.png",
+    "epgId": "2MMonde.ma",
+    "streams": [
+      {
+        "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "http://www.radio2m.ma/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "almaghribia-ma",
+    "name": "Al Maghribia",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/7GaahYh.png",
+    "epgId": "AlMaghribia.ma",
+    "streams": [
+      {
+        "url": "http://185.9.2.18/chid_205/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arryadia-ma",
+    "name": "Arryadia",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "Sports",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/XjzK3gZ.png",
+    "epgId": "Arryadia.ma",
+    "streams": [
+      {
+        "url": "http://149.100.11.252:8000/play/a065/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chadatv-ma",
+    "name": "Chada TV",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://freebox.cdn.scw.iliad.fr/medium_Logo_chada_tv_2ee1412d38.png",
+    "epgId": "ChadaTV.ma",
+    "streams": [
+      {
+        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chadatv-ma",
+    "name": "Chada TV",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://freebox.cdn.scw.iliad.fr/medium_Logo_chada_tv_2ee1412d38.png",
+    "epgId": "ChadaTV.ma",
+    "streams": [
+      {
+        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "medi1tvafrique-ma",
+    "name": "Medi1TV Afrique",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/a20DHnj.png",
+    "epgId": "Medi1TVAfrique.ma",
+    "streams": [
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "medi1tvafrique-ma",
+    "name": "Medi1TV Afrique",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/a20DHnj.png",
+    "epgId": "Medi1TVAfrique.ma",
+    "streams": [
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "medi1tvarabic-ma",
+    "name": "Medi1TV Arabic",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/3YsZPY6.jpeg",
+    "epgId": "Medi1TVArabic.ma",
+    "streams": [
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "medi1tvarabic-ma",
+    "name": "Medi1TV Arabic",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/3YsZPY6.jpeg",
+    "epgId": "Medi1TVArabic.ma",
+    "streams": [
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "medi1tvmaghreb-ma",
+    "name": "Medi1TV Maghreb",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/F5OFQsp.jpeg",
+    "epgId": "Medi1TVMaghreb.ma",
+    "streams": [
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "medi1tvmaghreb-ma",
+    "name": "Medi1TV Maghreb",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/F5OFQsp.jpeg",
+    "epgId": "Medi1TVMaghreb.ma",
+    "streams": [
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "storychanneltv-ma",
+    "name": "StoryChannel TV",
+    "country": "MA",
+    "countryName": "Morocco",
+    "category": "Culture",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/ZBV6xph.png",
+    "epgId": "StoryChannelTV.ma",
+    "streams": [
+      {
+        "url": "https://136044159.r.cdnsun.net/storychannel.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

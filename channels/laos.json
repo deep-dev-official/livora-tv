@@ -1,0 +1,200 @@
+[
+  {
+    "id": "briantv-la",
+    "name": "Brian TV",
+    "country": "LA",
+    "countryName": "Laos",
+    "category": "News",
+    "language": "vie",
+    "languageName": "Vietnamese",
+    "logo": "https://i.imgur.com/zG1WNgU.jpg",
+    "epgId": "BrianTV.la",
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "daolanexangtv-la",
+    "name": "Dao Lane Xang TV",
+    "country": "LA",
+    "countryName": "Laos",
+    "category": "General",
+    "language": "vie",
+    "languageName": "Vietnamese",
+    "logo": "https://i.imgur.com/yE7nZ6w.png",
+    "epgId": "DaoLaneXangTV.la",
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "istv-la",
+    "name": "ISTV",
+    "country": "LA",
+    "countryName": "Laos",
+    "category": "General",
+    "language": "vie",
+    "languageName": "Vietnamese",
+    "logo": "https://i.imgur.com/TGAKFcV.jpg",
+    "epgId": "ISTV.la",
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "laonettv-la",
+    "name": "Lao Net TV",
+    "country": "LA",
+    "countryName": "Laos",
+    "category": "General",
+    "language": "lao",
+    "languageName": "Lao",
+    "logo": "https://i.imgur.com/ohbRT05.png",
+    "epgId": "LaoNetTV.la",
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lookthoongtv-la",
+    "name": "Look Thoong TV",
+    "country": "LA",
+    "countryName": "Laos",
+    "category": "Music",
+    "language": "lao",
+    "languageName": "Lao",
+    "logo": "https://i.imgur.com/eT7iE34.png",
+    "epgId": "LookThoongTV.la",
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lstv-la",
+    "name": "LS TV",
+    "country": "LA",
+    "countryName": "Laos",
+    "category": "Shop",
+    "language": "lao",
+    "languageName": "Lao",
+    "logo": "https://i.imgur.com/fs3dQ6J.png",
+    "epgId": "LSTV.la",
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ningtv-la",
+    "name": "Ning TV",
+    "country": "LA",
+    "countryName": "Laos",
+    "category": "Entertainment",
+    "language": "lao",
+    "languageName": "Lao",
+    "logo": "https://i.imgur.com/ANnEPnK.png",
+    "epgId": "NingTV.la",
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ohmuanglaotv-la",
+    "name": "Oh Muang Lao TV",
+    "country": "LA",
+    "countryName": "Laos",
+    "category": "General",
+    "language": "vie",
+    "languageName": "Vietnamese",
+    "logo": "https://i.imgur.com/SdB3Vyr.jpg",
+    "epgId": "OhMuangLaoTV.la",
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vatilao-la",
+    "name": "Vati Lao",
+    "country": "LA",
+    "countryName": "Laos",
+    "category": "Entertainment",
+    "language": "lao",
+    "languageName": "Lao",
+    "logo": "https://i.imgur.com/NwxXABV.png",
+    "epgId": "VatiLao.la",
+    "streams": [
+      {
+        "url": "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

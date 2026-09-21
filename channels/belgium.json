@@ -1,0 +1,2050 @@
+[
+  {
+    "id": "actv-be",
+    "name": "ACTV",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://files.catbox.moe/8v2y8m.png",
+    "epgId": "ACTV.be",
+    "streams": [
+      {
+        "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "actv-be",
+    "name": "ACTV",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://files.catbox.moe/8v2y8m.png",
+    "epgId": "ACTV.be",
+    "streams": [
+      {
+        "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atv-be",
+    "name": "ATV",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png",
+    "epgId": "ATV.be",
+    "streams": [
+      {
+        "url": "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bamtv-be",
+    "name": "BAM-TV",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Culture",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/9UmR6cs.png",
+    "epgId": "BAMTV.be",
+    "streams": [
+      {
+        "url": "https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "belrtl-be",
+    "name": "Bel RTL",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/0DUprIW.png",
+    "epgId": "BelRTL.be",
+    "streams": [
+      {
+        "url": "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bouke-be",
+    "name": "Bouke",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/STLavel.png",
+    "epgId": "Bouke.be",
+    "streams": [
+      {
+        "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bouke-be",
+    "name": "Bouke",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/STLavel.png",
+    "epgId": "Bouke.be",
+    "streams": [
+      {
+        "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bruzz-be",
+    "name": "Bruzz",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/OYlYidF.png",
+    "epgId": "Bruzz.be",
+    "streams": [
+      {
+        "url": "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bx1-be",
+    "name": "BX1",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/0OkSa6c.png",
+    "epgId": "BX1.be",
+    "streams": [
+      {
+        "url": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bx1-be",
+    "name": "BX1",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/0OkSa6c.png",
+    "epgId": "BX1.be",
+    "streams": [
+      {
+        "url": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalz-be",
+    "name": "Canal Z",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Business",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/qtiGLzZ.png",
+    "epgId": "CanalZ.be",
+    "streams": [
+      {
+        "url": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalzoom-be",
+    "name": "Canal Zoom",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/JUNP8Rx.png",
+    "epgId": "CanalZoom.be",
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebs-be",
+    "name": "EbS",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Legislative",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/DIIRPNN.png",
+    "epgId": "EbS.be",
+    "streams": [
+      {
+        "url": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebsplus-be",
+    "name": "EbS+",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Legislative",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/7V012zQ.png",
+    "epgId": "EbSPlus.be",
+    "streams": [
+      {
+        "url": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "funvision-be",
+    "name": "Fun Vision",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/AhkKr7Y.png",
+    "epgId": "FunVision.be",
+    "streams": [
+      {
+        "url": "https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlnlive-be",
+    "name": "HLN Live",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "News",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/zbCrZG9/hq-hln.png",
+    "epgId": "HLNLive.be",
+    "streams": [
+      {
+        "url": "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "japanimtv-be",
+    "name": "JapanimTV",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Animation",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
+    "epgId": "JapanimTV.be",
+    "streams": [
+      {
+        "url": "https://foxkidstv.be:3369/stream/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "joefm-be",
+    "name": "Joe FM",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png",
+    "epgId": "JoeFM.be",
+    "streams": [
+      {
+        "url": "https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanaalz-be",
+    "name": "Kanaal Z",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Business",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/YzgYJxM.png",
+    "epgId": "KanaalZ.be",
+    "streams": [
+      {
+        "url": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "klara-be",
+    "name": "Klara",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
+    "epgId": "Klara.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "klara-be",
+    "name": "Klara",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
+    "epgId": "Klara.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "klara-be",
+    "name": "Klara",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
+    "epgId": "Klara.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "klara-be",
+    "name": "Klara",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
+    "epgId": "Klara.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "latrois-be",
+    "name": "La Trois",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/jMs4h9F.png",
+    "epgId": "LaTrois.be",
+    "streams": [
+      {
+        "url": "http://145.239.5.177/330/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "latrois-be",
+    "name": "La Trois",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/jMs4h9F.png",
+    "epgId": "LaTrois.be",
+    "streams": [
+      {
+        "url": "http://145.239.5.177/330/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "laune-be",
+    "name": "La Une",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/jMwZp7z.png",
+    "epgId": "LaUne.be",
+    "streams": [
+      {
+        "url": "http://145.239.5.177/329/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "laune-be",
+    "name": "La Une",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/jMwZp7z.png",
+    "epgId": "LaUne.be",
+    "streams": [
+      {
+        "url": "http://145.239.5.177/329/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "matele-be",
+    "name": "Matele",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/rw72POr.png",
+    "epgId": "Matele.be",
+    "streams": [
+      {
+        "url": "https://live.matele.be/hls/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnm-be",
+    "name": "MNM",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/L4cD18H.png",
+    "epgId": "MNM.be",
+    "streams": [
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnm-be",
+    "name": "MNM",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/L4cD18H.png",
+    "epgId": "MNM.be",
+    "streams": [
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnm-be",
+    "name": "MNM",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/L4cD18H.png",
+    "epgId": "MNM.be",
+    "streams": [
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnm-be",
+    "name": "MNM",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/L4cD18H.png",
+    "epgId": "MNM.be",
+    "streams": [
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "notele-be",
+    "name": "Notele",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/fGS55nR.png",
+    "epgId": "Notele.be",
+    "streams": [
+      {
+        "url": "https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "playcrime-be",
+    "name": "Play Crime",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/hPh8tRq.png",
+    "epgId": "PlayCrime.be",
+    "streams": [
+      {
+        "url": "https://playmedia-playcrime-goplay-dash.amagi.tv/master.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qmusic-be",
+    "name": "Q-Music",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/VX5e9Xt.png",
+    "epgId": "QMusic.be",
+    "streams": [
+      {
+        "url": "https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qu4treliegemedia-be",
+    "name": "QU4TRE Liege Media",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/GHFuvmZ.png",
+    "epgId": "QU4TRELiegeMedia.be",
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radio1-be",
+    "name": "Radio 1",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png",
+    "epgId": "Radio1.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radio1-be",
+    "name": "Radio 1",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png",
+    "epgId": "Radio1.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radio1-be",
+    "name": "Radio 1",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png",
+    "epgId": "Radio1.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radio1-be",
+    "name": "Radio 1",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png",
+    "epgId": "Radio1.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radio2-be",
+    "name": "Radio 2",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png",
+    "epgId": "Radio2.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radio2-be",
+    "name": "Radio 2",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png",
+    "epgId": "Radio2.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radio2-be",
+    "name": "Radio 2",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png",
+    "epgId": "Radio2.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radio2-be",
+    "name": "Radio 2",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png",
+    "epgId": "Radio2.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiocontact-be",
+    "name": "Radio Contact",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/32mmGvB.png",
+    "epgId": "RadioContact.be",
+    "streams": [
+      {
+        "url": "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtlclub-be",
+    "name": "RTL Club",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/CcSd0Uk.png",
+    "epgId": "RTLClub.be",
+    "streams": [
+      {
+        "url": "https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtltvi-be",
+    "name": "RTL-TVI",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/2CimAAN.png",
+    "epgId": "RTLTVI.be",
+    "streams": [
+      {
+        "url": "https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sterktv-be",
+    "name": "Sterk TV",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "News",
+    "language": "kur",
+    "languageName": "Kurdish",
+    "logo": "https://i.imgur.com/bIheNAI.png",
+    "epgId": "SterkTV.be",
+    "streams": [
+      {
+        "url": "https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://muzkurd.com/sterktv/sterk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sterktv-be",
+    "name": "Sterk TV",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "News",
+    "language": "kur",
+    "languageName": "Kurdish",
+    "logo": "https://i.imgur.com/bIheNAI.png",
+    "epgId": "SterkTV.be",
+    "streams": [
+      {
+        "url": "https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://muzkurd.com/sterktv/sterk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "stubru-be",
+    "name": "StuBru",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png",
+    "epgId": "StuBru.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "stubru-be",
+    "name": "StuBru",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png",
+    "epgId": "StuBru.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "stubru-be",
+    "name": "StuBru",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png",
+    "epgId": "StuBru.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "stubru-be",
+    "name": "StuBru",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png",
+    "epgId": "StuBru.be",
+    "streams": [
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemb-be",
+    "name": "Tele MB",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/XAggjM4.png",
+    "epgId": "TeleMB.be",
+    "streams": [
+      {
+        "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemb-be",
+    "name": "Tele MB",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/XAggjM4.png",
+    "epgId": "TeleMB.be",
+    "streams": [
+      {
+        "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesambre-be",
+    "name": "Telesambre",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/TuIAkA3.png",
+    "epgId": "Telesambre.be",
+    "streams": [
+      {
+        "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tipik-be",
+    "name": "Tipik",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/LKLjnrp.png",
+    "epgId": "Tipik.be",
+    "streams": [
+      {
+        "url": "http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcom-be",
+    "name": "TVcom",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/3KuRD19.png",
+    "epgId": "TVcom.be",
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvlux-be",
+    "name": "TV Lux",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/ljbdWkC.png",
+    "epgId": "TVLux.be",
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvlux-be",
+    "name": "TV Lux",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/ljbdWkC.png",
+    "epgId": "TVLux.be",
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vedia-be",
+    "name": "Vedia",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/7LnH6yu.png",
+    "epgId": "Vedia.be",
+    "streams": [
+      {
+        "url": "https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wtv-be",
+    "name": "WTV",
+    "country": "BE",
+    "countryName": "Belgium",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/wvKe8mi.png",
+    "epgId": "WTV.be",
+    "streams": [
+      {
+        "url": "https://wtvlive.b-cdn.net/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,680 @@
+[
+  {
+    "id": "americateve-pr",
+    "name": "America TeVe",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/K9o3mLP.png",
+    "epgId": "AmericaTeVe.pr",
+    "streams": [
+      {
+        "url": "https://live.gideo.video/americateve2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "buenatv-pr",
+    "name": "Buena TV",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/tsajuxi.png",
+    "epgId": "BuenaTV.pr",
+    "streams": [
+      {
+        "url": "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "candelitatv-pr",
+    "name": "Candelita TV",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/34BvVDl.png",
+    "epgId": "CandelitaTV.pr",
+    "streams": [
+      {
+        "url": "https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "catv-pr",
+    "name": "CAtv",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://caribbeanadvantage.com/images/CAtv-logo-512.png",
+    "epgId": "CAtv.pr",
+    "streams": [
+      {
+        "url": "https://video2.getstreamhosting.com:19360/8216/8216.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cdminternacional-pr",
+    "name": "CDM Internacional",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/N7IneVk.png",
+    "epgId": "CDMInternacional.pr",
+    "streams": [
+      {
+        "url": "https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "defiancemedia-pr",
+    "name": "DeFiance Media",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Business",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU",
+    "epgId": "DeFianceMedia.pr",
+    "streams": [
+      {
+        "url": "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dnjtv-pr",
+    "name": "DNJ TV",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YqTcGJZ.png",
+    "epgId": "DNJTV.pr",
+    "streams": [
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "familiavisionhd-pr",
+    "name": "Familia Vision HD",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/uqTH7m5.jpg",
+    "epgId": "FamiliaVisionHD.pr",
+    "streams": [
+      {
+        "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "farodesantidadtv-pr",
+    "name": "Faro de Santidad TV",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/GoNBFzI.png",
+    "epgId": "FarodeSantidadTV.pr",
+    "streams": [
+      {
+        "url": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lax-pr",
+    "name": "La-X",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/i2GnQTq.png",
+    "epgId": "LaX.pr",
+    "streams": [
+      {
+        "url": "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ngradiotv-pr",
+    "name": "NG Radio TV",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/KsNI3vQ.jpg",
+    "epgId": "NGRadioTV.pr",
+    "streams": [
+      {
+        "url": "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nuevavidafm-pr",
+    "name": "Nueva Vida FM",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
+    "epgId": "NuevaVidaFM.pr",
+    "streams": [
+      {
+        "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "paraisotv-pr",
+    "name": "Paraiso TV",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/wE31GIP.jpg",
+    "epgId": "ParaisoTV.pr",
+    "streams": [
+      {
+        "url": "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "purapalabra-pr",
+    "name": "Pura Palabra",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nl5vyIw.png",
+    "epgId": "PuraPalabra.pr",
+    "streams": [
+      {
+        "url": "https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "718p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioislatv-pr",
+    "name": "Radio Isla TV",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png",
+    "epgId": "RadioIslaTV.pr",
+    "streams": [
+      {
+        "url": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "salvaciontv-pr",
+    "name": "Salvacion TV",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/6HOViG9.png",
+    "epgId": "SalvacionTV.pr",
+    "streams": [
+      {
+        "url": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telenorte-pr",
+    "name": "Telenorte",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/LCiYFrh.jpg",
+    "epgId": "Telenorte.pr",
+    "streams": [
+      {
+        "url": "https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleonce-pr",
+    "name": "TeleOnce",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Crt3P4N.png",
+    "epgId": "TeleOnce.pr",
+    "streams": [
+      {
+        "url": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "theretrochannel-pr",
+    "name": "The Retro Channel",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/t3i1HtE.jpg",
+    "epgId": "TheRetroChannel.pr",
+    "streams": [
+      {
+        "url": "https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "triunfo969fm-pr",
+    "name": "Triunfo 96.9 FM",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png",
+    "epgId": "Triunfo969FM.pr",
+    "streams": [
+      {
+        "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wdwl581-pr",
+    "name": "WDWL 58.1",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/B7lqYZe.png",
+    "epgId": "WDWL581.pr",
+    "streams": [
+      {
+        "url": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wecn-pr",
+    "name": "WECN",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/NYBZBY0.png",
+    "epgId": "WECN.pr",
+    "streams": [
+      {
+        "url": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "welu81-pr",
+    "name": "WELU 8.1",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/42UdwD0.png",
+    "epgId": "WELU81.pr",
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wiprtv61-pr",
+    "name": "WIPR-TV 6.1",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/MGJaxFO.png",
+    "epgId": "WIPRTV61.pr",
+    "streams": [
+      {
+        "url": "https://streamwipr.pr/hls/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wkaqtv22-pr",
+    "name": "WKAQ-TV 2.2",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TL6xy4y.png",
+    "epgId": "WKAQTV22.pr",
+    "streams": [
+      {
+        "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wruadt1-pr",
+    "name": "WRUA-DT1 (Tiva TV)",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "WRUADT1.pr",
+    "streams": [
+      {
+        "url": "https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://link.frontlayer.com/services/hls2/fl496518/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wruadt1-pr",
+    "name": "WRUA-DT1 (Tiva TV)",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "WRUADT1.pr",
+    "streams": [
+      {
+        "url": "https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://link.frontlayer.com/services/hls2/fl496518/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wwxydt1-pr",
+    "name": "WWXY-DT1 (Boricua TV)",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "WWXYDT1.pr",
+    "streams": [
+      {
+        "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wwxydt3-pr",
+    "name": "WWXY-DT3 (Maranatha Radio Ministries)",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "WWXYDT3.pr",
+    "streams": [
+      {
+        "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wxwzld231-pr",
+    "name": "WXWZ-LD 23.1",
+    "country": "PR",
+    "countryName": "Puerto Rico",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/rjmGc9p.png",
+    "epgId": "WXWZLD231.pr",
+    "streams": [
+      {
+        "url": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

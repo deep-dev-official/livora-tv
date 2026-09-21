@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="D3TV.ml" tvg-name="D3 TV" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="Entertainment",D3 TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="D3TV.ml" tvg-name="D3 TV" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="Entertainment",D3 TV (480p)
+https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-name="ORTM 1" tvg-logo="https://i.imgur.com/eKUpcls.png" group-title="General",ORTM 1 (540p)
+http://69.64.57.208/ortm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-name="ORTM 1" tvg-logo="https://i.imgur.com/eKUpcls.png" group-title="General",ORTM 1 (HD)
+https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TM1TV.ml" tvg-name="TM1 TV" tvg-logo="https://i.imgur.com/83BgaBa.png" group-title="General",TM1 TV (360p)
+http://69.64.57.208/tm1/playlist.m3u8

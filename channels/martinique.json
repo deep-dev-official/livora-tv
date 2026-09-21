@@ -1,0 +1,134 @@
+[
+  {
+    "id": "fusiontv-mq",
+    "name": "FUSION TV",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "category": "Music",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/WMrYEgH.png",
+    "epgId": "FUSIONTV.mq",
+    "streams": [
+      {
+        "url": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "identitetelecaraibes-mq",
+    "name": "Identite Tele Caraibes",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "category": "Music",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/Atsf6Cd.png",
+    "epgId": "IdentiteTeleCaraibes.mq",
+    "streams": [
+      {
+        "url": "https://vdo2.pro-fhi.net:3769/stream/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "548p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telezoukla-mq",
+    "name": "Tele Zoukla",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "category": "Music",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/lWYKgPC.png",
+    "epgId": "TeleZoukla.mq",
+    "streams": [
+      {
+        "url": "https://vdo.pro-fhi.net:3228/stream/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvfamille-mq",
+    "name": "TV Famille",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "category": "Family",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/Kbfihk5.png",
+    "epgId": "TVFamille.mq",
+    "streams": [
+      {
+        "url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viaatv-mq",
+    "name": "ViaATV",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/Ua6rOXo.png",
+    "epgId": "ViaATV.mq",
+    "streams": [
+      {
+        "url": "https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zitatatv-mq",
+    "name": "Zitata TV",
+    "country": "MQ",
+    "countryName": "Martinique",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/KJmefse.png",
+    "epgId": "ZitataTV.mq",
+    "streams": [
+      {
+        "url": "https://live.zitata.tv/direct-hls/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

@@ -1,539 +1,907 @@
 [
   {
-    "id": "colors-bangla-hd",
-    "name": "Colors Bangla HD",
+    "id": "anandatv-bd",
+    "name": "Ananda TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "Entertainment",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/jkbo7Qe.png",
+    "epgId": "AnandaTV.bd",
+    "streams": [
+      {
+        "url": "http://103.99.249.139/anandatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "anandatv-bd",
+    "name": "Ananda TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "Entertainment",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/jkbo7Qe.png",
+    "epgId": "AnandaTV.bd",
+    "streams": [
+      {
+        "url": "http://103.99.249.139/anandatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atnbangla-bd",
+    "name": "ATN Bangla",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "colors-bangla-hd",
+    "logo": "https://i.imgur.com/K1HmMRz.png",
+    "epgId": "ATNBangla.bd",
     "streams": [
       {
-        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+        "url": "http://tvsen5.aynascope.net/atnbangla/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 513,
-        "last_checked": "2026-09-21T11:17:28.889Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       },
       {
-        "url": "https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+        "url": "https://tvsen5.aynaott.com/atnbangla/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 290,
-        "last_checked": "2026-09-21T11:17:34.542Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "colors-bangla-hd",
-    "name": "Colors Bangla HD",
+    "id": "atnbangla-bd",
+    "name": "ATN Bangla",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "colors-bangla-hd",
+    "logo": "https://i.imgur.com/K1HmMRz.png",
+    "epgId": "ATNBangla.bd",
     "streams": [
       {
-        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+        "url": "http://tvsen5.aynascope.net/atnbangla/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 513,
-        "last_checked": "2026-09-21T11:17:28.889Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       },
       {
-        "url": "https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+        "url": "https://tvsen5.aynaott.com/atnbangla/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 290,
-        "last_checked": "2026-09-21T11:17:34.542Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "bangla-jago",
-    "name": "Bangla Jago",
+    "id": "atnmusic-bd",
+    "name": "ATN Music",
     "country": "BD",
     "countryName": "Bangladesh",
-    "category": "freecatv",
+    "category": "Music",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "bangla-jago",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681",
+    "epgId": "ATNMusic.bd",
     "streams": [
       {
-        "url": "http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 699,
-        "last_checked": "2026-09-21T11:17:29.074Z"
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "high-news",
-    "name": "HIGH NEWS",
-    "country": "BD",
-    "countryName": "Bangladesh",
-    "category": "freecatv",
-    "language": "ben",
-    "languageName": "Bengali",
-    "logo": "",
-    "epgId": "high-news",
-    "streams": [
-      {
-        "url": "http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8",
-        "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 754,
-        "last_checked": "2026-09-21T11:17:29.130Z"
-      }
-    ]
-  },
-  {
-    "id": "abp-ananda",
-    "name": "ABP Ananda",
-    "country": "BD",
-    "countryName": "Bangladesh",
-    "category": "freecatv",
-    "language": "ben",
-    "languageName": "Bengali",
-    "logo": "",
-    "epgId": "abp-ananda",
-    "streams": [
-      {
-        "url": "https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8",
-        "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 856,
-        "last_checked": "2026-09-21T11:17:29.232Z"
-      },
-      {
-        "url": "https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8",
-        "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 12,
-        "last_checked": "2026-09-21T11:17:41.219Z"
-      }
-    ]
-  },
-  {
-    "id": "abp-ananda",
-    "name": "ABP Ananda",
-    "country": "BD",
-    "countryName": "Bangladesh",
-    "category": "freecatv",
-    "language": "ben",
-    "languageName": "Bengali",
-    "logo": "",
-    "epgId": "abp-ananda",
-    "streams": [
-      {
-        "url": "https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8",
-        "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 856,
-        "last_checked": "2026-09-21T11:17:29.232Z"
-      },
-      {
-        "url": "https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8",
-        "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 12,
-        "last_checked": "2026-09-21T11:17:41.219Z"
-      }
-    ]
-  },
-  {
-    "id": "channel-y",
-    "name": "Channel Y",
+    "id": "banglavision-bd",
+    "name": "Bangla Vision",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "channel-y",
+    "logo": "https://i.imgur.com/nCWgp38.png",
+    "epgId": "BanglaVision.bd",
     "streams": [
       {
-        "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
+        "url": "https://tvsen5.aynaott.com/banglavision/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 1764,
-        "last_checked": "2026-09-21T11:17:30.139Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "ekushey-tv",
+    "id": "boishakhitv-bd",
+    "name": "Boishakhi TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/gxL05Y4.png",
+    "epgId": "BoishakhiTV.bd",
+    "streams": [
+      {
+        "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channels-bd",
+    "name": "Channel S",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "Culture",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png",
+    "epgId": "ChannelS.bd",
+    "streams": [
+      {
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dbcnews-bd",
+    "name": "DBC News",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "News",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/Qbt6q4z.png",
+    "epgId": "DBCNews.bd",
+    "streams": [
+      {
+        "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "durontotv-bd",
+    "name": "Duronto TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "Kids",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/gXsddRK.png",
+    "epgId": "DurontoTV.bd",
+    "streams": [
+      {
+        "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ekhontv-bd",
+    "name": "Ekhon TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "Business",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/tRrDh6z.png",
+    "epgId": "EkhonTV.bd",
+    "streams": [
+      {
+        "url": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ekusheytv-bd",
     "name": "Ekushey TV",
     "country": "BD",
     "countryName": "Bangladesh",
+    "category": "News",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/lRpkGHj.png",
+    "epgId": "EkusheyTV.bd",
+    "streams": [
+      {
+        "url": "https://ekusheyserver.com/etvlivesn.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gazitv-bd",
+    "name": "Gazi TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "ekushey-tv",
+    "logo": "https://i.imgur.com/2Lzhiq6.png",
+    "epgId": "GaziTV.bd",
     "streams": [
       {
-        "url": "http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 3362,
-        "last_checked": "2026-09-21T11:17:31.739Z"
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       },
       {
-        "url": "https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 134,
-        "last_checked": "2026-09-21T11:17:41.065Z"
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "ekushey-tv",
-    "name": "Ekushey TV",
+    "id": "gazitv-bd",
+    "name": "Gazi TV",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "ekushey-tv",
+    "logo": "https://i.imgur.com/2Lzhiq6.png",
+    "epgId": "GaziTV.bd",
     "streams": [
       {
-        "url": "http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 3362,
-        "last_checked": "2026-09-21T11:17:31.739Z"
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       },
       {
-        "url": "https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 134,
-        "last_checked": "2026-09-21T11:17:41.065Z"
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "hollywood-hd",
-    "name": "Hollywood HD",
+    "id": "greentv-bd",
+    "name": "Green TV",
     "country": "BD",
     "countryName": "Bangladesh",
-    "category": "freecatv",
+    "category": "Family",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "hollywood-hd",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg",
+    "epgId": "GreenTV.bd",
     "streams": [
       {
-        "url": "http://iptv.prosto.tv:7000/ch50/video.m3u8",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 4385,
-        "last_checked": "2026-09-21T11:17:32.761Z"
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "eekushey-tv",
-    "name": "Eekushey TV",
+    "id": "maasrangatv-bd",
+    "name": "Maasranga TV",
     "country": "BD",
     "countryName": "Bangladesh",
-    "category": "General",
+    "category": "Entertainment",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "eekushey-tv",
+    "logo": "https://i.imgur.com/uVZJMed.png",
+    "epgId": "MaasrangaTV.bd",
     "streams": [
       {
-        "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 365,
-        "last_checked": "2026-09-21T11:17:32.767Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "zee-bangla-hd",
-    "name": "ZEE BANGLA HD",
+    "id": "maasrangatv-bd",
+    "name": "Maasranga TV",
     "country": "BD",
     "countryName": "Bangladesh",
-    "category": "General",
+    "category": "Entertainment",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "zee-bangla-hd",
+    "logo": "https://i.imgur.com/uVZJMed.png",
+    "epgId": "MaasrangaTV.bd",
     "streams": [
       {
-        "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8",
+        "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 415,
-        "last_checked": "2026-09-21T11:17:34.551Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "zee-bangla-30min-left",
-    "name": "Zee Bangla (30min Left)",
+    "id": "madanichannelbangla-bd",
+    "name": "Madani Channel Bangla",
     "country": "BD",
     "countryName": "Bangladesh",
-    "category": "General",
+    "category": "Religious",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "zee-bangla-30min-left",
+    "logo": "https://i.imgur.com/vIJTVia.png",
+    "epgId": "MadaniChannelBangla.bd",
     "streams": [
       {
-        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8",
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 636,
-        "last_checked": "2026-09-21T11:17:34.862Z"
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "star-jalsha-hd-30min-left",
-    "name": "Star Jalsha HD (30min Left)",
-    "country": "BD",
-    "countryName": "Bangladesh",
-    "category": "General",
-    "language": "ben",
-    "languageName": "Bengali",
-    "logo": "",
-    "epgId": "star-jalsha-hd-30min-left",
-    "streams": [
-      {
-        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8",
-        "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 83,
-        "last_checked": "2026-09-21T11:17:35.716Z"
-      }
-    ]
-  },
-  {
-    "id": "zee-bangla",
-    "name": "Zee Bangla 🇮🇳",
+    "id": "matribhumitv-bd",
+    "name": "Matribhumi TV",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "zee-bangla",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg",
+    "epgId": "MatribhumiTV.bd",
     "streams": [
       {
-        "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8",
+        "url": "http://live.playmax.live/matribhumi/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 1265,
-        "last_checked": "2026-09-21T11:17:35.817Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "zee-bangla-hd-2",
-    "name": "Zee Bangla HD 2",
+    "id": "moviebangla-bd",
+    "name": "Movie Bangla",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "Movies",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681",
+    "epgId": "MovieBangla.bd",
+    "streams": [
+      {
+        "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mytv-bd",
+    "name": "My TV",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "zee-bangla-hd-2",
+    "logo": "https://i.imgur.com/475qK5T.png",
+    "epgId": "MyTV.bd",
     "streams": [
       {
-        "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/thenayeemparvez.m3u8",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 76,
-        "last_checked": "2026-09-21T11:17:35.893Z"
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "ekusey-tv",
-    "name": "Ekusey TV",
+    "id": "nantv-bd",
+    "name": "NAN TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "News",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png",
+    "epgId": "NANTV.bd",
+    "streams": [
+      {
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "news21banglatv-bd",
+    "name": "News 21 Bangla TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "News",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/ijuJfmd.png",
+    "epgId": "News21BanglaTV.bd",
+    "streams": [
+      {
+        "url": "http://103.190.133.68:1935/news21live/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nexustv-bd",
+    "name": "Nexus TV",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "ekusey-tv",
+    "logo": "https://i.imgur.com/XcJZKg4.png",
+    "epgId": "NexusTV.bd",
     "streams": [
       {
-        "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 1449,
-        "last_checked": "2026-09-21T11:17:37.183Z"
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "qatar-tv-2-720p",
-    "name": "Qatar TV 2 (720p)",
+    "id": "ntv-bd",
+    "name": "NTV",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "qatar-tv-2-720p",
+    "logo": "https://i.imgur.com/l75bDTx.png",
+    "epgId": "NTV.bd",
     "streams": [
       {
-        "url": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
+        "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 871,
-        "last_checked": "2026-09-21T11:17:38.055Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "cgtn",
-    "name": "CGTN",
+    "id": "rajdhanitv-bd",
+    "name": "Rajdhani TV",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "cgtn",
+    "logo": "https://i.imgur.com/MBm2gPz.jpeg",
+    "epgId": "RajdhaniTV.bd",
     "streams": [
       {
-        "url": "http://iptv.prosto.tv:7000/ch84/video.m3u8",
+        "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 373,
-        "last_checked": "2026-09-21T11:17:38.346Z"
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "abp-ananda-akamai",
-    "name": "ABP Ananda (akamai)",
+    "id": "rtv-bd",
+    "name": "RTV",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "abp-ananda-akamai",
+    "logo": "https://i.imgur.com/yu8ugqt.png",
+    "epgId": "RTV.bd",
     "streams": [
       {
-        "url": "https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8",
+        "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 206,
-        "latency_ms": 3178,
-        "last_checked": "2026-09-21T11:17:41.193Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "ekushe-tv-ch-1",
-    "name": "Ekushe TV Ch-1",
+    "id": "rtv-bd",
+    "name": "RTV",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "ekushe-tv-ch-1",
+    "logo": "https://i.imgur.com/yu8ugqt.png",
+    "epgId": "RTV.bd",
     "streams": [
       {
-        "url": "http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 254,
-        "last_checked": "2026-09-21T11:17:41.320Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
   {
-    "id": "sony-aath",
-    "name": "Sony Aath",
+    "id": "rtv-bd",
+    "name": "RTV",
     "country": "BD",
     "countryName": "Bangladesh",
     "category": "General",
     "language": "ben",
     "languageName": "Bengali",
-    "logo": "",
-    "epgId": "sony-aath",
+    "logo": "https://i.imgur.com/yu8ugqt.png",
+    "epgId": "RTV.bd",
     "streams": [
       {
-        "url": "http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8",
+        "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8",
         "type": "hls",
-        "status": "active",
-        "quality": "HD",
-        "http_status": 200,
-        "latency_ms": 3681,
-        "last_checked": "2026-09-21T11:17:42.027Z"
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtv-bd",
+    "name": "RTV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/yu8ugqt.png",
+    "epgId": "RTV.bd",
+    "streams": [
+      {
+        "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rupashibanglatv-bd",
+    "name": "Rupashi Bangla TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "Entertainment",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/9idHs20.png",
+    "epgId": "RupashiBanglaTV.bd",
+    "streams": [
+      {
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tsports-bd",
+    "name": "T Sports",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "Sports",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/2JzlorD.png",
+    "epgId": "TSports.bd",
+    "streams": [
+      {
+        "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "voktatv-bd",
+    "name": "Vokta TV",
+    "country": "BD",
+    "countryName": "Bangladesh",
+    "category": "General",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/szAGBCU.png",
+    "epgId": "VoktaTV.bd",
+    "streams": [
+      {
+        "url": "https://vokta.raytahost.com/live/voktatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   }

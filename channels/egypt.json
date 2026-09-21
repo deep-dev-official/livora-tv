@@ -1,0 +1,332 @@
+[
+  {
+    "id": "aghapytv-eg",
+    "name": "Aghapy TV",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg",
+    "epgId": "AghapyTV.eg",
+    "streams": [
+      {
+        "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alghadtv-eg",
+    "name": "Al Ghad TV",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/ga6NXb9.png",
+    "epgId": "AlGhadTV.eg",
+    "streams": [
+      {
+        "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "almasriyah-eg",
+    "name": "Al Masriyah",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/wTeOM2J.png",
+    "epgId": "AlMasriyah.eg",
+    "streams": [
+      {
+        "url": "http://185.9.2.18/chid_247/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "coptictv-eg",
+    "name": "Coptic TV",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://www.ctvchannel.tv/images/CTV-logo-white.png",
+    "epgId": "CopticTV.eg",
+    "streams": [
+      {
+        "url": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elradio9090fm-eg",
+    "name": "El Radio 9090 FM",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://www.9090.fm/images/logo.png",
+    "epgId": "ElRadio9090FM.eg",
+    "streams": [
+      {
+        "url": "https://9090video.mobtada.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hudatv-eg",
+    "name": "Huda TV",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/1UUjU26.png",
+    "epgId": "HudaTV.eg",
+    "streams": [
+      {
+        "url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "koogitv-eg",
+    "name": "Koogi TV",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "Kids",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/zojMTP9.png",
+    "epgId": "KoogiTV.eg",
+    "streams": [
+      {
+        "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mazzika-eg",
+    "name": "Mazzika",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/P7PUHIx.png",
+    "epgId": "Mazzika.eg",
+    "streams": [
+      {
+        "url": "http://149.100.11.235:8080/Mazzika/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbc1egypt-eg",
+    "name": "MBC 1 Egypt",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/CiA3plN.png",
+    "epgId": "MBC1Egypt.eg",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcmasr2-eg",
+    "name": "MBC Masr 2",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/KHo7Gtn.png",
+    "epgId": "MBCMasr2.eg",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcmasr-eg",
+    "name": "MBC Masr",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/o2elx0u.png",
+    "epgId": "MBCMasr.eg",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mixhollywood-eg",
+    "name": "Mix Hollywood",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "Movies",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/1ENdbZn.png",
+    "epgId": "MixHollywood.eg",
+    "streams": [
+      {
+        "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nogoumfmtv-eg",
+    "name": "NogoumFMTV",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/krp3kgv.png",
+    "epgId": "NogoumFMTV.eg",
+    "streams": [
+      {
+        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "672p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rotanacinemaegypt-eg",
+    "name": "Rotana Cinema Egypt",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "Movies",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/dGlKoLW.png",
+    "epgId": "RotanaCinemaEgypt.eg",
+    "streams": [
+      {
+        "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://rotana.net/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "watantv-eg",
+    "name": "Watan TV",
+    "country": "EG",
+    "countryName": "Egypt",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/pZyKaUH.png",
+    "epgId": "WatanTV.eg",
+    "streams": [
+      {
+        "url": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

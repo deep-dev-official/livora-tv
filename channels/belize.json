@@ -1,0 +1,46 @@
+[
+  {
+    "id": "flexstudioradiotv-bz",
+    "name": "Flex Studio Radio TV",
+    "country": "BZ",
+    "countryName": "Belize",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/tZjqtxd.png",
+    "epgId": "FlexStudioRadioTV.bz",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "guadalupemedia-bz",
+    "name": "Guadalupe Media",
+    "country": "BZ",
+    "countryName": "Belize",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/EfaOwRE.png",
+    "epgId": "GuadalupeMedia.bz",
+    "streams": [
+      {
+        "url": "https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

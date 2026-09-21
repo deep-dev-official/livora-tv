@@ -1,0 +1,6352 @@
+[
+  {
+    "id": "1plus1international-ua",
+    "name": "1+1 International",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/LOY0rtp.png",
+    "epgId": "1Plus1International.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://158.101.222.193:88/georgia_play.php?id=1plus1international",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "1plus1international-ua",
+    "name": "1+1 International",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/LOY0rtp.png",
+    "epgId": "1Plus1International.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://158.101.222.193:88/georgia_play.php?id=1plus1international",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "1plus1marafon-ua",
+    "name": "1+1 Marafon",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/smQKa2G.png",
+    "epgId": "1Plus1Marafon.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "1plus1ukraina-ua",
+    "name": "1+1 Ukraina",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/FlG7npq.png",
+    "epgId": "1Plus1Ukraina.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/219/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/1plus1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "1plus1ukraina-ua",
+    "name": "1+1 Ukraina",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/FlG7npq.png",
+    "epgId": "1Plus1Ukraina.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/219/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/1plus1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "2plus2-ua",
+    "name": "2+2",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/v6KBgqk.png",
+    "epgId": "2Plus2.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/173/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/2plus2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "2plus2-ua",
+    "name": "2+2",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/v6KBgqk.png",
+    "epgId": "2Plus2.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/173/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/2plus2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "2plus2marathon-ua",
+    "name": "2+2 Marathon",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/v6KBgqk.png",
+    "epgId": "2Plus2Marathon.ua",
+    "streams": [
+      {
+        "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "4evercinema-ua",
+    "name": "4ever Cinema",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/vFOgVbG.png",
+    "epgId": "4everCinema.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/258/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "4everdrama-ua",
+    "name": "4ever Drama",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Series",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/CD3vZU6.png",
+    "epgId": "4everDrama.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/260/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "4evermusic-ua",
+    "name": "4ever Music",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/UJ5oaeU.png",
+    "epgId": "4everMusic.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/257/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "4evertheater-ua",
+    "name": "4ever Theater",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/kfngtev.png",
+    "epgId": "4everTheater.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/259/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "6sotok-ua",
+    "name": "6 sotok",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/icSN0GI.png",
+    "epgId": "6sotok.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/405/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "24kanal-ua",
+    "name": "24 Kanal",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
+    "epgId": "24Kanal.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "100news-ua",
+    "name": "100% NEWS",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/bSXKdK5.png",
+    "epgId": "100NEWS.ua",
+    "streams": [
+      {
+        "url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "366tv-ua",
+    "name": "36.6 TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Lifestyle",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/sC0K5BZ.png",
+    "epgId": "366TV.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "apostrophetv-ua",
+    "name": "Apostrophe TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/LCXvbQX.png",
+    "epgId": "ApostropheTV.ua",
+    "streams": [
+      {
+        "url": "https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "curl/8.16.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "armytv-ua",
+    "name": "Army TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/pGByjbh.png",
+    "epgId": "ArmyTV.ua",
+    "streams": [
+      {
+        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://195.54.52.40/test/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "armytv-ua",
+    "name": "Army TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/pGByjbh.png",
+    "epgId": "ArmyTV.ua",
+    "streams": [
+      {
+        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://195.54.52.40/test/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atr-ua",
+    "name": "ATR",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Culture",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/lRJAXC7.png",
+    "epgId": "ATR.ua",
+    "streams": [
+      {
+        "url": "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/244/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atr-ua",
+    "name": "ATR",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Culture",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/lRJAXC7.png",
+    "epgId": "ATR.ua",
+    "streams": [
+      {
+        "url": "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/244/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "avers-ua",
+    "name": "Avers",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/rHHz94D.png",
+    "epgId": "Avers.ua",
+    "streams": [
+      {
+        "url": "https://avers.pp.ua/hls/efir.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "baltatv-ua",
+    "name": "Balta TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://cdn.teleon.tv/logo/balta-tv-ua.png",
+    "epgId": "BaltaTV.ua",
+    "streams": [
+      {
+        "url": "http://194.50.51.34/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "768p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bambarbiatv-ua",
+    "name": "BamBarBia.TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Travel",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/zdRvy87.png",
+    "epgId": "BamBarBiaTV.ua",
+    "streams": [
+      {
+        "url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bigudi-ua",
+    "name": "Bigudi",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/dy9ZKG1.png",
+    "epgId": "Bigudi.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/340/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "black-ua",
+    "name": "Black",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/iSzAO32.png",
+    "epgId": "Black.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/283/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "blackseatv-ua",
+    "name": "Black Sea TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/D8YJzHV.png",
+    "epgId": "BlackSeaTV.ua",
+    "streams": [
+      {
+        "url": "https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "curl/8.16.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bolt-ua",
+    "name": "Bolt",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/YdIHXOR.png",
+    "epgId": "Bolt.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/73/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel5-ua",
+    "name": "Channel 5",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/a9JJXPk.png",
+    "epgId": "Channel5.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/291/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel5-ua",
+    "name": "Channel 5",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/a9JJXPk.png",
+    "epgId": "Channel5.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/291/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel7ukraine-ua",
+    "name": "Channel 7 Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/9Ll0BIo.png",
+    "epgId": "Channel7Ukraine.ua",
+    "streams": [
+      {
+        "url": "http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel7ukraine-ua",
+    "name": "Channel 7 Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/9Ll0BIo.png",
+    "epgId": "Channel7Ukraine.ua",
+    "streams": [
+      {
+        "url": "http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel8-ua",
+    "name": "Channel 8",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/6Sr5vJD.png",
+    "epgId": "Channel8.ua",
+    "streams": [
+      {
+        "url": "https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "curl/8.16.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel11-ua",
+    "name": "Channel 11",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/y78saaG.png",
+    "epgId": "Channel11.ua",
+    "streams": [
+      {
+        "url": "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel24-ua",
+    "name": "Channel 24",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
+    "epgId": "Channel24.ua",
+    "streams": [
+      {
+        "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chemodantv-ua",
+    "name": "Chemodan TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Education",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/1WjGN8u.png",
+    "epgId": "ChemodanTV.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/399/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cherniveckiypromin-ua",
+    "name": "Cherniveckiy promin",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/O9nQ5po.png",
+    "epgId": "Cherniveckiypromin.ua",
+    "streams": [
+      {
+        "url": "https://langate.tv/promin/live_720/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chpinfo-ua",
+    "name": "ChP info",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/2cYzroj.png",
+    "epgId": "ChPinfo.ua",
+    "streams": [
+      {
+        "url": "http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cineplus-ua",
+    "name": "Cine+",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/SAtdShq.png",
+    "epgId": "CinePlus.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&master=567",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cineplushit-ua",
+    "name": "Cine+ Hit",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/b3FcLU1.png",
+    "epgId": "CinePlusHit.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cinepluskids-ua",
+    "name": "Cine+ Kids",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Kids",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/lmfc2u4.png",
+    "epgId": "CinePlusKids.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cinepluskids-ua",
+    "name": "Cine+ Kids",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Kids",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/lmfc2u4.png",
+    "epgId": "CinePlusKids.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cinepluslegend-ua",
+    "name": "Cine+ Legend",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/QtOfzSH.png",
+    "epgId": "CinePlusLegend.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "continente-ua",
+    "name": "Continent E",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/9M9Y9hh.png",
+    "epgId": "ContinentE.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/449/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dacha-ua",
+    "name": "Dacha",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/xq6p9BZ.png",
+    "epgId": "Dacha.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dim-ua",
+    "name": "DIM",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/3cjaXIF.png",
+    "epgId": "DIM.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/383/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dim-ua",
+    "name": "DIM",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/3cjaXIF.png",
+    "epgId": "DIM.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/383/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "divisport-ua",
+    "name": "DiviSport",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png",
+    "epgId": "DiviSport.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/457/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dniprotv-ua",
+    "name": "Dnipro TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/mbPTVh1.png",
+    "epgId": "DniproTV.ua",
+    "streams": [
+      {
+        "url": "http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "donbassonline-ua",
+    "name": "Donbass Online",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/8h3kOI1.png",
+    "epgId": "DonbassOnline.ua",
+    "streams": [
+      {
+        "url": "http://176.110.1.30:1935/live/donbasonline/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dynamokyivtv-ua",
+    "name": "Dynamo Kyiv TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/ymxmyyG.png",
+    "epgId": "DynamoKyivTV.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/396/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ekotv-ua",
+    "name": "Eko TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Science",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/WovATGb.png",
+    "epgId": "EkoTV.ua",
+    "streams": [
+      {
+        "url": "https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "curl/8.16.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "enterfilm-ua",
+    "name": "Enter-Film",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/wQbiGs6.png",
+    "epgId": "EnterFilm.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/322/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/enter_film_ua/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "enterfilm-ua",
+    "name": "Enter-Film",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/wQbiGs6.png",
+    "epgId": "EnterFilm.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/322/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/enter_film_ua/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "equalympic-ua",
+    "name": "Equalympic",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/ixSj4H7.png",
+    "epgId": "Equalympic.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/485/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "espresotv-ua",
+    "name": "Espreso TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/xNatV8K.png",
+    "epgId": "EspresoTV.ua",
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/EspresoTVUA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "espresotv-ua",
+    "name": "Espreso TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/xNatV8K.png",
+    "epgId": "EspresoTV.ua",
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/EspresoTVUA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "espresotv-ua",
+    "name": "Espreso TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/xNatV8K.png",
+    "epgId": "EspresoTV.ua",
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/EspresoTVUA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "espresotv-ua",
+    "name": "Espreso TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/xNatV8K.png",
+    "epgId": "EspresoTV.ua",
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/EspresoTVUA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eumusic-ua",
+    "name": "EU Music",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/fJdvyrG.png",
+    "epgId": "EUMusic.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/261/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ewtnukraine-ua",
+    "name": "EWTN Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Religious",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "",
+    "epgId": "EWTNUkraine.ua",
+    "streams": [
+      {
+        "url": "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fashion-ua",
+    "name": "Fashion",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://ukrtvr.org/images/%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B5%D0%B6%D1%96/%D1%81%D1%82%D0%B0%D1%80%D1%96_%D0%BB%D0%BE%D0%B3%D0%BE/FASHION%20TV%20UKRAINE/FASHION%20TV%20UKRAINE.png",
+    "epgId": "Fashion.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/288/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fashiontv-ua",
+    "name": "Fashion TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Lifestyle",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Bk7W39G.png",
+    "epgId": "FashionTV.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/287/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fauna-ua",
+    "name": "Fauna",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Education",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/UwQcDTm.png",
+    "epgId": "Fauna.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/401/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "filmuadrama-ua",
+    "name": "FilmUADrama",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/Hnwsh5d.png",
+    "epgId": "FilmUADrama.ua",
+    "streams": [
+      {
+        "url": "http://88.99.215.227/FilmUADrama/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "filmuadrama-ua",
+    "name": "FilmUADrama",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/Hnwsh5d.png",
+    "epgId": "FilmUADrama.ua",
+    "streams": [
+      {
+        "url": "http://88.99.215.227/FilmUADrama/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "filmualive-ua",
+    "name": "FilmUA Live",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/kizTBgS.png",
+    "epgId": "FilmUALive.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "freedom-ua",
+    "name": "FREEDOM",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
+    "epgId": "FREEDOM.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "freedom-ua",
+    "name": "FREEDOM",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
+    "epgId": "FREEDOM.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "freedom-ua",
+    "name": "FREEDOM",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
+    "epgId": "FREEDOM.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "git-ua",
+    "name": "GIT",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/b5K5Uwh.png",
+    "epgId": "GIT.ua",
+    "streams": [
+      {
+        "url": "https://stream.uagit.tv/gittv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "glas-ua",
+    "name": "Glas",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Religious",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/l5FEP9w.png",
+    "epgId": "Glas.ua",
+    "streams": [
+      {
+        "url": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "happyradiotv-ua",
+    "name": "Happy Radio TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/PAw36qJ.png",
+    "epgId": "HappyRadioTV.ua",
+    "streams": [
+      {
+        "url": "https://tv.mediacp.eu:8081/happyradio/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hersonplyus-ua",
+    "name": "Herson Plyus",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/DKDVoyD.png",
+    "epgId": "HersonPlyus.ua",
+    "streams": [
+      {
+        "url": "http://46.175.163.130/ks_plus/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "history2ukraine-ua",
+    "name": "History2 Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Documentary",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png",
+    "epgId": "History2Ukraine.ua",
+    "streams": [
+      {
+        "url": "http://dtv.vol.net.ua/H2-HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "historyukraine-ua",
+    "name": "History Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Documentary",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png",
+    "epgId": "HistoryUkraine.ua",
+    "streams": [
+      {
+        "url": "http://dtv.vol.net.ua/History_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hollywoodukraine-ua",
+    "name": "Hollywood Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/eVqPfRk.png",
+    "epgId": "HollywoodUkraine.ua",
+    "streams": [
+      {
+        "url": "http://dtv.vol.net.ua/Hollywood-HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hopechannelukraine-ua",
+    "name": "Hope Channel Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Religious",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/mUx2P29.png",
+    "epgId": "HopeChannelUkraine.ua",
+    "streams": [
+      {
+        "url": "http://nadiya.home-net.com.ua/mob/mystream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "curl/8.16.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hopechannelukraine-ua",
+    "name": "Hope Channel Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Religious",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/mUx2P29.png",
+    "epgId": "HopeChannelUkraine.ua",
+    "streams": [
+      {
+        "url": "http://nadiya.home-net.com.ua/mob/mystream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "curl/8.16.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ictv2-ua",
+    "name": "ICTV2",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/J4zlRGv.png",
+    "epgId": "ICTV2.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/368/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ictv-ua",
+    "name": "ICTV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/97W1NOW.png",
+    "epgId": "ICTV.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/158/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/ICTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ictv-ua",
+    "name": "ICTV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/97W1NOW.png",
+    "epgId": "ICTV.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/158/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/ICTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "inratingtv-ua",
+    "name": "InRating TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/l753AgQ.png",
+    "epgId": "InRatingTV.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/147/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "inter-ua",
+    "name": "Inter",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/FHRagMx.png",
+    "epgId": "Inter.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/174/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/Inter/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "inter-ua",
+    "name": "Inter",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/FHRagMx.png",
+    "epgId": "Inter.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/174/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/Inter/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "interplus-ua",
+    "name": "Inter+",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/INTER%2B_HD_%282021%29.webp",
+    "epgId": "InterPlus.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "irt-ua",
+    "name": "IRT",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/tDTUIRm.png",
+    "epgId": "IRT.ua",
+    "streams": [
+      {
+        "url": "https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "islandia-ua",
+    "name": "Islandia",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/9ql4jXv.png",
+    "epgId": "Islandia.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "itv-ua",
+    "name": "ITV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/NZdT9yJ.png",
+    "epgId": "ITV.ua",
+    "streams": [
+      {
+        "url": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "itv-ua",
+    "name": "ITV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/NZdT9yJ.png",
+    "epgId": "ITV.ua",
+    "streams": [
+      {
+        "url": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "iuatv-ua",
+    "name": "I-UA.tv",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/t1OABVZ.png",
+    "epgId": "IUAtv.ua",
+    "streams": [
+      {
+        "url": "https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "izmailtv-ua",
+    "name": "Izmail TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/CxsUpGz.png",
+    "epgId": "IzmailTV.ua",
+    "streams": [
+      {
+        "url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "384p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "k1-ua",
+    "name": "K1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/uuRGpEn.png",
+    "epgId": "K1.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/270/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "k2-ua",
+    "name": "K2",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/NMhydr5.png",
+    "epgId": "K2.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/324/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "k2-ua",
+    "name": "K2",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/NMhydr5.png",
+    "epgId": "K2.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/324/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kino1-ua",
+    "name": "Kino 1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/FWVxBWI.png",
+    "epgId": "Kino1.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/395/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kino2-ua",
+    "name": "Kino 2",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://upload.wikimedia.org/wikipedia/uk/3/35/KINO_2_UA.png",
+    "epgId": "Kino2.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/465/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kinoliving-ua",
+    "name": "Kinoliving",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/9XJcmBY.png",
+    "epgId": "Kinoliving.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/445/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kinowood-ua",
+    "name": "Kinowood",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/PQcXNBI.png",
+    "epgId": "Kinowood.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/446/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "konkurentukraine-ua",
+    "name": "Konkurent Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0_%282025%29.png",
+    "epgId": "KonkurentUkraine.ua",
+    "streams": [
+      {
+        "url": "http://775065.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg%2FdG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA%3D%3D&master=311",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kuskus-ua",
+    "name": "Kus-Kus",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/4a4qX0P.png",
+    "epgId": "KusKus.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kvartaltv-ua",
+    "name": "Kvartal TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/6ZYWizP.png",
+    "epgId": "KvartalTV.ua",
+    "streams": [
+      {
+        "url": "http://158.101.222.193:88/georgia_play.php?id=kvartal95",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kyiv-ua",
+    "name": "Kyiv",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/TVuCY4N.png",
+    "epgId": "Kyiv.ua",
+    "streams": [
+      {
+        "url": "https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lale-ua",
+    "name": "Lale",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Kids",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/CNhqVHd.png",
+    "epgId": "Lale.ua",
+    "streams": [
+      {
+        "url": "https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "curl/8.16.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lugansk24-ua",
+    "name": "Lugansk 24",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/AihoVc0.png",
+    "epgId": "Lugansk24.ua",
+    "streams": [
+      {
+        "url": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "luxtv-ua",
+    "name": "Lux TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://scontent.flwo7-2.fna.fbcdn.net/v/t39.30808-6/299781096_437110311778402_8892509274877595133_n.jpg?stp=dst-jpg_tt6&cstp=mx180x180&ctp=s180x180&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=EzuiZun2Z7MQ7kNvwGwamqs&_nc_oc=AdqD7PmQFEBj-meclATFIEyi6MtiFVk9c93NRL42MuImlgxWXE69pUu8Bu6GTe58F94&_nc_zt=23&_nc_ht=scontent.flwo7-2.fna&_nc_gid=SF_zuZPK3NFlr2priMZhNg&_nc_ss=7b289&oh=00_Af_6K02GxmV5xAnJuNY3TYXdQX6dhtAUCPy2dd4G1wb1hA&oe=6A3CB9A7",
+    "epgId": "LuxTV.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84&channel=431",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "m1-ua",
+    "name": "M1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/wbRdUw8.png",
+    "epgId": "M1.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/218/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://158.101.222.193:88/georgia_play.php?id=m1",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/M1-HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "m1-ua",
+    "name": "M1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/wbRdUw8.png",
+    "epgId": "M1.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/218/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://158.101.222.193:88/georgia_play.php?id=m1",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/M1-HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "m1-ua",
+    "name": "M1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/wbRdUw8.png",
+    "epgId": "M1.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/218/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://158.101.222.193:88/georgia_play.php?id=m1",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/M1-HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "m2-ua",
+    "name": "M2",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/AfcBWCg.png",
+    "epgId": "M2.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/330/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maincastcybersport-ua",
+    "name": "Maincast Cybersport",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
+    "epgId": "MaincastCybersport.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/487/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maincastsport-ua",
+    "name": "Maincast Sport",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
+    "epgId": "MaincastSport.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/490/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "masontv-ua",
+    "name": "Mason TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/lySRePP.png",
+    "epgId": "MasonTV.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/346/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mega-ua",
+    "name": "Mega",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Hsr0EvO.png",
+    "epgId": "Mega.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/325/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/MEGA_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mega-ua",
+    "name": "Mega",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Hsr0EvO.png",
+    "epgId": "Mega.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/325/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/MEGA_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mega-ua",
+    "name": "Mega",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Hsr0EvO.png",
+    "epgId": "Mega.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/325/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/MEGA_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "megogomusic-ua",
+    "name": "Megogo Music",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/MEGOGO_Music_%28%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%29.png",
+    "epgId": "MegogoMusic.ua",
+    "streams": [
+      {
+        "url": "https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "curl/8.16.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mistoplus-ua",
+    "name": "Misto+",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/NHjg1Jm.png",
+    "epgId": "MistoPlus.ua",
+    "streams": [
+      {
+        "url": "http://93.78.206.172:8080/stream3/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "muzvar-ua",
+    "name": "Muzvar",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Klu5k9U.png",
+    "epgId": "Muzvar.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "myukrainaplus-ua",
+    "name": "My Ukraina+",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg/250px-%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg.png",
+    "epgId": "MyUkrainaPlus.ua",
+    "streams": [
+      {
+        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "myukrainatv-ua",
+    "name": "My-Ukraina TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/OD84Oga.png",
+    "epgId": "MyUkrainaTV.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/442/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nashelubimoekinoukraine-ua",
+    "name": "Nashe Lubimoe Kino Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/%D0%9D%D0%B0%D1%88%D0%B5_%D0%A3%D0%BB%D1%8E%D0%B1%D0%BB%D0%B5%D0%BD%D0%B5_%D0%9A%D1%96%D0%BD%D0%BE.webp",
+    "epgId": "NasheLubimoeKinoUkraine.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/456/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nashemusic-ua",
+    "name": "NASHE Music",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/ienkbOc.png",
+    "epgId": "NASHEMusic.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographicwild-ua",
+    "name": "National Geographic Wild",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Documentary",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "epgId": "NationalGeographicWild.ua",
+    "streams": [
+      {
+        "url": "http://46.32.176.50/natgeowild/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographicwild-ua",
+    "name": "National Geographic Wild",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Documentary",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "epgId": "NationalGeographicWild.ua",
+    "streams": [
+      {
+        "url": "http://46.32.176.50/natgeowild/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nauka-ua",
+    "name": "Nauka",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Science",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/ClGdZCe.png",
+    "epgId": "Nauka.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/403/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nikijunior-ua",
+    "name": "Niki Junior",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Kids",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/DrHsNin.png",
+    "epgId": "NikiJunior.ua",
+    "streams": [
+      {
+        "url": "http://158.101.222.193:88/georgia_play.php?id=nikijunior",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/262/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nikijunior-ua",
+    "name": "Niki Junior",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Kids",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/DrHsNin.png",
+    "epgId": "NikiJunior.ua",
+    "streams": [
+      {
+        "url": "http://158.101.222.193:88/georgia_play.php?id=nikijunior",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/262/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nikikids-ua",
+    "name": "Niki Kids",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Kids",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/HH4HZ2J.png",
+    "epgId": "NikiKids.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/271/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "novyichannel-ua",
+    "name": "Novyi Channel",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Dnfhdsm.png",
+    "epgId": "NovyiChannel.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/157/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntktv-ua",
+    "name": "NTK TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",
+    "epgId": "NTKTV.ua",
+    "streams": [
+      {
+        "url": "https://stream.ntktv.ua/s/ntk/ntk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntn-ua",
+    "name": "NTN",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/AmyCNJv.png",
+    "epgId": "NTN.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/326/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/NTN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntn-ua",
+    "name": "NTN",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/AmyCNJv.png",
+    "epgId": "NTN.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/326/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/NTN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntn-ua",
+    "name": "NTN",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/AmyCNJv.png",
+    "epgId": "NTN.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/326/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/NTN/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "obozrevateltv-ua",
+    "name": "Obozrevatel TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/ubldSBv.png",
+    "epgId": "ObozrevatelTV.ua",
+    "streams": [
+      {
+        "url": "https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "curl/8.16.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "obshchestvennoenezavisimoetelevidenie-ua",
+    "name": "Obshchestvennoe Nezavisimoe Televidenie",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/jFP50g2.png",
+    "epgId": "ObshchestvennoeNezavisimoeTelevidenie.ua",
+    "streams": [
+      {
+        "url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oneplanet-ua",
+    "name": "One Planet",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/N7FBNjV.png",
+    "epgId": "OnePlanet.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/448/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/OnePlanet/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oneplanet-ua",
+    "name": "One Planet",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/N7FBNjV.png",
+    "epgId": "OnePlanet.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/448/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/OnePlanet/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "orbitatv-ua",
+    "name": "Orbita TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png",
+    "epgId": "OrbitaTV.ua",
+    "streams": [
+      {
+        "url": "http://ftp.orbita.dn.ua/hls/orbita.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "otse-ua",
+    "name": "OTSE",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/SeRNJIS.png",
+    "epgId": "OTSE.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/329/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "otv-ua",
+    "name": "OTV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/TkGGGAj.png",
+    "epgId": "OTV.ua",
+    "streams": [
+      {
+        "url": "https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pershiyxtvmedia-ua",
+    "name": "Pershiy XTV Media",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/M7oDym3.png",
+    "epgId": "PershiyXTVMedia.ua",
+    "streams": [
+      {
+        "url": "https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pershyi-ua",
+    "name": "Pershyi",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/osTQLED.png",
+    "epgId": "Pershyi.ua",
+    "streams": [
+      {
+        "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pershyiavtomobilnyi-ua",
+    "name": "Pershyi avtomobilnyi",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Auto",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/ul93Lse.png",
+    "epgId": "Pershyiavtomobilnyi.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/404/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pershyizahidnyi-ua",
+    "name": "Pershyi Zahidnyi",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Legislative",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/SnljTbR.png",
+    "epgId": "PershyiZahidnyi.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/246/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pervyygorodskoyodessa-ua",
+    "name": "Pervyy gorodskoy. Odessa",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/8qdc6aO.png",
+    "epgId": "PervyygorodskoyOdessa.ua",
+    "streams": [
+      {
+        "url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pervyygorodskoyodessa-ua",
+    "name": "Pervyy gorodskoy. Odessa",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/8qdc6aO.png",
+    "epgId": "PervyygorodskoyOdessa.ua",
+    "streams": [
+      {
+        "url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pixeltv-ua",
+    "name": "Pixel TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Kids",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/ECro8Ah.png",
+    "epgId": "PixelTV.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/323/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pixeltv-ua",
+    "name": "Pixel TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Kids",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/ECro8Ah.png",
+    "epgId": "PixelTV.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/323/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "plusplus-ua",
+    "name": "PLUSPLUS",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Kids",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/9bPhStm.png",
+    "epgId": "PLUSPLUS.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/339/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pravdatut-ua",
+    "name": "PravdaTUT",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/gvgFoFB.png",
+    "epgId": "PravdaTUT.ua",
+    "streams": [
+      {
+        "url": "https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prokino-ua",
+    "name": "Prokino",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Vm9nbi8.png",
+    "epgId": "Prokino.ua",
+    "streams": [
+      {
+        "url": "http://dtv.vol.net.ua/ProKino/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ptv-ua",
+    "name": "PTV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/WDHoSVz.png",
+    "epgId": "PTV.ua",
+    "streams": [
+      {
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "quiztv-ua",
+    "name": "Quiz TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/I0ZE0M4.png",
+    "epgId": "QuizTV.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/397/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radatv-ua",
+    "name": "Rada TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Legislative",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png",
+    "epgId": "RadaTV.ua",
+    "streams": [
+      {
+        "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "curl/8.16.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "raz1-ua",
+    "name": "RAZ 1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://s2.vcdn.biz/static/f/7607683721/image.jpg/pt/c192x192x4",
+    "epgId": "RAZ1.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/463/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "raz2-ua",
+    "name": "RAZ 2",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://s7.vcdn.biz/static/f/7607698621/image.jpg/pt/c192x192x4",
+    "epgId": "RAZ2.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/464/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "raz3-ua",
+    "name": "RAZ 3",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225",
+    "epgId": "RAZ3.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/UA_kvartal/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "raz3-ua",
+    "name": "RAZ 3",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225",
+    "epgId": "RAZ3.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/UA_kvartal/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "raz3international-ua",
+    "name": "RAZ 3 International",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225",
+    "epgId": "RAZ3International.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "renometv-ua",
+    "name": "Renome TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/qL1uNlW.png",
+    "epgId": "RenomeTV.ua",
+    "streams": [
+      {
+        "url": "http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "reporter-ua",
+    "name": "Reporter",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/LyA3kBR.png",
+    "epgId": "Reporter.ua",
+    "streams": [
+      {
+        "url": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rivne1-ua",
+    "name": "Rivne 1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/ytz7jYV.png",
+    "epgId": "Rivne1.ua",
+    "streams": [
+      {
+        "url": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rybalka-ua",
+    "name": "Rybalka",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Outdoor",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/NafW0xT.png",
+    "epgId": "Rybalka.ua",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "salttv-ua",
+    "name": "Salt TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Y3FRF0g.png",
+    "epgId": "SaltTV.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/398/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "setantasportsplusukraine-ua",
+    "name": "Setanta Sports+ Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/gHAP4p0.png",
+    "epgId": "SetantaSportsPlusUkraine.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/390/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/Setanta_SportsHD_UA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "setantasportsplusukraine-ua",
+    "name": "Setanta Sports+ Ukraine",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/gHAP4p0.png",
+    "epgId": "SetantaSportsPlusUkraine.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/390/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/Setanta_SportsHD_UA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sferatv-ua",
+    "name": "Sfera-TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/S1h1t0G.png",
+    "epgId": "SferaTV.ua",
+    "streams": [
+      {
+        "url": "http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sferatv-ua",
+    "name": "Sfera-TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/S1h1t0G.png",
+    "epgId": "SferaTV.ua",
+    "streams": [
+      {
+        "url": "http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "simon-ua",
+    "name": "Simon",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/FfYVCJC.png",
+    "epgId": "Simon.ua",
+    "streams": [
+      {
+        "url": "https://hls.simon.ua/live-HD/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sk1-ua",
+    "name": "SK 1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/XiXwr5h.png",
+    "epgId": "SK1.ua",
+    "streams": [
+      {
+        "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sk1-ua",
+    "name": "SK 1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/XiXwr5h.png",
+    "epgId": "SK1.ua",
+    "streams": [
+      {
+        "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sonce-ua",
+    "name": "Sonce",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/MrkQLTp.png",
+    "epgId": "Sonce.ua",
+    "streams": [
+      {
+        "url": "https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "curl/8.16.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sonceplus-ua",
+    "name": "Sonce+",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Sonce%2B_%28logo%29_2024.png",
+    "epgId": "SoncePlus.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn&master=1103",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport1-ua",
+    "name": "Sport 1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Zjb8awW.png",
+    "epgId": "Sport1.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/391/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/sport1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport1-ua",
+    "name": "Sport 1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Zjb8awW.png",
+    "epgId": "Sport1.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/391/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/sport1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport1baltic-ua",
+    "name": "Sport 1 Baltic",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/aBY7QK4.png",
+    "epgId": "Sport1Baltic.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/461/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport2-ua",
+    "name": "Sport 2",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/vk0j1mY.png",
+    "epgId": "Sport2.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/392/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport3-ua",
+    "name": "Sport 3",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/qkvavfH.png",
+    "epgId": "Sport3.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/393/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport4-ua",
+    "name": "Sport 4",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/xW6oGIx.png",
+    "epgId": "Sport4.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/394/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport5-ua",
+    "name": "Sport 5",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg",
+    "epgId": "Sport5.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/212/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "stb-ua",
+    "name": "STB",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/DCbfsyW.png",
+    "epgId": "STB.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/156/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/STB/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "stb-ua",
+    "name": "STB",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/DCbfsyW.png",
+    "epgId": "STB.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/156/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/STB/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "superplus-ua",
+    "name": "Super+",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Super%2B_UA_%282024%29.svg/960px-Super%2B_UA_%282024%29.svg.png",
+    "epgId": "SuperPlus.ua",
+    "streams": [
+      {
+        "url": "http://dtv.vol.net.ua/super_plus/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suspilnedonbas-ua",
+    "name": "Suspilne. Donbas",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/GPXrpJC.png",
+    "epgId": "SuspilneDonbas.ua",
+    "streams": [
+      {
+        "url": "http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suspilnekrym-ua",
+    "name": "Suspilne. Krym",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/m7znCes.png",
+    "epgId": "SuspilneKrym.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/436/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suspilnekultura-ua",
+    "name": "Suspilne. Kultura",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Culture",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/hHMJV8e.png",
+    "epgId": "SuspilneKultura.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/435/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suspilnekyiv-ua",
+    "name": "Suspilne. Kyiv",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/MeR1dJw.png",
+    "epgId": "SuspilneKyiv.ua",
+    "streams": [
+      {
+        "url": "https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suspilnesport-ua",
+    "name": "Suspilne. Sport",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/16IhU0M.png",
+    "epgId": "SuspilneSport.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/444/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "svarozhychy-ua",
+    "name": "Svarozhychy",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/VnAgQA4.png",
+    "epgId": "Svarozhychy.ua",
+    "streams": [
+      {
+        "url": "http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "svitplus-ua",
+    "name": "Svit+",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Svit%2B_%28HD_Logo%29.png/250px-Svit%2B_%28HD_Logo%29.png",
+    "epgId": "SvitPlus.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/358/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telekanalrai-ua",
+    "name": "Telekanal RAI",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Ouv51WB.png",
+    "epgId": "TelekanalRAI.ua",
+    "streams": [
+      {
+        "url": "https://stream.rai.ua/rai/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://92.253.233.136/uploads/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telekanalrai-ua",
+    "name": "Telekanal RAI",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Ouv51WB.png",
+    "epgId": "TelekanalRAI.ua",
+    "streams": [
+      {
+        "url": "https://stream.rai.ua/rai/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://92.253.233.136/uploads/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televsesvit-ua",
+    "name": "Televsesvit",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/ygexoKO.png",
+    "epgId": "Televsesvit.ua",
+    "streams": [
+      {
+        "url": "https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ternopil1-ua",
+    "name": "Ternopil 1",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "News",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/f5EtIzV.png",
+    "epgId": "Ternopil1.ua",
+    "streams": [
+      {
+        "url": "https://ott.columbus.te.ua/ternopil1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "terra-ua",
+    "name": "Terra",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/HFY61gj.png",
+    "epgId": "Terra.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/402/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tet-ua",
+    "name": "TET",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Wu6wtbe.png",
+    "epgId": "TET.ua",
+    "streams": [
+      {
+        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/338/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/TET/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tet-ua",
+    "name": "TET",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Wu6wtbe.png",
+    "epgId": "TET.ua",
+    "streams": [
+      {
+        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/338/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/TET/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tet-ua",
+    "name": "TET",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Wu6wtbe.png",
+    "epgId": "TET.ua",
+    "streams": [
+      {
+        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/338/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/TET/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tistv-ua",
+    "name": "TIS TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/jDaoUt5.png",
+    "epgId": "TISTV.ua",
+    "streams": [
+      {
+        "url": "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trkaleks-ua",
+    "name": "TRK Aleks",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/1uW5ex8.png",
+    "epgId": "TRKAleks.ua",
+    "streams": [
+      {
+        "url": "http://46.46.112.223/live/livestream1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trkildana-ua",
+    "name": "TRK Ildana",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/cN7VRYv.png",
+    "epgId": "TRKIldana.ua",
+    "streams": [
+      {
+        "url": "https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trofei-ua",
+    "name": "Trofei",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Outdoor",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/VDt4mKB.png",
+    "epgId": "Trofei.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/357/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tuso-ua",
+    "name": "TUSO",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Shop",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/kb4B9wN.png",
+    "epgId": "TUSO.ua",
+    "streams": [
+      {
+        "url": "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv4-ua",
+    "name": "TV-4",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/gOtk81v.png",
+    "epgId": "TV4.ua",
+    "streams": [
+      {
+        "url": "https://vs2126.vcdn.biz/c27a63fda28be51f87a7d0046de1f4b8_megogo/live/hls/b/700_2490/u_sid/0/o/71044361/rsid/393818da-edd4-44bd-b2db-4ebf226abd3d/u_uid/0/u_vod/1/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/5.63.189.224*asn/u_did/web_0voqy4czLIxD4iwJZ0z0GctEMa9GIH7A/type.live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv7plus-ua",
+    "name": "TV7+",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/PcTDZ8e.png",
+    "epgId": "TV7Plus.ua",
+    "streams": [
+      {
+        "url": "https://tv7plus.com/hls/tv7_site.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tva-ua",
+    "name": "TVA",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/PtTQ5lv.png",
+    "epgId": "TVA.ua",
+    "streams": [
+      {
+        "url": "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tva-ua",
+    "name": "TVA",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/PtTQ5lv.png",
+    "epgId": "TVA.ua",
+    "streams": [
+      {
+        "url": "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tva-ua",
+    "name": "TVA",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/PtTQ5lv.png",
+    "epgId": "TVA.ua",
+    "streams": [
+      {
+        "url": "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tva-ua",
+    "name": "TVA",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/PtTQ5lv.png",
+    "epgId": "TVA.ua",
+    "streams": [
+      {
+        "url": "http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tviyserial-ua",
+    "name": "Tviy serial",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Series",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tviy_Serial.svg/250px-Tviy_Serial.svg.png",
+    "epgId": "Tviyserial.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/466/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "uamusic-ua",
+    "name": "UA Music",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png?_=20230223183537",
+    "epgId": "UAMusic.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/281/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "unianserial-ua",
+    "name": "UNIAN Serial",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/Alu78zn.png",
+    "epgId": "UNIANSerial.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/341/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "upltv-ua",
+    "name": "UPL.TV",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Sports",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://s4.vcdn.biz/static/f/9219528031/image.jpg",
+    "epgId": "UPLTV.ua",
+    "streams": [
+      {
+        "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "utravel-ua",
+    "name": "U Travel",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Travel",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/U_Travel.svg/1920px-U_Travel.svg.png",
+    "epgId": "UTravel.ua",
+    "streams": [
+      {
+        "url": "http://str2.iptvhd.ru:8080/travel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatexplore-ua",
+    "name": "Viasat Explore",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/RBqKj6R.png",
+    "epgId": "ViasatExplore.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Viasat-Explore/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatexplore-ua",
+    "name": "Viasat Explore",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/RBqKj6R.png",
+    "epgId": "ViasatExplore.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Viasat-Explore/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasathistory-ua",
+    "name": "Viasat History",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Documentary",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/39qZ68J.png",
+    "epgId": "ViasatHistory.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasathistory-ua",
+    "name": "Viasat History",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Documentary",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/39qZ68J.png",
+    "epgId": "ViasatHistory.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatkino-ua",
+    "name": "Viasat Kino",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/io0WAkA.png",
+    "epgId": "ViasatKino.ua",
+    "streams": [
+      {
+        "url": "http://176.61.157.250/TV1000/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://cool-tv.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+        "last_checked": null
+      },
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatkino-ua",
+    "name": "Viasat Kino",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/io0WAkA.png",
+    "epgId": "ViasatKino.ua",
+    "streams": [
+      {
+        "url": "http://176.61.157.250/TV1000/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://cool-tv.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+        "last_checked": null
+      },
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatkino-ua",
+    "name": "Viasat Kino",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/io0WAkA.png",
+    "epgId": "ViasatKino.ua",
+    "streams": [
+      {
+        "url": "http://176.61.157.250/TV1000/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://cool-tv.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+        "last_checked": null
+      },
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatkino-ua",
+    "name": "Viasat Kino",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/io0WAkA.png",
+    "epgId": "ViasatKino.ua",
+    "streams": [
+      {
+        "url": "http://176.61.157.250/TV1000/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://cool-tv.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+        "last_checked": null
+      },
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatkino-ua",
+    "name": "Viasat Kino",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/io0WAkA.png",
+    "epgId": "ViasatKino.ua",
+    "streams": [
+      {
+        "url": "http://176.61.157.250/TV1000/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://cool-tv.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+        "last_checked": null
+      },
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatkinoaction-ua",
+    "name": "Viasat Kino Action",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/HwsNIDK.png",
+    "epgId": "ViasatKinoAction.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatkinoaction-ua",
+    "name": "Viasat Kino Action",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/HwsNIDK.png",
+    "epgId": "ViasatKinoAction.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatkinocomedy-ua",
+    "name": "Viasat Kino Comedy",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/qVYt8kP.png",
+    "epgId": "ViasatKinoComedy.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatkinoworld-ua",
+    "name": "Viasat Kino World",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/GPiE2Rb.png",
+    "epgId": "ViasatKinoWorld.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatnature-ua",
+    "name": "Viasat Nature",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/YY0LfBA.png",
+    "epgId": "ViasatNature.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&master=77",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatserial-ua",
+    "name": "Viasat Serial",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Movies",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg",
+    "epgId": "ViasatSerial.ua",
+    "streams": [
+      {
+        "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "http://live.tvstitch.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vivalatino-ua",
+    "name": "¡Viva Latino!",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Music",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/KRakHAq.png",
+    "epgId": "VivaLatino.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/285/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "z-ua",
+    "name": "Z",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "General",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/E5aV5aa.png",
+    "epgId": "Z.ua",
+    "streams": [
+      {
+        "url": "https://stream.ztv.zp.ua/hls/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zoom-ua",
+    "name": "Zoom",
+    "country": "UA",
+    "countryName": "Ukraine",
+    "category": "Entertainment",
+    "language": "ukr",
+    "languageName": "Ukrainian",
+    "logo": "https://i.imgur.com/EzIiXIT.png",
+    "epgId": "Zoom.ua",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/327/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  }
+]

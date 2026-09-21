@@ -1,0 +1,748 @@
+[
+  {
+    "id": "baltitv-md",
+    "name": "Balti TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/S1vEqZp.png",
+    "epgId": "BaltiTV.md",
+    "streams": [
+      {
+        "url": "http://77.89.199.174:8000/play/1024/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "busuioctv-md",
+    "name": "Busuioc TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Music",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/CQtfBPu.png",
+    "epgId": "BusuiocTV.md",
+    "streams": [
+      {
+        "url": "https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hitfm-md",
+    "name": "Hit FM",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Music",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/QwqM5j6.png",
+    "epgId": "HitFM.md",
+    "streams": [
+      {
+        "url": "https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moldova1-md",
+    "name": "Moldova 1",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/ZbQY56v.png",
+    "epgId": "Moldova1.md",
+    "streams": [
+      {
+        "url": "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moldova2-md",
+    "name": "Moldova 2",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/Hv6Nk8A.png",
+    "epgId": "Moldova2.md",
+    "streams": [
+      {
+        "url": "https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moldovatv-md",
+    "name": "Moldova TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/gPMlDCP.png",
+    "epgId": "MoldovaTV.md",
+    "streams": [
+      {
+        "url": "https://moldovatv.ro/live-tv/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://89.38.8.130:39435/",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moldovatv-md",
+    "name": "Moldova TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/gPMlDCP.png",
+    "epgId": "MoldovaTV.md",
+    "streams": [
+      {
+        "url": "https://moldovatv.ro/live-tv/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://89.38.8.130:39435/",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "n4-md",
+    "name": "N4",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/W9UwCv7.png",
+    "epgId": "N4.md",
+    "streams": [
+      {
+        "url": "https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "noroctv-md",
+    "name": "Noroc TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Music",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/XvYqpqG.png",
+    "epgId": "NorocTV.md",
+    "streams": [
+      {
+        "url": "https://live.noroc.tv/noroc/noroc.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://media.noroc.tv/noroc/bitrate_1080p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "noroctv-md",
+    "name": "Noroc TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Music",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/XvYqpqG.png",
+    "epgId": "NorocTV.md",
+    "streams": [
+      {
+        "url": "https://live.noroc.tv/noroc/noroc.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://media.noroc.tv/noroc/bitrate_1080p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "privesceutv-md",
+    "name": "Privesc.Eu TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Legislative",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/ukBacSn.png",
+    "epgId": "PrivescEuTV.md",
+    "streams": [
+      {
+        "url": "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "2160p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "protvchisinau-md",
+    "name": "PRO TV Chisinau",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/X5PYRxF.png",
+    "epgId": "PROTVChisinau.md",
+    "streams": [
+      {
+        "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiochisinau-md",
+    "name": "Radio Chisinau",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Music",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/56/Radio_Chi%C8%99in%C4%83u.svg",
+    "epgId": "RadioChisinau.md",
+    "streams": [
+      {
+        "url": "https://radiochisinau.md/hls/RChisinau.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://radiochisinau.md/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiomoldova-md",
+    "name": "Radio Moldova",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/wNifDCo.png",
+    "epgId": "RadioMoldova.md",
+    "streams": [
+      {
+        "url": "https://radiolive.trm.md/hls_rma/actualitati.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiomoldovamuzical-md",
+    "name": "Radio Moldova Muzical",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Music",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/ZFHWst4.png",
+    "epgId": "RadioMoldovaMuzical.md",
+    "streams": [
+      {
+        "url": "https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiomoldovatineret-md",
+    "name": "Radio Moldova Tineret",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Entertainment",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/h2oZuyc.png",
+    "epgId": "RadioMoldovaTineret.md",
+    "streams": [
+      {
+        "url": "https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "realitateatv-md",
+    "name": "Realitatea TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "News",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/Ul4IIfX.png",
+    "epgId": "RealitateaTV.md",
+    "streams": [
+      {
+        "url": "https://realitatealive.md/tv/rlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sortv-md",
+    "name": "Sor TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/BcfZgD8.png",
+    "epgId": "SorTV.md",
+    "streams": [
+      {
+        "url": "http://188.237.212.16:8888/live/cameraFeed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "startv-md",
+    "name": "Star TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/6BBnG6f.png",
+    "epgId": "StarTV.md",
+    "streams": [
+      {
+        "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tezaurtv-md",
+    "name": "Tezaur TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Music",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/eAagwLW.png",
+    "epgId": "TezaurTV.md",
+    "streams": [
+      {
+        "url": "https://tezaurtv.md/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tsv-md",
+    "name": "TSV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/6p4weSK.png",
+    "epgId": "TSV.md",
+    "streams": [
+      {
+        "url": "https://tsv.md/stream/hls/tsv-online/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv8-md",
+    "name": "TV8",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "News",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/Rsn4oUh.png",
+    "epgId": "TV8.md",
+    "streams": [
+      {
+        "url": "http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvrmoldova-md",
+    "name": "TVR Moldova",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/wDe9gL2.png",
+    "epgId": "TVRMoldova.md",
+    "streams": [
+      {
+        "url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1440p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvrmoldova-md",
+    "name": "TVR Moldova",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/wDe9gL2.png",
+    "epgId": "TVRMoldova.md",
+    "streams": [
+      {
+        "url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1440p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvrmoldova-md",
+    "name": "TVR Moldova",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/wDe9gL2.png",
+    "epgId": "TVRMoldova.md",
+    "streams": [
+      {
+        "url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1440p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "voceabasarabieitv-md",
+    "name": "Vocea Basarabiei TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/irP8QLs.png",
+    "epgId": "VoceaBasarabieiTV.md",
+    "streams": [
+      {
+        "url": "https://storage.voceabasarabiei.md/vocea/vocea.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "voceabasarabieitv-md",
+    "name": "Vocea Basarabiei TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "General",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/irP8QLs.png",
+    "epgId": "VoceaBasarabieiTV.md",
+    "streams": [
+      {
+        "url": "https://storage.voceabasarabiei.md/vocea/vocea.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wesporttv-md",
+    "name": "We Sport TV",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Sports",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/vJZgpOb.png",
+    "epgId": "WeSportTV.md",
+    "streams": [
+      {
+        "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zonam-md",
+    "name": "Zona M",
+    "country": "MD",
+    "countryName": "Moldova",
+    "category": "Music",
+    "language": "ron",
+    "languageName": "Romanian",
+    "logo": "https://i.imgur.com/a6Dy3ao.png",
+    "epgId": "ZonaM.md",
+    "streams": [
+      {
+        "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

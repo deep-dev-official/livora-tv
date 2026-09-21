@@ -1,0 +1,306 @@
+[
+  {
+    "id": "dr1-dk",
+    "name": "DR1",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "General",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.imgur.com/OETzsOI.png",
+    "epgId": "DR1.dk",
+    "streams": [
+      {
+        "url": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dr2-dk",
+    "name": "DR2",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "Culture",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.imgur.com/7bYtukP.png",
+    "epgId": "DR2.dk",
+    "streams": [
+      {
+        "url": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "drramasjang-dk",
+    "name": "DR Ramasjang",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "Kids",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/960px-DR_Ramasjang_2020.svg.png",
+    "epgId": "DRRamasjang.dk",
+    "streams": [
+      {
+        "url": "https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "drtv-dk",
+    "name": "DRTV",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "General",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png",
+    "epgId": "DRTV.dk",
+    "streams": [
+      {
+        "url": "https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanalhovedstaden-dk",
+    "name": "Kanal Hovedstaden",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "General",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.imgur.com/afujBQs.jpeg",
+    "epgId": "KanalHovedstaden.dk",
+    "streams": [
+      {
+        "url": "http://khkbh.dk:8080/hls/livestream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kkrtv-dk",
+    "name": "KKRtv",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "Religious",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.imgur.com/TbtjWHI.png",
+    "epgId": "KKRtv.dk",
+    "streams": [
+      {
+        "url": "http://stream.kkr.dk/live/kkr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kkrtv-dk",
+    "name": "KKRtv",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "Religious",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.imgur.com/TbtjWHI.png",
+    "epgId": "KKRtv.dk",
+    "streams": [
+      {
+        "url": "http://stream.kkr.dk/live/kkr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv2bornholm-dk",
+    "name": "TV 2/Bornholm",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "General",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.imgur.com/cEOpXU6.png",
+    "epgId": "TV2Bornholm.dk",
+    "streams": [
+      {
+        "url": "https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv2sport-dk",
+    "name": "TV 2 Sport",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "Sports",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.imgur.com/76Zzs5R.png",
+    "epgId": "TV2Sport.dk",
+    "streams": [
+      {
+        "url": "https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv3plus-dk",
+    "name": "TV3+",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "General",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.imgur.com/pj9jZHP.png",
+    "epgId": "TV3Plus.dk",
+    "streams": [
+      {
+        "url": "https://7nyaler.streamhostingcdn.top/stream/49/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvfromthedanishparliament-dk",
+    "name": "TV from the Danish Parliament",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "Legislative",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.imgur.com/RqQDUzX.png",
+    "epgId": "TVfromtheDanishParliament.dk",
+    "streams": [
+      {
+        "url": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmarineret-dk",
+    "name": "TVMarineret",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "General",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.imgur.com/r1Caske.jpg",
+    "epgId": "TVMarineret.dk",
+    "streams": [
+      {
+        "url": "http://sdream.info:8080/hls/livestream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvstorbyen-dk",
+    "name": "TV Storbyen",
+    "country": "DK",
+    "countryName": "Denmark",
+    "category": "General",
+    "language": "dan",
+    "languageName": "Danish",
+    "logo": "https://i.ibb.co/X5h3hJL/tvstb.png",
+    "epgId": "TVStorbyen.dk",
+    "streams": [
+      {
+        "url": "https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

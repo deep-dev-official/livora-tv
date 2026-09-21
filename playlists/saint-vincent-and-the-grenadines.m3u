@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="SVGTV.vc" tvg-name="SVG TV" tvg-logo="https://i.imgur.com/fGLz34S.png" group-title="General",SVG TV (576p)
+https://customer-1drvoydzrkhpnbh4.cloudflarestream.com/64f76b07446d5d8801c4b9f6192ac79b/manifest/video.m3u8

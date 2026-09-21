@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="RTBGo.bn" tvg-name="RTB Go" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="General",RTB Go (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-name="RTB Sukmaindera" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="General",RTB Sukmaindera (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8

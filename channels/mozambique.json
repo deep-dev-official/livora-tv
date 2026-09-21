@@ -1,0 +1,272 @@
+[
+  {
+    "id": "mntv-mz",
+    "name": "MNTV",
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "category": "Business",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png",
+    "epgId": "MNTV.mz",
+    "streams": [
+      {
+        "url": "https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "reinoinfantil-mz",
+    "name": "Reino Infantil",
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "category": "Kids",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/oAygpDw.png",
+    "epgId": "ReinoInfantil.mz",
+    "streams": [
+      {
+        "url": "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvm-mz",
+    "name": "TVM",
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/Vqv7R3Y.png",
+    "epgId": "TVM.mz",
+    "streams": [
+      {
+        "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.tvm.co.mz/hls/tvm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvm-mz",
+    "name": "TVM",
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/Vqv7R3Y.png",
+    "epgId": "TVM.mz",
+    "streams": [
+      {
+        "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.tvm.co.mz/hls/tvm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvm-mz",
+    "name": "TVM",
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/Vqv7R3Y.png",
+    "epgId": "TVM.mz",
+    "streams": [
+      {
+        "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.tvm.co.mz/hls/tvm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmanamocambique-mz",
+    "name": "TV Mana Mocambique",
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "category": "Religious",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/R5YrV5s.png",
+    "epgId": "TVManaMocambique.mz",
+    "streams": [
+      {
+        "url": "http://145.239.5.177/141/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmanamocambique-mz",
+    "name": "TV Mana Mocambique",
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "category": "Religious",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/R5YrV5s.png",
+    "epgId": "TVManaMocambique.mz",
+    "streams": [
+      {
+        "url": "http://145.239.5.177/141/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvminternacional-mz",
+    "name": "TVM Internacional",
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/fRV6p50.png",
+    "epgId": "TVMInternacional.mz",
+    "streams": [
+      {
+        "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvvitoria-mz",
+    "name": "TV Vitoria",
+    "country": "MZ",
+    "countryName": "Mozambique",
+    "category": "Entertainment",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/HlWzzfj.png",
+    "epgId": "TVVitoria.mz",
+    "streams": [
+      {
+        "url": "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

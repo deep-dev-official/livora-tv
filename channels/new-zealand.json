@@ -1,0 +1,404 @@
+[
+  {
+    "id": "channel200-nz",
+    "name": "Channel 200",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/gAebu4q.png",
+    "epgId": "Channel200.nz",
+    "streams": [
+      {
+        "url": "https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "firstlight-nz",
+    "name": "Firstlight",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/gtDROeT.png",
+    "epgId": "Firstlight.nz",
+    "streams": [
+      {
+        "url": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "juicetv-nz",
+    "name": "Juice TV",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/WaaaW0w.png",
+    "epgId": "JuiceTV.nz",
+    "streams": [
+      {
+        "url": "https://juicex.nz/hls/mystream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kordiatv-nz",
+    "name": "Kordia TV",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/BQ0qWzX.png",
+    "epgId": "KordiaTV.nz",
+    "streams": [
+      {
+        "url": "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "parliamenttv-nz",
+    "name": "Parliament TV",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "Legislative",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/2aHW4q7.png",
+    "epgId": "ParliamentTV.nz",
+    "streams": [
+      {
+        "url": "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "skyopen-nz",
+    "name": "Sky Open",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/eYyYojh.png",
+    "epgId": "SkyOpen.nz",
+    "streams": [
+      {
+        "url": "https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "skyopen-nz",
+    "name": "Sky Open",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/eYyYojh.png",
+    "epgId": "SkyOpen.nz",
+    "streams": [
+      {
+        "url": "https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tereo-nz",
+    "name": "Te Reo",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "General",
+    "language": "mri",
+    "languageName": "Maori",
+    "logo": "https://i.imgur.com/3CNvYUN.png",
+    "epgId": "TeReo.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/te-reo.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnz1-nz",
+    "name": "TVNZ 1",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Nx76HUE.png",
+    "epgId": "TVNZ1.nz",
+    "streams": [
+      {
+        "url": "https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnz2-nz",
+    "name": "TVNZ 2",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/9sV4dbH.png",
+    "epgId": "TVNZ2.nz",
+    "streams": [
+      {
+        "url": "https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnzduke-nz",
+    "name": "TVNZ DUKE",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/tJf9DEI.png",
+    "epgId": "TVNZDUKE.nz",
+    "streams": [
+      {
+        "url": "https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wairarapatv-nz",
+    "name": "Wairarapa TV",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/xm4KBwE.png",
+    "epgId": "WairarapaTV.nz",
+    "streams": [
+      {
+        "url": "https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wairarapatv-nz",
+    "name": "Wairarapa TV",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/xm4KBwE.png",
+    "epgId": "WairarapaTV.nz",
+    "streams": [
+      {
+        "url": "https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wairarapatv-nz",
+    "name": "Wairarapa TV",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/xm4KBwE.png",
+    "epgId": "WairarapaTV.nz",
+    "streams": [
+      {
+        "url": "https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "whakaatamaori-nz",
+    "name": "Whakaata Maori",
+    "country": "NZ",
+    "countryName": "New Zealand",
+    "category": "General",
+    "language": "mri",
+    "languageName": "Maori",
+    "logo": "https://i.imgur.com/oT3PrHZ.png",
+    "epgId": "WhakaataMaori.nz",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/maori-tv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

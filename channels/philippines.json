@@ -1,0 +1,288 @@
+[
+  {
+    "id": "abantetv-ph",
+    "name": "Abante TV",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",
+    "epgId": "AbanteTV.ph",
+    "streams": [
+      {
+        "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bilyonaryonewschannel-ph",
+    "name": "Bilyonaryo News Channel",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/iTH9Z0j.png",
+    "epgId": "BilyonaryoNewsChannel.ph",
+    "streams": [
+      {
+        "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cctn47-ph",
+    "name": "CCTN 47",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "Religious",
+    "language": "tgl",
+    "languageName": "Tagalog",
+    "logo": "https://i.imgur.com/IFpAmvW.png",
+    "epgId": "CCTN47.ph",
+    "streams": [
+      {
+        "url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cltv36-ph",
+    "name": "CLTV 36",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "General",
+    "language": "tgl",
+    "languageName": "Tagalog",
+    "logo": "https://i.imgur.com/2fGhl7q.png",
+    "epgId": "CLTV36.ph",
+    "streams": [
+      {
+        "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hopechannelphilippines-ph",
+    "name": "Hope Channel Philippines",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/LB2vmMt.png",
+    "epgId": "HopeChannelPhilippines.ph",
+    "streams": [
+      {
+        "url": "https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "incradio-ph",
+    "name": "INC Radio",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "Religious",
+    "language": "tgl",
+    "languageName": "Tagalog",
+    "logo": "https://i.imgur.com/6cKju6d.png",
+    "epgId": "INCRadio.ph",
+    "streams": [
+      {
+        "url": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "inctv-ph",
+    "name": "INC TV",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "Religious",
+    "language": "tgl",
+    "languageName": "Tagalog",
+    "logo": "https://i.imgur.com/iC11uWK.png",
+    "epgId": "INCTV.ph",
+    "streams": [
+      {
+        "url": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kooltv-ph",
+    "name": "Kool TV",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "Music",
+    "language": "tgl",
+    "languageName": "Tagalog",
+    "logo": "https://yt3.googleusercontent.com/opqPJfc0Ptd9ohl4R-2hPjaquIAdWuqvRb0T_LBCmfyGznIvfGN0HOlcWZk6Lj2jk11s2Zlk=s1200-c-k-c0x00ffffff-no-rj",
+    "epgId": "KoolTV.ph",
+    "streams": [
+      {
+        "url": "https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "livingasiachannel-ph",
+    "name": "Living Asia Channel",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "Travel",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/q3UToRM.png",
+    "epgId": "LivingAsiaChannel.ph",
+    "streams": [
+      {
+        "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mindanownetworktv-ph",
+    "name": "Mindanow Network TV",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/xBlYirh.jpeg",
+    "epgId": "MindanowNetworkTV.ph",
+    "streams": [
+      {
+        "url": "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "premiersports2-ph",
+    "name": "Premier Sports 2",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/UQeXWd2.png",
+    "epgId": "PremierSports2.ph",
+    "streams": [
+      {
+        "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "premiersports-ph",
+    "name": "Premier Sports",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/BURPHzI.png",
+    "epgId": "PremierSports.ph",
+    "streams": [
+      {
+        "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "smni-ph",
+    "name": "SMNI",
+    "country": "PH",
+    "countryName": "Philippines",
+    "category": "General",
+    "language": "tgl",
+    "languageName": "Tagalog",
+    "logo": "https://i.imgur.com/9QhVnqY.jpg",
+    "epgId": "SMNI.ph",
+    "streams": [
+      {
+        "url": "https://stream.kdlc.click/hls/0/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

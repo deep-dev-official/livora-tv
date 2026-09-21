@@ -1,0 +1,236 @@
+[
+  {
+    "id": "dodomatv-tz",
+    "name": "Dodoma TV",
+    "country": "TZ",
+    "countryName": "Tanzania",
+    "category": "General",
+    "language": "swa",
+    "languageName": "Swahili",
+    "logo": "https://i.imgur.com/bLq9eFa.png",
+    "epgId": "DodomaTV.tz",
+    "streams": [
+      {
+        "url": "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ibntv-tz",
+    "name": "IBN TV",
+    "country": "TZ",
+    "countryName": "Tanzania",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/hkV51ij.png",
+    "epgId": "IBNTV.tz",
+    "streams": [
+      {
+        "url": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ibntvafrica-tz",
+    "name": "IBN TV Africa",
+    "country": "TZ",
+    "countryName": "Tanzania",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/eKy2ocd.png",
+    "epgId": "IBNTVAfrica.tz",
+    "streams": [
+      {
+        "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mahaasintv-tz",
+    "name": "Mahaasin TV",
+    "country": "TZ",
+    "countryName": "Tanzania",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/wdfdKvC.png",
+    "epgId": "MahaasinTV.tz",
+    "streams": [
+      {
+        "url": "https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tanzaniasafarichannel-tz",
+    "name": "Tanzania Safari Channel",
+    "country": "TZ",
+    "countryName": "Tanzania",
+    "category": "Travel",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/fcLFYhn.png",
+    "epgId": "TanzaniaSafariChannel.tz",
+    "streams": [
+      {
+        "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tbc1-tz",
+    "name": "TBC1",
+    "country": "TZ",
+    "countryName": "Tanzania",
+    "category": "General",
+    "language": "swa",
+    "languageName": "Swahili",
+    "logo": "https://i.imgur.com/OmiVZ1u.png",
+    "epgId": "TBC1.tz",
+    "streams": [
+      {
+        "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_67aeec90584911f1ab60174d68f7c06e/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tbc1-tz",
+    "name": "TBC1",
+    "country": "TZ",
+    "countryName": "Tanzania",
+    "category": "General",
+    "language": "swa",
+    "languageName": "Swahili",
+    "logo": "https://i.imgur.com/OmiVZ1u.png",
+    "epgId": "TBC1.tz",
+    "streams": [
+      {
+        "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_67aeec90584911f1ab60174d68f7c06e/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tbc2-tz",
+    "name": "TBC2",
+    "country": "TZ",
+    "countryName": "Tanzania",
+    "category": "Entertainment",
+    "language": "swa",
+    "languageName": "Swahili",
+    "logo": "https://i.imgur.com/VkUJt2q.png",
+    "epgId": "TBC2.tz",
+    "streams": [
+      {
+        "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tbc2-tz",
+    "name": "TBC2",
+    "country": "TZ",
+    "countryName": "Tanzania",
+    "category": "Entertainment",
+    "language": "swa",
+    "languageName": "Swahili",
+    "logo": "https://i.imgur.com/VkUJt2q.png",
+    "epgId": "TBC2.tz",
+    "streams": [
+      {
+        "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

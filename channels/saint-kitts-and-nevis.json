@@ -1,0 +1,68 @@
+[
+  {
+    "id": "nevistelevision-kn",
+    "name": "Nevis Television",
+    "country": "KN",
+    "countryName": "Saint Kitts and Nevis",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/u76GqAi.png",
+    "epgId": "NevisTelevision.kn",
+    "streams": [
+      {
+        "url": "https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televisioncaribbean-kn",
+    "name": "Television Caribbean",
+    "country": "KN",
+    "countryName": "Saint Kitts and Nevis",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Ogw0COv.png",
+    "epgId": "TelevisionCaribbean.kn",
+    "streams": [
+      {
+        "url": "https://live.kingdom-tv.com:3545/stream/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ziztv-kn",
+    "name": "ZIZ TV",
+    "country": "KN",
+    "countryName": "Saint Kitts and Nevis",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/fB09i6X.png",
+    "epgId": "ZIZTV.kn",
+    "streams": [
+      {
+        "url": "https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

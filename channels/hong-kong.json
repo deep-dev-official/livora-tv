@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "asiandrama-hk",
+    "name": "Asian Drama",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Entertainment",
+    "language": "yue",
+    "languageName": "Yue Chinese",
+    "logo": "https://i.imgur.com/wqtN7mH.png",
+    "epgId": "AsianDrama.hk",
+    "streams": [
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bstv-hk",
+    "name": "BSTV",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Shop",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/GVYSSgm.png",
+    "epgId": "BSTV.hk",
+    "streams": [
+      {
+        "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "celestialmovies-hk",
+    "name": "Celestial Movies",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Movies",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/Mb5ssnu.png",
+    "epgId": "CelestialMovies.hk",
+    "streams": [
+      {
+        "url": "http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "goldenjade-hk",
+    "name": "Golden Jade",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "yue",
+    "languageName": "Yue Chinese",
+    "logo": "https://i.imgur.com/lPYxsUr.png",
+    "epgId": "GoldenJade.hk",
+    "streams": [
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hongkonginternationalbusinesschannel-hk",
+    "name": "Hong Kong International Business Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Business",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/jaIdkbz.png",
+    "epgId": "HongKongInternationalBusinessChannel.hk",
+    "streams": [
+      {
+        "url": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hongkonginternationalbusinesschannel-hk",
+    "name": "Hong Kong International Business Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Business",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/jaIdkbz.png",
+    "epgId": "HongKongInternationalBusinessChannel.hk",
+    "streams": [
+      {
+        "url": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hoyinfotainment-hk",
+    "name": "HOY Infotainment",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "yue",
+    "languageName": "Yue Chinese",
+    "logo": "https://i.imgur.com/LNokYLQ.png",
+    "epgId": "HOYInfotainment.hk",
+    "streams": [
+      {
+        "url": "https://hoytv-live-stream.hoy.tv/ch78/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hoytv-hk",
+    "name": "HOY TV",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "yue",
+    "languageName": "Yue Chinese",
+    "logo": "https://i.imgur.com/NfVZPTT.png",
+    "epgId": "HOYTV.hk",
+    "streams": [
+      {
+        "url": "https://hoytv-live-stream.hoy.tv/ch77/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jade-hk",
+    "name": "Jade",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Entertainment",
+    "language": "yue",
+    "languageName": "Yue Chinese",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",
+    "epgId": "Jade.hk",
+    "streams": [
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kix-hk",
+    "name": "KIX",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/zWcUAdb.png",
+    "epgId": "KIX.hk",
+    "streams": [
+      {
+        "url": "https://liveh34.vtvprime.vn/hls/KIX/04.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "meiahmoviechannel-hk",
+    "name": "Mei Ah Movie Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Movies",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/laGiFM1.png",
+    "epgId": "MeiAhMovieChannel.hk",
+    "streams": [
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "meiahmoviechannel-hk",
+    "name": "Mei Ah Movie Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Movies",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/laGiFM1.png",
+    "epgId": "MeiAhMovieChannel.hk",
+    "streams": [
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "meiahmoviechannel-hk",
+    "name": "Mei Ah Movie Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Movies",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/laGiFM1.png",
+    "epgId": "MeiAhMovieChannel.hk",
+    "streams": [
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "newsworld-hk",
+    "name": "NewsWorld",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011-width200-quality90.jpeg",
+    "epgId": "NewsWorld.hk",
+    "streams": [
+      {
+        "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "petclubtv-hk",
+    "name": "Pet Club TV",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Entertainment",
+    "language": "yue",
+    "languageName": "Yue Chinese",
+    "logo": "https://i.imgur.com/ykPNNwQ.png",
+    "epgId": "PetClubTV.hk",
+    "streams": [
+      {
+        "url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "petclubtv-hk",
+    "name": "Pet Club TV",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Entertainment",
+    "language": "yue",
+    "languageName": "Yue Chinese",
+    "logo": "https://i.imgur.com/ykPNNwQ.png",
+    "epgId": "PetClubTV.hk",
+    "streams": [
+      {
+        "url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "phoenixchinesechannel-hk",
+    "name": "Phoenix Chinese Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",
+    "epgId": "PhoenixChineseChannel.hk",
+    "streams": [
+      {
+        "url": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://125.210.152.18:9090/live/FHZW_1200.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "phoenixchinesechannel-hk",
+    "name": "Phoenix Chinese Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",
+    "epgId": "PhoenixChineseChannel.hk",
+    "streams": [
+      {
+        "url": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://125.210.152.18:9090/live/FHZW_1200.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "phoenixchinesechannel-hk",
+    "name": "Phoenix Chinese Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",
+    "epgId": "PhoenixChineseChannel.hk",
+    "streams": [
+      {
+        "url": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://125.210.152.18:9090/live/FHZW_1200.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "phoenixchinesechannel-hk",
+    "name": "Phoenix Chinese Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",
+    "epgId": "PhoenixChineseChannel.hk",
+    "streams": [
+      {
+        "url": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://125.210.152.18:9090/live/FHZW_1200.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "phoenixinfonewschannel-hk",
+    "name": "Phoenix InfoNews Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "News",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/mt4h3VO.png",
+    "epgId": "PhoenixInfoNewsChannel.hk",
+    "streams": [
+      {
+        "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://125.210.152.18:9090/live/FHZX_1200.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://php.17186.eu.org/phtv/fhzx.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s23/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "phoenixinfonewschannel-hk",
+    "name": "Phoenix InfoNews Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "News",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/mt4h3VO.png",
+    "epgId": "PhoenixInfoNewsChannel.hk",
+    "streams": [
+      {
+        "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://125.210.152.18:9090/live/FHZX_1200.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://php.17186.eu.org/phtv/fhzx.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s23/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "phoenixinfonewschannel-hk",
+    "name": "Phoenix InfoNews Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "News",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/mt4h3VO.png",
+    "epgId": "PhoenixInfoNewsChannel.hk",
+    "streams": [
+      {
+        "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://125.210.152.18:9090/live/FHZX_1200.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://php.17186.eu.org/phtv/fhzx.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s23/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "phoenixinfonewschannel-hk",
+    "name": "Phoenix InfoNews Channel",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "News",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/mt4h3VO.png",
+    "epgId": "PhoenixInfoNewsChannel.hk",
+    "streams": [
+      {
+        "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://125.210.152.18:9090/live/FHZX_1200.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://php.17186.eu.org/phtv/fhzx.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s23/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rthktv31-hk",
+    "name": "RTHK TV 31",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/kf818kM.png",
+    "epgId": "RTHKTV31.hk",
+    "streams": [
+      {
+        "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rthktv31-hk",
+    "name": "RTHK TV 31",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/kf818kM.png",
+    "epgId": "RTHKTV31.hk",
+    "streams": [
+      {
+        "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rthktv32-hk",
+    "name": "RTHK TV 32",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/MXLuUoU.png",
+    "epgId": "RTHKTV32.hk",
+    "streams": [
+      {
+        "url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rthktv32-hk",
+    "name": "RTHK TV 32",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/MXLuUoU.png",
+    "epgId": "RTHKTV32.hk",
+    "streams": [
+      {
+        "url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rthktv33-hk",
+    "name": "RTHK TV 33",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/2MProun.png",
+    "epgId": "RTHKTV33.hk",
+    "streams": [
+      {
+        "url": "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rthktv34-hk",
+    "name": "RTHK TV 34",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Kq5A6Qn.png",
+    "epgId": "RTHKTV34.hk",
+    "streams": [
+      {
+        "url": "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rthktv35-hk",
+    "name": "RTHK TV 35",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/FQmNKDS.png",
+    "epgId": "RTHKTV35.hk",
+    "streams": [
+      {
+        "url": "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thrill-hk",
+    "name": "Thrill",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Movies",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/Y282owj.png",
+    "epgId": "Thrill.hk",
+    "streams": [
+      {
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnasia-hk",
+    "name": "tvN Asia",
+    "country": "HK",
+    "countryName": "Hong Kong",
+    "category": "Entertainment",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png",
+    "epgId": "tvNAsia.hk",
+    "streams": [
+      {
+        "url": "http://58.8.186.128:10005/bysid/2518",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

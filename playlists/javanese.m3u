@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://i.imgur.com/13wWdvd.png" group-title="General",Channel Jowo (HD)
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8

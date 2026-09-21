@@ -1,0 +1,628 @@
+[
+  {
+    "id": "bravokidstv-hr",
+    "name": "Bravo! Kids TV",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "Kids",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/JcJ6fQ9.png",
+    "epgId": "BravoKidsTV.hr",
+    "streams": [
+      {
+        "url": "https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cmctv-hr",
+    "name": "CMC TV",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "Music",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/FCb7Ag2.png",
+    "epgId": "CMCTV.hr",
+    "streams": [
+      {
+        "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "diadoratv-hr",
+    "name": "Diadora TV",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/qZzsASl.png",
+    "epgId": "DiadoraTV.hr",
+    "streams": [
+      {
+        "url": "https://diadoratv.stream/live/diadora/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hrt1-hr",
+    "name": "HRT 1",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png",
+    "epgId": "HRT1.hr",
+    "streams": [
+      {
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://webtvstream.bhtelecom.ba/hrt1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hrt1-hr",
+    "name": "HRT 1",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png",
+    "epgId": "HRT1.hr",
+    "streams": [
+      {
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://webtvstream.bhtelecom.ba/hrt1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hrt2-hr",
+    "name": "HRT 2",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/yyePcl1.png",
+    "epgId": "HRT2.hr",
+    "streams": [
+      {
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://webtvstream.bhtelecom.ba/hrt2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hrt2-hr",
+    "name": "HRT 2",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/yyePcl1.png",
+    "epgId": "HRT2.hr",
+    "streams": [
+      {
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://webtvstream.bhtelecom.ba/hrt2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hrt3-hr",
+    "name": "HRT 3",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "Culture",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/4OrOJRx.png",
+    "epgId": "HRT3.hr",
+    "streams": [
+      {
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hrt3-hr",
+    "name": "HRT 3",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "Culture",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/4OrOJRx.png",
+    "epgId": "HRT3.hr",
+    "streams": [
+      {
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hrt4-hr",
+    "name": "HRT 4",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "News",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/VcNrY0m.png",
+    "epgId": "HRT4.hr",
+    "streams": [
+      {
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "klapeitamburetv-hr",
+    "name": "Klape i Tambure TV",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "Music",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/sKj3dgc.png",
+    "epgId": "KlapeiTambureTV.hr",
+    "streams": [
+      {
+        "url": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "klasik-hr",
+    "name": "Klasik",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "Movies",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/C90BYlb.png",
+    "epgId": "Klasik.hr",
+    "streams": [
+      {
+        "url": "https://178.253.194.105/klasiktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "libertastv-hr",
+    "name": "Libertas TV",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/4R4fhbd.png",
+    "epgId": "LibertasTV.hr",
+    "streams": [
+      {
+        "url": "https://stream.luci.xyz/hls/LTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographic-hr",
+    "name": "National Geographic",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "Documentary",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "epgId": "NationalGeographic.hr",
+    "streams": [
+      {
+        "url": "http://176.61.157.250/NationalGeographic/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nickelodeon-hr",
+    "name": "Nickelodeon",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "Kids",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+    "epgId": "Nickelodeon.hr",
+    "streams": [
+      {
+        "url": "http://176.61.157.250/Nickelodeon/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nickjr-hr",
+    "name": "Nick Jr.",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "Kids",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "epgId": "NickJr.hr",
+    "streams": [
+      {
+        "url": "http://176.61.157.250/NickJr/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "novatv-hr",
+    "name": "Nova TV",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png",
+    "epgId": "NovaTV.hr",
+    "streams": [
+      {
+        "url": "http://176.61.157.250/NovaTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "otv-hr",
+    "name": "OTV",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "News",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/67zVdu2.png",
+    "epgId": "OTV.hr",
+    "streams": [
+      {
+        "url": "https://stream.agatin.hr:3559/live/otvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiotelevizijabanovina-hr",
+    "name": "Radio Televizija Banovina",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/gCFgC5D.png",
+    "epgId": "RadioTelevizijaBanovina.hr",
+    "streams": [
+      {
+        "url": "https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sbtv-hr",
+    "name": "SBTV",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/MIampxZ.png",
+    "epgId": "SBTV.hr",
+    "streams": [
+      {
+        "url": "https://live.leveex.hr/hls/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "shifttv-hr",
+    "name": "Shift TV",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "Auto",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/mudXVT8.png",
+    "epgId": "ShiftTV.hr",
+    "streams": [
+      {
+        "url": "https://hls.shift.tv/live/shifttv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "stv-hr",
+    "name": "STV",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/Z3yRl17.png",
+    "epgId": "STV.hr",
+    "streams": [
+      {
+        "url": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trendtv-hr",
+    "name": "Trend TV",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/4SmNISY.jpg",
+    "epgId": "TrendTV.hr",
+    "streams": [
+      {
+        "url": "http://185.62.75.22:1935/trend/myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvjadran-hr",
+    "name": "TV Jadran",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "News",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/UWMHnOG.png",
+    "epgId": "TVJadran.hr",
+    "streams": [
+      {
+        "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnova-hr",
+    "name": "TV Nova",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "Entertainment",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/gFjJ7YB.png",
+    "epgId": "TVNova.hr",
+    "streams": [
+      {
+        "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvzapad-hr",
+    "name": "TV Zapad",
+    "country": "HR",
+    "countryName": "Croatia",
+    "category": "General",
+    "language": "hrv",
+    "languageName": "Croatian",
+    "logo": "https://i.imgur.com/cgCeX12.png",
+    "epgId": "TVZapad.hr",
+    "streams": [
+      {
+        "url": "http://85.94.67.158/TVZAPAD/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

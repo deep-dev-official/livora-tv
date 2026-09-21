@@ -1,0 +1,500 @@
+[
+  {
+    "id": "canal6-ni",
+    "name": "Canal 6",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/6BWAZdq.png",
+    "epgId": "Canal6.ni",
+    "streams": [
+      {
+        "url": "http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal7boaco-ni",
+    "name": "Canal 7 Boaco",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/chXNX9k.jpeg",
+    "epgId": "Canal7Boaco.ni",
+    "streams": [
+      {
+        "url": "https://cdn.amixtv.com/c7boaco/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal10-ni",
+    "name": "Canal 10",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ztp781b.png",
+    "epgId": "Canal10.ni",
+    "streams": [
+      {
+        "url": "https://www.canal10.com.ni/envivo",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal15-ni",
+    "name": "Canal 15",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "Education",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/DGBMuEs.png",
+    "epgId": "Canal15.ni",
+    "streams": [
+      {
+        "url": "https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalcvision-ni",
+    "name": "Canal Cvision",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/WUq3NlG.png",
+    "epgId": "CanalCvision.ni",
+    "streams": [
+      {
+        "url": "https://stream.cvision.live/cvision_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cdnn23-ni",
+    "name": "CDNN 23",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7CNzlB6.png",
+    "epgId": "CDNN23.ni",
+    "streams": [
+      {
+        "url": "https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "escuchameradiotv-ni",
+    "name": "Escuchame Radio TV",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gt6UvG8.png",
+    "epgId": "EscuchameRadioTV.ni",
+    "streams": [
+      {
+        "url": "https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jbn-ni",
+    "name": "JBN",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vFi0FMZ.png",
+    "epgId": "JBN.ni",
+    "streams": [
+      {
+        "url": "https://hdbox.chunklistv.com/live?stream=jbn39",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "megabox-ni",
+    "name": "MegaBox",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/JqaW7Ei.png",
+    "epgId": "MegaBox.ni",
+    "streams": [
+      {
+        "url": "https://hdbox.chunklistv.com/live?stream=megabox",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtvchontales-ni",
+    "name": "MTV Chontales",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/zgUPYdv.png",
+    "epgId": "MTVChontales.ni",
+    "streams": [
+      {
+        "url": "https://altair.hostingnica.net/hls/mtv_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "olammetrotv-ni",
+    "name": "Olam Metro TV",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/dDZnyUA.jpeg",
+    "epgId": "OlamMetroTV.ni",
+    "streams": [
+      {
+        "url": "https://netzerstreaming.com:4433/hls/olammetro/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiovisiondediosstereo-ni",
+    "name": "Radio Vision de Dios Stereo",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ckY8DRW.jpg",
+    "epgId": "RadioVisiondeDiosStereo.ni",
+    "streams": [
+      {
+        "url": "https://live.tvcontrolcp.com:1936/8286/8286/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tn8-ni",
+    "name": "TN8",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/m0Zdxiz.png",
+    "epgId": "TN8.ni",
+    "streams": [
+      {
+        "url": "https://streamingcws30.com/tn8/videotn8/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.101.11:7050/play/a07j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tn8-ni",
+    "name": "TN8",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/m0Zdxiz.png",
+    "epgId": "TN8.ni",
+    "streams": [
+      {
+        "url": "https://streamingcws30.com/tn8/videotn8/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.101.11:7050/play/a07j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv45-ni",
+    "name": "TV 45",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/sI0msrn.png",
+    "epgId": "TV45.ni",
+    "streams": [
+      {
+        "url": "https://hdbox.chunklistv.com/live?stream=3abn-nicaragua",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvonenicaragua-ni",
+    "name": "TVONE Nicaragua",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/FNk6rdz.png",
+    "epgId": "TVONENicaragua.ni",
+    "streams": [
+      {
+        "url": "https://hdbox.chunklistv.com/live?stream=tvone",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vivanicaraguacanal13-ni",
+    "name": "Viva Nicaragua Canal 13",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/9q7Ajz4.png",
+    "epgId": "VivaNicaraguaCanal13.ni",
+    "streams": [
+      {
+        "url": "https://cdn.vivamediosni.com/viva_720p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vivatv-ni",
+    "name": "Viva TV",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/n0buXRa.jpeg",
+    "epgId": "VivaTV.ni",
+    "streams": [
+      {
+        "url": "https://cdn.amixtv.com/vivatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vostv-ni",
+    "name": "Vos TV",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Lbi87xv.png",
+    "epgId": "VosTV.ni",
+    "streams": [
+      {
+        "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wtvcanal20-ni",
+    "name": "WTV Canal 20",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nb81xeU.png",
+    "epgId": "WTVCanal20.ni",
+    "streams": [
+      {
+        "url": "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloudvideo.servers10.com:8081/8130/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wtvcanal20-ni",
+    "name": "WTV Canal 20",
+    "country": "NI",
+    "countryName": "Nicaragua",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nb81xeU.png",
+    "epgId": "WTVCanal20.ni",
+    "streams": [
+      {
+        "url": "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloudvideo.servers10.com:8081/8130/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

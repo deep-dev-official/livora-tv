@@ -1,0 +1,65 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-name="CGNTV Japan" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Religious",CGNTV Japan (1080p)
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+
+#EXTINF:-1 tvg-id="GSTV.jp" tvg-name="GSTV" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="Shop",GSTV (720p)
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+
+#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-name="JOAX-DTV" tvg-logo="" group-title="General",JOAX-DTV (HD)
+https://ntv5.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="JOCX-DTV" tvg-logo="" group-title="General",JOCX-DTV (HD)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 tvg-id="JOEXDTV.jp" tvg-name="JOEX-DTV" tvg-logo="" group-title="General",JOEX-DTV (540p)
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+
+#EXTINF:-1 tvg-id="JOJGDTV.jp" tvg-name="JOJG-DTV" tvg-logo="" group-title="General",JOJG-DTV (1080p)
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-name="JORX-DTV" tvg-logo="" group-title="General",JORX-DTV (HD)
+https://tbs5.mov3.co/hls/tbs.m3u8
+
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-name="JOTX-DTV" tvg-logo="" group-title="General",JOTX-DTV (HD)
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK General TV (720p)
+https://nhk4.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="News",NHK World-Japan (1080p)
+https://nhk.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="News",NHK World-Japan (720p)
+http://170.83.16.50/NHK_WORLD/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="News",NHK World-Japan (1080p)
+http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="News",NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="News",NHK World-Japan (720p)
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="News",NHK World-Japan (720p)
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="News",NHK World-Japan (576p)
+https://cdn-7.pishow.tv/live/455/master.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" group-title="News",NHK World-Japan (576p)
+https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Entertainment",NHK World Premium (720p)
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC.jp" tvg-name="QVC" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC (1080p)
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+
+#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="Shop",Shop Channel (1080p)
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="Weathernews.jp" tvg-name="Weathernews" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Weather",Weathernews (720p)
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8

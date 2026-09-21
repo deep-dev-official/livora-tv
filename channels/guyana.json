@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ctv19-gy",
+    "name": "CTV19",
+    "country": "GY",
+    "countryName": "Guyana",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/qkd2m24.png",
+    "epgId": "CTV19.gy",
+    "streams": [
+      {
+        "url": "https://twitch-m3u8.bastypro112.workers.dev/ctv19live/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dtv8-gy",
+    "name": "DTV-8",
+    "country": "GY",
+    "countryName": "Guyana",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/A5r0aZA.png",
+    "epgId": "DTV8.gy",
+    "streams": [
+      {
+        "url": "https://watch.davestv8.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hgptv-gy",
+    "name": "HGPTV",
+    "country": "GY",
+    "countryName": "Guyana",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/0aIH6V5.png",
+    "epgId": "HGPTV.gy",
+    "streams": [
+      {
+        "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ignitetelevision-gy",
+    "name": "Ignite Television",
+    "country": "GY",
+    "countryName": "Guyana",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/aQI9tsg.jpeg",
+    "epgId": "IgniteTelevision.gy",
+    "streams": [
+      {
+        "url": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtvguyana-gy",
+    "name": "MTV Guyana",
+    "country": "GY",
+    "countryName": "Guyana",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Ky70brA.png",
+    "epgId": "MTVGuyana.gy",
+    "streams": [
+      {
+        "url": "https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

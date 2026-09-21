@@ -1,0 +1,1724 @@
+[
+  {
+    "id": "adbtv-pt",
+    "name": "ADB TV",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
+    "epgId": "ADBTV.pt",
+    "streams": [
+      {
+        "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "artv-pt",
+    "name": "ARTV",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Legislative",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/y00t9hr.png",
+    "epgId": "ARTV.pt",
+    "streams": [
+      {
+        "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "axn-pt",
+    "name": "AXN",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Movies",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "epgId": "AXN.pt",
+    "streams": [
+      {
+        "url": "http://znty.dyndns.org:5010/hls/axn.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "axnmovies-pt",
+    "name": "AXN Movies",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Movies",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/tJQckal.png",
+    "epgId": "AXNMovies.pt",
+    "streams": [
+      {
+        "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannel-pt",
+    "name": "Disney Channel",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Kids",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "epgId": "DisneyChannel.pt",
+    "streams": [
+      {
+        "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://zntx.dyndns.org:8085/hls/disney.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannel-pt",
+    "name": "Disney Channel",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Kids",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "epgId": "DisneyChannel.pt",
+    "streams": [
+      {
+        "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://zntx.dyndns.org:8085/hls/disney.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "famatv-pt",
+    "name": "Famatv",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Music",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg",
+    "epgId": "Famatv.pt",
+    "streams": [
+      {
+        "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fueltv-pt",
+    "name": "FUEL TV",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/I8mviBy.png",
+    "epgId": "FUELTV.pt",
+    "streams": [
+      {
+        "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fueltv-pt",
+    "name": "FUEL TV",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/I8mviBy.png",
+    "epgId": "FUELTV.pt",
+    "streams": [
+      {
+        "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fueltv-pt",
+    "name": "FUEL TV",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/I8mviBy.png",
+    "epgId": "FUELTV.pt",
+    "streams": [
+      {
+        "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fueltv-pt",
+    "name": "FUEL TV",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/I8mviBy.png",
+    "epgId": "FUELTV.pt",
+    "streams": [
+      {
+        "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fueltv-pt",
+    "name": "FUEL TV",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/I8mviBy.png",
+    "epgId": "FUELTV.pt",
+    "streams": [
+      {
+        "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kuriakoscine-pt",
+    "name": "Kuriakos Cine",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Movies",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/CZViCwB.jpg",
+    "epgId": "KuriakosCine.pt",
+    "streams": [
+      {
+        "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kuriakoskids-pt",
+    "name": "Kuriakos Kids",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Animation",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/SRX6EPY.png",
+    "epgId": "KuriakosKids.pt",
+    "streams": [
+      {
+        "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kuriakosmusic-pt",
+    "name": "Kuriakos Music",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Music",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/Zl40NYi.jpg",
+    "epgId": "KuriakosMusic.pt",
+    "streams": [
+      {
+        "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kuriakostv-pt",
+    "name": "Kuriakos TV",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/xdAW0D5.png",
+    "epgId": "KuriakosTV.pt",
+    "streams": [
+      {
+        "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "manachurchonline-pt",
+    "name": "Mana Church Online",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/FRDJSim.png",
+    "epgId": "ManaChurchOnline.pt",
+    "streams": [
+      {
+        "url": "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "manacirkevonline-pt",
+    "name": "Mana Cirkev Online",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/tYhXeRq.png",
+    "epgId": "ManaCirkevOnline.pt",
+    "streams": [
+      {
+        "url": "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "manaegliseonline-pt",
+    "name": "Mana Eglise Online",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/xQYly8O.png",
+    "epgId": "ManaEgliseOnline.pt",
+    "streams": [
+      {
+        "url": "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "manaiglesiaonline-pt",
+    "name": "Mana Iglesia Online",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/0IUvfcJ.png",
+    "epgId": "ManaIglesiaOnline.pt",
+    "streams": [
+      {
+        "url": "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "manaigrejaonline-pt",
+    "name": "Mana Igreja Online",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/0IUvfcJ.png",
+    "epgId": "ManaIgrejaOnline.pt",
+    "streams": [
+      {
+        "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "manatserkovonlayn-pt",
+    "name": "Mana Tserkov' Onlayn",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/PruXLqS.png",
+    "epgId": "ManaTserkovOnlayn.pt",
+    "streams": [
+      {
+        "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "npcradioetv-pt",
+    "name": "NPC Radio e TV",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Music",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/mw1lYWE.png",
+    "epgId": "NPCRadioeTV.pt",
+    "streams": [
+      {
+        "url": "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "onfm-pt",
+    "name": "ON FM",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Music",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png",
+    "epgId": "ONFM.pt",
+    "streams": [
+      {
+        "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "portocanal-pt",
+    "name": "Porto Canal",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/DwziwMY.png",
+    "epgId": "PortoCanal.pt",
+    "streams": [
+      {
+        "url": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiosines-pt",
+    "name": "Radio Sines",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/Oe6F1nL.png",
+    "epgId": "RadioSines.pt",
+    "streams": [
+      {
+        "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rfptv-pt",
+    "name": "RFPtv",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Music",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/I60nQuR.png",
+    "epgId": "RFPtv.pt",
+    "streams": [
+      {
+        "url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtp1-pt",
+    "name": "RTP 1",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png",
+    "epgId": "RTP1.pt",
+    "streams": [
+      {
+        "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtp2-pt",
+    "name": "RTP 2",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png",
+    "epgId": "RTP2.pt",
+    "streams": [
+      {
+        "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtpacores-pt",
+    "name": "RTP Acores",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png",
+    "epgId": "RTPAcores.pt",
+    "streams": [
+      {
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtpacores-pt",
+    "name": "RTP Acores",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png",
+    "epgId": "RTPAcores.pt",
+    "streams": [
+      {
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtpafrica-pt",
+    "name": "RTP Africa",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica_2026.png",
+    "epgId": "RTPAfrica.pt",
+    "streams": [
+      {
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtpmadeira-pt",
+    "name": "RTP Madeira",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png",
+    "epgId": "RTPMadeira.pt",
+    "streams": [
+      {
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtpmemoria-pt",
+    "name": "RTP Memoria",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png",
+    "epgId": "RTPMemoria.pt",
+    "streams": [
+      {
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtpmundo-pt",
+    "name": "RTP Mundo",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
+    "epgId": "RTPMundo.pt",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtpmundo-pt",
+    "name": "RTP Mundo",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
+    "epgId": "RTPMundo.pt",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtpnoticias-pt",
+    "name": "RTP Noticias",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "News",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png",
+    "epgId": "RTPNoticias.pt",
+    "streams": [
+      {
+        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtpnoticias-pt",
+    "name": "RTP Noticias",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "News",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png",
+    "epgId": "RTPNoticias.pt",
+    "streams": [
+      {
+        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sic-pt",
+    "name": "SIC",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/SPMqiDG.png",
+    "epgId": "SIC.pt",
+    "streams": [
+      {
+        "url": "https://sic.live.impresa.pt/sic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://sic.pt/",
+        "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sicaltadefinicao-pt",
+    "name": "SIC Alta Definicao",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/VdPwyQv.png",
+    "epgId": "SICAltaDefinicao.pt",
+    "streams": [
+      {
+        "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sicmulher-pt",
+    "name": "SIC Mulher",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png",
+    "epgId": "SICMulher.pt",
+    "streams": [
+      {
+        "url": "http://zntx.dyndns.org:8085/hls/sicm.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sicnoticias-pt",
+    "name": "SIC Noticias",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "News",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/Gi6Q26M.png",
+    "epgId": "SICNoticias.pt",
+    "streams": [
+      {
+        "url": "https://sicnot.live.impresa.pt/sicnot.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://sicnoticias.pt/",
+        "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sicradical-pt",
+    "name": "SIC Radical",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/6g0obyk.png",
+    "epgId": "SICRadical.pt",
+    "streams": [
+      {
+        "url": "http://znty.dyndns.org:5010/hls/sicr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sicreplay-pt",
+    "name": "SIC Replay",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/fj84mXz.png",
+    "epgId": "SICReplay.pt",
+    "streams": [
+      {
+        "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sporttv1-pt",
+    "name": "Sport TV1",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Sports",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/YWic36u.png",
+    "epgId": "SportTV1.pt",
+    "streams": [
+      {
+        "url": "http://znty.dyndns.org:5010/hls/stv1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sporttv2-pt",
+    "name": "Sport TV2",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Sports",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/0jSR6yG.png",
+    "epgId": "SportTV2.pt",
+    "streams": [
+      {
+        "url": "http://znty.dyndns.org:5010/hls/stv2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sporttv5-pt",
+    "name": "Sport TV5",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Sports",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/4w4vuad.png",
+    "epgId": "SportTV5.pt",
+    "streams": [
+      {
+        "url": "http://znty.dyndns.org:5010/hls/stv5.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sporttv6-pt",
+    "name": "Sport TV6",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Sports",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/qmlQkyI.png",
+    "epgId": "SportTV6.pt",
+    "streams": [
+      {
+        "url": "http://zntx.dyndns.org:8085/hls/stv6.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sporttv7-pt",
+    "name": "Sport TV7",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Sports",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/2HmCAm5.png",
+    "epgId": "SportTV7.pt",
+    "streams": [
+      {
+        "url": "http://zntx.dyndns.org:8085/hls/stv7.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sporttvplus-pt",
+    "name": "Sport TV+",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Sports",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/R5FZEW6.png",
+    "epgId": "SportTVPlus.pt",
+    "streams": [
+      {
+        "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starchannel-pt",
+    "name": "Star Channel",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Entertainment",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "epgId": "StarChannel.pt",
+    "streams": [
+      {
+        "url": "http://znty.dyndns.org:5010/hls/fox.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starcomedy-pt",
+    "name": "Star Comedy",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Comedy",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png",
+    "epgId": "StarComedy.pt",
+    "streams": [
+      {
+        "url": "http://znty.dyndns.org:5010/hls/foxcomedy.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starcrime-pt",
+    "name": "Star Crime",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Lifestyle",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
+    "epgId": "StarCrime.pt",
+    "streams": [
+      {
+        "url": "http://znty.dyndns.org:5010/hls/foxcrime.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starlife-pt",
+    "name": "Star Life",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Lifestyle",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
+    "epgId": "StarLife.pt",
+    "streams": [
+      {
+        "url": "http://znty.dyndns.org:5010/hls/foxlife.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starmovies-pt",
+    "name": "Star Movies",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Movies",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",
+    "epgId": "StarMovies.pt",
+    "streams": [
+      {
+        "url": "http://znty.dyndns.org:5010/hls/foxm.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvi-pt",
+    "name": "TVI",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/H8Tgl7m.png",
+    "epgId": "TVI.pt",
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://zntx.dyndns.org:8085/hls/tvi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvi-pt",
+    "name": "TVI",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/H8Tgl7m.png",
+    "epgId": "TVI.pt",
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://zntx.dyndns.org:8085/hls/tvi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvificcao-pt",
+    "name": "TVI Ficcao",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Series",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://cdn.iol.pt/img/logostvi/branco/tvificcao.png",
+    "epgId": "TVIFiccao.pt",
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvireality-pt",
+    "name": "TVI Reality",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Entertainment",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/C9rxqA5.png",
+    "epgId": "TVIReality.pt",
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmana1-pt",
+    "name": "TV Mana 1",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/6jNqpTP.png",
+    "epgId": "TVMana1.pt",
+    "streams": [
+      {
+        "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmana2-pt",
+    "name": "TV Mana 2",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/VYNjVov.png",
+    "epgId": "TVMana2.pt",
+    "streams": [
+      {
+        "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmanabrasil-pt",
+    "name": "TV Mana Brasil",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/AFb712e.png",
+    "epgId": "TVManaBrasil.pt",
+    "streams": [
+      {
+        "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmanaenglish-pt",
+    "name": "TV Mana English",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/I66IkCw.png",
+    "epgId": "TVManaEnglish.pt",
+    "streams": [
+      {
+        "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmanaespanhol-pt",
+    "name": "TV Mana Espanhol",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/sUlrSwP.png",
+    "epgId": "TVManaEspanhol.pt",
+    "streams": [
+      {
+        "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmanarusskiy-pt",
+    "name": "TV Mana Russkiy",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "Religious",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/fACHqmY.png",
+    "epgId": "TVManaRusskiy.pt",
+    "streams": [
+      {
+        "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vplustvi-pt",
+    "name": "V+ TVI",
+    "country": "PT",
+    "countryName": "Portugal",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png",
+    "epgId": "VPlusTVI.pt",
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

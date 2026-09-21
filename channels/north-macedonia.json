@@ -1,0 +1,752 @@
+[
+  {
+    "id": "alsat-mk",
+    "name": "Alsat",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png",
+    "epgId": "Alsat.mk",
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://5.254.89.106/8713/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alsat-mk",
+    "name": "Alsat",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png",
+    "epgId": "Alsat.mk",
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://5.254.89.106/8713/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cooltv-mk",
+    "name": "Cool TV",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/2tFrjUz.png",
+    "epgId": "CoolTV.mk",
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "folktv-mk",
+    "name": "Folk TV",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Music",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/4b9aZ9P.png",
+    "epgId": "FolkTV.mk",
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jazztv-mk",
+    "name": "Jazz TV",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Music",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/CbQlSFX.png",
+    "epgId": "JazzTV.mk",
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal5-mk",
+    "name": "Kanal 5",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/Qw7N3S2.png",
+    "epgId": "Kanal5.mk",
+    "streams": [
+      {
+        "url": "https://s2.teve.mk/tvstanici/2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lovetv-mk",
+    "name": "Love TV",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Music",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/B8iaejQ.png",
+    "epgId": "LoveTV.mk",
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnethd-mk",
+    "name": "M-Net HD",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/HDYqWuR.png",
+    "epgId": "MNetHD.mk",
+    "streams": [
+      {
+        "url": "http://ares.mnet.mk/hls/mnet.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.mnet.mk/hls/mnet.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnethd-mk",
+    "name": "M-Net HD",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/HDYqWuR.png",
+    "epgId": "MNetHD.mk",
+    "streams": [
+      {
+        "url": "http://ares.mnet.mk/hls/mnet.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.mnet.mk/hls/mnet.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnetinfo-mk",
+    "name": "M-Net Info",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "News",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg",
+    "epgId": "MNetInfo.mk",
+    "streams": [
+      {
+        "url": "https://live.mnet.mk/hls/mnet-info.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnetkids-mk",
+    "name": "M-Net Kids",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Kids",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/SbKkpuH.png",
+    "epgId": "MNetKids.mk",
+    "streams": [
+      {
+        "url": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnetsport-mk",
+    "name": "M-Net Sport",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Sports",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/7k8ar1Z.png",
+    "epgId": "MNetSport.mk",
+    "streams": [
+      {
+        "url": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnetsport-mk",
+    "name": "M-Net Sport",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Sports",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/7k8ar1Z.png",
+    "epgId": "MNetSport.mk",
+    "streams": [
+      {
+        "url": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mrt2-mk",
+    "name": "MRT 2",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Culture",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/YvOrUnN.png",
+    "epgId": "MRT2.mk",
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mrtsobraniskikanal-mk",
+    "name": "MRT Sobraniski kanal",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Legislative",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/fyNQ8Nf.png",
+    "epgId": "MRTSobraniskikanal.mk",
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtm-mk",
+    "name": "MTM",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.ibb.co/HCRZVVz/images-4.png",
+    "epgId": "MTM.mk",
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nasatv-mk",
+    "name": "Nasa TV",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/9rB4VZy.png",
+    "epgId": "NasaTV.mk",
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/hls/nasatv_live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rocktv-mk",
+    "name": "Rock TV",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Music",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/Y9miDQo.png",
+    "epgId": "RockTV.mk",
+    "streams": [
+      {
+        "url": "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sitel-mk",
+    "name": "Sitel",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/pdobwKt.png",
+    "epgId": "Sitel.mk",
+    "streams": [
+      {
+        "url": "http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teve.mk/tvstanici/s1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sitel-mk",
+    "name": "Sitel",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/pdobwKt.png",
+    "epgId": "Sitel.mk",
+    "streams": [
+      {
+        "url": "http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teve.mk/tvstanici/s1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "skyfolktv-mk",
+    "name": "Sky Folk TV",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Music",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/ya5xpUL.png",
+    "epgId": "SkyFolkTV.mk",
+    "streams": [
+      {
+        "url": "https://eu.live.skyfolk.mk/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://skyfolk.mk/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "skyfolktv-mk",
+    "name": "Sky Folk TV",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Music",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/ya5xpUL.png",
+    "epgId": "SkyFolkTV.mk",
+    "streams": [
+      {
+        "url": "https://eu.live.skyfolk.mk/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://skyfolk.mk/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starplustelevizija-mk",
+    "name": "Star Plus Televizija",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Music",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/01yz22a.png",
+    "epgId": "StarPlusTelevizija.mk",
+    "streams": [
+      {
+        "url": "https://live.muzickatv.mk/live/StarMusic2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suteltv-mk",
+    "name": "Sutel TV",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/hk3lhuF.png",
+    "epgId": "SutelTV.mk",
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "topestradatv-mk",
+    "name": "TopEstrada TV",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Music",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/0Dh1FJZ.png",
+    "epgId": "TopEstradaTV.mk",
+    "streams": [
+      {
+        "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv21-mk",
+    "name": "TV21",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/IC1f4h3.png",
+    "epgId": "TV21.mk",
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvera-mk",
+    "name": "TV ERA",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "Entertainment",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/ds0uf7A.png",
+    "epgId": "TVERA.mk",
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnova12-mk",
+    "name": "TV NOVA 12",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/Qo3Hj3t.png",
+    "epgId": "TVNOVA12.mk",
+    "streams": [
+      {
+        "url": "http://151.236.247.171:8080/nova/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvshenja-mk",
+    "name": "TV Shenja",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/JsdUpB8.png",
+    "epgId": "TVShenja.mk",
+    "streams": [
+      {
+        "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvzdravkin-mk",
+    "name": "TV Zdravkin",
+    "country": "MK",
+    "countryName": "North Macedonia",
+    "category": "General",
+    "language": "mkd",
+    "languageName": "Macedonian",
+    "logo": "https://i.imgur.com/w4rRUNQ.png",
+    "epgId": "TVZdravkin.mk",
+    "streams": [
+      {
+        "url": "http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

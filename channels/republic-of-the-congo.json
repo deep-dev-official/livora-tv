@@ -1,0 +1,152 @@
+[
+  {
+    "id": "bebtv-cg",
+    "name": "Beb TV",
+    "country": "CG",
+    "countryName": "Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/3XOk1lP.jpeg",
+    "epgId": "BebTV.cg",
+    "streams": [
+      {
+        "url": "https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "drtvinternational-cg",
+    "name": "DRTV International",
+    "country": "CG",
+    "countryName": "Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/rGbTvtZ.png",
+    "epgId": "DRTVInternational.cg",
+    "streams": [
+      {
+        "url": "https://vps122407.serveur-vps.net/hls/drtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "esaie45tele-cg",
+    "name": "Esaie 45 Tele",
+    "country": "CG",
+    "countryName": "Republic of the Congo",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/nc9QBnD.png",
+    "epgId": "Esaie45Tele.cg",
+    "streams": [
+      {
+        "url": "https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "evtele-cg",
+    "name": "Ev-tele",
+    "country": "CG",
+    "countryName": "Republic of the Congo",
+    "category": "Culture",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/iBlXl2T.png",
+    "epgId": "Evtele.cg",
+    "streams": [
+      {
+        "url": "https://playtv4k.live/live/EVTELE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecongo-cg",
+    "name": "Tele Congo",
+    "country": "CG",
+    "countryName": "Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/gbFtP14.png",
+    "epgId": "TeleCongo.cg",
+    "streams": [
+      {
+        "url": "http://trn03.bozztv.com/gin-telecongo/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://51.254.199.122:8080/telecongo/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecongo-cg",
+    "name": "Tele Congo",
+    "country": "CG",
+    "countryName": "Republic of the Congo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/gbFtP14.png",
+    "epgId": "TeleCongo.cg",
+    "streams": [
+      {
+        "url": "http://trn03.bozztv.com/gin-telecongo/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://51.254.199.122:8080/telecongo/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

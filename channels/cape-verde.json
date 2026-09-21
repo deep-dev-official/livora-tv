@@ -1,0 +1,24 @@
+[
+  {
+    "id": "tvcidade-cv",
+    "name": "TV Cidade",
+    "country": "CV",
+    "countryName": "Cape Verde",
+    "category": "Music",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/gmSu21X.jpg",
+    "epgId": "TVCidade.cv",
+    "streams": [
+      {
+        "url": "https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

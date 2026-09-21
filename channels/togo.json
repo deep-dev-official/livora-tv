@@ -1,0 +1,244 @@
+[
+  {
+    "id": "actv-tg",
+    "name": "AC TV",
+    "country": "TG",
+    "countryName": "Togo",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/SYugK7Y.png",
+    "epgId": "ACTV.tg",
+    "streams": [
+      {
+        "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chandeltv-tg",
+    "name": "Chandel TV",
+    "country": "TG",
+    "countryName": "Togo",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/jQO7dVE.png",
+    "epgId": "ChandelTV.tg",
+    "streams": [
+      {
+        "url": "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dynamicgospeltv-tg",
+    "name": "Dynamic Gospel TV",
+    "country": "TG",
+    "countryName": "Togo",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/e36BNNK.jpg",
+    "epgId": "DynamicGospelTV.tg",
+    "streams": [
+      {
+        "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nweconomie-tg",
+    "name": "NW Economie",
+    "country": "TG",
+    "countryName": "Togo",
+    "category": "Business",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/OmlFQa8.png",
+    "epgId": "NWEconomie.tg",
+    "streams": [
+      {
+        "url": "https://hls.newworldtv.com/nw-economie/video/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nwinfo2-tg",
+    "name": "NW Info 2",
+    "country": "TG",
+    "countryName": "Togo",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/0W4GqFD.png",
+    "epgId": "NWInfo2.tg",
+    "streams": [
+      {
+        "url": "https://hls.newworldtv.com/nw-info-2/video/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nwinfo-tg",
+    "name": "NW Info",
+    "country": "TG",
+    "countryName": "Togo",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/UDEY91v.png",
+    "epgId": "NWInfo.tg",
+    "streams": [
+      {
+        "url": "https://hls.newworldtv.com/nw-info/video/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nwmagazine-tg",
+    "name": "NW Magazine",
+    "country": "TG",
+    "countryName": "Togo",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/RZNJZYN.png",
+    "epgId": "NWMagazine.tg",
+    "streams": [
+      {
+        "url": "https://hls.newworldtv.com/nw-magazine/video/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtjva-tg",
+    "name": "RT JVA",
+    "country": "TG",
+    "countryName": "Togo",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/Ja3HVLB.jpg",
+    "epgId": "RTJVA.tg",
+    "streams": [
+      {
+        "url": "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sosdocteurtv-tg",
+    "name": "SOS Docteur TV",
+    "country": "TG",
+    "countryName": "Togo",
+    "category": "Lifestyle",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/wQpooHw.png",
+    "epgId": "SOSDocteurTV.tg",
+    "streams": [
+      {
+        "url": "https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televisionespoir47-tg",
+    "name": "Television Espoir 47",
+    "country": "TG",
+    "countryName": "Togo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/utBh0xL.png",
+    "epgId": "TelevisionEspoir47.tg",
+    "streams": [
+      {
+        "url": "https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvt-tg",
+    "name": "TVT",
+    "country": "TG",
+    "countryName": "Togo",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/WtXonN9.png",
+    "epgId": "TVT.tg",
+    "streams": [
+      {
+        "url": "http://69.64.57.208/tvt/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

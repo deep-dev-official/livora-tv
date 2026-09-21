@@ -1,0 +1,71 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="ExodusTV.si" tvg-name="Exodus TV" tvg-logo="https://i.imgur.com/WKr5ncQ.png" group-title="Religious",Exodus TV (720p)
+https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExodusTV.si" tvg-name="Exodus TV" tvg-logo="https://i.imgur.com/WKr5ncQ.png" group-title="Religious",Exodus TV (720p)
+https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="H2HD.si" tvg-name="H2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary",H2 HD (HD)
+https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
+
+#EXTINF:-1 tvg-id="History.si" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History (HD)
+https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="History.si" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History (1080p)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="KanalA.si" tvg-name="Kanal A" tvg-logo="https://i.imgur.com/JHNpcqF.png" group-title="General",Kanal A (HD)
+https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="StarChannel.si" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies",Star Channel (HD)
+http://92.36.202.5:10001/play/a01s
+
+#EXTINF:-1 tvg-id="StarCrime.si" tvg-name="Star Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" group-title="Series",Star Crime (HD)
+http://92.36.202.5:10001/play/a02o
+
+#EXTINF:-1 tvg-id="StarLife.si" tvg-name="Star Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" group-title="Series",Star Life (HD)
+http://92.36.202.5:10001/play/a02n
+
+#EXTINF:-1 tvg-id="StarMovies.si" tvg-name="Star Movies" tvg-logo="https://i.imgur.com/JcoAgDF.png" group-title="Movies",Star Movies (HD)
+http://92.36.202.5:10001/play/a01o
+
+#EXTINF:-1 tvg-id="TelevizijaUrslja.si" tvg-name="Televizija Urslja" tvg-logo="https://i.imgur.com/PZwdXlN.png" group-title="General",Televizija Urslja (1080p)
+http://ott.sgn.net/hls/tvurslja.m3u8
+
+#EXTINF:-1 tvg-id="TrzicTV.si" tvg-name="Trzic TV" tvg-logo="https://i.imgur.com/VZiaoqz.png" group-title="General",Trzic TV (1080p)
+https://vpn.video2go.live:444/trzic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSLO1.si" tvg-name="TV SLO 1" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="General",TV SLO 1 (1080p)
+http://23.88.66.93/SLO1/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSLO1.si" tvg-name="TV SLO 1" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="General",TV SLO 1 (HD)
+https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSLO1.si" tvg-name="TV SLO 1" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="General",TV SLO 1 (HD)
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="TVSLO2.si" tvg-name="TV SLO 2" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="General",TV SLO 2 (1080p)
+http://23.88.66.93/SLO2/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSLO2.si" tvg-name="TV SLO 2" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="General",TV SLO 2 (HD)
+https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSLO2.si" tvg-name="TV SLO 2" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="General",TV SLO 2 (HD)
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="TVSLO3.si" tvg-name="TV SLO 3" tvg-logo="https://i.imgur.com/yPb2FKg.png" group-title="General",TV SLO 3 (HD)
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si" tvg-name="TV Veseljak Golica HD" tvg-logo="https://i.imgur.com/49VrbSW.png" group-title="General",TV Veseljak Golica HD (HD)
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplore.si" tvg-name="Viasat Explore" tvg-logo="https://i.imgur.com/jboGcoY.png" group-title="Documentary",Viasat Explore (HD)
+https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.si" tvg-name="Viasat History" tvg-logo="https://i.imgur.com/qCkCGqa.png" group-title="Documentary",Viasat History (HD)
+https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.si" tvg-name="Viasat Nature" tvg-logo="https://i.imgur.com/gxlZZ91.png" group-title="Documentary",Viasat Nature (HD)
+https://lb.dstvmultimedia.com/ViasatNature/index.m3u8

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "canalmacau-mo",
+    "name": "Canal Macau",
+    "country": "MO",
+    "countryName": "Macao",
+    "category": "General",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/oFPUZ97.png",
+    "epgId": "CanalMacau.mo",
+    "streams": [
+      {
+        "url": "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lotustv-mo",
+    "name": "Lotus TV",
+    "country": "MO",
+    "countryName": "Macao",
+    "category": "General",
+    "language": "yue",
+    "languageName": "Yue Chinese",
+    "logo": "https://i.imgur.com/7j8Lnog.png",
+    "epgId": "LotusTV.mo",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://play-sh.quklive.com/live/1780907795235397.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lotustv-mo",
+    "name": "Lotus TV",
+    "country": "MO",
+    "countryName": "Macao",
+    "category": "General",
+    "language": "yue",
+    "languageName": "Yue Chinese",
+    "logo": "https://i.imgur.com/7j8Lnog.png",
+    "epgId": "LotusTV.mo",
+    "streams": [
+      {
+        "url": "https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://play-sh.quklive.com/live/1780907795235397.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tdmentertainment-mo",
+    "name": "TDM Entertainment",
+    "country": "MO",
+    "countryName": "Macao",
+    "category": "Entertainment",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/7ml2bfx.png",
+    "epgId": "TDMEntertainment.mo",
+    "streams": [
+      {
+        "url": "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tdminformation-mo",
+    "name": "TDM Information",
+    "country": "MO",
+    "countryName": "Macao",
+    "category": "News",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/h7HfsLx.png",
+    "epgId": "TDMInformation.mo",
+    "streams": [
+      {
+        "url": "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tdmmacausatellite-mo",
+    "name": "TDM-Macau Satellite",
+    "country": "MO",
+    "countryName": "Macao",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/iIfZsD6.png",
+    "epgId": "TDMMacauSatellite.mo",
+    "streams": [
+      {
+        "url": "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tdmoumun-mo",
+    "name": "TDM Ou Mun",
+    "country": "MO",
+    "countryName": "Macao",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/qDI3aMp.png",
+    "epgId": "TDMOuMun.mo",
+    "streams": [
+      {
+        "url": "http://61.244.22.4/ch1/ch1.live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tdmoumun-mo",
+    "name": "TDM Ou Mun",
+    "country": "MO",
+    "countryName": "Macao",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/qDI3aMp.png",
+    "epgId": "TDMOuMun.mo",
+    "streams": [
+      {
+        "url": "http://61.244.22.4/ch1/ch1.live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tdmsports-mo",
+    "name": "TDM Sports",
+    "country": "MO",
+    "countryName": "Macao",
+    "category": "Sports",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/AsWLf8S.png",
+    "epgId": "TDMSports.mo",
+    "streams": [
+      {
+        "url": "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

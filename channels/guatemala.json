@@ -1,0 +1,1770 @@
+[
+  {
+    "id": "amigostvchiquimula-gt",
+    "name": "Amigos TV Chiquimula",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
+    "epgId": "AmigosTVChiquimula.gt",
+    "streams": [
+      {
+        "url": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "auroramediafilms-gt",
+    "name": "Aurora Media Films",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Movies",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/DVC5w6H.png",
+    "epgId": "AuroraMediaFilms.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "barbetv-gt",
+    "name": "Barbe TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/2Sekew2.png",
+    "epgId": "BarbeTV.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bdtelevision-gt",
+    "name": "BD Television",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/VBJhHkJ/Fda27b8e352949c39c8d88de33a284a4.png",
+    "epgId": "BDTelevision.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal3-gt",
+    "name": "Canal 3",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yCykjIp.png",
+    "epgId": "Canal3.gt",
+    "streams": [
+      {
+        "url": "https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.119.177.253:8000/play/a03o/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal3-gt",
+    "name": "Canal 3",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yCykjIp.png",
+    "epgId": "Canal3.gt",
+    "streams": [
+      {
+        "url": "https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.119.177.253:8000/play/a03o/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal6panadish-gt",
+    "name": "Canal 6 Panadish",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/KJWNPiz.jpg",
+    "epgId": "Canal6Panadish.gt",
+    "streams": [
+      {
+        "url": "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal7-gt",
+    "name": "Canal 7",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yVhUkot.png",
+    "epgId": "Canal7.gt",
+    "streams": [
+      {
+        "url": "https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.119.177.253:8000/play/a03n/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://200.115.120.1:8000/play/ca112/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal7-gt",
+    "name": "Canal 7",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yVhUkot.png",
+    "epgId": "Canal7.gt",
+    "streams": [
+      {
+        "url": "https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.119.177.253:8000/play/a03n/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://200.115.120.1:8000/play/ca112/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal7-gt",
+    "name": "Canal 7",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yVhUkot.png",
+    "epgId": "Canal7.gt",
+    "streams": [
+      {
+        "url": "https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.119.177.253:8000/play/a03n/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://200.115.120.1:8000/play/ca112/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal11-gt",
+    "name": "Canal 11",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/N4DM2YO.png",
+    "epgId": "Canal11.gt",
+    "streams": [
+      {
+        "url": "http://179.60.224.196:8000/play/a0dv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal13-gt",
+    "name": "Canal 13",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/C1yVU3J.png",
+    "epgId": "Canal13.gt",
+    "streams": [
+      {
+        "url": "http://190.61.101.11:7050/play/a07f/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal13esquipulas-gt",
+    "name": "Canal 13 Esquipulas",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/INKZvlN.png",
+    "epgId": "Canal13Esquipulas.gt",
+    "streams": [
+      {
+        "url": "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal27-gt",
+    "name": "Canal 27",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/eA4vt8A.png",
+    "epgId": "Canal27.gt",
+    "streams": [
+      {
+        "url": "https://live.canal27.tv:3633/live/canal27live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal30tvbethel-gt",
+    "name": "Canal 30 TV Bethel",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/PP4U1JL.png",
+    "epgId": "Canal30TVBethel.gt",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal100chinique-gt",
+    "name": "Canal 100 Chinique",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ygNKJXx.png",
+    "epgId": "Canal100Chinique.gt",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canaliglesialuzyverdad-gt",
+    "name": "Canal Iglesia Luz y Verdad",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/x3Vdz6h/Screenshot-20231202-125205.jpg",
+    "epgId": "CanalIglesiaLuzyVerdad.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalpeniel-gt",
+    "name": "Canal Peniel",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Z7aKJCt.png",
+    "epgId": "CanalPeniel.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canaltvradiomayatgba-gt",
+    "name": "Canal TV Radio Maya TGBA",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/kORStT1.png",
+    "epgId": "CanalTVRadioMayaTGBA.gt",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/radiomaya/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canaltvradiomayatgba-gt",
+    "name": "Canal TV Radio Maya TGBA",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/kORStT1.png",
+    "epgId": "CanalTVRadioMayaTGBA.gt",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/radiomaya/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalvisof-gt",
+    "name": "Canal Visof",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/XiszuLl.png",
+    "epgId": "CanalVisof.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "candelariatv-gt",
+    "name": "Candelaria TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Mq1yoUQ.png",
+    "epgId": "CandelariaTV.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "carinosatv-gt",
+    "name": "Carinosa TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/13Kb6Lp.png",
+    "epgId": "CarinosaTV.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "conectadoscondios-gt",
+    "name": "Conectados con Dios",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Drn8nql.png",
+    "epgId": "ConectadosconDios.gt",
+    "streams": [
+      {
+        "url": "https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cristotv-gt",
+    "name": "Cristo TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/c2czW3M/Screenshot-20231201-180316.jpg",
+    "epgId": "CristoTV.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elroitv-gt",
+    "name": "El-Roi TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/h8S0eA4.png",
+    "epgId": "ElRoiTV.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "espiritusantoyfuegotv-gt",
+    "name": "Espiritu Santo Y Fuego TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/8mdSWO4.jpg",
+    "epgId": "EspirituSantoYFuegoTV.gt",
+    "streams": [
+      {
+        "url": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "expresiontv-gt",
+    "name": "Expresion TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/lFek4Pj.png",
+    "epgId": "ExpresionTV.gt",
+    "streams": [
+      {
+        "url": "https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "feviviente-gt",
+    "name": "Fe Viviente",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/PkW3cKR.png",
+    "epgId": "FeViviente.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "franchstv-gt",
+    "name": "Franchs TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Rr9pKQh.png",
+    "epgId": "FranchsTV.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gardeniastv-gt",
+    "name": "Gardenias TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/YfVmfwV/83ff2da28cae14bc47bb07e976bef578.png",
+    "epgId": "GardeniasTV.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gtv-gt",
+    "name": "GTV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gUiIC8E.png",
+    "epgId": "GTV.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "768p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "guatevision-gt",
+    "name": "Guatevision",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mbmHPnO.png",
+    "epgId": "Guatevision.gt",
+    "streams": [
+      {
+        "url": "https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Guatevision.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "guatevision-gt",
+    "name": "Guatevision",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mbmHPnO.png",
+    "epgId": "Guatevision.gt",
+    "streams": [
+      {
+        "url": "https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Guatevision.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "iglesiadelcamino-gt",
+    "name": "Iglesia Del Camino",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vHfb3Z4.png",
+    "epgId": "IglesiaDelCamino.gt",
+    "streams": [
+      {
+        "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jacalcanal5-gt",
+    "name": "Jacal Canal 5",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/k1oW0C6.png",
+    "epgId": "JacalCanal5.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jehovanissi-gt",
+    "name": "Jehova Nissi",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/2BkL4wq.png",
+    "epgId": "JehovaNissi.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jubilotv-gt",
+    "name": "Jubilo TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png",
+    "epgId": "JubiloTV.gt",
+    "streams": [
+      {
+        "url": "http://173.249.60.54/hls/jubilotv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "knal4quiche-gt",
+    "name": "Knal 4 Quiche",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YRSv2Tf.png",
+    "epgId": "Knal4Quiche.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mastv-gt",
+    "name": "MAS TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/3XuwlkQ.jpg",
+    "epgId": "MASTV.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maxivisiontv-gt",
+    "name": "Maxivision TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/UC8WrEN.jpg",
+    "epgId": "MaxivisionTV.gt",
+    "streams": [
+      {
+        "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mcntelevision-gt",
+    "name": "MCN Television",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/SNUaCCw.png",
+    "epgId": "MCNTelevision.gt",
+    "streams": [
+      {
+        "url": "https://eu1.servers10.com:8081/8338/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "multivisioncanal3-gt",
+    "name": "Multivision Canal 3",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/6bdj2BV.jpg",
+    "epgId": "MultivisionCanal3.gt",
+    "streams": [
+      {
+        "url": "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "multivisionsports-gt",
+    "name": "Multivision Sports",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/wLjSSo2.jpg",
+    "epgId": "MultivisionSports.gt",
+    "streams": [
+      {
+        "url": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nimtv-gt",
+    "name": "Nim TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mBNOSzl.png",
+    "epgId": "NimTV.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nuestraimagentv-gt",
+    "name": "Nuestra Imagen TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/sknLXZI.jpeg",
+    "epgId": "NuestraImagenTV.gt",
+    "streams": [
+      {
+        "url": "https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "penielky-gt",
+    "name": "Peniel K&Y",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YtPRKmS.png",
+    "epgId": "PenielKY.gt",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/penielkids/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "penielmusical-gt",
+    "name": "Peniel Musical",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IFQbGEf.png",
+    "epgId": "PenielMusical.gt",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/penielmusical/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.oursnetworktv.com/latin/eC3pEmUsYKmcaLeJ/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "penielmusical-gt",
+    "name": "Peniel Musical",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IFQbGEf.png",
+    "epgId": "PenielMusical.gt",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/penielmusical/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.oursnetworktv.com/latin/eC3pEmUsYKmcaLeJ/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "penieltvbibliaabierta-gt",
+    "name": "Peniel TV Biblia Abierta",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png",
+    "epgId": "PenielTVBibliaAbierta.gt",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "plenitudtv-gt",
+    "name": "Plenitud TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/BFJ7EGj.png",
+    "epgId": "PlenitudTV.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "presenciatelevision-gt",
+    "name": "Presencia Television",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/SVho6El.png",
+    "epgId": "PresenciaTelevision.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "presenciatelevision-gt",
+    "name": "Presencia Television",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/SVho6El.png",
+    "epgId": "PresenciaTelevision.gt",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiocoatancanal21-gt",
+    "name": "Radio Coatan Canal 21",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/569xc5o.png",
+    "epgId": "RadioCoatanCanal21.gt",
+    "streams": [
+      {
+        "url": "https://s2.tvdatta.com:3112/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rhematv-gt",
+    "name": "Rhema TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/5o821rT.png",
+    "epgId": "RhemaTV.gt",
+    "streams": [
+      {
+        "url": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.90.17:40000/play/a0iw/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rhematv-gt",
+    "name": "Rhema TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/5o821rT.png",
+    "epgId": "RhemaTV.gt",
+    "streams": [
+      {
+        "url": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.90.17:40000/play/a0iw/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sastv-gt",
+    "name": "SAS TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/VShjB3o.png",
+    "epgId": "SASTV.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "siltv-gt",
+    "name": "SIL TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/tWZXRVu.png",
+    "epgId": "SILTV.gt",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://www.facebook.com/Siltv32",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "soltv-gt",
+    "name": "Sol TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/YXYv8sf/logo-soltv2.png",
+    "epgId": "SolTV.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecosta-gt",
+    "name": "Telecosta",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png",
+    "epgId": "Telecosta.gt",
+    "streams": [
+      {
+        "url": "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemax-gt",
+    "name": "Telemax",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HisGao7.png",
+    "epgId": "Telemax.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tigosports-gt",
+    "name": "Tigo Sports",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+    "epgId": "TigoSports.gt",
+    "streams": [
+      {
+        "url": "http://45.5.119.43:4000/play/a05t/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tn23-gt",
+    "name": "TN23",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/UtZD3PA.png",
+    "epgId": "TN23.gt",
+    "streams": [
+      {
+        "url": "https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "totovision-gt",
+    "name": "Totovision",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png",
+    "epgId": "Totovision.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tunevision-gt",
+    "name": "Tunevision",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/XNiXqgj.png",
+    "epgId": "Tunevision.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvflorencia-gt",
+    "name": "TV Florencia",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jsbwnRb.png",
+    "epgId": "TVFlorencia.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmaria-gt",
+    "name": "TV Maria",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/qY7T9s9/cropped-TV-MARIA-LOGO-C.jpg",
+    "epgId": "TVMaria.gt",
+    "streams": [
+      {
+        "url": "https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmaya-gt",
+    "name": "TV Maya",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Education",
+    "language": "yua",
+    "languageName": "Yucatec Maya",
+    "logo": "https://i.imgur.com/BGFa4OO.png",
+    "epgId": "TVMaya.gt",
+    "streams": [
+      {
+        "url": "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvsretro-gt",
+    "name": "TVS Retro",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "Classic",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jdnHci0.png",
+    "epgId": "TVSRetro.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvtun-gt",
+    "name": "TV Tun",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/dGSfHCj.png",
+    "epgId": "TVTun.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "unicatv-gt",
+    "name": "Unica TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/VE5OrU7.png",
+    "epgId": "UnicaTV.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "visiontv-gt",
+    "name": "Vision TV",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/S0JrfIl.png",
+    "epgId": "VisionTV.gt",
+    "streams": [
+      {
+        "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "worldtvguatemala-gt",
+    "name": "World TV Guatemala",
+    "country": "GT",
+    "countryName": "Guatemala",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/G4cTmRgz/World-Tv-Guatemala.png",
+    "epgId": "WorldTVGuatemala.gt",
+    "streams": [
+      {
+        "url": "https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

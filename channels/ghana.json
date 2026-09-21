@@ -1,0 +1,302 @@
+[
+  {
+    "id": "adinkratv-gh",
+    "name": "Adinkra TV",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/uwuSXJ8.png",
+    "epgId": "AdinkraTV.gh",
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aptv-gh",
+    "name": "AP TV",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Oky18bX.png",
+    "epgId": "APTV.gh",
+    "streams": [
+      {
+        "url": "https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gtv-gh",
+    "name": "GTV",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/5cFLWKO.png",
+    "epgId": "GTV.gh",
+    "streams": [
+      {
+        "url": "https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "https://liveghanatv.com/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hopechannelghana-gh",
+    "name": "Hope Channel Ghana",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/d1P9ekm.png",
+    "epgId": "HopeChannelGhana.gh",
+    "streams": [
+      {
+        "url": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mogpatv-gh",
+    "name": "MOGPA TV",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/34PmVAq.png",
+    "epgId": "MOGPATV.gh",
+    "streams": [
+      {
+        "url": "https://bk7l2r2nyx53-hls-live.5centscdn.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://srt.mogpa.org:30443/mogpatvplus/website_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mogpatv-gh",
+    "name": "MOGPA TV",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/34PmVAq.png",
+    "epgId": "MOGPATV.gh",
+    "streams": [
+      {
+        "url": "https://bk7l2r2nyx53-hls-live.5centscdn.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://srt.mogpa.org:30443/mogpatvplus/website_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mogpatvplus-gh",
+    "name": "MOGPA TV Plus",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/0YLSM3R.png",
+    "epgId": "MOGPATVPlus.gh",
+    "streams": [
+      {
+        "url": "https://bk7l2r2nyx53-hls-live.5centscdn.com/mogpatvplus/2567a5ec9705eb7ac2c984033e06189d.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "otv-gh",
+    "name": "OTV",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
+    "epgId": "OTV.gh",
+    "streams": [
+      {
+        "url": "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "penttv-gh",
+    "name": "Pent TV",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Jw6d3dR.png",
+    "epgId": "PentTV.gh",
+    "streams": [
+      {
+        "url": "https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "resurrectiontv-gh",
+    "name": "Resurrection TV",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/IncyJW8.png",
+    "epgId": "ResurrectionTV.gh",
+    "streams": [
+      {
+        "url": "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv3-gh",
+    "name": "TV3",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/8t967Hq.png",
+    "epgId": "TV3.gh",
+    "streams": [
+      {
+        "url": "https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "https://liveghanatv.com/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://adesa.tv/live/tv3_AdesaAdb.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv3-gh",
+    "name": "TV3",
+    "country": "GH",
+    "countryName": "Ghana",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/8t967Hq.png",
+    "epgId": "TV3.gh",
+    "streams": [
+      {
+        "url": "https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "https://liveghanatv.com/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://adesa.tv/live/tv3_AdesaAdb.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "id": "bizztv-tt",
+    "name": "Bizz TV",
+    "country": "TT",
+    "countryName": "Trinidad and Tobago",
+    "category": "Lifestyle",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/UxHaJNR.png",
+    "epgId": "BizzTV.tt",
+    "streams": [
+      {
+        "url": "https://stream.bizzmedia.biz/bizz_tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "riddimhopetv-tt",
+    "name": "Riddim & Hope TV",
+    "country": "TT",
+    "countryName": "Trinidad and Tobago",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/c27k0Bd.png",
+    "epgId": "RiddimHopeTV.tt",
+    "streams": [
+      {
+        "url": "https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sankhyatv-tt",
+    "name": "Sankhya TV",
+    "country": "TT",
+    "countryName": "Trinidad and Tobago",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png",
+    "epgId": "SankhyaTV.tt",
+    "streams": [
+      {
+        "url": "https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "scorchtv-tt",
+    "name": "Scorch TV",
+    "country": "TT",
+    "countryName": "Trinidad and Tobago",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/CNszwj1.png",
+    "epgId": "ScorchTV.tt",
+    "streams": [
+      {
+        "url": "https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "theislamicnetwork-tt",
+    "name": "The Islamic Network",
+    "country": "TT",
+    "countryName": "Trinidad and Tobago",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/EtQolw6.png",
+    "epgId": "TheIslamicNetwork.tt",
+    "streams": [
+      {
+        "url": "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "theislamicnetwork-tt",
+    "name": "The Islamic Network",
+    "country": "TT",
+    "countryName": "Trinidad and Tobago",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/EtQolw6.png",
+    "epgId": "TheIslamicNetwork.tt",
+    "streams": [
+      {
+        "url": "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trinitytv-tt",
+    "name": "Trinity TV",
+    "country": "TT",
+    "countryName": "Trinidad and Tobago",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/69igLlk.png",
+    "epgId": "TrinityTV.tt",
+    "streams": [
+      {
+        "url": "https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

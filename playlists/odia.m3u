@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="EkamraBharatOdia.in" tvg-name="Ekamra Bharat Odia" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" group-title="News",Ekamra Bharat Odia (400p)
+https://live.ekamraott.com/bharat/bharat/index.m3u8
+
+#EXTINF:-1 tvg-id="OnePaschima.in" tvg-name="One Paschima" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" group-title="Entertainment",One Paschima (400p)
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8

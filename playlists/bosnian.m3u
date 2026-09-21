@@ -1,0 +1,44 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="BHRT.ba" tvg-name="BHRT" tvg-logo="https://i.imgur.com/01bZ5rw.png" group-title="General",BHRT (720p)
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+
+#EXTINF:-1 tvg-id="BHRT.ba" tvg-name="BHRT" tvg-logo="https://i.imgur.com/01bZ5rw.png" group-title="General",BHRT (270p)
+https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+
+#EXTINF:-1 tvg-id="BHT1.ba" tvg-name="BHT 1" tvg-logo="https://i.imgur.com/LEwlEEE.png" group-title="General",BHT 1 (720p)
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+
+#EXTINF:-1 tvg-id="Federalnatelevizija.ba" tvg-name="Federalna televizija" tvg-logo="https://i.imgur.com/astdRrE.png" group-title="General",Federalna televizija (720p)
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+
+#EXTINF:-1 tvg-id="Kanal6.ba" tvg-name="Kanal 6" tvg-logo="https://i.imgur.com/GGhvR0l.png" group-title="General",Kanal 6 (288p)
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+
+#EXTINF:-1 tvg-id="MISTelevizija.au" tvg-name="MIS Televizija" tvg-logo="https://i.imgur.com/qvrNVFg.png" group-title="Culture",MIS Televizija (720p)
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxBalkans.ba" tvg-name="Newsmax Balkans" tvg-logo="https://i.imgur.com/BXFPz8c.png" group-title="News",Newsmax Balkans (1080p)
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba" tvg-name="RTV Glas Drine" tvg-logo="https://i.imgur.com/9NgxOdb.png" group-title="General",RTV Glas Drine (404p)
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVZenica.ba" tvg-name="RTV Zenica" tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="General",RTV Zenica (720p)
+https://stream.rtvze.ba/live/123/123.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.ba" tvg-name="Super TV" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="General",Super TV (720p)
+https://mirtv.club/live/mirtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Televizija5.ba" tvg-name="Televizija 5" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="General",Televizija 5 (576p)
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+
+#EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-name="Televizija M" tvg-logo="https://i.imgur.com/jT95ZEI.png" group-title="General",Televizija M (1080p)
+https://live.tv-m.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TNTKidsTV.ba" tvg-name="TNT Kids TV" tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="Kids",TNT Kids TV (288p)
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+
+#EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-name="TV Slon Extra" tvg-logo="https://i.imgur.com/AohYgH1.png" group-title="General",TV Slon Extra (1080p)
+http://31.47.0.130:8082/

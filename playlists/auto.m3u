@@ -3,3 +3,120 @@
 
 #EXTINF:-1 tvg-id="30AWeLoveCars.us" tvg-name="30A We Love Cars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="Auto",30A We Love Cars (720p)
 https://30a-tv.com/feeds/vidaa/cars.m3u8
+
+#EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-name="100% Auto Moto TV" tvg-logo="https://i.imgur.com/SZtJfOG.png" group-title="Auto",100% Auto Moto TV (406p)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" tvg-logo="https://i.imgur.com/sVc8cFt.png" group-title="Auto",Auto Plus (HD)
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" tvg-logo="https://i.imgur.com/sVc8cFt.png" group-title="Auto",Auto Plus (576p)
+http://str2.iptvhd.ru:8080/Avto_Plyus/index.m3u8
+
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Auto Plus" tvg-logo="https://i.imgur.com/sVc8cFt.png" group-title="Auto",Auto Plus (576p)
+http://31.148.48.15/Avto_Plus/index.m3u8
+
+#EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Avto24" tvg-logo="https://i.imgur.com/GXSXmN2.png" group-title="Auto",Avto24 (576p)
+http://stream.mcquack.net/78/index.m3u8
+
+#EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Avto24" tvg-logo="https://i.imgur.com/GXSXmN2.png" group-title="Auto",Avto24 (576p)
+https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Avto24" tvg-logo="https://i.imgur.com/GXSXmN2.png" group-title="Auto",Avto24 (576p)
+http://str2.iptvhd.ru:8080/Avto_24/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalMotor.no" tvg-name="Canal Motor" tvg-logo="https://i.imgur.com/nCAt3QN.png" group-title="Auto",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalMotor.no" tvg-name="Canal Motor" tvg-logo="https://i.imgur.com/nCAt3QN.png" group-title="Auto",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenAutoGid.ru" tvg-name="City Eden AutoGid" tvg-logo="https://i.imgur.com/qpe8L27.png" group-title="Auto",City Eden AutoGid (HD)
+https://cityeden.catcast.tv/content/47515/index.m3u8
+
+#EXTINF:-1 tvg-id="Drive.ru" tvg-name="Drive" tvg-logo="https://i.imgur.com/FnuwfSC.png" group-title="Auto",Drive (576i)
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Drive.ru" tvg-name="Drive" tvg-logo="https://i.imgur.com/FnuwfSC.png" group-title="Auto",Drive (576p)
+http://str2.iptvhd.ru:8080/Drayv/index.m3u8
+
+#EXTINF:-1 tvg-id="FierroaFondoTV.us" tvg-name="Fierro a Fondo TV" tvg-logo="https://pbs.twimg.com/profile_images/1903618079696773120/maQJpd9__400x400.jpg" group-title="Auto",Fierro a Fondo TV (1080p)
+http://45.70.201.81:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-name="Garage TV Latin America" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Auto",Garage TV Latin America (HD)
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" tvg-logo="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/InTrouble_portraitOrange.png" group-title="Auto",InTrouble (1080p)
+https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" tvg-logo="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/InTrouble_portraitOrange.png" group-title="Auto",InTrouble (1080p)
+https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" tvg-logo="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/InTrouble_portraitOrange.png" group-title="Auto",InTrouble (1080p)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Auto",Motorvision (576p)
+http://hls127.freeott.top:8080/Motorvision/video.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Auto",Motorvision (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Auto",Motorvision (HD)
+https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Auto",Motorvision (HD)
+https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Auto",Motorvision (HD)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Auto",Motorvision (1080p)
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
+#EXTINF:-1 tvg-id="Pershyiavtomobilnyi.ua" tvg-name="Pershyi avtomobilnyi" tvg-logo="https://i.imgur.com/ul93Lse.png" group-title="Auto",Pershyi avtomobilnyi (1080p)
+http://stream.mcquack.net/404/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCars.us" tvg-name="Pluto TV Cars" tvg-logo="https://i.imgur.com/Tm3VFmq.png" group-title="Auto",Pluto TV Cars (HD)
+https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCars.us" tvg-name="Pluto TV Cars" tvg-logo="https://i.imgur.com/Tm3VFmq.png" group-title="Auto",Pluto TV Cars (HD)
+https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMotor.de" tvg-name="Pluto TV Motor" tvg-logo="https://i.imgur.com/LSrfnpB.png" group-title="Auto",Pluto TV Motor (HD)
+https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMotor.se" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/68ac51dede4a734954b5a67a/colorLogoPNG_1761126157471.png" group-title="Auto",Pluto TV Motor (HD)
+https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMotor.se" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/68ac51dede4a734954b5a67a/colorLogoPNG_1761126157471.png" group-title="Auto",Pluto TV Motor (HD)
+https://jmp2.uk/plu-68ac52b05190a45dc990ee39.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMotor.se" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/68ac51dede4a734954b5a67a/colorLogoPNG_1761126157471.png" group-title="Auto",Pluto TV Motor (HD)
+https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTurbo.us" tvg-name="Pluto TV Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Auto",Pluto TV Turbo (HD)
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="Auto",PowerNation TV (1080p)
+https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="Auto",PowerNation TV (1080p)
+https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="Auto",PowerNation TV (HD)
+https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="Auto",PowerNation TV (1080p)
+https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8
+
+#EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" group-title="Auto",REV'N Action (720p)
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
+
+#EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" group-title="Auto",REV'N Action (720p)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+
+#EXTINF:-1 tvg-id="ShiftTV.hr" tvg-name="Shift TV" tvg-logo="https://i.imgur.com/mudXVT8.png" group-title="Auto",Shift TV (1080p)
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wedotvAuta.pl" tvg-name="wedotv Auta" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0ba18c3b-b319-4ea9-bdad-dfba2c348ce3-width200-quality90.jpeg" group-title="Auto",wedotv Auta (480p)
+https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8

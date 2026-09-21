@@ -1,0 +1,222 @@
+[
+  {
+    "id": "adotv-bj",
+    "name": "ADO TV",
+    "country": "BJ",
+    "countryName": "Benin",
+    "category": "Kids",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/pxFamLr.png",
+    "epgId": "ADOTV.bj",
+    "streams": [
+      {
+        "url": "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "beninwebtv-bj",
+    "name": "Benin Web TV",
+    "country": "BJ",
+    "countryName": "Benin",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/CYy4n0N.png",
+    "epgId": "BeninWebTV.bj",
+    "streams": [
+      {
+        "url": "https://stream.beninwebtv.bj/2/live/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "edentv-bj",
+    "name": "Eden TV",
+    "country": "BJ",
+    "countryName": "Benin",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/4ClnG0x.png",
+    "epgId": "EdenTV.bj",
+    "streams": [
+      {
+        "url": "https://rtmp.edentv.bj/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hc2tv-bj",
+    "name": "HC2 TV",
+    "country": "BJ",
+    "countryName": "Benin",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/CV38429.jpeg",
+    "epgId": "HC2TV.bj",
+    "streams": [
+      {
+        "url": "https://stream.hc2tv.bj/2/live/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "iconetv-bj",
+    "name": "ICONE TV",
+    "country": "BJ",
+    "countryName": "Benin",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/Aws11wj.jpeg",
+    "epgId": "ICONETV.bj",
+    "streams": [
+      {
+        "url": "https://lecteur.iconetv.bj/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kassouatv-bj",
+    "name": "KassouaTV",
+    "country": "BJ",
+    "countryName": "Benin",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/EfX3HNG.png",
+    "epgId": "KassouaTV.bj",
+    "streams": [
+      {
+        "url": "https://playtv4k.live/live/kassouatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lenouveaumanagertv-bj",
+    "name": "Le Nouveau Manager TV",
+    "country": "BJ",
+    "countryName": "Benin",
+    "category": "Business",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/pEoOtEf.jpeg",
+    "epgId": "LeNouveauManagerTV.bj",
+    "streams": [
+      {
+        "url": "https://lnmlive.com/live/lnmtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ortbtv-bj",
+    "name": "ORTB TV",
+    "country": "BJ",
+    "countryName": "Benin",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/o6zAR88.png",
+    "epgId": "ORTBTV.bj",
+    "streams": [
+      {
+        "url": "https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "speedlinetv-bj",
+    "name": "Speedline TV",
+    "country": "BJ",
+    "countryName": "Benin",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/1lXShsh.png",
+    "epgId": "SpeedlineTV.bj",
+    "streams": [
+      {
+        "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcbenin-bj",
+    "name": "TVC Benin",
+    "country": "BJ",
+    "countryName": "Benin",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/oUnEYl5.png",
+    "epgId": "TVCBenin.bj",
+    "streams": [
+      {
+        "url": "https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

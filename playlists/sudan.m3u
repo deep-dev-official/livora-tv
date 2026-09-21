@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-name="Al Alamiya 2" tvg-logo="https://i.imgur.com/5FrE3Nv.png" group-title="Education",Al Alamiya 2 (HD)
+http://82.212.74.98:8000/live/7815.m3u8
+
+#EXTINF:-1 tvg-id="DabangaTV.sd" tvg-name="Dabanga TV" tvg-logo="https://i.imgur.com/BH1N6TA.png" group-title="News",Dabanga TV (1080p)
+https://hls.dabangasudan.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SudanTV.sd" tvg-name="Sudan TV" tvg-logo="https://i.imgur.com/XUPAYAA.png" group-title="General",Sudan TV (360p)
+https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8

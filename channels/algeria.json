@@ -1,0 +1,196 @@
+[
+  {
+    "id": "al24news-dz",
+    "name": "AL24 News",
+    "country": "DZ",
+    "countryName": "Algeria",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/vyVEXYL.png",
+    "epgId": "AL24News.dz",
+    "streams": [
+      {
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "amouyazidtv-dz",
+    "name": "Amou Yazid TV",
+    "country": "DZ",
+    "countryName": "Algeria",
+    "category": "Kids",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/L8UPGPC.png",
+    "epgId": "AmouYazidTV.dz",
+    "streams": [
+      {
+        "url": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cna-dz",
+    "name": "CNA",
+    "country": "DZ",
+    "countryName": "Algeria",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Ki3ySUE.png",
+    "epgId": "CNA.dz",
+    "streams": [
+      {
+        "url": "https://live.creacast.com/cna/stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cna-dz",
+    "name": "CNA",
+    "country": "DZ",
+    "countryName": "Algeria",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Ki3ySUE.png",
+    "epgId": "CNA.dz",
+    "streams": [
+      {
+        "url": "https://live.creacast.com/cna/stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elheddaftv-dz",
+    "name": "El-Heddaf TV",
+    "country": "DZ",
+    "countryName": "Algeria",
+    "category": "Sports",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/cDkIDIA.png",
+    "epgId": "ElHeddafTV.dz",
+    "streams": [
+      {
+        "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elwataniatv-dz",
+    "name": "Elwatania TV",
+    "country": "DZ",
+    "countryName": "Algeria",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/NKR8WFq.png",
+    "epgId": "ElwataniaTV.dz",
+    "streams": [
+      {
+        "url": "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv2-dz",
+    "name": "TV2",
+    "country": "DZ",
+    "countryName": "Algeria",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/VEb631f.png",
+    "epgId": "TV2.dz",
+    "streams": [
+      {
+        "url": "http://185.9.2.18/chid_347/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv7-dz",
+    "name": "TV7",
+    "country": "DZ",
+    "countryName": "Algeria",
+    "category": "Education",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/40rR4hD.png",
+    "epgId": "TV7.dz",
+    "streams": [
+      {
+        "url": "http://185.9.2.18/chid_352/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://entv.dz/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  }
+]

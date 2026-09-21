@@ -1,0 +1,20 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="FUSIONTV.mq" tvg-name="FUSION TV" tvg-logo="https://i.imgur.com/WMrYEgH.png" group-title="Music",FUSION TV (1080p)
+https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-name="Identite Tele Caraibes" tvg-logo="https://i.imgur.com/Atsf6Cd.png" group-title="Music",Identite Tele Caraibes (548p)
+https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="TeleZoukla.mq" tvg-name="Tele Zoukla" tvg-logo="https://i.imgur.com/lWYKgPC.png" group-title="Music",Tele Zoukla (HD)
+https://vdo.pro-fhi.net:3228/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="TVFamille.mq" tvg-name="TV Famille" tvg-logo="https://i.imgur.com/Kbfihk5.png" group-title="Family",TV Famille (720p)
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViaATV.mq" tvg-name="ViaATV" tvg-logo="https://i.imgur.com/Ua6rOXo.png" group-title="General",ViaATV (1080p)
+https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
+
+#EXTINF:-1 tvg-id="ZitataTV.mq" tvg-name="Zitata TV" tvg-logo="https://i.imgur.com/KJmefse.png" group-title="General",Zitata TV (HD)
+https://live.zitata.tv/direct-hls/playlist.m3u8

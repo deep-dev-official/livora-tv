@@ -1,0 +1,64 @@
+[
+  {
+    "id": "tntv-pf",
+    "name": "TNTV",
+    "country": "PF",
+    "countryName": "French Polynesia",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/e5eVHam.png",
+    "epgId": "TNTV.pf",
+    "streams": [
+      {
+        "url": "https://tntv-samsung-fr.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://bcovlive-a.akamaihd.net/34b9e8a6345d4ee8acb351730d1dbe89/us-west-2/5816339219001/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tntv-pf",
+    "name": "TNTV",
+    "country": "PF",
+    "countryName": "French Polynesia",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/e5eVHam.png",
+    "epgId": "TNTV.pf",
+    "streams": [
+      {
+        "url": "https://tntv-samsung-fr.amagi.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://bcovlive-a.akamaihd.net/34b9e8a6345d4ee8acb351730d1dbe89/us-west-2/5816339219001/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

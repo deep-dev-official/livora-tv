@@ -1,0 +1,494 @@
+[
+  {
+    "id": "capitaltvhd-np",
+    "name": "Capital TV HD",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "General",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/EICHpGd.png",
+    "epgId": "CapitalTVHD.np",
+    "streams": [
+      {
+        "url": "https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "capitaltvhd-np",
+    "name": "Capital TV HD",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "General",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/EICHpGd.png",
+    "epgId": "CapitalTVHD.np",
+    "streams": [
+      {
+        "url": "https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "divyadarshantv-np",
+    "name": "Divya Darshan TV",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "Religious",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/EwDQ12F.png",
+    "epgId": "DivyaDarshanTV.np",
+    "streams": [
+      {
+        "url": "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://live.divyadarshantv.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "divyadarshantv-np",
+    "name": "Divya Darshan TV",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "Religious",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/EwDQ12F.png",
+    "epgId": "DivyaDarshanTV.np",
+    "streams": [
+      {
+        "url": "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://live.divyadarshantv.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "indigenoustelevision-np",
+    "name": "Indigenous Television",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "General",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.ibb.co/2MByL1X/indigenous-television.png",
+    "epgId": "IndigenousTelevision.np",
+    "streams": [
+      {
+        "url": "https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kantipurmax-np",
+    "name": "Kantipur Max",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "Movies",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.ibb.co/KzQzd3Tw/kantipurmaxhd.png",
+    "epgId": "KantipurMax.np",
+    "streams": [
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kantipurtv-np",
+    "name": "Kantipur TV",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "General",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/HEVo2Gc.png",
+    "epgId": "KantipurTV.np",
+    "streams": [
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kantipurtv-np",
+    "name": "Kantipur TV",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "General",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/HEVo2Gc.png",
+    "epgId": "KantipurTV.np",
+    "streams": [
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kantipurtv-np",
+    "name": "Kantipur TV",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "General",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/HEVo2Gc.png",
+    "epgId": "KantipurTV.np",
+    "streams": [
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kantipurtv-np",
+    "name": "Kantipur TV",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "General",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/HEVo2Gc.png",
+    "epgId": "KantipurTV.np",
+    "streams": [
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mithilanepaltv-np",
+    "name": "Mithila Nepal TV",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "General",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.ibb.co/CWn3fH9/1689333550464.jpg",
+    "epgId": "MithilaNepalTV.np",
+    "streams": [
+      {
+        "url": "http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "public4ktv-np",
+    "name": "Public 4K TV",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "Entertainment",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/JxEzgDP.png",
+    "epgId": "Public4KTV.np",
+    "streams": [
+      {
+        "url": "http://103.180.240.141:8080/hls/main1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "raytvhd-np",
+    "name": "Ray TV HD",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "Entertainment",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/QIkgiEn.png",
+    "epgId": "RayTVHD.np",
+    "streams": [
+      {
+        "url": "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "raytvhd-np",
+    "name": "Ray TV HD",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "Entertainment",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/QIkgiEn.png",
+    "epgId": "RayTVHD.np",
+    "streams": [
+      {
+        "url": "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvtodayjanakpur-np",
+    "name": "TV Today Janakpur",
+    "country": "NP",
+    "countryName": "Nepal",
+    "category": "Entertainment",
+    "language": "nep",
+    "languageName": "Nepali",
+    "logo": "https://i.imgur.com/5fZF69m.png",
+    "epgId": "TVTodayJanakpur.np",
+    "streams": [
+      {
+        "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "alalamiya2-sd",
+    "name": "Al Alamiya 2",
+    "country": "SD",
+    "countryName": "Sudan",
+    "category": "Education",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/5FrE3Nv.png",
+    "epgId": "AlAlamiya2.sd",
+    "streams": [
+      {
+        "url": "http://82.212.74.98:8000/live/7815.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dabangatv-sd",
+    "name": "Dabanga TV",
+    "country": "SD",
+    "countryName": "Sudan",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/BH1N6TA.png",
+    "epgId": "DabangaTV.sd",
+    "streams": [
+      {
+        "url": "https://hls.dabangasudan.org/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sudantv-sd",
+    "name": "Sudan TV",
+    "country": "SD",
+    "countryName": "Sudan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/XUPAYAA.png",
+    "epgId": "SudanTV.sd",
+    "streams": [
+      {
+        "url": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

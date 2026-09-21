@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="etvNewsSport.za" tvg-name="e.tv News & Sport" tvg-logo="https://i.imgur.com/lXMzsNM.png" group-title="News",e.tv News & Sport (720p)
+https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8

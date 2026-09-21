@@ -1,0 +1,46 @@
+[
+  {
+    "id": "rtbgo-bn",
+    "name": "RTB Go",
+    "country": "BN",
+    "countryName": "Brunei",
+    "category": "General",
+    "language": "msa",
+    "languageName": "Malay",
+    "logo": "https://i.imgur.com/CGlzsD5.png",
+    "epgId": "RTBGo.bn",
+    "streams": [
+      {
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtbsukmaindera-bn",
+    "name": "RTB Sukmaindera",
+    "country": "BN",
+    "countryName": "Brunei",
+    "category": "General",
+    "language": "msa",
+    "languageName": "Malay",
+    "logo": "https://i.imgur.com/WpMGnTr.png",
+    "epgId": "RTBSukmaindera.bn",
+    "streams": [
+      {
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

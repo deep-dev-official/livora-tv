@@ -1,0 +1,112 @@
+[
+  {
+    "id": "afrikinfotv-gn",
+    "name": "Afrik Info TV",
+    "country": "GN",
+    "countryName": "Guinea",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/hz2LOD8.jpeg",
+    "epgId": "AfrikInfoTV.gn",
+    "streams": [
+      {
+        "url": "https://kali.vdopanel.com:3119/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atv-gn",
+    "name": "ATV",
+    "country": "GN",
+    "countryName": "Guinea",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/YkJPCfR.jpeg",
+    "epgId": "ATV.gn",
+    "streams": [
+      {
+        "url": "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "espacetv-gn",
+    "name": "Espace TV",
+    "country": "GN",
+    "countryName": "Guinea",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/R5tbzFI.png",
+    "epgId": "EspaceTV.gn",
+    "streams": [
+      {
+        "url": "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "evasiontv-gn",
+    "name": "Evasion TV",
+    "country": "GN",
+    "countryName": "Guinea",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/TTWl2Iy.png",
+    "epgId": "EvasionTV.gn",
+    "streams": [
+      {
+        "url": "https://kali.vdopanel.com:3788/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kalactv-gn",
+    "name": "Kalac TV",
+    "country": "GN",
+    "countryName": "Guinea",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/FgKJiHZ.png",
+    "epgId": "KalacTV.gn",
+    "streams": [
+      {
+        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

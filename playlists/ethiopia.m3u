@@ -1,0 +1,14 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="AddisTV.et" tvg-name="Addis TV" tvg-logo="https://i.imgur.com/kqHWrZ9.png" group-title="General",Addis TV (720p)
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MerejaTV.et" tvg-name="Mereja TV" tvg-logo="https://i.imgur.com/PaAacxF.png" group-title="News",Mereja TV (1080p)
+https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MerejaTV.et" tvg-name="Mereja TV" tvg-logo="https://i.imgur.com/PaAacxF.png" group-title="News",Mereja TV (HD)
+https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NesihaTV.et" tvg-name="Nesiha TV" tvg-logo="https://i.imgur.com/rqEyzjE.png" group-title="Religious",Nesiha TV (720p)
+https://stream.cisk.tech/nasihatv/index.m3u8

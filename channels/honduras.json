@@ -1,0 +1,2132 @@
+[
+  {
+    "id": "alfaomegavision-hn",
+    "name": "Alfa & Omega Vision",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/4BSKCQT.png",
+    "epgId": "AlfaOmegaVision.hn",
+    "streams": [
+      {
+        "url": "https://srv.panelcast.net/dorian/dorian/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alsaciastelevision-hn",
+    "name": "Alsacias Television",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/SbuD1UW.png",
+    "epgId": "AlsaciasTelevision.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/atv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "avivatv-hn",
+    "name": "Aviva TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/0jMM4TQ.png",
+    "epgId": "AvivaTV.hn",
+    "streams": [
+      {
+        "url": "https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "288p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "azatvhd-hn",
+    "name": "AZA TV HD",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Jytpy32.png",
+    "epgId": "AZATVHD.hn",
+    "streams": [
+      {
+        "url": "https://tv.webmedialive.com/azatvhn/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aztecahonduras-hn",
+    "name": "Azteca Honduras",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/sxFh1dw.png",
+    "epgId": "AztecaHonduras.hn",
+    "streams": [
+      {
+        "url": "https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "buendiatv-hn",
+    "name": "Buendia TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/m5hNyNE.png",
+    "epgId": "BuendiaTV.hn",
+    "streams": [
+      {
+        "url": "https://servilive.com:3508/stream/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "campustv-hn",
+    "name": "Campus TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Education",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/E1TmADM.png",
+    "epgId": "CampusTV.hn",
+    "streams": [
+      {
+        "url": "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal5ellider-hn",
+    "name": "Canal 5 El Lider",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/4hEYFa9.png",
+    "epgId": "Canal5ElLider.hn",
+    "streams": [
+      {
+        "url": "https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://186.33.26.18:8000/play/a0s4/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal5ellider-hn",
+    "name": "Canal 5 El Lider",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/4hEYFa9.png",
+    "epgId": "Canal5ElLider.hn",
+    "streams": [
+      {
+        "url": "https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://186.33.26.18:8000/play/a0s4/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal7talangavision-hn",
+    "name": "Canal 7 Talanga Vision",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png",
+    "epgId": "Canal7TalangaVision.hn",
+    "streams": [
+      {
+        "url": "https://amixtv.com:8081/talangavision/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.oursnetworktv.com/latin/talangatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal7talangavision-hn",
+    "name": "Canal 7 Talanga Vision",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png",
+    "epgId": "Canal7TalangaVision.hn",
+    "streams": [
+      {
+        "url": "https://amixtv.com:8081/talangavision/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.oursnetworktv.com/latin/talangatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal11-hn",
+    "name": "Canal 11",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Sht2Rd4.png",
+    "epgId": "Canal11.hn",
+    "streams": [
+      {
+        "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal11-hn",
+    "name": "Canal 11",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Sht2Rd4.png",
+    "epgId": "Canal11.hn",
+    "streams": [
+      {
+        "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal32sto-hn",
+    "name": "Canal 32 STO",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/dS4Gb0Q.jpg",
+    "epgId": "Canal32STO.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal51-hn",
+    "name": "Canal 51",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/xhVEEA1.png",
+    "epgId": "Canal51.hn",
+    "streams": [
+      {
+        "url": "https://live.cn51hn.com/live/cn51.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ccichannel-hn",
+    "name": "CCI Channel",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/c6hm03f.png",
+    "epgId": "CCIChannel.hn",
+    "streams": [
+      {
+        "url": "https://livestream.mediacci.com/ccitv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cholusatsur36-hn",
+    "name": "Cholusat Sur 36",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/6qL2hE5.png",
+    "epgId": "CholusatSur36.hn",
+    "streams": [
+      {
+        "url": "http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "214p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cholutecatv-hn",
+    "name": "Choluteca TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mpc4Isd.png",
+    "epgId": "CholutecaTV.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/cholutecatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chtv-hn",
+    "name": "CHTV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QLQgwc6.png",
+    "epgId": "CHTV.hn",
+    "streams": [
+      {
+        "url": "https://viewhn.com/chtv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cvatv-hn",
+    "name": "CVA TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/R8P5enu.jpg",
+    "epgId": "CVATV.hn",
+    "streams": [
+      {
+        "url": "http://190.124.161.21:8086/cvatv/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "deportestvc-hn",
+    "name": "Deportes TVC",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Y1t8xkL.png",
+    "epgId": "DeportesTVC.hn",
+    "streams": [
+      {
+        "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.101.11:7050/play/a06t/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "deportestvc-hn",
+    "name": "Deportes TVC",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Y1t8xkL.png",
+    "epgId": "DeportesTVC.hn",
+    "streams": [
+      {
+        "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.101.11:7050/play/a06t/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "deportestvc-hn",
+    "name": "Deportes TVC",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Y1t8xkL.png",
+    "epgId": "DeportesTVC.hn",
+    "streams": [
+      {
+        "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.101.11:7050/play/a06t/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "diosteve-hn",
+    "name": "Dios Te Ve",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7hNwUV2.png",
+    "epgId": "DiosTeVe.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/diostevetv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "diostevekids-hn",
+    "name": "Dios Te Ve Kids",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/GnZicVH.png",
+    "epgId": "DiosTeVeKids.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "diostvtalanga-hn",
+    "name": "Dios Tv Talanga",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/mb8F7R1/Db52f621d30793337de1cdcfc4f02be1.png",
+    "epgId": "DiosTvTalanga.hn",
+    "streams": [
+      {
+        "url": "https://tv.webmedialive.com/unciontv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebenezertv-hn",
+    "name": "Ebenezer TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IC30j61.png",
+    "epgId": "EbenezerTV.hn",
+    "streams": [
+      {
+        "url": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "edntv-hn",
+    "name": "EDN TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/5fPsYTz.png",
+    "epgId": "EDNTV.hn",
+    "streams": [
+      {
+        "url": "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "girasoltv-hn",
+    "name": "Girasol TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/2t7A2yg.png",
+    "epgId": "GirasolTV.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/girasoltv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "globotv-hn",
+    "name": "Globo TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/hxGvZ77.png",
+    "epgId": "GloboTV.hn",
+    "streams": [
+      {
+        "url": "https://panel.dattalive.com/8122/8122/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "globotv-hn",
+    "name": "Globo TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/hxGvZ77.png",
+    "epgId": "GloboTV.hn",
+    "streams": [
+      {
+        "url": "https://panel.dattalive.com/8122/8122/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "guayapetv-hn",
+    "name": "Guayape TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/cteBdAJ.jpg",
+    "epgId": "GuayapeTV.hn",
+    "streams": [
+      {
+        "url": "https://tv.bitstreaming.net:8443/live/guayapetv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hch-hn",
+    "name": "HCH",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/2CB5ezq.png",
+    "epgId": "HCH.hn",
+    "streams": [
+      {
+        "url": "https://live.streamhch.com/live/streams/hch1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "icndigital-hn",
+    "name": "ICN Digital",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/UCZVQgj.png",
+    "epgId": "ICNDigital.hn",
+    "streams": [
+      {
+        "url": "https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "imagenfm1051-hn",
+    "name": "Imagen FM 105.1",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",
+    "epgId": "ImagenFM1051.hn",
+    "streams": [
+      {
+        "url": "https://streaming.imagenfm105-1.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "inmaculadatv-hn",
+    "name": "Inmaculada TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/2lisFJV.png",
+    "epgId": "InmaculadaTV.hn",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jbntv-hn",
+    "name": "JBN TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/4EbHIvf.png",
+    "epgId": "JBNTV.hn",
+    "streams": [
+      {
+        "url": "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://viewhn.com/jbn_live/enlace/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jbntv-hn",
+    "name": "JBN TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/4EbHIvf.png",
+    "epgId": "JBNTV.hn",
+    "streams": [
+      {
+        "url": "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://viewhn.com/jbn_live/enlace/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jehovatv-hn",
+    "name": "Jehova TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ylZKG57.png",
+    "epgId": "JehovaTV.hn",
+    "streams": [
+      {
+        "url": "https://mp.panelchs.com:1936/8038/8038/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kerussotv-hn",
+    "name": "Kerusso TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/S79uof0.png",
+    "epgId": "KerussoTV.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/kerussotv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "la981tv-hn",
+    "name": "La 98.1 TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7380kTN.png",
+    "epgId": "La981TV.hn",
+    "streams": [
+      {
+        "url": "https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "latop1029-hn",
+    "name": "La Top 102.9",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ZqwLPag.jpg",
+    "epgId": "LaTop1029.hn",
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "latop1077-hn",
+    "name": "La Top 107.7",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vgHhh1W.jpg",
+    "epgId": "LaTop1077.hn",
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lencatv-hn",
+    "name": "Lenca TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/fc5IHSy.png",
+    "epgId": "LencaTV.hn",
+    "streams": [
+      {
+        "url": "https://lencatelevision.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "litoralatlanticohd-hn",
+    "name": "Litoral Atlantico HD",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/UXsgEPX.png",
+    "epgId": "LitoralAtlanticoHD.hn",
+    "streams": [
+      {
+        "url": "https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ltv-hn",
+    "name": "LTV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/KBYUOcP.png",
+    "epgId": "LTV.hn",
+    "streams": [
+      {
+        "url": "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "masnoticiastelevision-hn",
+    "name": "Mas Noticias Television",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/FG4nfRX.jpg",
+    "epgId": "MasNoticiasTelevision.hn",
+    "streams": [
+      {
+        "url": "https://www.amixtv.com:8081/mntvh/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mayatv-hn",
+    "name": "Maya TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png",
+    "epgId": "MayaTV.hn",
+    "streams": [
+      {
+        "url": "https://media.streambrothers.com:19360/8356/8356.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://media.streambrothers.com:19360/8036/8036.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mayatv-hn",
+    "name": "Maya TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png",
+    "epgId": "MayaTV.hn",
+    "streams": [
+      {
+        "url": "https://media.streambrothers.com:19360/8356/8356.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://media.streambrothers.com:19360/8036/8036.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "metrotv-hn",
+    "name": "Metro TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/BqS8BHi.png",
+    "epgId": "MetroTV.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/metrotv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "puringlatv-hn",
+    "name": "Puringla TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/CGyjxPO.jpg",
+    "epgId": "PuringlaTV.hn",
+    "streams": [
+      {
+        "url": "https://stmv2.srvif.com/puringla/puringla/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qhubotv-hn",
+    "name": "Q'hubo TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yZmnfvj.png",
+    "epgId": "QhuboTV.hn",
+    "streams": [
+      {
+        "url": "https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "410p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiofiestademilagrostv-hn",
+    "name": "Radio Fiesta de Milagros TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/hqYPAYL.png",
+    "epgId": "RadioFiestadeMilagrosTV.hn",
+    "streams": [
+      {
+        "url": "https://tv.webmedialive.com/fiestatv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioideal-hn",
+    "name": "Radio Ideal",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/chPfoOs.png",
+    "epgId": "RadioIdeal.hn",
+    "streams": [
+      {
+        "url": "https://www.idealfm104-7.com/hls/0/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioomegatv-hn",
+    "name": "Radio Omega TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
+    "epgId": "RadioOmegaTV.hn",
+    "streams": [
+      {
+        "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rcvtv-hn",
+    "name": "RCV TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/0TEeEFG.jpg",
+    "epgId": "RCVTV.hn",
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "712p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rsvhonduras-hn",
+    "name": "RSV Honduras",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yr7Ellh.jpg",
+    "epgId": "RSVHonduras.hn",
+    "streams": [
+      {
+        "url": "https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rsvhonduras-hn",
+    "name": "RSV Honduras",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yr7Ellh.jpg",
+    "epgId": "RSVHonduras.hn",
+    "streams": [
+      {
+        "url": "https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sanignaciotv-hn",
+    "name": "San Ignacio TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/XJNGsv0/903784d2b8df3f29a43579b78d4341d3.png",
+    "epgId": "SanIgnacioTV.hn",
+    "streams": [
+      {
+        "url": "https://amixtv.live:3753/live/sitvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sercanotv-hn",
+    "name": "Sercano TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg",
+    "epgId": "SercanoTV.hn",
+    "streams": [
+      {
+        "url": "http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "stvetelebasica-hn",
+    "name": "STVE Telebasica",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Education",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nUsq67m.png",
+    "epgId": "STVETelebasica.hn",
+    "streams": [
+      {
+        "url": "https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sulatv-hn",
+    "name": "Sula TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/v90r5jS.png",
+    "epgId": "SulaTV.hn",
+    "streams": [
+      {
+        "url": "https://tv.webmedialive.com/sulatv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suyapatv-hn",
+    "name": "Suyapa TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/I7GuToz.png",
+    "epgId": "SuyapaTV.hn",
+    "streams": [
+      {
+        "url": "https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "talangatvcanal39-hn",
+    "name": "Talanga TV Canal 39",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Family",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/5GiUzHC.jpg",
+    "epgId": "TalangaTVCanal39.hn",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tdvtv-hn",
+    "name": "TDV TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/C2mr74y/Ee0f72e3708fb045177dd894cc93ae99.png",
+    "epgId": "TDVTV.hn",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telavision-hn",
+    "name": "Telavision",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vzjqAZh.jpg",
+    "epgId": "Telavision.hn",
+    "streams": [
+      {
+        "url": "https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecadena7y4-hn",
+    "name": "Telecadena 7 y 4",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/3gzFNog.png",
+    "epgId": "Telecadena7y4.hn",
+    "streams": [
+      {
+        "url": "http://45.167.2.101:8000/play/a07n/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleceiba-hn",
+    "name": "Teleceiba",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/oPSfsvy.png",
+    "epgId": "Teleceiba.hn",
+    "streams": [
+      {
+        "url": "https://teleceiba.com/stream/tlcb720.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teledanli-hn",
+    "name": "TeleDanli",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/BACuUSc.png",
+    "epgId": "TeleDanli.hn",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teledanli-hn",
+    "name": "TeleDanli",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/BACuUSc.png",
+    "epgId": "TeleDanli.hn",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemas-hn",
+    "name": "Telemas",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/eORs1yt.jpg",
+    "epgId": "Telemas.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/telemas/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telerayo-hn",
+    "name": "Telerayo",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jLQsU1u.png",
+    "epgId": "Telerayo.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/telerayo/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televisioncomayaguacanal40-hn",
+    "name": "Television Comayagua Canal 40",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/uDLhsDM.png",
+    "epgId": "TelevisionComayaguaCanal40.hn",
+    "streams": [
+      {
+        "url": "https://mediacp.us:8081/8034/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televisionmetropolis191-hn",
+    "name": "Television Metropolis 19.1",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/X5C1GzB.png",
+    "epgId": "TelevisionMetropolis191.hn",
+    "streams": [
+      {
+        "url": "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televisionmetropolis192-hn",
+    "name": "Television Metropolis 19.2",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QaocW5x.png",
+    "epgId": "TelevisionMetropolis192.hn",
+    "streams": [
+      {
+        "url": "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televisionolanchana-hn",
+    "name": "Television Olanchana",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/8LnLEQz.png",
+    "epgId": "TelevisionOlanchana.hn",
+    "streams": [
+      {
+        "url": "https://viewhn.com/canal30/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tencanal10-hn",
+    "name": "TEN Canal 10",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HQiKyHy.jpg",
+    "epgId": "TENCanal10.hn",
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tsi-hn",
+    "name": "TSi",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/GEyxDnf.png",
+    "epgId": "TSi.hn",
+    "streams": [
+      {
+        "url": "https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tsi-hn",
+    "name": "TSi",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/GEyxDnf.png",
+    "epgId": "TSi.hn",
+    "streams": [
+      {
+        "url": "https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcentro272hd-hn",
+    "name": "TV Centro 27.2 HD",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Wo2scQf.jpg",
+    "epgId": "TVCentro272HD.hn",
+    "streams": [
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcentrohd-hn",
+    "name": "TV Centro HD",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/bcfmqHb.png",
+    "epgId": "TVCentroHD.hn",
+    "streams": [
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcopan-hn",
+    "name": "TV Copan",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/JiPmRFr.png",
+    "epgId": "TVCopan.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/tvcopan/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvestrella-hn",
+    "name": "TV Estrella",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QqSR7l7.png",
+    "epgId": "TVEstrella.hn",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/tve/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "unahutv-hn",
+    "name": "UNAH UTV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/GhzaYbK.png",
+    "epgId": "UNAHUTV.hn",
+    "streams": [
+      {
+        "url": "https://live-utv.unah.edu.hn/web/salida.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "unetv-hn",
+    "name": "UNE TV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/V9Fpd3Y.png",
+    "epgId": "UNETV.hn",
+    "streams": [
+      {
+        "url": "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vtv-hn",
+    "name": "VTV",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/CsPkwD5.png",
+    "epgId": "VTV.hn",
+    "streams": [
+      {
+        "url": "https://d3q93l5bumjyoq.cloudfront.net/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "waldivisioninternacional-hn",
+    "name": "Waldivision Internacional",
+    "country": "HN",
+    "countryName": "Honduras",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/NB8pfpb.png",
+    "epgId": "WaldivisionInternacional.hn",
+    "streams": [
+      {
+        "url": "https://media.streambrothers.com:19360/8308/8308.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

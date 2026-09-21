@@ -1,0 +1,6772 @@
+[
+  {
+    "id": "5tv-ar",
+    "name": "5tv",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mSn7ACs.png",
+    "epgId": "5tv.ar",
+    "streams": [
+      {
+        "url": "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "5tv-ar",
+    "name": "5tv",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mSn7ACs.png",
+    "epgId": "5tv.ar",
+    "streams": [
+      {
+        "url": "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "247canaldenoticias-ar",
+    "name": "24/7 Canal de Noticias",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/4hDCB1M.png",
+    "epgId": "247CanaldeNoticias.ar",
+    "streams": [
+      {
+        "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "a24-ar",
+    "name": "A24",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/LnXQkIU.png",
+    "epgId": "A24.ar",
+    "streams": [
+      {
+        "url": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "abtvbariloche-ar",
+    "name": "ABTV Bariloche",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/l4TSfDr.png",
+    "epgId": "ABTVBariloche.ar",
+    "streams": [
+      {
+        "url": "https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "airedesantafe-ar",
+    "name": "Aire de Santa Fe",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://files.catbox.moe/9tm8wx.png",
+    "epgId": "AiredeSantaFe.ar",
+    "streams": [
+      {
+        "url": "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "airedesantafe-ar",
+    "name": "Aire de Santa Fe",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://files.catbox.moe/9tm8wx.png",
+    "epgId": "AiredeSantaFe.ar",
+    "streams": [
+      {
+        "url": "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alternatv-ar",
+    "name": "AlternaTV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://tv.alterna.ar/alternatv.png",
+    "epgId": "AlternaTV.ar",
+    "streams": [
+      {
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "americatv-ar",
+    "name": "America TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
+    "epgId": "AmericaTV.ar",
+    "streams": [
+      {
+        "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "argentinisimasatelital-ar",
+    "name": "Argentinisima Satelital",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/xFgJawa.png",
+    "epgId": "ArgentinisimaSatelital.ar",
+    "streams": [
+      {
+        "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "azaharesradiovisualmultimedia-ar",
+    "name": "Azahares Radiovisual Multimedia",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/g1BFoSs.png",
+    "epgId": "AzaharesRadiovisualMultimedia.ar",
+    "streams": [
+      {
+        "url": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bayrestv-ar",
+    "name": "Bayres TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png",
+    "epgId": "BayresTV.ar",
+    "streams": [
+      {
+        "url": "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "beatsradio-ar",
+    "name": "Beats Radio",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/zkNUO5p.png",
+    "epgId": "BeatsRadio.ar",
+    "streams": [
+      {
+        "url": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bragadotv-ar",
+    "name": "Bragado TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/xP88fKG.png",
+    "epgId": "BragadoTV.ar",
+    "streams": [
+      {
+        "url": "https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bragadotv-ar",
+    "name": "Bragado TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/xP88fKG.png",
+    "epgId": "BragadoTV.ar",
+    "streams": [
+      {
+        "url": "https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bravotv-ar",
+    "name": "Bravo TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png",
+    "epgId": "BravoTV.ar",
+    "streams": [
+      {
+        "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bravotv-ar",
+    "name": "Bravo TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png",
+    "epgId": "BravoTV.ar",
+    "streams": [
+      {
+        "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bvc-ar",
+    "name": "BVC",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/I06TSx0.png",
+    "epgId": "BVC.ar",
+    "streams": [
+      {
+        "url": "https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cableimagenarmstrong-ar",
+    "name": "Cable Imagen Armstrong",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/U9NuJQC.png",
+    "epgId": "CableImagenArmstrong.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.com.ar/casse/casse/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cadena103tv-ar",
+    "name": "Cadena103.TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vBsry35.png",
+    "epgId": "Cadena103TV.ar",
+    "streams": [
+      {
+        "url": "http://arcast.net:1935/cadena103/cadena103/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cadena103tv-ar",
+    "name": "Cadena103.TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vBsry35.png",
+    "epgId": "Cadena103TV.ar",
+    "streams": [
+      {
+        "url": "http://arcast.net:1935/cadena103/cadena103/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal2deushuaia-ar",
+    "name": "Canal 2 de Ushuaia",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/q5NPdK2/canal2-logo.png",
+    "epgId": "Canal2deUshuaia.ar",
+    "streams": [
+      {
+        "url": "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal2gualeguay-ar",
+    "name": "Canal 2 Gualeguay",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TOlncyp.png",
+    "epgId": "Canal2Gualeguay.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal2mardelplata-ar",
+    "name": "Canal 2 Mar del Plata",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/wlKFPBW.jpeg",
+    "epgId": "Canal2MardelPlata.ar",
+    "streams": [
+      {
+        "url": "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal2misiones-ar",
+    "name": "Canal 2 Misiones",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YqTNXDf.png",
+    "epgId": "Canal2Misiones.ar",
+    "streams": [
+      {
+        "url": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal2nextvrafaela-ar",
+    "name": "Canal 2 NexTV Rafaela",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/hgj3CaR.jpeg",
+    "epgId": "Canal2NexTVRafaela.ar",
+    "streams": [
+      {
+        "url": "https://edge.enhdtv.com/nexthd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal3formosa-ar",
+    "name": "Canal 3 Formosa",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/rVDrNIy.png",
+    "epgId": "Canal3Formosa.ar",
+    "streams": [
+      {
+        "url": "https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal3lapampa-ar",
+    "name": "Canal 3 La Pampa",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/SsNFudZ.png",
+    "epgId": "Canal3LaPampa.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal3lasheras-ar",
+    "name": "Canal 3 Las Heras",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/bd2afET.png",
+    "epgId": "Canal3LasHeras.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal3pinamar-ar",
+    "name": "Canal 3 Pinamar",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IABFaH1.png",
+    "epgId": "Canal3Pinamar.ar",
+    "streams": [
+      {
+        "url": "http://intelincloud01.com.ar/hls/cn3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal3tacural-ar",
+    "name": "Canal 3 Tacural",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/RKvSa52.jpeg",
+    "epgId": "Canal3Tacural.ar",
+    "streams": [
+      {
+        "url": "http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal4esquel-ar",
+    "name": "Canal 4 Esquel",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/6kbOr16.png",
+    "epgId": "Canal4Esquel.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal4jujuy-ar",
+    "name": "Canal 4 Jujuy",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/qB6I274.png",
+    "epgId": "Canal4Jujuy.ar",
+    "streams": [
+      {
+        "url": "https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal4posadas-ar",
+    "name": "Canal 4 Posadas",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/tElJr3e.png",
+    "epgId": "Canal4Posadas.ar",
+    "streams": [
+      {
+        "url": "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal4sanjuan-ar",
+    "name": "Canal 4 San Juan",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/MsCnwRA.png",
+    "epgId": "Canal4SanJuan.ar",
+    "streams": [
+      {
+        "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal4teleaire-ar",
+    "name": "Canal 4 Teleaire",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/XyiNvbY.png",
+    "epgId": "Canal4Teleaire.ar",
+    "streams": [
+      {
+        "url": "https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal4villadolores-ar",
+    "name": "Canal 4 Villa Dolores",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ZKSnGfw.png",
+    "epgId": "Canal4VillaDolores.ar",
+    "streams": [
+      {
+        "url": "https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal5delpueblo-ar",
+    "name": "Canal 5 Del Pueblo",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg",
+    "epgId": "Canal5DelPueblo.ar",
+    "streams": [
+      {
+        "url": "https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal5santafe-ar",
+    "name": "Canal 5 Santa Fe",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/WX0esjQ.png",
+    "epgId": "Canal5SantaFe.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal5tvchepes-ar",
+    "name": "Canal 5 TV Chepes",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/AzEqroq.png",
+    "epgId": "Canal5TVChepes.ar",
+    "streams": [
+      {
+        "url": "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal6posadas-ar",
+    "name": "Canal 6 Posadas",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/OamBiS5.png",
+    "epgId": "Canal6Posadas.ar",
+    "streams": [
+      {
+        "url": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal6vientorecio-ar",
+    "name": "Canal 6 Viento Recio",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/liyTNzK.png",
+    "epgId": "Canal6VientoRecio.ar",
+    "streams": [
+      {
+        "url": "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal7jujuy-ar",
+    "name": "Canal 7 Jujuy",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/K0jk8p4.png",
+    "epgId": "Canal7Jujuy.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal7neuquen-ar",
+    "name": "Canal 7 Neuquen",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
+    "epgId": "Canal7Neuquen.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal7salta-ar",
+    "name": "Canal 7 Salta",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/CudG6sl.png",
+    "epgId": "Canal7Salta.ar",
+    "streams": [
+      {
+        "url": "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal7salta-ar",
+    "name": "Canal 7 Salta",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/CudG6sl.png",
+    "epgId": "Canal7Salta.ar",
+    "streams": [
+      {
+        "url": "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal7tv-ar",
+    "name": "Canal 7 TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/iJMH0UK.png",
+    "epgId": "Canal7TV.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.com.ar/envivo/castv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal8mardelplata-ar",
+    "name": "Canal 8 Mar del Plata",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/G7TaQ1L.png",
+    "epgId": "Canal8MardelPlata.ar",
+    "streams": [
+      {
+        "url": "https://canal8mdq.unpocodeawita.workers.dev/",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal8sanjuan-ar",
+    "name": "Canal 8 San Juan",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://files.catbox.moe/f7jbdo.png",
+    "epgId": "Canal8SanJuan.ar",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal9link-ar",
+    "name": "Canal 9 Link",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://audios.radiosnet.com.ar/imgwikidat/img_cuerpo/canal+9+buenos+aires9.jpg",
+    "epgId": "Canal9Link.ar",
+    "streams": [
+      {
+        "url": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal9litoral-ar",
+    "name": "Canal 9 Litoral",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png",
+    "epgId": "Canal9Litoral.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.live/ahora/ahora/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal9resistencia-ar",
+    "name": "Canal 9 Resistencia",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/xqgRFpC.png",
+    "epgId": "Canal9Resistencia.ar",
+    "streams": [
+      {
+        "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal10cordoba-ar",
+    "name": "Canal 10 Cordoba",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/87WCHtd.png",
+    "epgId": "Canal10Cordoba.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal10mardelplata-ar",
+    "name": "Canal 10 Mar del Plata",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/bq29sfG.png",
+    "epgId": "Canal10MardelPlata.ar",
+    "streams": [
+      {
+        "url": "https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal12web-ar",
+    "name": "Canal 12 Web",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/VYcTRbd.png",
+    "epgId": "Canal12Web.ar",
+    "streams": [
+      {
+        "url": "https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nd106.republicaservers.com:4433/c7827.mp4",
+        "type": "mp4",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal12web-ar",
+    "name": "Canal 12 Web",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/VYcTRbd.png",
+    "epgId": "Canal12Web.ar",
+    "streams": [
+      {
+        "url": "https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nd106.republicaservers.com:4433/c7827.mp4",
+        "type": "mp4",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal13jujuy-ar",
+    "name": "Canal 13 Jujuy",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/lmKLiJ3.jpg",
+    "epgId": "Canal13Jujuy.ar",
+    "streams": [
+      {
+        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal13larioja-ar",
+    "name": "Canal 13 La Rioja",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/OI97Sgq.png",
+    "epgId": "Canal13LaRioja.ar",
+    "streams": [
+      {
+        "url": "http://arcast.net:1935/mp/mp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal13sanluis-ar",
+    "name": "Canal 13 San Luis",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/NcfMC29.png",
+    "epgId": "Canal13SanLuis.ar",
+    "streams": [
+      {
+        "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal21tv-ar",
+    "name": "Canal 21 TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Am7yMXg.png",
+    "epgId": "Canal21TV.ar",
+    "streams": [
+      {
+        "url": "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal22-ar",
+    "name": "Canal 22",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/R4wXVxf.png",
+    "epgId": "Canal22.ar",
+    "streams": [
+      {
+        "url": "https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal26-ar",
+    "name": "Canal 26",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png",
+    "epgId": "Canal26.ar",
+    "streams": [
+      {
+        "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal26-ar",
+    "name": "Canal 26",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png",
+    "epgId": "Canal26.ar",
+    "streams": [
+      {
+        "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal50morteros-ar",
+    "name": "Canal 50 Morteros",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IDhgBav.png",
+    "epgId": "Canal50Morteros.ar",
+    "streams": [
+      {
+        "url": "https://online.coopmorteros.coop/canal50/vivo.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal79lacosta-ar",
+    "name": "Canal 79 La Costa",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HYuSqJy.png",
+    "epgId": "Canal79LaCosta.ar",
+    "streams": [
+      {
+        "url": "https://streamconex.com:19360/lacosta/lacosta.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal79mardelplata-ar",
+    "name": "Canal 79 Mar del Plata",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://files.catbox.moe/bt6ltn.jpg",
+    "epgId": "Canal79MardelPlata.ar",
+    "streams": [
+      {
+        "url": "https://streamconex.com:19360/mardelplata/mardelplata.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal79puan-ar",
+    "name": "Canal 79 Puan",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HYuSqJy.png",
+    "epgId": "Canal79Puan.ar",
+    "streams": [
+      {
+        "url": "https://streamconex.com:19360/puan/puan.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal79santaclaradelmar-ar",
+    "name": "Canal 79 Santa Clara del Mar",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/I93ypGY.png",
+    "epgId": "Canal79SantaClaradelMar.ar",
+    "streams": [
+      {
+        "url": "https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal79villamaza-ar",
+    "name": "Canal 79 Villa Maza",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HYuSqJy.png",
+    "epgId": "Canal79VillaMaza.ar",
+    "streams": [
+      {
+        "url": "https://streamconex.com:19360/villamaza/villamaza.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal99miramar-ar",
+    "name": "Canal 99 Miramar",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/PblsZxz.jpeg",
+    "epgId": "Canal99Miramar.ar",
+    "streams": [
+      {
+        "url": "https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canale-ar",
+    "name": "Canal E",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Business",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
+    "epgId": "CanalE.ar",
+    "streams": [
+      {
+        "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalluz-ar",
+    "name": "Canal Luz",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/GnY6dNT.png",
+    "epgId": "CanalLuz.ar",
+    "streams": [
+      {
+        "url": "https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalorbe21-ar",
+    "name": "Canal Orbe 21",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/USD6Wn8.png",
+    "epgId": "CanalOrbe21.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalprovincial-ar",
+    "name": "Canal Provincial",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/bXHHtcb.png",
+    "epgId": "CanalProvincial.ar",
+    "streams": [
+      {
+        "url": "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalpulpotv-ar",
+    "name": "Canal Pulpo TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
+    "epgId": "CanalPulpoTV.ar",
+    "streams": [
+      {
+        "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalsantamaria-ar",
+    "name": "Canal Santa Maria",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg",
+    "epgId": "CanalSantaMaria.ar",
+    "streams": [
+      {
+        "url": "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalshowsport-ar",
+    "name": "Canal Showsport",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/0L9tW3Z.png",
+    "epgId": "CanalShowsport.ar",
+    "streams": [
+      {
+        "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canaltdc-ar",
+    "name": "Canal TDC",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nPG38B2.png",
+    "epgId": "CanalTDC.ar",
+    "streams": [
+      {
+        "url": "https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canaluniversidad-ar",
+    "name": "Canal Universidad",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Education",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://files.catbox.moe/n1b27y.png",
+    "epgId": "CanalUniversidad.ar",
+    "streams": [
+      {
+        "url": "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "carastv-ar",
+    "name": "Caras TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7dl4yQY.jpeg",
+    "epgId": "CarasTV.ar",
+    "streams": [
+      {
+        "url": "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.90.17:40000/play/a043/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "carastv-ar",
+    "name": "Caras TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7dl4yQY.jpeg",
+    "epgId": "CarasTV.ar",
+    "streams": [
+      {
+        "url": "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.90.17:40000/play/a043/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "catamarcatv-ar",
+    "name": "Catamarca TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Culture",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/CEuPoqG.png",
+    "epgId": "CatamarcaTV.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "celtatv-ar",
+    "name": "Celta TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/rwoIF4w.png",
+    "epgId": "CeltaTV.ar",
+    "streams": [
+      {
+        "url": "https://vivo.solumedia.com:19360/celta/celta.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chacotv-ar",
+    "name": "Chaco TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/b6RerDw.png",
+    "epgId": "ChacoTV.ar",
+    "streams": [
+      {
+        "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chacratv-ar",
+    "name": "Chacra TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Outdoor",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gy7AEfO.png",
+    "epgId": "ChacraTV.ar",
+    "streams": [
+      {
+        "url": "https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chamametv-ar",
+    "name": "Chamame TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/JigzJck.png",
+    "epgId": "ChamameTV.ar",
+    "streams": [
+      {
+        "url": "https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ciudadmagica-ar",
+    "name": "Ciudad Magica",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Outdoor",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HJkSz2U.png",
+    "epgId": "CiudadMagica.ar",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ciudadtvresistencia-ar",
+    "name": "Ciudad TV Resistencia",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/oL8SMTL.png",
+    "epgId": "CiudadTVResistencia.ar",
+    "streams": [
+      {
+        "url": "https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "correaradiovision-ar",
+    "name": "Correa Radiovision",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/bNCGzjf.jpeg",
+    "epgId": "CorreaRadiovision.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "corrientestv-ar",
+    "name": "Corrientes TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7PBkvRp.png",
+    "epgId": "CorrientesTV.ar",
+    "streams": [
+      {
+        "url": "https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cosmostv-ar",
+    "name": "Cosmos Tv",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Movies",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://cdn4.fmcosmos.com/s4/2025/11/03/fmcosmos/images/15/92/159284_a18e887e336fef3bc6b188314a173ce10cbe5157966e839517e2b0428d7aed46/xs.webp",
+    "epgId": "CosmosTv.ar",
+    "streams": [
+      {
+        "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cosmostv-ar",
+    "name": "Cosmos Tv",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Movies",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://cdn4.fmcosmos.com/s4/2025/11/03/fmcosmos/images/15/92/159284_a18e887e336fef3bc6b188314a173ce10cbe5157966e839517e2b0428d7aed46/xs.webp",
+    "epgId": "CosmosTv.ar",
+    "streams": [
+      {
+        "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cumbiamix-ar",
+    "name": "Cumbia Mix",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png",
+    "epgId": "CumbiaMix.ar",
+    "streams": [
+      {
+        "url": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dancetv-ar",
+    "name": "Dance TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/UKMR625.png",
+    "epgId": "DanceTV.ar",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dancetv-ar",
+    "name": "Dance TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/UKMR625.png",
+    "epgId": "DanceTV.ar",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannellatinamerica-ar",
+    "name": "Disney Channel Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "epgId": "DisneyChannelLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannellatinamerica-ar",
+    "name": "Disney Channel Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "epgId": "DisneyChannelLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannellatinamerica-ar",
+    "name": "Disney Channel Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "epgId": "DisneyChannelLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannellatinamerica-ar",
+    "name": "Disney Channel Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "epgId": "DisneyChannelLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannellatinamerica-ar",
+    "name": "Disney Channel Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "epgId": "DisneyChannelLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannellatinamerica-ar",
+    "name": "Disney Channel Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "epgId": "DisneyChannelLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannellatinamerica-ar",
+    "name": "Disney Channel Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "epgId": "DisneyChannelLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannellatinamerica-ar",
+    "name": "Disney Channel Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "epgId": "DisneyChannelLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannellatinamerica-ar",
+    "name": "Disney Channel Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "epgId": "DisneyChannelLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannellatinamerica-ar",
+    "name": "Disney Channel Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "epgId": "DisneyChannelLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneyjrlatinamerica-ar",
+    "name": "Disney Jr. Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "epgId": "DisneyJrLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.78.14.26:4000/play/a073/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00g/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneyjrlatinamerica-ar",
+    "name": "Disney Jr. Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "epgId": "DisneyJrLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.78.14.26:4000/play/a073/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00g/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneyjrlatinamerica-ar",
+    "name": "Disney Jr. Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "epgId": "DisneyJrLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.78.14.26:4000/play/a073/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00g/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneyjrlatinamerica-ar",
+    "name": "Disney Jr. Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "epgId": "DisneyJrLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.78.14.26:4000/play/a073/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00g/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneyjrlatinamerica-ar",
+    "name": "Disney Jr. Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "epgId": "DisneyJrLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.78.14.26:4000/play/a073/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00g/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneyjrlatinamerica-ar",
+    "name": "Disney Jr. Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "epgId": "DisneyJrLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.78.14.26:4000/play/a073/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00g/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneyjrlatinamerica-ar",
+    "name": "Disney Jr. Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "epgId": "DisneyJrLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.78.14.26:4000/play/a073/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00g/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneyjrlatinamerica-ar",
+    "name": "Disney Jr. Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "epgId": "DisneyJrLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.78.14.26:4000/play/a073/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00g/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneyjrlatinamerica-ar",
+    "name": "Disney Jr. Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "epgId": "DisneyJrLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://181.78.14.26:4000/play/a073/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.70.201.81:8000/play/a00g/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecotv-ar",
+    "name": "Eco TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/V2ldYVd.jpg",
+    "epgId": "EcoTV.ar",
+    "streams": [
+      {
+        "url": "https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elgourmet-ar",
+    "name": "El Gourmet",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Cooking",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ByMyRI9.png",
+    "epgId": "ElGourmet.ar",
+    "streams": [
+      {
+        "url": "http://15.204.246.24:8080/ElGourmetHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.101.11:7050/play/a09s/index.m3u8?hls=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/EL-GOURMET/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elgourmet-ar",
+    "name": "El Gourmet",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Cooking",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ByMyRI9.png",
+    "epgId": "ElGourmet.ar",
+    "streams": [
+      {
+        "url": "http://15.204.246.24:8080/ElGourmetHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.101.11:7050/play/a09s/index.m3u8?hls=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/EL-GOURMET/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elgourmet-ar",
+    "name": "El Gourmet",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Cooking",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ByMyRI9.png",
+    "epgId": "ElGourmet.ar",
+    "streams": [
+      {
+        "url": "http://15.204.246.24:8080/ElGourmetHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.101.11:7050/play/a09s/index.m3u8?hls=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/EL-GOURMET/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elgourmet-ar",
+    "name": "El Gourmet",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Cooking",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ByMyRI9.png",
+    "epgId": "ElGourmet.ar",
+    "streams": [
+      {
+        "url": "http://15.204.246.24:8080/ElGourmetHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.101.11:7050/play/a09s/index.m3u8?hls=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/EL-GOURMET/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elnueve-ar",
+    "name": "El Nueve",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/cJHP7bU.png",
+    "epgId": "ElNueve.ar",
+    "streams": [
+      {
+        "url": "http://15.204.246.24:8080/elnueveHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elsiete-ar",
+    "name": "El Siete",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yKb7nfP.png",
+    "epgId": "ElSiete.ar",
+    "streams": [
+      {
+        "url": "https://edgectc.com/CANAL7_MZA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eltrece-ar",
+    "name": "El Trece",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TrgBAdA.png",
+    "epgId": "ElTrece.ar",
+    "streams": [
+      {
+        "url": "http://15.204.246.24:8080/eltreceHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://vodgc.net",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.108.83.69:8000/play/a01d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eltrece-ar",
+    "name": "El Trece",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TrgBAdA.png",
+    "epgId": "ElTrece.ar",
+    "streams": [
+      {
+        "url": "http://15.204.246.24:8080/eltreceHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://vodgc.net",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.108.83.69:8000/play/a01d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eltrece-ar",
+    "name": "El Trece",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TrgBAdA.png",
+    "epgId": "ElTrece.ar",
+    "streams": [
+      {
+        "url": "http://15.204.246.24:8080/eltreceHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://vodgc.net",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.108.83.69:8000/play/a01d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "europaeuropa-ar",
+    "name": "Europa Europa",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Series",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/w5SOfyJ.png",
+    "epgId": "EuropaEuropa.ar",
+    "streams": [
+      {
+        "url": "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "europaeuropa-ar",
+    "name": "Europa Europa",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Series",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/w5SOfyJ.png",
+    "epgId": "EuropaEuropa.ar",
+    "streams": [
+      {
+        "url": "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "filmarts-ar",
+    "name": "Film & Arts",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Movies",
+    "language": "por",
+    "languageName": "Portuguese",
+    "logo": "https://i.imgur.com/ukdmEKD.png",
+    "epgId": "FilmArts.ar",
+    "streams": [
+      {
+        "url": "http://15.204.246.24:8080/FilmArtsHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "folcloreandotv-ar",
+    "name": "Folcloreando TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png",
+    "epgId": "FolcloreandoTV.ar",
+    "streams": [
+      {
+        "url": "https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "garagetvlatinamerica-ar",
+    "name": "Garage TV Latin America",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Auto",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/FqFxog1.png",
+    "epgId": "GarageTVLatinAmerica.ar",
+    "streams": [
+      {
+        "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ipnoticias-ar",
+    "name": "IP Noticias",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/dbu9nx4.png",
+    "epgId": "IPNoticias.ar",
+    "streams": [
+      {
+        "url": "https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "iteltvcanal2-ar",
+    "name": "Itel TV Canal 2",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/OxmpRDx.png",
+    "epgId": "ItelTVCanal2.ar",
+    "streams": [
+      {
+        "url": "https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kpopmix-ar",
+    "name": "Kpop Mix",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://tvomix.com/Logos/Kpopmix.png",
+    "epgId": "KpopMix.ar",
+    "streams": [
+      {
+        "url": "https://cloud.tvomix.com/KPOPMIX/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "la100-ar",
+    "name": "La 100",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png",
+    "epgId": "La100.ar",
+    "streams": [
+      {
+        "url": "https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lamil35tv-ar",
+    "name": "LAMIL35 TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Classic",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
+    "epgId": "LAMIL35TV.ar",
+    "streams": [
+      {
+        "url": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "litustv-ar",
+    "name": "Litus TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QIGSf4L.png",
+    "epgId": "LitusTV.ar",
+    "streams": [
+      {
+        "url": "https://edge.enhdtv.com/litustv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "masfm-ar",
+    "name": "Mas FM",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TJ4gWQM.png",
+    "epgId": "MasFM.ar",
+    "streams": [
+      {
+        "url": "https://vivo.solumedia.com:19360/masfm/masfm.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mercurionoticias-ar",
+    "name": "Mercurio Noticias",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/sfd87LX.png",
+    "epgId": "MercurioNoticias.ar",
+    "streams": [
+      {
+        "url": "https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "metrotv-ar",
+    "name": "Metro TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7f7M7zl.png",
+    "epgId": "MetroTV.ar",
+    "streams": [
+      {
+        "url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "metrotv-ar",
+    "name": "Metro TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7f7M7zl.png",
+    "epgId": "MetroTV.ar",
+    "streams": [
+      {
+        "url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "metrotv-ar",
+    "name": "Metro TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7f7M7zl.png",
+    "epgId": "MetroTV.ar",
+    "streams": [
+      {
+        "url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "misionescuatro-ar",
+    "name": "Misiones Cuatro",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HXRpRlK.png",
+    "epgId": "MisionesCuatro.ar",
+    "streams": [
+      {
+        "url": "https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "musictop-ar",
+    "name": "MusicTop",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://cdn.mitvstatic.com/channels/ar_musictop_m.png",
+    "epgId": "MusicTop.ar",
+    "streams": [
+      {
+        "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "neotv-ar",
+    "name": "Neo TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Xtu85tb.png",
+    "epgId": "NeoTV.ar",
+    "streams": [
+      {
+        "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "neoxtv-ar",
+    "name": "Neox TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/eIX71c9.png",
+    "epgId": "NeoxTV.ar",
+    "streams": [
+      {
+        "url": "https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nettv-ar",
+    "name": "NET TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IhJ0BjF.png",
+    "epgId": "NETTV.ar",
+    "streams": [
+      {
+        "url": "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nettv-ar",
+    "name": "NET TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IhJ0BjF.png",
+    "epgId": "NETTV.ar",
+    "streams": [
+      {
+        "url": "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nettv-ar",
+    "name": "NET TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IhJ0BjF.png",
+    "epgId": "NETTV.ar",
+    "streams": [
+      {
+        "url": "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ngfederal-ar",
+    "name": "NG Federal",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/lJCIqYn.png",
+    "epgId": "NGFederal.ar",
+    "streams": [
+      {
+        "url": "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ngfederal-ar",
+    "name": "NG Federal",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/lJCIqYn.png",
+    "epgId": "NGFederal.ar",
+    "streams": [
+      {
+        "url": "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nortetv-ar",
+    "name": "Norte TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jTX2vp0.png",
+    "epgId": "NorteTV.ar",
+    "streams": [
+      {
+        "url": "https://ntvcanal7.com.ar:81/dash/stream.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "panctv-ar",
+    "name": "Panc TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/u1dnEVv.png",
+    "epgId": "PancTV.ar",
+    "streams": [
+      {
+        "url": "https://panel.host-live.com:19360/20004/20004.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powerhd-ar",
+    "name": "PowerHD",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/15gMDG0.png",
+    "epgId": "PowerHD.ar",
+    "streams": [
+      {
+        "url": "https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powermaxradiotv-ar",
+    "name": "Power Max Radio TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg",
+    "epgId": "PowerMaxRadioTV.ar",
+    "streams": [
+      {
+        "url": "https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "quanticatv-ar",
+    "name": "Quantica TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/6f8EYC2.jpeg",
+    "epgId": "QuanticaTV.ar",
+    "streams": [
+      {
+        "url": "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiocanal-ar",
+    "name": "Radiocanal",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/NNyDWsz/download-8.png",
+    "epgId": "Radiocanal.ar",
+    "streams": [
+      {
+        "url": "http://204.199.3.2/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioconexionwebtv-ar",
+    "name": "Radio Conexion Web TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/pXS38zo.png",
+    "epgId": "RadioConexionWebTV.ar",
+    "streams": [
+      {
+        "url": "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiomariatv-ar",
+    "name": "Radio Maria TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/1/1f/Radio_Maria_logo.png",
+    "epgId": "RadioMariaTV.ar",
+    "streams": [
+      {
+        "url": "https://radiomaria.inovanex.stream/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiorealpolitik-ar",
+    "name": "Radio Realpolitik",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/L9KCdTX.png",
+    "epgId": "RadioRealpolitik.ar",
+    "streams": [
+      {
+        "url": "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiosublimegraciatv-ar",
+    "name": "Radio Sublime Gracia TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png",
+    "epgId": "RadioSublimeGraciaTV.ar",
+    "streams": [
+      {
+        "url": "https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiotvneuquen-ar",
+    "name": "Radio TV Neuquen",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HXBLozl.png",
+    "epgId": "RadioTVNeuquen.ar",
+    "streams": [
+      {
+        "url": "https://media.neuquen.gov.ar/rtn/television/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioup-ar",
+    "name": "Radio UP",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://radioup.com.ar/wp-content/uploads/2025/06/logo-radioup-footer.png",
+    "epgId": "RadioUP.ar",
+    "streams": [
+      {
+        "url": "https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioyguazutv-ar",
+    "name": "Radio Yguazu TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/kVi0ICm.png",
+    "epgId": "RadioYguazuTV.ar",
+    "streams": [
+      {
+        "url": "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "retroclub-ar",
+    "name": "Retroclub",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/5ZpmjN4/retroclub.png",
+    "epgId": "Retroclub.ar",
+    "streams": [
+      {
+        "url": "https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtn-ar",
+    "name": "RTN",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/8xqYg4C.png",
+    "epgId": "RTN.ar",
+    "streams": [
+      {
+        "url": "https://media.neuquen.gov.ar/rtn/television/media.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sanluisplus-ar",
+    "name": "San Luis +",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/bGoGiry.png",
+    "epgId": "SanLuisPlus.ar",
+    "streams": [
+      {
+        "url": "https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sanpedrotv-ar",
+    "name": "San Pedro TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/UkpXogr.png",
+    "epgId": "SanPedroTV.ar",
+    "streams": [
+      {
+        "url": "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "santafecanal-ar",
+    "name": "Santa Fe Canal",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/C1mY5X4.png",
+    "epgId": "SantaFeCanal.ar",
+    "streams": [
+      {
+        "url": "https://canalsantaferts.argtelemax.workers.dev/",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "senalu-ar",
+    "name": "Senal U",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Culture",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png",
+    "epgId": "SenalU.ar",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "senillosatv-ar",
+    "name": "Senillosa TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://yt3.ggpht.com/ytc/AKedOLTrvk7gv0uCQ8QdGREqv6Rtzm4F6UMetdxKub6D=s400-c-k-c0x00ffffff-no-rj",
+    "epgId": "SenillosaTV.ar",
+    "streams": [
+      {
+        "url": "https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sicarditv-ar",
+    "name": "Sicardi TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/W2EUIL2.png",
+    "epgId": "SicardiTV.ar",
+    "streams": [
+      {
+        "url": "https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "solivetv-ar",
+    "name": "Solive TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/dyUxugT.png",
+    "epgId": "SoliveTV.ar",
+    "streams": [
+      {
+        "url": "https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "somosentrerios-ar",
+    "name": "Somos Entre Rios",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://files.catbox.moe/ufv5z0.png",
+    "epgId": "SomosEntreRios.ar",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sonychannel-ar",
+    "name": "Sony Channel",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
+    "epgId": "SonyChannel.ar",
+    "streams": [
+      {
+        "url": "http://138.121.15.230:9002/SONY/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "t5satelital-ar",
+    "name": "T5 Satelital",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ZcD0rUP.png",
+    "epgId": "T5Satelital.ar",
+    "streams": [
+      {
+        "url": "https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecinco-ar",
+    "name": "Telecinco",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ZDenyAE.png",
+    "epgId": "Telecinco.ar",
+    "streams": [
+      {
+        "url": "https://videohd.live:19360/8016/8016.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telefebuenosaires-ar",
+    "name": "Telefe Buenos Aires",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+    "epgId": "TelefeBuenosAires.ar",
+    "streams": [
+      {
+        "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telefeinterior-ar",
+    "name": "Telefe Interior",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+    "epgId": "TelefeInterior.ar",
+    "streams": [
+      {
+        "url": "http://200.91.32.158:8080/telefehdvalle/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telefeinternacional-ar",
+    "name": "Telefe Internacional",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HNcCX3h.png",
+    "epgId": "TelefeInternacional.ar",
+    "streams": [
+      {
+        "url": "http://190.108.83.69:8000/play/a08l/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleferosario-ar",
+    "name": "Telefe Rosario",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png",
+    "epgId": "TelefeRosario.ar",
+    "streams": [
+      {
+        "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telefesalta-ar",
+    "name": "Telefe Salta",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png",
+    "epgId": "TelefeSalta.ar",
+    "streams": [
+      {
+        "url": "https://canal11saltatv.unpocodeawita.workers.dev/",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telefetucuman-ar",
+    "name": "Telefe Tucuman",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/960px-Telefe_Tucum%C3%A1n_%282018%29.png",
+    "epgId": "TelefeTucuman.ar",
+    "streams": [
+      {
+        "url": "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemax-ar",
+    "name": "Telemax",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png",
+    "epgId": "Telemax.ar",
+    "streams": [
+      {
+        "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telenord-ar",
+    "name": "Telenord",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yqXORkt.png",
+    "epgId": "Telenord.ar",
+    "streams": [
+      {
+        "url": "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telenord-ar",
+    "name": "Telenord",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yqXORkt.png",
+    "epgId": "Telenord.ar",
+    "streams": [
+      {
+        "url": "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleposadas-ar",
+    "name": "Tele Posadas",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/88MVgwX.png",
+    "epgId": "TelePosadas.ar",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesol-ar",
+    "name": "Telesol",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/79sTxtP.png",
+    "epgId": "Telesol.ar",
+    "streams": [
+      {
+        "url": "https://cdn1.tvlin.net/open/telesol/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thecabbinfm-ar",
+    "name": "The Cabbin FM",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://files.catbox.moe/2vlskg.png",
+    "epgId": "TheCabbinFM.ar",
+    "streams": [
+      {
+        "url": "https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tivtelevision-ar",
+    "name": "TIV Television",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gsgXGEj.png",
+    "epgId": "TIVTelevision.ar",
+    "streams": [
+      {
+        "url": "https://videohd.live:19360/8008/8008.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tn-ar",
+    "name": "TN",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vFwPhPS.png",
+    "epgId": "TN.ar",
+    "streams": [
+      {
+        "url": "http://15.204.246.24:8080/TNHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tn-ar",
+    "name": "TN",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vFwPhPS.png",
+    "epgId": "TN.ar",
+    "streams": [
+      {
+        "url": "http://15.204.246.24:8080/TNHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcanal72-ar",
+    "name": "TV Canal 72",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1024x256.png",
+    "epgId": "TVCanal72.ar",
+    "streams": [
+      {
+        "url": "https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmanaargentina-ar",
+    "name": "TV Mana Argentina",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jars0mP.png",
+    "epgId": "TVManaArgentina.ar",
+    "streams": [
+      {
+        "url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvpublicafueguina-ar",
+    "name": "TV Publica Fueguina",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/4dUvFqa.png",
+    "epgId": "TVPublicaFueguina.ar",
+    "streams": [
+      {
+        "url": "https://nd106.republicaservers.com/hls/c8094/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvsolidaria-ar",
+    "name": "TV Solidaria",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/M0fMypR.png",
+    "epgId": "TVSolidaria.ar",
+    "streams": [
+      {
+        "url": "https://canadaremar2.todostreaming.es/live/argentina-web.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvuniversidad-ar",
+    "name": "TV Universidad",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Education",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/0MXsQ25.png",
+    "epgId": "TVUniversidad.ar",
+    "streams": [
+      {
+        "url": "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tycsports-ar",
+    "name": "TyC Sports",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "epgId": "TyCSports.ar",
+    "streams": [
+      {
+        "url": "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tycsports-ar",
+    "name": "TyC Sports",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "epgId": "TyCSports.ar",
+    "streams": [
+      {
+        "url": "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tycsports-ar",
+    "name": "TyC Sports",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "epgId": "TyCSports.ar",
+    "streams": [
+      {
+        "url": "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tycsports-ar",
+    "name": "TyC Sports",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "epgId": "TyCSports.ar",
+    "streams": [
+      {
+        "url": "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tycsportsusa-ar",
+    "name": "TyC Sports USA",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "epgId": "TyCSportsUSA.ar",
+    "streams": [
+      {
+        "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "unifetv-ar",
+    "name": "Unife TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TLM592m.png",
+    "epgId": "UnifeTV.ar",
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "uniteve-ar",
+    "name": "Uniteve",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg",
+    "epgId": "Uniteve.ar",
+    "streams": [
+      {
+        "url": "https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "urbanmix-ar",
+    "name": "Urban Mix",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://tvomix.com/Logos/Urbanmix.png",
+    "epgId": "UrbanMix.ar",
+    "streams": [
+      {
+        "url": "https://cloud.tvomix.com/URBANMIX/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "villamanterotv-ar",
+    "name": "Villa Mantero TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mmEenTm.png",
+    "epgId": "VillaManteroTV.ar",
+    "streams": [
+      {
+        "url": "https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "volver-ar",
+    "name": "Volver",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/PYvSZMb.png",
+    "epgId": "Volver.ar",
+    "streams": [
+      {
+        "url": "http://138.121.113.175:8000/play/a04r/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vtv-ar",
+    "name": "VTV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TLaausJ.png",
+    "epgId": "VTV.ar",
+    "streams": [
+      {
+        "url": "https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "xamatv-ar",
+    "name": "Xama TV",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/dcNzVNN.png",
+    "epgId": "XamaTV.ar",
+    "streams": [
+      {
+        "url": "https://srs.unsj.edu.ar/live/xama/xama.flv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "xlevelmedia-ar",
+    "name": "X Level Media",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/BGwQdQW.jpeg",
+    "epgId": "XLevelMedia.ar",
+    "streams": [
+      {
+        "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "xtremaaccion-ar",
+    "name": "Xtrema Accion",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Movies",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/z5NwizH.png",
+    "epgId": "XtremaAccion.ar",
+    "streams": [
+      {
+        "url": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://xtrematv.com/?p=1434",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "xtremacartoons-ar",
+    "name": "Xtrema Cartoons",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/X2d8y4e.png",
+    "epgId": "XtremaCartoons.ar",
+    "streams": [
+      {
+        "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://xtrematv.com/?p=1390",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "xtremacineclasico-ar",
+    "name": "Xtrema Cine Clasico",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Movies",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/j91M4Yf.png",
+    "epgId": "XtremaCineClasico.ar",
+    "streams": [
+      {
+        "url": "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://xtrematv.com/?p=1460",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "xtrematerror-ar",
+    "name": "Xtrema Terror",
+    "country": "AR",
+    "countryName": "Argentina",
+    "category": "Movies",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/FcaTUym.png",
+    "epgId": "XtremaTerror.ar",
+    "streams": [
+      {
+        "url": "https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://xtrematv.com/?p=1456",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

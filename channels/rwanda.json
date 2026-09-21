@@ -1,0 +1,236 @@
+[
+  {
+    "id": "btntv-rw",
+    "name": "BTN TV",
+    "country": "RW",
+    "countryName": "Rwanda",
+    "category": "General",
+    "language": "kin",
+    "languageName": "Kinyarwanda",
+    "logo": "https://i.imgur.com/WmaP8zP.png",
+    "epgId": "BTNTV.rw",
+    "streams": [
+      {
+        "url": "https://tv.btnrwanda.com:3973/live/btnv2live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "isangotv-rw",
+    "name": "Isango TV",
+    "country": "RW",
+    "countryName": "Rwanda",
+    "category": "Music",
+    "language": "kin",
+    "languageName": "Kinyarwanda",
+    "logo": "https://i.imgur.com/EfsHaMQ.png",
+    "epgId": "IsangoTV.rw",
+    "streams": [
+      {
+        "url": "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "isibotv-rw",
+    "name": "Isibo TV",
+    "country": "RW",
+    "countryName": "Rwanda",
+    "category": "General",
+    "language": "kin",
+    "languageName": "Kinyarwanda",
+    "logo": "https://i.imgur.com/bXhEeTC.png",
+    "epgId": "IsiboTV.rw",
+    "streams": [
+      {
+        "url": "https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kc2-rw",
+    "name": "KC2",
+    "country": "RW",
+    "countryName": "Rwanda",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/PsYPzNc.png",
+    "epgId": "KC2.rw",
+    "streams": [
+      {
+        "url": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kc2-rw",
+    "name": "KC2",
+    "country": "RW",
+    "countryName": "Rwanda",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/PsYPzNc.png",
+    "epgId": "KC2.rw",
+    "streams": [
+      {
+        "url": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rwandatv-rw",
+    "name": "Rwanda TV",
+    "country": "RW",
+    "countryName": "Rwanda",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/4nbGvxW.png",
+    "epgId": "RwandaTV.rw",
+    "streams": [
+      {
+        "url": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rwandatv-rw",
+    "name": "Rwanda TV",
+    "country": "RW",
+    "countryName": "Rwanda",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/4nbGvxW.png",
+    "epgId": "RwandaTV.rw",
+    "streams": [
+      {
+        "url": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv1-rw",
+    "name": "TV1",
+    "country": "RW",
+    "countryName": "Rwanda",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/wk59tHA.png",
+    "epgId": "TV1.rw",
+    "streams": [
+      {
+        "url": "https://live.tv1.rw/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv10-rw",
+    "name": "TV10",
+    "country": "RW",
+    "countryName": "Rwanda",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/DeaWC1N.png",
+    "epgId": "TV10.rw",
+    "streams": [
+      {
+        "url": "https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "monacoinfo-mc",
+    "name": "Monaco Info",
+    "country": "MC",
+    "countryName": "Monaco",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/dIrKYH7.png",
+    "epgId": "MonacoInfo.mc",
+    "streams": [
+      {
+        "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "superyachttv-mc",
+    "name": "Superyacht TV",
+    "country": "MC",
+    "countryName": "Monaco",
+    "category": "Lifestyle",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/cgjgjE1.png",
+    "epgId": "SuperyachtTV.mc",
+    "streams": [
+      {
+        "url": "https://sy.wns.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmonaco-mc",
+    "name": "TV Monaco",
+    "country": "MC",
+    "countryName": "Monaco",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/TVMonaco_2023.svg",
+    "epgId": "TVMonaco.mc",
+    "streams": [
+      {
+        "url": "https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "yadahtv-zw",
+    "name": "Yadah TV",
+    "country": "ZW",
+    "countryName": "Zimbabwe",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/4BNVhoC.png",
+    "epgId": "YadahTV.zw",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

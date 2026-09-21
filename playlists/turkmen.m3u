@@ -1,0 +1,50 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="AltynAsyr.tm" tvg-name="Altyn Asyr" tvg-logo="https://i.imgur.com/D7RBtZ2.png" group-title="General",Altyn Asyr (406p)
+https://alpha.tv.online.tm/hls/ch001.m3u8
+
+#EXTINF:-1 tvg-id="AltynAsyr.tm" tvg-name="Altyn Asyr" tvg-logo="https://i.imgur.com/D7RBtZ2.png" group-title="General",Altyn Asyr (406p)
+https://alpha.tv.online.tm/legacyhls/ch001.m3u8
+
+#EXTINF:-1 tvg-id="ArkadagTV.tm" tvg-name="Arkadag TV" tvg-logo="https://i.imgur.com/JdEb4Ug.png" group-title="General",Arkadag TV (406p)
+https://alpha.tv.online.tm/hls/ch000.m3u8
+
+#EXTINF:-1 tvg-id="ArkadagTV.tm" tvg-name="Arkadag TV" tvg-logo="https://i.imgur.com/JdEb4Ug.png" group-title="General",Arkadag TV (406p)
+https://alpha.tv.online.tm/legacyhls/ch000.m3u8
+
+#EXTINF:-1 tvg-id="Asgabat.tm" tvg-name="Asgabat" tvg-logo="https://i.imgur.com/EzjR1vo.png" group-title="General",Asgabat (406p)
+https://alpha.tv.online.tm/hls/ch006.m3u8
+
+#EXTINF:-1 tvg-id="Asgabat.tm" tvg-name="Asgabat" tvg-logo="https://i.imgur.com/EzjR1vo.png" group-title="General",Asgabat (406p)
+https://alpha.tv.online.tm/legacyhls/ch006.m3u8
+
+#EXTINF:-1 tvg-id="Miras.tm" tvg-name="Miras" tvg-logo="https://i.imgur.com/pWbJzr9.png" group-title="Culture",Miras (406p)
+https://alpha.tv.online.tm/hls/ch003.m3u8
+
+#EXTINF:-1 tvg-id="Miras.tm" tvg-name="Miras" tvg-logo="https://i.imgur.com/pWbJzr9.png" group-title="Culture",Miras (406p)
+https://alpha.tv.online.tm/legacyhls/ch003.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" tvg-logo="https://i.imgur.com/iBBpBx4.png" group-title="General",Turkmenistan (406p)
+https://alpha.tv.online.tm/hls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" tvg-logo="https://i.imgur.com/iBBpBx4.png" group-title="General",Turkmenistan (406p)
+https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Turkmenistan Sport" tvg-logo="https://i.imgur.com/n6vITLu.png" group-title="Sports",Turkmenistan Sport (406p)
+https://alpha.tv.online.tm/hls/ch004.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Turkmenistan Sport" tvg-logo="https://i.imgur.com/n6vITLu.png" group-title="Sports",Turkmenistan Sport (406p)
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-name="Turkmen Owazy" tvg-logo="https://i.imgur.com/Ap7l2jC.png" group-title="Music",Turkmen Owazy (406p)
+https://alpha.tv.online.tm/hls/ch005.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-name="Turkmen Owazy" tvg-logo="https://i.imgur.com/Ap7l2jC.png" group-title="Music",Turkmen Owazy (406p)
+https://alpha.tv.online.tm/legacyhls/ch005.m3u8
+
+#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-name="Yaslyk" tvg-logo="https://i.imgur.com/QVWBNGM.png" group-title="Education",Yaslyk (406p)
+https://alpha.tv.online.tm/hls/ch002.m3u8
+
+#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-name="Yaslyk" tvg-logo="https://i.imgur.com/QVWBNGM.png" group-title="Education",Yaslyk (406p)
+https://alpha.tv.online.tm/legacyhls/ch002.m3u8
