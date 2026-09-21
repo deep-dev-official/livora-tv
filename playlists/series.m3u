@@ -1,0 +1,44 @@
+#EXTM3U x-tvg-url="https://deep933922-debug.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="5Cops.us" tvg-name="5 Cops" tvg-logo="https://i.imgur.com/QFPRaXK.png" group-title="Series",5 Cops (HD)
+https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
+
+#EXTINF:-1 tvg-id="48Hours.us" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6299e5afdd5833000727e795/colorLogoPNG.png" group-title="Series",48 Hours (HD)
+https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
+
+#EXTINF:-1 tvg-id="48Hours.us" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6299e5afdd5833000727e795/colorLogoPNG.png" group-title="Series",48 Hours (HD)
+https://jmp2.uk/plu-6346937a46f9a2000889073d.m3u8
+
+#EXTINF:-1 tvg-id="48Hours.us" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6299e5afdd5833000727e795/colorLogoPNG.png" group-title="Series",48 Hours (HD)
+https://jmp2.uk/plu-634690323ce5fa0007c621f2.m3u8
+
+#EXTINF:-1 tvg-id="48Hours.us" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6299e5afdd5833000727e795/colorLogoPNG.png" group-title="Series",48 Hours (HD)
+https://jmp2.uk/plu-6346935b94aa8c0007c5b7a2.m3u8
+
+#EXTINF:-1 tvg-id="48Hours.us" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6299e5afdd5833000727e795/colorLogoPNG.png" group-title="Series",48 Hours (1080p)
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+
+#EXTINF:-1 tvg-id="48Hours.us" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6299e5afdd5833000727e795/colorLogoPNG.png" group-title="Series",48 Hours (720p)
+https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
+
+#EXTINF:-1 tvg-id="90210.de" tvg-name="90210" tvg-logo="https://i.imgur.com/xqo5PxO.png" group-title="Series",90210 (HD)
+https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+
+#EXTINF:-1 tvg-id="AcapulcoShore.us" tvg-name="Acapulco Shore" tvg-logo="https://i.imgur.com/D2jgGOi.png" group-title="Series",Acapulco Shore (HD)
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+
+#EXTINF:-1 tvg-id="AcapulcoShore.us" tvg-name="Acapulco Shore" tvg-logo="https://i.imgur.com/D2jgGOi.png" group-title="Series",Acapulco Shore (HD)
+https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
+
+#EXTINF:-1 tvg-id="AlerteaMalibu.us" tvg-name="Alerte a Malibu" tvg-logo="https://i.imgur.com/hBiB6uk.png" group-title="Series",Alerte a Malibu (HD)
+https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
+
+#EXTINF:-1 tvg-id="AllRealitybyWEtv.us" tvg-name="All Reality by WE tv" tvg-logo="https://i.imgur.com/hbJAs8h.png" group-title="Series",All Reality by WE tv (720p)
+https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
+
+#EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-name="All Weddings WE tv" tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="Series",All Weddings WE tv (HD)
+https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-name="Always Funny Videos" tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Series",Always Funny Videos (720p)
+https://d24l3uppudokci.cloudfront.net/playlist.m3u8

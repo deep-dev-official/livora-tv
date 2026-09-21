@@ -1,0 +1,38 @@
+#EXTM3U x-tvg-url="https://deep933922-debug.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png" group-title="General",3sat (HD)
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16AnnieIncinta.de" tvg-name="16 Anni e Incinta" tvg-logo="https://i.imgur.com/Y2pEs8H.png" group-title="Entertainment",16 Anni e Incinta (HD)
+https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
+
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="1-2-3.tv" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Shop",1-2-3.tv (270p)
+https://123tv-mx1.flex-cdn.net/index.m3u8
+
+#EXTINF:-1 tvg-id="90210.de" tvg-name="90210" tvg-logo="https://i.imgur.com/xqo5PxO.png" group-title="Series",90210 (HD)
+https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de" tvg-name="Adria Music Television" tvg-logo="https://i.imgur.com/QoDpnKg.png" group-title="Music",Adria Music Television (HD)
+https://adriaapp.b-cdn.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-name="Adventure Earth" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="Documentary",Adventure Earth (1080p)
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-name="Adventure Earth" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="Documentary",Adventure Earth (720p)
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-name="Adventure Earth" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="Documentary",Adventure Earth (720p)
+https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlexBerlin.de" tvg-name="Alex Berlin" tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="General",Alex Berlin (1080p)
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="AllehassenChris.de" tvg-name="Alle hassen Chris" tvg-logo="https://images.pluto.tv/channels/622f6e1e2792150007e0b2ff/colorLogoPNG.png" group-title="Comedy",Alle hassen Chris (HD)
+https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
+
+#EXTINF:-1 tvg-id="AllgauTV.de" tvg-name="Allgau TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="General",Allgau TV (1080p)
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-name="Altenburg TV" tvg-logo="https://i.imgur.com/3JriZGR.png" group-title="General",Altenburg TV (HD)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8

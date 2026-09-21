@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url="https://deep933922-debug.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="6WiseTv.us" tvg-name="6 Wise Tv" tvg-logo="" group-title="Family",6 Wise Tv (720p)
+https://live.enhdtv.com:8081/8150/index.m3u8
+
+#EXTINF:-1 tvg-id="6WiseTv.us" tvg-name="6 Wise Tv" tvg-logo="" group-title="Family",6 Wise Tv (720p)
+https://edge.enhdtv.com/8150/index.m3u8

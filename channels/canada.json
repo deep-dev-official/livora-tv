@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3abncanada-ca",
+    "name": "3ABN Canada",
+    "country": "CA",
+    "countryName": "Canada",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/U99CsEc.png",
+    "epgId": "3ABNCanada.ca",
+    "streams": [
+      {
+        "url": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:44.777Z",
+        "http_status": 200,
+        "latency_ms": 1764
+      }
+    ]
+  },
+  {
+    "id": "5aabtv-ca",
+    "name": "5AAB TV",
+    "country": "CA",
+    "countryName": "Canada",
+    "category": "Entertainment",
+    "language": "pan",
+    "languageName": "Panjabi",
+    "logo": "https://i.imgur.com/jrGrfof.png",
+    "epgId": "5AABTV.ca",
+    "streams": [
+      {
+        "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:44.409Z",
+        "http_status": 206,
+        "latency_ms": 543
+      }
+    ]
+  }
+]

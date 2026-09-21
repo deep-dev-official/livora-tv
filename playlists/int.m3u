@@ -1,0 +1,20 @@
+#EXTM3U x-tvg-url="https://deep933922-debug.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="ch-687474703a" tvg-name="TV Publica" tvg-logo="" group-title="General",TV Publica (undefinedp)
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+
+#EXTINF:-1 tvg-id="ch-687474703a" tvg-name="TV Publica" tvg-logo="" group-title="General",TV Publica (undefinedp)
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+
+#EXTINF:-1 tvg-id="ch-687474703a" tvg-name="TV Publica" tvg-logo="" group-title="General",TV Publica (undefinedp)
+http://222.179.155.21:1935/ch1.m3u8
+
+#EXTINF:-1 tvg-id="ch-687474703a" tvg-name="TV Publica" tvg-logo="" group-title="General",TV Publica (undefinedp)
+http://222.179.155.21:1935/ch0.m3u8
+
+#EXTINF:-1 tvg-id="ch-687474703a" tvg-name="TV Publica" tvg-logo="" group-title="General",TV Publica (undefinedp)
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+
+#EXTINF:-1 tvg-id="ch-687474703a" tvg-name="TV Publica" tvg-logo="" group-title="General",TV Publica (undefinedp)
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8

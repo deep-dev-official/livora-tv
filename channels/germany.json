@@ -1,0 +1,356 @@
+[
+  {
+    "id": "3sat-de",
+    "name": "3sat",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "General",
+    "language": "deu",
+    "languageName": "German",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
+    "epgId": "3sat.de",
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:43.580Z",
+        "http_status": 200,
+        "latency_ms": 562
+      }
+    ]
+  },
+  {
+    "id": "16annieincinta-de",
+    "name": "16 Anni e Incinta",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "Entertainment",
+    "language": "ita",
+    "languageName": "Italian",
+    "logo": "https://i.imgur.com/Y2pEs8H.png",
+    "epgId": "16AnnieIncinta.de",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:48.071Z",
+        "http_status": 200,
+        "latency_ms": 1393
+      }
+    ]
+  },
+  {
+    "id": "123tv-de",
+    "name": "1-2-3.tv",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "Shop",
+    "language": "deu",
+    "languageName": "German",
+    "logo": "https://i.imgur.com/slSUDNX.png",
+    "epgId": "123tv.de",
+    "streams": [
+      {
+        "url": "https://123tv-mx1.flex-cdn.net/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "270p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:49.735Z",
+        "http_status": 206,
+        "latency_ms": 672
+      }
+    ]
+  },
+  {
+    "id": "90210-de",
+    "name": "90210",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "Series",
+    "language": "deu",
+    "languageName": "German",
+    "logo": "https://i.imgur.com/xqo5PxO.png",
+    "epgId": "90210.de",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:49:50.837Z",
+        "http_status": 200,
+        "latency_ms": 1414
+      }
+    ]
+  },
+  {
+    "id": "adriamusictelevision-de",
+    "name": "Adria Music Television",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "Music",
+    "language": "deu",
+    "languageName": "German",
+    "logo": "https://i.imgur.com/QoDpnKg.png",
+    "epgId": "AdriaMusicTelevision.de",
+    "streams": [
+      {
+        "url": "https://adriaapp.b-cdn.net/1080p/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:07.205Z",
+        "http_status": 200,
+        "latency_ms": 422
+      }
+    ]
+  },
+  {
+    "id": "adventureearth-de",
+    "name": "Adventure Earth",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "Documentary",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png",
+    "epgId": "AdventureEarth.de",
+    "streams": [
+      {
+        "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:10.576Z",
+        "http_status": 200,
+        "latency_ms": 2619
+      },
+      {
+        "url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:08.574Z",
+        "http_status": 206,
+        "latency_ms": 571
+      },
+      {
+        "url": "https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:08.712Z",
+        "http_status": 206,
+        "latency_ms": 569
+      }
+    ]
+  },
+  {
+    "id": "adventureearth-de",
+    "name": "Adventure Earth",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "Documentary",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png",
+    "epgId": "AdventureEarth.de",
+    "streams": [
+      {
+        "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:10.576Z",
+        "http_status": 200,
+        "latency_ms": 2619
+      },
+      {
+        "url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:08.574Z",
+        "http_status": 206,
+        "latency_ms": 571
+      },
+      {
+        "url": "https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:08.712Z",
+        "http_status": 206,
+        "latency_ms": 569
+      }
+    ]
+  },
+  {
+    "id": "adventureearth-de",
+    "name": "Adventure Earth",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "Documentary",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png",
+    "epgId": "AdventureEarth.de",
+    "streams": [
+      {
+        "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:10.576Z",
+        "http_status": 200,
+        "latency_ms": 2619
+      },
+      {
+        "url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:08.574Z",
+        "http_status": 206,
+        "latency_ms": 571
+      },
+      {
+        "url": "https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:08.712Z",
+        "http_status": 206,
+        "latency_ms": 569
+      }
+    ]
+  },
+  {
+    "id": "alexberlin-de",
+    "name": "Alex Berlin",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "General",
+    "language": "deu",
+    "languageName": "German",
+    "logo": "https://i.imgur.com/eTmHk4e.png",
+    "epgId": "AlexBerlin.de",
+    "streams": [
+      {
+        "url": "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:18.843Z",
+        "http_status": 206,
+        "latency_ms": 854
+      }
+    ]
+  },
+  {
+    "id": "allehassenchris-de",
+    "name": "Alle hassen Chris",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "Comedy",
+    "language": "deu",
+    "languageName": "German",
+    "logo": "https://images.pluto.tv/channels/622f6e1e2792150007e0b2ff/colorLogoPNG.png",
+    "epgId": "AllehassenChris.de",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:24.924Z",
+        "http_status": 200,
+        "latency_ms": 4199
+      }
+    ]
+  },
+  {
+    "id": "allgautv-de",
+    "name": "Allgau TV",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "General",
+    "language": "deu",
+    "languageName": "German",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png",
+    "epgId": "AllgauTV.de",
+    "streams": [
+      {
+        "url": "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:21.421Z",
+        "http_status": 206,
+        "latency_ms": 504
+      }
+    ]
+  },
+  {
+    "id": "altenburgtv-de",
+    "name": "Altenburg TV",
+    "country": "DE",
+    "countryName": "Germany",
+    "category": "General",
+    "language": "deu",
+    "languageName": "German",
+    "logo": "https://i.imgur.com/3JriZGR.png",
+    "epgId": "AltenburgTV.de",
+    "streams": [
+      {
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8",
+        "type": "hls",
+        "status": "active",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": "2026-09-21T10:50:28.924Z",
+        "http_status": 200,
+        "latency_ms": 4042
+      }
+    ]
+  }
+]
