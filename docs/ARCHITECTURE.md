@@ -6,7 +6,7 @@ Livora TV is an automated IPTV stream ingestion, health-checking, and playlist d
 ## Pipeline Lifecycle
 
 ```
-[Public Feeds / Community APIs]
+[Public Broadcast Feeds]
                │
                ▼
    [scripts/import.js]  ──── Ingests raw JSON & M3U streams

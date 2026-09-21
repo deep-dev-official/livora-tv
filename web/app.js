@@ -179,11 +179,13 @@ function renderChannels(channels) {
     return;
   }
 
+  const defaultLogo = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%2364748b'%3E%3Crect width='24' height='24' rx='4' fill='%23151c2c'/%3E%3Ctext x='50%25' y='55%25' fill='%2394a3b8' font-size='10' text-anchor='middle' dominant-baseline='middle'%3ETV%3C/text%3E%3C/svg%3E";
+
   for (const ch of displayList) {
     const activeStream = (ch.streams || []).find(s => s.status === 'active') || ch.streams?.[0];
     const card = document.createElement('div');
     card.className = 'channel-card';
-    const logoSrc = ch.logo || 'https://raw.githubusercontent.com/iptv-org/api/master/assets/images/no-logo.png';
+    const logoSrc = ch.logo || defaultLogo;
 
     card.innerHTML = `
       <div class="channel-logo-wrap">

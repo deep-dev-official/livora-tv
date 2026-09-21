@@ -1,9 +1,7 @@
 Livora TV
 Copyright (c) 2026 DEEP_DEV
 
-This project includes data aggregation, stream health validation, and playlist generation algorithms developed by DEEP_DEV.
+All data aggregation pipelines, playlist generation engines, and stream health validation algorithms are developed and maintained under the Livora TV project.
 
-Third-Party Data Notice:
-This repository ingests and indexes publicly accessible stream metadata and public domain feeds. Channel metadata, categories, and public stream pointers may originate from open community indexing projects, including the public datasets curated by iptv-org (https://github.com/iptv-org/iptv and https://github.com/iptv-org/api), released under the Unlicense or MIT licenses.
-
-Livora TV does not host, broadcast, archive, or retransmit video content. All streams are served directly by their respective public broadcast origin servers.
+Disclaimer:
+Livora TV does not host, broadcast, archive, or retransmit video content. All streams indexed are publicly accessible broadcast pointers served directly by their respective origin broadcast servers.

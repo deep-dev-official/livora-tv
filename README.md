@@ -88,4 +88,4 @@ livora-tv/
 ---
 
 ## Disclaimer & Terms of Use
-Livora TV indexes publicly accessible media streams distributed by broadcast origins. Livora TV does not host, re-transmit, or modify video content. Channel metadata is indexed from open community sources (see [NOTICE](NOTICE)).
+Livora TV indexes publicly accessible media streams distributed by broadcast origins. Livora TV does not host, re-transmit, or modify video content. All stream pointers link directly to their respective origin servers.
