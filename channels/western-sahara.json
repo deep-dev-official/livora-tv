@@ -1,0 +1,122 @@
+[
+  {
+    "id": "rasdtv-eh",
+    "name": "RASD TV",
+    "country": "EH",
+    "countryName": "Western Sahara",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/9Pb8806.png",
+    "epgId": "RASDTV.eh",
+    "streams": [
+      {
+        "url": "https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "404p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rasdtv-eh",
+    "name": "RASD TV",
+    "country": "EH",
+    "countryName": "Western Sahara",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/9Pb8806.png",
+    "epgId": "RASDTV.eh",
+    "streams": [
+      {
+        "url": "https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "404p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rasdtv-eh",
+    "name": "RASD TV",
+    "country": "EH",
+    "countryName": "Western Sahara",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/9Pb8806.png",
+    "epgId": "RASDTV.eh",
+    "streams": [
+      {
+        "url": "https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "404p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

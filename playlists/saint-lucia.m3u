@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="CaribbeanHot7TV.lc" tvg-name="Caribbean Hot 7 TV" tvg-logo="https://i.ibb.co/sjTS4xD/logo116x90-2.png" group-title="General",Caribbean Hot 7 TV (720p)
+https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaribbeanHot7TV.lc" tvg-name="Caribbean Hot 7 TV" tvg-logo="https://i.ibb.co/sjTS4xD/logo116x90-2.png" group-title="General",Caribbean Hot 7 TV (HD)
+https://vids1.intacs.com/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DBSTV.lc" tvg-name="DBS TV" tvg-logo="https://i.ibb.co/JW1n9Fs/Screenshot-20230804-135924.jpg" group-title="General",DBS TV (HD)
+https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8

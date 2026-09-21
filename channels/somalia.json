@@ -1,0 +1,196 @@
+[
+  {
+    "id": "arlaaditv-so",
+    "name": "Arlaadi TV",
+    "country": "SO",
+    "countryName": "Somalia",
+    "category": "General",
+    "language": "som",
+    "languageName": "Somali",
+    "logo": "https://i.imgur.com/2tlFMXF.png",
+    "epgId": "ArlaadiTV.so",
+    "streams": [
+      {
+        "url": "https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hirshabelletv-so",
+    "name": "Hirshabelle TV",
+    "country": "SO",
+    "countryName": "Somalia",
+    "category": "General",
+    "language": "som",
+    "languageName": "Somali",
+    "logo": "https://i.imgur.com/Kk0A2o7.png",
+    "epgId": "HirshabelleTV.so",
+    "streams": [
+      {
+        "url": "http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "puntlandtv-so",
+    "name": "Puntland TV",
+    "country": "SO",
+    "countryName": "Somalia",
+    "category": "General",
+    "language": "som",
+    "languageName": "Somali",
+    "logo": "https://i.imgur.com/C8EvQUo.png",
+    "epgId": "PuntlandTV.so",
+    "streams": [
+      {
+        "url": "http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "saabtv-so",
+    "name": "Saab TV",
+    "country": "SO",
+    "countryName": "Somalia",
+    "category": "General",
+    "language": "som",
+    "languageName": "Somali",
+    "logo": "https://i.imgur.com/JEC1J89.png",
+    "epgId": "SaabTV.so",
+    "streams": [
+      {
+        "url": "https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "saabtv-so",
+    "name": "Saab TV",
+    "country": "SO",
+    "countryName": "Somalia",
+    "category": "General",
+    "language": "som",
+    "languageName": "Somali",
+    "logo": "https://i.imgur.com/JEC1J89.png",
+    "epgId": "SaabTV.so",
+    "streams": [
+      {
+        "url": "https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sbctv-so",
+    "name": "SBC TV",
+    "country": "SO",
+    "countryName": "Somalia",
+    "category": "General",
+    "language": "som",
+    "languageName": "Somali",
+    "logo": "https://i.imgur.com/VLhgTIA.png",
+    "epgId": "SBCTV.so",
+    "streams": [
+      {
+        "url": "http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sntvdaljir-so",
+    "name": "SNTV Daljir",
+    "country": "SO",
+    "countryName": "Somalia",
+    "category": "General",
+    "language": "som",
+    "languageName": "Somali",
+    "logo": "https://i.imgur.com/zmVKI26.jpg",
+    "epgId": "SNTVDaljir.so",
+    "streams": [
+      {
+        "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "somalinationaltv-so",
+    "name": "Somali National TV",
+    "country": "SO",
+    "countryName": "Somalia",
+    "category": "General",
+    "language": "som",
+    "languageName": "Somali",
+    "logo": "https://i.imgur.com/2y8gv7V.png",
+    "epgId": "SomaliNationalTV.so",
+    "streams": [
+      {
+        "url": "https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

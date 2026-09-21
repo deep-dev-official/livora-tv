@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cubavisioninternacional-cu",
+    "name": "Cubavision Internacional",
+    "country": "CU",
+    "countryName": "Cuba",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/0ZHm9f6.png",
+    "epgId": "CubavisionInternacional.cu",
+    "streams": [
+      {
+        "url": "https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://teveo.cu/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prensalatinatv-cu",
+    "name": "Prensa Latina TV",
+    "country": "CU",
+    "countryName": "Cuba",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jbm2S9O.jpg",
+    "epgId": "PrensaLatinaTV.cu",
+    "streams": [
+      {
+        "url": "https://eu1.servers10.com:8081/8192/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

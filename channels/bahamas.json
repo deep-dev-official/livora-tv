@@ -1,0 +1,90 @@
+[
+  {
+    "id": "guardiantalkradio-bs",
+    "name": "Guardian Talk Radio",
+    "country": "BS",
+    "countryName": "Bahamas",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/o3cWUwL.png",
+    "epgId": "GuardianTalkRadio.bs",
+    "streams": [
+      {
+        "url": "https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "islandlucktv-bs",
+    "name": "Island Luck TV",
+    "country": "BS",
+    "countryName": "Bahamas",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/P0gDN5n.png",
+    "epgId": "IslandLuckTV.bs",
+    "streams": [
+      {
+        "url": "https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "theparliamentarychannel-bs",
+    "name": "The Parliamentary Channel",
+    "country": "BS",
+    "countryName": "Bahamas",
+    "category": "Legislative",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/ZQagV0x.png",
+    "epgId": "TheParliamentaryChannel.bs",
+    "streams": [
+      {
+        "url": "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "znstv-bs",
+    "name": "ZNS-TV",
+    "country": "BS",
+    "countryName": "Bahamas",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/h6nC8fe.png",
+    "epgId": "ZNSTV.bs",
+    "streams": [
+      {
+        "url": "https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

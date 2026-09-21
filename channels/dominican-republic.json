@@ -1,0 +1,6054 @@
+[
+  {
+    "id": "a7tv-do",
+    "name": "A7 TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://a7tvjarabacoa.netlify.app/IMG_1968.PNG",
+    "epgId": "A7TV.do",
+    "streams": [
+      {
+        "url": "https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "acentotv-do",
+    "name": "Acento TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jhiZfHf.png",
+    "epgId": "AcentoTV.do",
+    "streams": [
+      {
+        "url": "https://acentotv01.streamprolive.com/hls/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://acentotv01.streamprolive.com/i/cp/hls/player.html",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "adoramtv-do",
+    "name": "Adoram TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/uU01KHz.png",
+    "epgId": "AdoramTV.do",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aguilatv-do",
+    "name": "Aguila TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg",
+    "epgId": "AguilaTV.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ahoratv-do",
+    "name": "Ahora TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/dyJyuXc.png",
+    "epgId": "AhoraTV.do",
+    "streams": [
+      {
+        "url": "https://stream.haislin.com/ahoratv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aiontv-do",
+    "name": "AION TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/DBvm7YS.png",
+    "epgId": "AIONTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/aiontelevision/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alcarrizostv-do",
+    "name": "Alcarrizos TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg",
+    "epgId": "AlcarrizosTV.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alegretvrd-do",
+    "name": "Alegre TV RD",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/O6USO8r.png",
+    "epgId": "AlegreTVRD.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "altantotv-do",
+    "name": "Altanto TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/KWvVLhc.png",
+    "epgId": "AltantoTV.do",
+    "streams": [
+      {
+        "url": "https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ame47-do",
+    "name": "Ame 47",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/MUEbjeP.png",
+    "epgId": "Ame47.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "antena7-do",
+    "name": "Antena 7",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/zKWFgeQ.png",
+    "epgId": "Antena7.do",
+    "streams": [
+      {
+        "url": "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.tvabierta.net/hls/007.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "antena7-do",
+    "name": "Antena 7",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/zKWFgeQ.png",
+    "epgId": "Antena7.do",
+    "streams": [
+      {
+        "url": "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.tvabierta.net/hls/007.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "antena21-do",
+    "name": "Antena 21",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QE0XWLh.png",
+    "epgId": "Antena21.do",
+    "streams": [
+      {
+        "url": "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.tvabierta.net/hls/021.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "antena21-do",
+    "name": "Antena 21",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QE0XWLh.png",
+    "epgId": "Antena21.do",
+    "streams": [
+      {
+        "url": "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.tvabierta.net/hls/021.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atabaltv-do",
+    "name": "Atabal TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/QWR9SOH.png",
+    "epgId": "AtabalTV.do",
+    "streams": [
+      {
+        "url": "https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bajotechotv-do",
+    "name": "Bajo Techo TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Shop",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/I2wRq88.png",
+    "epgId": "BajoTechoTV.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "banivision-do",
+    "name": "Bani Vision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png",
+    "epgId": "BaniVision.do",
+    "streams": [
+      {
+        "url": "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bebetotv-do",
+    "name": "Bebeto TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "",
+    "epgId": "BebetoTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/bebetotelevision/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bellavision-do",
+    "name": "Bellavision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/XqQ3kCs.png",
+    "epgId": "Bellavision.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bocachicatv-do",
+    "name": "Boca Chica TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/npiRBPC.png",
+    "epgId": "BocaChicaTV.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bonaotv-do",
+    "name": "Bonao TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/en1vCZB.png",
+    "epgId": "BonaoTV.do",
+    "streams": [
+      {
+        "url": "https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "boncheslatinostv-do",
+    "name": "Bonches Latinos TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Kp8x0NS.png",
+    "epgId": "BonchesLatinosTV.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "boreal-do",
+    "name": "Boreal",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Movies",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/KSquHTG.png",
+    "epgId": "Boreal.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "camutv-do",
+    "name": "Camu TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/3d8cLm9.jpg",
+    "epgId": "CamuTV.do",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal4rd-do",
+    "name": "Canal 4 RD",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/3AqCAji.png",
+    "epgId": "Canal4RD.do",
+    "streams": [
+      {
+        "url": "https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal17rtvd-do",
+    "name": "Canal 17 RTVD",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Culture",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png",
+    "epgId": "Canal17RTVD.do",
+    "streams": [
+      {
+        "url": "https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal70-do",
+    "name": "Canal 70",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/LfcHA2d.jpg",
+    "epgId": "Canal70.do",
+    "streams": [
+      {
+        "url": "https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalcatorce-do",
+    "name": "Canal Catorce",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/iKLGBbA.png",
+    "epgId": "CanalCatorce.do",
+    "streams": [
+      {
+        "url": "https://stream.haislin.com/14tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalda26hd-do",
+    "name": "Canalda 26 HD",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png",
+    "epgId": "Canalda26HD.do",
+    "streams": [
+      {
+        "url": "https://canalda.rgradio.net:3084/live/canaldalive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canaldelsol-do",
+    "name": "Canal del Sol",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gK0M1jB.png",
+    "epgId": "CanaldelSol.do",
+    "streams": [
+      {
+        "url": "https://stream.canaldelsol.com/sol26/live_1080.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canaldtv-do",
+    "name": "Canal DTV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/JO5yuNC.png",
+    "epgId": "CanalDTV.do",
+    "streams": [
+      {
+        "url": "https://s.emisoras.tv:8081/dtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalmultivision-do",
+    "name": "Canal Multivision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/puOrL7B.jpg",
+    "epgId": "CanalMultivision.do",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canangatv-do",
+    "name": "Cananga TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/isXlMAh.png",
+    "epgId": "CanangaTV.do",
+    "streams": [
+      {
+        "url": "https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canatvdigital-do",
+    "name": "Cana TV Digital",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/k8jxt12.png",
+    "epgId": "CanaTVDigital.do",
+    "streams": [
+      {
+        "url": "https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "caobatvradio-do",
+    "name": "Caoba TV Radio",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg",
+    "epgId": "CaobaTVRadio.do",
+    "streams": [
+      {
+        "url": "https://host.streamingnation.live:3940/live/caobatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "carivision-do",
+    "name": "Carivision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/XjGb2UM.png",
+    "epgId": "Carivision.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cascaratv-do",
+    "name": "Cascara TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/DEUR7mB.png",
+    "epgId": "CascaraTV.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cdn-do",
+    "name": "CDN",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/eQyjIgf.png",
+    "epgId": "CDN.do",
+    "streams": [
+      {
+        "url": "http://190.61.90.17:40000/play/a03p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://187.245.231.226:8000/play/a0ss/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cdn-do",
+    "name": "CDN",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/eQyjIgf.png",
+    "epgId": "CDN.do",
+    "streams": [
+      {
+        "url": "http://190.61.90.17:40000/play/a03p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://187.245.231.226:8000/play/a0ss/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cdndeportes-do",
+    "name": "CDN Deportes",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yU5LqTL.png",
+    "epgId": "CDNDeportes.do",
+    "streams": [
+      {
+        "url": "https://hls.tvabierta.net/hls/036.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cenovisionhd-do",
+    "name": "Cenovision HD",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/ShPaOvn.jpg",
+    "epgId": "CenovisionHD.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chinolatv-do",
+    "name": "Chinola TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Kids",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ybud4dI.png",
+    "epgId": "ChinolaTV.do",
+    "streams": [
+      {
+        "url": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cibaenatv-do",
+    "name": "Cibaena TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/iHjdckl.png",
+    "epgId": "CibaenaTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cielotv-do",
+    "name": "Cielo TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/2PNw6BA.png",
+    "epgId": "CieloTV.do",
+    "streams": [
+      {
+        "url": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cinevisioncanal19-do",
+    "name": "Cinevision Canal 19",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mJN2XNm.png",
+    "epgId": "CinevisionCanal19.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "citricotv-do",
+    "name": "Citrico TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg",
+    "epgId": "CitricoTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/citricotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "clarotelevisiondominicana-do",
+    "name": "Claro Television Dominicana",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/fJD7OxB.png",
+    "epgId": "ClaroTelevisionDominicana.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3960/live/claroteledomlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "clarovisiontv-do",
+    "name": "Claro Vision TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/MpTgJMJ.png",
+    "epgId": "ClaroVisionTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cntmastv-do",
+    "name": "CNT Mas TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://dominicanchannels.com/wp-content/uploads/ctnmas.jpg",
+    "epgId": "CNTMasTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cocotv-do",
+    "name": "COCO TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/CnAc7jU.png",
+    "epgId": "COCOTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/canalcocotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cocotv-do",
+    "name": "COCO TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/CnAc7jU.png",
+    "epgId": "COCOTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/canalcocotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "codigotv-do",
+    "name": "Codigo TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/DbjywI3.png",
+    "epgId": "CodigoTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/codigotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "colimdotv-do",
+    "name": "Colimdo TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ZeUgLCa.png",
+    "epgId": "ColimdoTV.do",
+    "streams": [
+      {
+        "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "colometv-do",
+    "name": "Colome TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://colometv.com/assets/images/logo.png",
+    "epgId": "ColomeTV.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "colorvision-do",
+    "name": "Color Vision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/rkgWToA.jpg",
+    "epgId": "ColorVision.do",
+    "streams": [
+      {
+        "url": "https://hls.tvabierta.net/hls/009.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1280p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "constanzatv-do",
+    "name": "ConstanzaTV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/4uV90gw.png",
+    "epgId": "ConstanzaTV.do",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "coral39-do",
+    "name": "Coral 39",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/k6cv9A9.png",
+    "epgId": "Coral39.do",
+    "streams": [
+      {
+        "url": "https://hls.tvabierta.net/hls/039.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cotubanamatv-do",
+    "name": "Cotubanama TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/D6gAezp.png",
+    "epgId": "CotubanamaTV.do",
+    "streams": [
+      {
+        "url": "https://host.streamingnation.live/p/3588/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cromtv-do",
+    "name": "CromTV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jk1lkOV.png",
+    "epgId": "CromTV.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cttcanal49-do",
+    "name": "CTT Canal 49",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jsi4qVb.jpg",
+    "epgId": "CTTCanal49.do",
+    "streams": [
+      {
+        "url": "https://cdnfox.hostlagarto.com/cct49/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cvvisiontv-do",
+    "name": "CV Vision TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://dominicanchannels.com/wp-content/uploads/ccviison-1.png",
+    "epgId": "CVVisionTV.do",
+    "streams": [
+      {
+        "url": "https://eu1.servers10.com:8081/8128/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "288p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "delpueblotv-do",
+    "name": "Del Pueblo TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/Pw7ZUT1.jpg",
+    "epgId": "DelPuebloTV.do",
+    "streams": [
+      {
+        "url": "https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "deltatvcanal50-do",
+    "name": "Delta TV Canal 50",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/Z1K1tyl.jpg",
+    "epgId": "DeltaTVCanal50.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "deultimominutotv-do",
+    "name": "De Ultimo Minuto TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/6ML2z17.png",
+    "epgId": "DeUltimoMinutoTV.do",
+    "streams": [
+      {
+        "url": "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "digital15-do",
+    "name": "Digital 15",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/v3mkmZa.png",
+    "epgId": "Digital15.do",
+    "streams": [
+      {
+        "url": "https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://telemicro.com.do/players/15tv/index_pc.php",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0",
+        "last_checked": null
+      },
+      {
+        "url": "https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://telemicro.com.do/players/5tv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "digital15-do",
+    "name": "Digital 15",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/v3mkmZa.png",
+    "epgId": "Digital15.do",
+    "streams": [
+      {
+        "url": "https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://telemicro.com.do/players/15tv/index_pc.php",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0",
+        "last_checked": null
+      },
+      {
+        "url": "https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://telemicro.com.do/players/5tv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "digitalvision63-do",
+    "name": "Digital Vision 63",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/FQkLIMR.png",
+    "epgId": "DigitalVision63.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecoscanal57-do",
+    "name": "Ecos Canal 57",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/ccFwraQ.png",
+    "epgId": "EcosCanal57.do",
+    "streams": [
+      {
+        "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecovision-do",
+    "name": "Ecovision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Documentary",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/a/pUlIJZX.png",
+    "epgId": "Ecovision.do",
+    "streams": [
+      {
+        "url": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eliaspinatv-do",
+    "name": "Elias Pina TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/VqxSsZD.png",
+    "epgId": "EliasPinaTV.do",
+    "streams": [
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elnuevodiariotv-do",
+    "name": "El Nuevo Diario TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yjuTl6N.png",
+    "epgId": "ElNuevoDiarioTV.do",
+    "streams": [
+      {
+        "url": "https://nuevodiario01.streamprolive.com/hls/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "https://nuevodiario01.streamprolive.com/i/cp/hls/player.html",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elpitucotv-do",
+    "name": "El Pituco TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png",
+    "epgId": "ElPitucoTV.do",
+    "streams": [
+      {
+        "url": "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elpuertotv-do",
+    "name": "El Puerto TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/FnshExB.jpg",
+    "epgId": "ElPuertoTV.do",
+    "streams": [
+      {
+        "url": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elseis6-do",
+    "name": "El Seis 6",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://elseis.do/wp-content/uploads/2025/02/logo-el-seis-horizontal.png",
+    "epgId": "ElSeis6.do",
+    "streams": [
+      {
+        "url": "https://stream.elseis.do/canal6/live_1080.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "enntivision-do",
+    "name": "Enntivision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nePOFZW.png",
+    "epgId": "Enntivision.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/enntivision/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "entelevision-do",
+    "name": "entelevision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gVtLpMD.png",
+    "epgId": "entelevision.do",
+    "streams": [
+      {
+        "url": "https://stream.haislin.com/entelevision/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "enteraterd-do",
+    "name": "Enterate RD",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg",
+    "epgId": "EnterateRD.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "entunotv-do",
+    "name": "Entuno TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/U9OsybQ.jpg",
+    "epgId": "EntunoTV.do",
+    "streams": [
+      {
+        "url": "https://soportedvb.click:3442/live/entunotvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "extra86tv-do",
+    "name": "Extra 86 TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3780-294x165-FFFFFF.jpg",
+    "epgId": "Extra86TV.do",
+    "streams": [
+      {
+        "url": "https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "farovision-do",
+    "name": "Farovision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YtdOXWb.png",
+    "epgId": "Farovision.do",
+    "streams": [
+      {
+        "url": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "femeninatv-do",
+    "name": "Femenina TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3802-294x165-FFFFFF.jpg",
+    "epgId": "FemeninaTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3511/live/femeninatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fratatv-do",
+    "name": "FRATA TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/VxeTREd.png",
+    "epgId": "FRATATV.do",
+    "streams": [
+      {
+        "url": "https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fuegotv-do",
+    "name": "Fuego TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/T9vWjeB.png",
+    "epgId": "FuegoTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3553/live/cromtvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "galaxiateve-do",
+    "name": "GalaxiATeVe",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://grupomediosdelnorte.com/iptv/galaxia.png",
+    "epgId": "GalaxiATeVe.do",
+    "streams": [
+      {
+        "url": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ghtelevision-do",
+    "name": "GH Television",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/xhkiiO3.png",
+    "epgId": "GHTelevision.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gitelevision-do",
+    "name": "Gi Television",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/br9TNG8.png",
+    "epgId": "GiTelevision.do",
+    "streams": [
+      {
+        "url": "https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "globalsocialtv-do",
+    "name": "Global Social TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/sGN1NbR.png",
+    "epgId": "GlobalSocialTV.do",
+    "streams": [
+      {
+        "url": "https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://player.castr.com/",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "globaltv-do",
+    "name": "Global TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/1rQaROm.png",
+    "epgId": "GlobalTV.do",
+    "streams": [
+      {
+        "url": "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "guaymatetv-do",
+    "name": "Guaymate TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Culture",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/PBgQi9a.png",
+    "epgId": "GuaymateTV.do",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hainavision-do",
+    "name": "Haina Vision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/eoodUNJ.png",
+    "epgId": "HainaVision.do",
+    "streams": [
+      {
+        "url": "https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hermanasmirabaltv-do",
+    "name": "Hermanas Mirabal TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/cbKgcGh.png",
+    "epgId": "HermanasMirabalTV.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/hmtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hilandofinotv-do",
+    "name": "Hilando Fino TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/E7ta6g8.png",
+    "epgId": "HilandoFinoTV.do",
+    "streams": [
+      {
+        "url": "https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hits360tv-do",
+    "name": "Hits 360 TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Cx5V233.jpg",
+    "epgId": "Hits360TV.do",
+    "streams": [
+      {
+        "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "htvlive-do",
+    "name": "HTV Live",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/0WBsAin.png",
+    "epgId": "HTVLive.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "imagenuniversaltv-do",
+    "name": "Imagen Universal TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/DP6HmDV.png",
+    "epgId": "ImagenUniversalTV.do",
+    "streams": [
+      {
+        "url": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "informetv-do",
+    "name": "Informe TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/TmJaXrO.jpg",
+    "epgId": "InformeTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jarabacoatv-do",
+    "name": "JARABACOA TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/m9WCrlw.jpg",
+    "epgId": "JARABACOATV.do",
+    "streams": [
+      {
+        "url": "https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jimanitv-do",
+    "name": "Jimani TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/EPYHUSc.jpeg",
+    "epgId": "JimaniTV.do",
+    "streams": [
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jpdtv-do",
+    "name": "JPD TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png",
+    "epgId": "JPDTV.do",
+    "streams": [
+      {
+        "url": "https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "juniortechnologiatv-do",
+    "name": "Junior Technologia TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg",
+    "epgId": "JuniorTechnologiaTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lacaletatv-do",
+    "name": "La Caleta TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/EfMtOja.png",
+    "epgId": "LaCaletaTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/lacaletatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ladescargatv-do",
+    "name": "La Descarga TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://ladescargatv.com/wp-content/uploads/2026/03/file_00000000863461f8844305726f78ecbd-1-Photoroom-2.jpg",
+    "epgId": "LaDescargaTV.do",
+    "streams": [
+      {
+        "url": "https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lagunatv-do",
+    "name": "Laguna TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg",
+    "epgId": "LagunaTV.do",
+    "streams": [
+      {
+        "url": "https://cnn.hostlagarto.com/lagutv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lahoratv-do",
+    "name": "La Hora TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://lahoratv.org/imagen/lahora.jpeg",
+    "epgId": "LaHoraTV.do",
+    "streams": [
+      {
+        "url": "https://edge.enhdtv.com/8206/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lareinatv-do",
+    "name": "La Reina TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3386-294x165-FFFFFF.jpg",
+    "epgId": "LaReinaTV.do",
+    "streams": [
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "larivisiontv-do",
+    "name": "Larivision TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png",
+    "epgId": "LarivisionTV.do",
+    "streams": [
+      {
+        "url": "https://live.larimartv.net/livelan/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloud5.larivision.net/hls/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "larivisiontv-do",
+    "name": "Larivision TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png",
+    "epgId": "LarivisionTV.do",
+    "streams": [
+      {
+        "url": "https://live.larimartv.net/livelan/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloud5.larivision.net/hls/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "larutatv-do",
+    "name": "La Ruta TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg",
+    "epgId": "LaRutaTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3983/live/larutatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lasultanadelestetv-do",
+    "name": "La Sultana del Este TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/UNiyOvd.png",
+    "epgId": "LaSultanadelEsteTV.do",
+    "streams": [
+      {
+        "url": "https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "latinatvinternacional-do",
+    "name": "Latina TV Internacional",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/UAfyeYT.png",
+    "epgId": "LatinaTVInternacional.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lavozdejesushd-do",
+    "name": "La Voz de Jesus HD",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://gia.tv/streams/pstream/208429.png",
+    "epgId": "LaVozdeJesusHD.do",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lavozdeltropico-do",
+    "name": "La Voz del Tropico",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/DKDFpHt.png",
+    "epgId": "LaVozdelTropico.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lavozdemaria-do",
+    "name": "La Voz de Maria",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Zv8CxZX.png",
+    "epgId": "LaVozdeMaria.do",
+    "streams": [
+      {
+        "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lenatv-do",
+    "name": "Lena TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3232-294x165-FFFFFF.jpg",
+    "epgId": "LenaTV.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "linierostv-do",
+    "name": "Linieros TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/bLutjkf.png",
+    "epgId": "LinierosTV.do",
+    "streams": [
+      {
+        "url": "https://soportedvb.click:3017/live/linierostvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lunatvcanal53-do",
+    "name": "Luna TV Canal 53",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/EvX5aqI.png",
+    "epgId": "LunaTVCanal53.do",
+    "streams": [
+      {
+        "url": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "luzdivinatv-do",
+    "name": "Luz Divina TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/BHZw3PK.jpeg",
+    "epgId": "LuzDivinaTV.do",
+    "streams": [
+      {
+        "url": "https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maimontvcanal3-do",
+    "name": "Maimon TV Canal 3",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/twldaaC.png",
+    "epgId": "MaimonTVCanal3.do",
+    "streams": [
+      {
+        "url": "https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "makaotv-do",
+    "name": "Makao TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/asD5y7i.png",
+    "epgId": "MakaoTV.do",
+    "streams": [
+      {
+        "url": "https://live.obslivestream.com/makaomux/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "makaotv-do",
+    "name": "Makao TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/asD5y7i.png",
+    "epgId": "MakaoTV.do",
+    "streams": [
+      {
+        "url": "https://live.obslivestream.com/makaomux/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "makinatv-do",
+    "name": "Makina TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg",
+    "epgId": "MakinaTV.do",
+    "streams": [
+      {
+        "url": "https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "manaclartelevision-do",
+    "name": "Manaclar Television",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg",
+    "epgId": "ManaclarTelevision.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "manieltv-do",
+    "name": "Maniel TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/4060-294x165-FFFFFF.jpg",
+    "epgId": "ManielTV.do",
+    "streams": [
+      {
+        "url": "https://mp.panelchs.com/hls/8024/8024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "markatv-do",
+    "name": "Marka TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg",
+    "epgId": "MarkaTV.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "marlavision-do",
+    "name": "Marla Vision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3738-294x165-FFFFFF.jpg",
+    "epgId": "MarlaVision.do",
+    "streams": [
+      {
+        "url": "https://soportedvb.click:3877/live/merlavisionlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "megacinetv-do",
+    "name": "Mega Cine TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Movies",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://canalesdominicanos.live/template/images/radios/small/mega-cine-tv.png",
+    "epgId": "MegaCineTV.do",
+    "streams": [
+      {
+        "url": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "megavisiontv-do",
+    "name": "MegaVision TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/u5ECnZd.png",
+    "epgId": "MegaVisionTV.do",
+    "streams": [
+      {
+        "url": "https://server2grupocam.com/megavision/MV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "megavisiontv-do",
+    "name": "MegaVision TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/u5ECnZd.png",
+    "epgId": "MegaVisionTV.do",
+    "streams": [
+      {
+        "url": "https://server2grupocam.com/megavision/MV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "miavisiontv-do",
+    "name": "Miavision TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/Bbcrjvs.png",
+    "epgId": "MiavisionTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/miavisiontv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "microvision10-do",
+    "name": "Microvision 10",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/wMl1fNZ.png",
+    "epgId": "Microvision10.do",
+    "streams": [
+      {
+        "url": "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "misioneltv-do",
+    "name": "Mision ELTV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/hwC1stN.png",
+    "epgId": "MisionELTV.do",
+    "streams": [
+      {
+        "url": "https://rd.tvabierta.net/live/misioneltv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "miturnotv-do",
+    "name": "MI Turno TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/uODDaEY.png",
+    "epgId": "MITurnoTV.do",
+    "streams": [
+      {
+        "url": "https://video.udwn.net:19360/miturnotv/miturnotv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mocavisioncanal48-do",
+    "name": "Moca Vision Canal 48",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vclDXV7.jpeg",
+    "epgId": "MocaVisionCanal48.do",
+    "streams": [
+      {
+        "url": "https://stream.castr.com/5da89a909db964293ad13301/live_aa3888e0926511f1af7f414b985a2475/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://player.castr.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "montecristidigital8-do",
+    "name": "Montecristi Digital 8",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/ExoOHQI.jpeg",
+    "epgId": "MontecristiDigital8.do",
+    "streams": [
+      {
+        "url": "https://soportedvb.click:3400/live/montecristitvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "montonestv-do",
+    "name": "Montones TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png",
+    "epgId": "MontonesTV.do",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "morrotv-do",
+    "name": "MorroTV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg",
+    "epgId": "MorroTV.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "musavision-do",
+    "name": "Musavision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/wMse6cT.png",
+    "epgId": "Musavision.do",
+    "streams": [
+      {
+        "url": "https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "naranjatv-do",
+    "name": "Naranja TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/g7iFN3s.png",
+    "epgId": "NaranjaTV.do",
+    "streams": [
+      {
+        "url": "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "navarretetelevision-do",
+    "name": "Navarrete Television",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://dominicanchannels.com/wp-content/uploads/navarrete.png",
+    "epgId": "NavarreteTelevision.do",
+    "streams": [
+      {
+        "url": "https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nexxotv-do",
+    "name": "Nexxo TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/2OpCxa6.png",
+    "epgId": "NexxoTV.do",
+    "streams": [
+      {
+        "url": "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nexxotv-do",
+    "name": "Nexxo TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/2OpCxa6.png",
+    "epgId": "NexxoTV.do",
+    "streams": [
+      {
+        "url": "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nitidatv-do",
+    "name": "Nitida TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/z9JkxcM.png",
+    "epgId": "NitidaTV.do",
+    "streams": [
+      {
+        "url": "https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "noticias16-do",
+    "name": "Noticias 16",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "",
+    "epgId": "Noticias16.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/noticias16/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "notisurtv-do",
+    "name": "Notisur TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://rdomint.com/images/station/300.jpg",
+    "epgId": "NotisurTV.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nuevavision14-do",
+    "name": "Nueva Vision 14",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/0fWQS53.png",
+    "epgId": "NuevaVision14.do",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oepmtv-do",
+    "name": "OEPM TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Travel",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QghtwMB.jpeg",
+    "epgId": "OEPMTV.do",
+    "streams": [
+      {
+        "url": "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ondatv-do",
+    "name": "Onda TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/RUIyD9a.png",
+    "epgId": "OndaTV.do",
+    "streams": [
+      {
+        "url": "https://cnn.hostlagarto.com/ondatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "orbittv-do",
+    "name": "ORBIT TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/lizQs3n.png",
+    "epgId": "ORBITTV.do",
+    "streams": [
+      {
+        "url": "https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://edge.essastream.com/orbittv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "orbittv-do",
+    "name": "ORBIT TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/lizQs3n.png",
+    "epgId": "ORBITTV.do",
+    "streams": [
+      {
+        "url": "https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://edge.essastream.com/orbittv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oxitv-do",
+    "name": "OxiTV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg",
+    "epgId": "OxiTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "palmartv-do",
+    "name": "Palmar TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg",
+    "epgId": "PalmarTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3255/live/palmartvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "peraviavision-do",
+    "name": "Peravia Vision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/k1Wj5ka.png",
+    "epgId": "PeraviaVision.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "portaldigitaltv-do",
+    "name": "Portal Digital TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3664-294x165-FFFFFF.jpg",
+    "epgId": "PortalDigitalTV.do",
+    "streams": [
+      {
+        "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/5ccadd2a-00ad-4a5b-8322-4b5f69464a68/source/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pronemstv-do",
+    "name": "Pronems TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/a9ORO1G.png",
+    "epgId": "PronemsTV.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pulatv-do",
+    "name": "Pula TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/8gSLJ2f.png",
+    "epgId": "PulaTV.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/pulatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "puntacanatv-do",
+    "name": "Punta Cana TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/KF7fLTx.png",
+    "epgId": "PuntaCanaTV.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "puntotv-do",
+    "name": "Punto TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/vfvN6ox.png",
+    "epgId": "PuntoTV.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/puntotv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "puntotvdigital40-do",
+    "name": "Punto TV Digital 40",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://puntotvdigital.net/wp-content/uploads/2024/02/logo.png",
+    "epgId": "PuntoTVDigital40.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rdn-do",
+    "name": "RDN",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/x02CGSW.png",
+    "epgId": "RDN.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "readytvcanal6-do",
+    "name": "Ready TV Canal 6",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ZONPQhR.png",
+    "epgId": "ReadyTVCanal6.do",
+    "streams": [
+      {
+        "url": "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "redsocialcoditv-do",
+    "name": "Red Social Codi TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Yb4lhpG.png",
+    "epgId": "RedSocialCodiTV.do",
+    "streams": [
+      {
+        "url": "https://mp.panelchs.com:1936/8040/8040/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "reporterotv-do",
+    "name": "Reportero TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png",
+    "epgId": "ReporteroTV.do",
+    "streams": [
+      {
+        "url": "https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "retv-do",
+    "name": "R&E TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HpKQYp3.png",
+    "epgId": "RETV.do",
+    "streams": [
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rnn-do",
+    "name": "RNN",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/12Z9qPw.png",
+    "epgId": "RNN.do",
+    "streams": [
+      {
+        "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rnn-do",
+    "name": "RNN",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/12Z9qPw.png",
+    "epgId": "RNN.do",
+    "streams": [
+      {
+        "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rocavisiontv-do",
+    "name": "Rocavision TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/FkHqqsi.jpg",
+    "epgId": "RocavisionTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "romanatvcanal42-do",
+    "name": "Romana TV Canal 42",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/EXnsmhx.png",
+    "epgId": "RomanaTVCanal42.do",
+    "streams": [
+      {
+        "url": "https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtelevision-do",
+    "name": "R Television",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg",
+    "epgId": "RTelevision.do",
+    "streams": [
+      {
+        "url": "https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ruta66tv-do",
+    "name": "Ruta 66 TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/oY4Xfvq.png",
+    "epgId": "Ruta66TV.do",
+    "streams": [
+      {
+        "url": "https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sanisidrotv-do",
+    "name": "San Isidro TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/pwmJrsm.jpg",
+    "epgId": "SanIsidroTV.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "santacruztv-do",
+    "name": "Santa Cruz TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://santacruztv8.com/assets/images/logo.png",
+    "epgId": "SantaCruzTV.do",
+    "streams": [
+      {
+        "url": "https://host.streamingnation.live/p/3345/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "santiagotv-do",
+    "name": "Santiago TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/10SUxGZ.png",
+    "epgId": "SantiagoTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/telemilenio/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "senaldigitaltv-do",
+    "name": "Senal Digital TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/KGqUu1X.jpg",
+    "epgId": "SenalDigitalTV.do",
+    "streams": [
+      {
+        "url": "https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "senalestv-do",
+    "name": "Senales TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Lifestyle",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7Zr79F2.png",
+    "epgId": "SenalesTV.do",
+    "streams": [
+      {
+        "url": "https://live.dionelysterrero.com/senalestv/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "siembratv-do",
+    "name": "Siembra TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg",
+    "epgId": "SiembraTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3809/live/siembratvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "simavisioncanal18-do",
+    "name": "Simavision Canal 18",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/io9o30K.jpg",
+    "epgId": "SimavisionCanal18.do",
+    "streams": [
+      {
+        "url": "https://soportedvb.click:3668/live/simavisiontvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sitv-do",
+    "name": "SiTV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/f8bDccF.png",
+    "epgId": "SiTV.do",
+    "streams": [
+      {
+        "url": "http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "super7fm-do",
+    "name": "Super7FM",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TJEqwZo.png",
+    "epgId": "Super7FM.do",
+    "streams": [
+      {
+        "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.haislin.com/super7fm/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "super7fm-do",
+    "name": "Super7FM",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TJEqwZo.png",
+    "epgId": "Super7FM.do",
+    "streams": [
+      {
+        "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.haislin.com/super7fm/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "supercanal-do",
+    "name": "Super Canal",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/AZBamNi.png",
+    "epgId": "SuperCanal.do",
+    "streams": [
+      {
+        "url": "https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "superdigitaltv-do",
+    "name": "Super Digital TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg",
+    "epgId": "SuperDigitalTV.do",
+    "streams": [
+      {
+        "url": "https://mp.panelchs.com/hls/8032/8032.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "supertv55-do",
+    "name": "Super TV 55",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg",
+    "epgId": "SuperTV55.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "supremateve-do",
+    "name": "Supremateve",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://canalesdominicanos.live/template/images/radios/small/supremateve.jpeg",
+    "epgId": "Supremateve.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "surtv-do",
+    "name": "Sur TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/oAyvK0N.jpeg",
+    "epgId": "SurTV.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tdnmedios-do",
+    "name": "TDN Medios",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/C8dSJM7.png",
+    "epgId": "TDNMedios.do",
+    "streams": [
+      {
+        "url": "https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telealtura-do",
+    "name": "Telealtura",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Ql2eaP0.png",
+    "epgId": "Telealtura.do",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/telealtura/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleantillas-do",
+    "name": "Tele Antillas",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/G1pJZkC.png",
+    "epgId": "TeleAntillas.do",
+    "streams": [
+      {
+        "url": "http://190.122.104.210:5080/LiveApp/streams/C6ngUWmvwMhliYPN3668193473821155.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/TELEANTILLAS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleantillas-do",
+    "name": "Tele Antillas",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/G1pJZkC.png",
+    "epgId": "TeleAntillas.do",
+    "streams": [
+      {
+        "url": "http://190.122.104.210:5080/LiveApp/streams/C6ngUWmvwMhliYPN3668193473821155.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/TELEANTILLAS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telebendicion-do",
+    "name": "TeleBendicion",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nh4sNVI.png",
+    "epgId": "TeleBendicion.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecanal12-do",
+    "name": "Telecanal 12",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/90cTK8S.png",
+    "epgId": "Telecanal12.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecanal28-do",
+    "name": "Telecanal 28",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/hEJ6lZ9.png",
+    "epgId": "Telecanal28.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecentro-do",
+    "name": "Telecentro",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/F17zNXh.png",
+    "epgId": "Telecentro.do",
+    "streams": [
+      {
+        "url": "https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://telemicro.com.do/players/5tv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://telemicro.com.do/players/13tv/index_pc.php",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecentro-do",
+    "name": "Telecentro",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/F17zNXh.png",
+    "epgId": "Telecentro.do",
+    "streams": [
+      {
+        "url": "https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://telemicro.com.do/players/5tv/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://telemicro.com.do/players/13tv/index_pc.php",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecibaohd-do",
+    "name": "TeleCibaoHD",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IpInp05.png",
+    "epgId": "TeleCibaoHD.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecomerciotv-do",
+    "name": "Telecomercio TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/FtV5TCs.jpg",
+    "epgId": "TelecomercioTV.do",
+    "streams": [
+      {
+        "url": "https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecontacto-do",
+    "name": "Telecontacto",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TMvV9dF.png",
+    "epgId": "Telecontacto.do",
+    "streams": [
+      {
+        "url": "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teledajabontv-do",
+    "name": "Tele Dajabon TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg",
+    "epgId": "TeleDajabonTV.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teledominicanatv-do",
+    "name": "Tele Dominicana TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://dominicanchannels.com/wp-content/uploads/teledominicana.png",
+    "epgId": "TeleDominicanaTV.do",
+    "streams": [
+      {
+        "url": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telefuturo-do",
+    "name": "Telefuturo",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QpnctoU.png",
+    "epgId": "Telefuturo.do",
+    "streams": [
+      {
+        "url": "http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleimpacto-do",
+    "name": "Teleimpacto",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/dBEysOV.png",
+    "epgId": "Teleimpacto.do",
+    "streams": [
+      {
+        "url": "https://vpss2003.streamprolive.com/hls/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemax-do",
+    "name": "Telemax",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QvKmjvV.png",
+    "epgId": "Telemax.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemedioscanal8-do",
+    "name": "Telemedios Canal 8",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/xhEAw7z.png",
+    "epgId": "TelemediosCanal8.do",
+    "streams": [
+      {
+        "url": "https://hls.tvabierta.net/hls/008.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemetrotv-do",
+    "name": "Telemetro TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/Ck2NL0t.png",
+    "epgId": "TelemetroTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3366/live/telemetrolive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemicro-do",
+    "name": "Telemicro",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/WhgySAk.png",
+    "epgId": "Telemicro.do",
+    "streams": [
+      {
+        "url": "https://live2.telemicro.com.do/live/55/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "https://telemicro.com.do/players/5tv/index_pc.php",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telenewstv-do",
+    "name": "Telenews TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3878-294x165-FFFFFF.jpg",
+    "epgId": "TelenewsTV.do",
+    "streams": [
+      {
+        "url": "https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telenord8-do",
+    "name": "Telenord 8",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/1Ei0kB8.png",
+    "epgId": "Telenord8.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telenord10-do",
+    "name": "Telenord 10",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/1Ei0kB8.png",
+    "epgId": "Telenord10.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telenord12-do",
+    "name": "Telenord 12",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/o7EzEsV.png",
+    "epgId": "Telenord12.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telenovisa43-do",
+    "name": "Telenovisa43",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/iHvf3bR.png",
+    "epgId": "Telenovisa43.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleola44-do",
+    "name": "Tele Ola 44",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://dominicanchannels.com/wp-content/uploads/tele-ola.jpeg",
+    "epgId": "TeleOla44.do",
+    "streams": [
+      {
+        "url": "https://teleola.ddns.net/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telepodertv-do",
+    "name": "Tele Poder TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.telepoder.online/wp-content/uploads/2024/02/cropped-cropped-Logo-PoderTV2.png",
+    "epgId": "TelePoderTV.do",
+    "streams": [
+      {
+        "url": "https://cdn.telepoder.online:3229/dash/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleproyectotv-do",
+    "name": "Tele Proyecto TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/LmBxN5x.png",
+    "epgId": "TeleProyectoTV.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleradionorte-do",
+    "name": "TeleRadioNorte",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/s43eFy0.png",
+    "epgId": "TeleRadioNorte.do",
+    "streams": [
+      {
+        "url": "https://angelistic.live:3785/live/tvoficiallive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesiglo-do",
+    "name": "TELESIGLO",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg",
+    "epgId": "TELESIGLO.do",
+    "streams": [
+      {
+        "url": "https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesistema11-do",
+    "name": "Telesistema 11",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ZzeZKCu.png",
+    "epgId": "Telesistema11.do",
+    "streams": [
+      {
+        "url": "https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teletur-do",
+    "name": "Teletur",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Travel",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Ig4gR93.png",
+    "epgId": "Teletur.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleunion-do",
+    "name": "Teleunion",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vTfxkjW.png",
+    "epgId": "Teleunion.do",
+    "streams": [
+      {
+        "url": "http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://teleuniontvrd.com/portal/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleunion-do",
+    "name": "Teleunion",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vTfxkjW.png",
+    "epgId": "Teleunion.do",
+    "streams": [
+      {
+        "url": "http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://teleuniontvrd.com/portal/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleuniverso-do",
+    "name": "Teleuniverso",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gQev8ST.png",
+    "epgId": "Teleuniverso.do",
+    "streams": [
+      {
+        "url": "https://hls.tvabierta.net/hls/029.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telever-do",
+    "name": "Telever",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/ejKctXc.png",
+    "epgId": "Telever.do",
+    "streams": [
+      {
+        "url": "https://soportedvb.click:3413/live/televerlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televiaductocanal3-do",
+    "name": "Televiaducto Canal 3",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/M9A6hqR.png",
+    "epgId": "TeleviaductoCanal3.do",
+    "streams": [
+      {
+        "url": "https://stream.castr.com/5da89a909db964293ad13301/live_fcf05c9091cd11f1af7f414b985a2475/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://player.castr.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televiaductocanal14-do",
+    "name": "Televiaducto Canal 14",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/M9A6hqR.png",
+    "epgId": "TeleviaductoCanal14.do",
+    "streams": [
+      {
+        "url": "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_62c23ce08a8b11f1a955e58b585fd65f/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://player.castr.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televida-do",
+    "name": "Televida",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/S8Zdn41.png",
+    "epgId": "Televida.do",
+    "streams": [
+      {
+        "url": "https://cnn.hostlagarto.com/televida/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televisiondeleste-do",
+    "name": "Television del Este",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mmjbcGr.png",
+    "epgId": "TelevisiondelEste.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tenarensestv-do",
+    "name": "Tenarenses TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/cPIgs0v.png",
+    "epgId": "TenarensesTV.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/tenarensestvrd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tigueritotv-do",
+    "name": "Tiguerito TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg",
+    "epgId": "TigueritoTV.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tnecanal58-do",
+    "name": "TNE Canal 58",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/rSIB579.jpeg",
+    "epgId": "TNECanal58.do",
+    "streams": [
+      {
+        "url": "https://stream.castr.com/5da89a909db964293ad13301/live_85f2053091cd11f1a5e59d9ec0f6bd3a/index.fmp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://player.castr.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tomandjerry-do",
+    "name": "Tom And Jerry",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://gia.tv/streams/pptv/208314.jpg?1750373428",
+    "epgId": "TomAndJerry.do",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "topicalmoonrd-do",
+    "name": "Topical Moon RD",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg",
+    "epgId": "TopicalMoonRD.do",
+    "streams": [
+      {
+        "url": "https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "toracanal69-do",
+    "name": "Tora Canal 69",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png",
+    "epgId": "ToraCanal69.do",
+    "streams": [
+      {
+        "url": "https://tv.wracanal10.com:3012/live/latoratvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tourspottv-do",
+    "name": "Tour Spot TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/khj869k.png",
+    "epgId": "TourSpotTV.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1280p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "turismohd-do",
+    "name": "Turismo HD",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://gia.tv/streams/pptv/208343.jpg",
+    "epgId": "TurismoHD.do",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "turismordtv-do",
+    "name": "Turismo RDTV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Travel",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg",
+    "epgId": "TurismoRDTV.do",
+    "streams": [
+      {
+        "url": "https://streamunoapp.com:3086/live/telemileniolive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv10sanjuan-do",
+    "name": "TV 10 San Juan",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/e2BXUdH.png",
+    "epgId": "TV10SanJuan.do",
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcanalsur-do",
+    "name": "TV Canal Sur",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "",
+    "epgId": "TVCanalSur.do",
+    "streams": [
+      {
+        "url": "https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcotuicanal31-do",
+    "name": "TV Cotui Canal 31",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/sMF7JDm.png",
+    "epgId": "TVCotuiCanal31.do",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvdaja-do",
+    "name": "TV Daja",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png",
+    "epgId": "TVDaja.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/dajatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvexitos-do",
+    "name": "TV Exitos",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ahz7X7u.png",
+    "epgId": "TVExitos.do",
+    "streams": [
+      {
+        "url": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvhigueydigital-do",
+    "name": "TV Higuey Digital",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ptQyOMi.png",
+    "epgId": "TVHigueyDigital.do",
+    "streams": [
+      {
+        "url": "https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvluz-do",
+    "name": "TV Luz",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/FZUQ2WP.png",
+    "epgId": "TVLuz.do",
+    "streams": [
+      {
+        "url": "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmontanacanal10-do",
+    "name": "TV Montana Canal 10",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/DHyRWc0.png",
+    "epgId": "TVMontanaCanal10.do",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvn24-do",
+    "name": "TVN24",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/bu6bQMa.png",
+    "epgId": "TVN24.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/vozzmedia/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvn-do",
+    "name": "TVN",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg",
+    "epgId": "TVN.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvo-do",
+    "name": "TVO",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/MhloaFB.png",
+    "epgId": "TVO.do",
+    "streams": [
+      {
+        "url": "https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvplata-do",
+    "name": "TV Plata",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/r3urUnn.png",
+    "epgId": "TVPlata.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvs-do",
+    "name": "TVS",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/a2YX1oj.jpg",
+    "epgId": "TVS.do",
+    "streams": [
+      {
+        "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "uvatv-do",
+    "name": "UVA TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3918-294x165-FFFFFF.jpg",
+    "epgId": "UVATV.do",
+    "streams": [
+      {
+        "url": "https://www.uvatvhd.com/hls.php?file=live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vallenuevotv-do",
+    "name": "Valle Nuevo TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/RvIkFxp.png",
+    "epgId": "ValleNuevoTV.do",
+    "streams": [
+      {
+        "url": "https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vallevision-do",
+    "name": "Vallevision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/lNpgFAU.png",
+    "epgId": "Vallevision.do",
+    "streams": [
+      {
+        "url": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vegateve-do",
+    "name": "Vega Teve",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jiyMOZx.png",
+    "epgId": "VegaTeve.do",
+    "streams": [
+      {
+        "url": "https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vegavisioncanal18-do",
+    "name": "Vegavision Canal 18",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/352jxnd.png",
+    "epgId": "VegavisionCanal18.do",
+    "streams": [
+      {
+        "url": "https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "villaaltagraciatv-do",
+    "name": "Villa Altagracia TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/uQAeKKa.png",
+    "epgId": "VillaAltagraciaTV.do",
+    "streams": [
+      {
+        "url": "https://stream.inliveserver.com:19360/8004/8004.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vision3000-do",
+    "name": "Vision 3000",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mogsnzp.png",
+    "epgId": "Vision3000.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "visionndv-do",
+    "name": "Vision NDV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/4gj5NMa.png",
+    "epgId": "VisionNDV.do",
+    "streams": [
+      {
+        "url": "https://soportedvb.click:3891/live/visionndvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vtvcanal32-do",
+    "name": "VTV Canal 32",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/qjm4B0J.png",
+    "epgId": "VTVCanal32.do",
+    "streams": [
+      {
+        "url": "https://dbt-gcore-video-cdn.b-cdn.net/mpegts/986244_4049034/master_mpegts.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vtvcanal32-do",
+    "name": "VTV Canal 32",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/qjm4B0J.png",
+    "epgId": "VTVCanal32.do",
+    "streams": [
+      {
+        "url": "https://dbt-gcore-video-cdn.b-cdn.net/mpegts/986244_4049034/master_mpegts.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "xtratv-do",
+    "name": "Xtra Tv",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://xtratvrd.com/logo512.png",
+    "epgId": "XtraTv.do",
+    "streams": [
+      {
+        "url": "https://edge.essastream.com/xtratv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "xtremochannel-do",
+    "name": "Xtremo Channel",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/bvPh0Uq.png",
+    "epgId": "XtremoChannel.do",
+    "streams": [
+      {
+        "url": "https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yunavision-do",
+    "name": "Yunavision",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YjceEv5.png",
+    "epgId": "Yunavision.do",
+    "streams": [
+      {
+        "url": "https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zastv-do",
+    "name": "ZAS TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg",
+    "epgId": "ZASTV.do",
+    "streams": [
+      {
+        "url": "https://cloud5.zastv.net/hls/zastv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zincnombretv-do",
+    "name": "Zinc Nombre TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg",
+    "epgId": "ZincNombreTV.do",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zonavisiontv-do",
+    "name": "Zonavision TV",
+    "country": "DO",
+    "countryName": "Dominican Republic",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/B3PrrMH.png",
+    "epgId": "ZonavisionTV.do",
+    "streams": [
+      {
+        "url": "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

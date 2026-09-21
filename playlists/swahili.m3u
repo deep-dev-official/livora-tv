@@ -1,0 +1,26 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="DodomaTV.tz" tvg-name="Dodoma TV" tvg-logo="https://i.imgur.com/bLq9eFa.png" group-title="General",Dodoma TV (360p)
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+
+#EXTINF:-1 tvg-id="LuyaaTV.ke" tvg-name="Luyaa TV" tvg-logo="https://i.imgur.com/bnq7DNt.jpg" group-title="General",Luyaa TV (480p)
+https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8
+
+#EXTINF:-1 tvg-id="MuugiTV.ke" tvg-name="Muugi TV" tvg-logo="https://i.imgur.com/7XCR2Wi.jpg" group-title="Religious",Muugi TV (480p)
+https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8
+
+#EXTINF:-1 tvg-id="NdurumeniTV.ke" tvg-name="Ndurumeni TV" tvg-logo="https://i.imgur.com/OvmySNw.jpg" group-title="Religious",Ndurumeni TV (480p)
+https://goliveafrica.media:9998/live/6389d571d20af/index.m3u8
+
+#EXTINF:-1 tvg-id="TBC1.tz" tvg-name="TBC1" tvg-logo="https://i.imgur.com/OmiVZ1u.png" group-title="General",TBC1 (1080p)
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_67aeec90584911f1ab60174d68f7c06e/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="TBC1.tz" tvg-name="TBC1" tvg-logo="https://i.imgur.com/OmiVZ1u.png" group-title="General",TBC1 (HD)
+https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8
+
+#EXTINF:-1 tvg-id="TBC2.tz" tvg-name="TBC2" tvg-logo="https://i.imgur.com/VkUJt2q.png" group-title="Entertainment",TBC2 (1080p)
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="TBC2.tz" tvg-name="TBC2" tvg-logo="https://i.imgur.com/VkUJt2q.png" group-title="Entertainment",TBC2 (1080p)
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8

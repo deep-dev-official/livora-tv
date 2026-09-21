@@ -1,0 +1,674 @@
+[
+  {
+    "id": "exodustv-si",
+    "name": "Exodus TV",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Religious",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/WKr5ncQ.png",
+    "epgId": "ExodusTV.si",
+    "streams": [
+      {
+        "url": "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "exodustv-si",
+    "name": "Exodus TV",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Religious",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/WKr5ncQ.png",
+    "epgId": "ExodusTV.si",
+    "streams": [
+      {
+        "url": "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "folxslovenija-si",
+    "name": "Folx Slovenija",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Music",
+    "language": "deu",
+    "languageName": "German",
+    "logo": "https://i.imgur.com/RK1IASU.png",
+    "epgId": "FolxSlovenija.si",
+    "streams": [
+      {
+        "url": "https://folxsloapp.b-cdn.net/1080p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "h2hd-si",
+    "name": "H2 HD",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Documentary",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+    "epgId": "H2HD.si",
+    "streams": [
+      {
+        "url": "https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "history-si",
+    "name": "History",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Documentary",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "epgId": "History.si",
+    "streams": [
+      {
+        "url": "https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "history-si",
+    "name": "History",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Documentary",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "epgId": "History.si",
+    "streams": [
+      {
+        "url": "https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanala-si",
+    "name": "Kanal A",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "General",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/JHNpcqF.png",
+    "epgId": "KanalA.si",
+    "streams": [
+      {
+        "url": "https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starchannel-si",
+    "name": "Star Channel",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Movies",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "epgId": "StarChannel.si",
+    "streams": [
+      {
+        "url": "http://92.36.202.5:10001/play/a01s",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starcrime-si",
+    "name": "Star Crime",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Series",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
+    "epgId": "StarCrime.si",
+    "streams": [
+      {
+        "url": "http://92.36.202.5:10001/play/a02o",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starlife-si",
+    "name": "Star Life",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Series",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
+    "epgId": "StarLife.si",
+    "streams": [
+      {
+        "url": "http://92.36.202.5:10001/play/a02n",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starmovies-si",
+    "name": "Star Movies",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Movies",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/JcoAgDF.png",
+    "epgId": "StarMovies.si",
+    "streams": [
+      {
+        "url": "http://92.36.202.5:10001/play/a01o",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televizijaurslja-si",
+    "name": "Televizija Urslja",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "General",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/PZwdXlN.png",
+    "epgId": "TelevizijaUrslja.si",
+    "streams": [
+      {
+        "url": "http://ott.sgn.net/hls/tvurslja.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trzictv-si",
+    "name": "Trzic TV",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "General",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/VZiaoqz.png",
+    "epgId": "TrzicTV.si",
+    "streams": [
+      {
+        "url": "https://vpn.video2go.live:444/trzic/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvslo1-si",
+    "name": "TV SLO 1",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "General",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/E3YmlxF.png",
+    "epgId": "TVSLO1.si",
+    "streams": [
+      {
+        "url": "http://23.88.66.93/SLO1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvslo1-si",
+    "name": "TV SLO 1",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "General",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/E3YmlxF.png",
+    "epgId": "TVSLO1.si",
+    "streams": [
+      {
+        "url": "http://23.88.66.93/SLO1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvslo1-si",
+    "name": "TV SLO 1",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "General",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/E3YmlxF.png",
+    "epgId": "TVSLO1.si",
+    "streams": [
+      {
+        "url": "http://23.88.66.93/SLO1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvslo2-si",
+    "name": "TV SLO 2",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "General",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/OPlzjjv.png",
+    "epgId": "TVSLO2.si",
+    "streams": [
+      {
+        "url": "http://23.88.66.93/SLO2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvslo2-si",
+    "name": "TV SLO 2",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "General",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/OPlzjjv.png",
+    "epgId": "TVSLO2.si",
+    "streams": [
+      {
+        "url": "http://23.88.66.93/SLO2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvslo2-si",
+    "name": "TV SLO 2",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "General",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/OPlzjjv.png",
+    "epgId": "TVSLO2.si",
+    "streams": [
+      {
+        "url": "http://23.88.66.93/SLO2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvslo3-si",
+    "name": "TV SLO 3",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "General",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/yPb2FKg.png",
+    "epgId": "TVSLO3.si",
+    "streams": [
+      {
+        "url": "https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvveseljakgolicahd-si",
+    "name": "TV Veseljak Golica HD",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "General",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/49VrbSW.png",
+    "epgId": "TVVeseljakGolicaHD.si",
+    "streams": [
+      {
+        "url": "https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatexplore-si",
+    "name": "Viasat Explore",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Documentary",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/jboGcoY.png",
+    "epgId": "ViasatExplore.si",
+    "streams": [
+      {
+        "url": "https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasathistory-si",
+    "name": "Viasat History",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Documentary",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/qCkCGqa.png",
+    "epgId": "ViasatHistory.si",
+    "streams": [
+      {
+        "url": "https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatnature-si",
+    "name": "Viasat Nature",
+    "country": "SI",
+    "countryName": "Slovenia",
+    "category": "Documentary",
+    "language": "slv",
+    "languageName": "Slovenian",
+    "logo": "https://i.imgur.com/gxlZZ91.png",
+    "epgId": "ViasatNature.si",
+    "streams": [
+      {
+        "url": "https://lb.dstvmultimedia.com/ViasatNature/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "beautifullifetv-tw",
+    "name": "Beautiful Life TV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "Religious",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/hkwcBM9.png",
+    "epgId": "BeautifulLifeTV.tw",
+    "streams": [
+      {
+        "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cgntvchinese-tw",
+    "name": "CGNTV Chinese",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "Religious",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/bPoPAbR.png",
+    "epgId": "CGNTVChinese.tw",
+    "streams": [
+      {
+        "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ctivariety-tw",
+    "name": "CTi Variety",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/tqsKObw.png",
+    "epgId": "CTiVariety.tw",
+    "streams": [
+      {
+        "url": "http://23.237.10.66:16372/",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ctsnews-tw",
+    "name": "CTS News",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "News",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/V1EVtRm.png",
+    "epgId": "CTSNews.tw",
+    "streams": [
+      {
+        "url": "http://seb.sason.top/sc/hsxw_fhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "daai1-tw",
+    "name": "DaAi 1",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/KdJi9af.png",
+    "epgId": "DaAi1.tw",
+    "streams": [
+      {
+        "url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "daai2-tw",
+    "name": "DaAi 2",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/KdJi9af.png",
+    "epgId": "DaAi2.tw",
+    "streams": [
+      {
+        "url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "daai2-tw",
+    "name": "DaAi 2",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/KdJi9af.png",
+    "epgId": "DaAi2.tw",
+    "streams": [
+      {
+        "url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dalitv-tw",
+    "name": "Dali TV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "nan",
+    "languageName": "Min Nan Chinese",
+    "logo": "https://i.imgur.com/pFIMLsA.png",
+    "epgId": "DaliTV.tw",
+    "streams": [
+      {
+        "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebcfinancialnews-tw",
+    "name": "EBC Financial News",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "News",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/uFDkOhV.png",
+    "epgId": "EBCFinancialNews.tw",
+    "streams": [
+      {
+        "url": "http://seb.sason.top/sc/dscjxw_fhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebcnews-tw",
+    "name": "EBC News",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "News",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/QFZs80p.png",
+    "epgId": "EBCNews.tw",
+    "streams": [
+      {
+        "url": "http://seb.sason.top/sc/dsxw_fhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ftv-tw",
+    "name": "FTV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/q8ahtbT.png",
+    "epgId": "FTV.tw",
+    "streams": [
+      {
+        "url": "http://seb.sason.top/ptv/ftv.php?id=ms",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ftvone-tw",
+    "name": "FTV One",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/HBT2o0I.png",
+    "epgId": "FTVOne.tw",
+    "streams": [
+      {
+        "url": "http://seb.sason.top/ptv/ftv.php?id=dy",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ftvtaiwan-tw",
+    "name": "FTV Taiwan",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "News",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/p108I5g.png",
+    "epgId": "FTVTaiwan.tw",
+    "streams": [
+      {
+        "url": "http://seb.sason.top/ptv/ftv.php?id=tw",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "good2-tw",
+    "name": "Good 2",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "Religious",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/YxFRoft.png",
+    "epgId": "Good2.tw",
+    "streams": [
+      {
+        "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "goodtv-tw",
+    "name": "Good TV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "Religious",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/k28Kc3o.png",
+    "epgId": "GoodTV.tw",
+    "streams": [
+      {
+        "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hakkatv-tw",
+    "name": "Hakka TV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "Culture",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/1CdGSbU.png",
+    "epgId": "HakkaTV.tw",
+    "streams": [
+      {
+        "url": "https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "indigenoustv-tw",
+    "name": "Indigenous TV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "Culture",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/vmk4F9u.png",
+    "epgId": "IndigenousTV.tw",
+    "streams": [
+      {
+        "url": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "momotv-tw",
+    "name": "MOMO TV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "Shop",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://m.momoshop.com.tw/img/message.png",
+    "epgId": "MOMOTV.tw",
+    "streams": [
+      {
+        "url": "http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "setnews-tw",
+    "name": "SET News",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "News",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/EGVbAvJ.png",
+    "epgId": "SETNews.tw",
+    "streams": [
+      {
+        "url": "http://seb.sason.top/sc/sllive_fhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suprememastertv-tw",
+    "name": "Supreme Master TV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kFMHayP.png",
+    "epgId": "SupremeMasterTV.tw",
+    "streams": [
+      {
+        "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "taiwanindigenoustv-tw",
+    "name": "Taiwan Indigenous TV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/QqIdVqz.png",
+    "epgId": "TaiwanIndigenousTV.tw",
+    "streams": [
+      {
+        "url": "https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://h5cul1yar48um3t.wcetv.com/hls/titv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "taiwanindigenoustv-tw",
+    "name": "Taiwan Indigenous TV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/QqIdVqz.png",
+    "epgId": "TaiwanIndigenousTV.tw",
+    "streams": [
+      {
+        "url": "https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://h5cul1yar48um3t.wcetv.com/hls/titv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "taiwanplustv-tw",
+    "name": "Taiwan Plus TV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/SfcZyqm.png",
+    "epgId": "TaiwanPlusTV.tw",
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ttv-tw",
+    "name": "TTV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "General",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png",
+    "epgId": "TTV.tw",
+    "streams": [
+      {
+        "url": "http://162.19.247.76:22222/live/taishi/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvbsasia-tw",
+    "name": "TVBS-Asia",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "Entertainment",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/4S1rkhm.png",
+    "epgId": "TVBSAsia.tw",
+    "streams": [
+      {
+        "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvbsnews-tw",
+    "name": "TVBS News",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "News",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/171lwfg.png",
+    "epgId": "TVBSNews.tw",
+    "streams": [
+      {
+        "url": "http://seb.sason.top/sc/tvbsxw_fhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wxtv-tw",
+    "name": "WXTV",
+    "country": "TW",
+    "countryName": "Taiwan",
+    "category": "Religious",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://i.imgur.com/s8tiTeb.png",
+    "epgId": "WXTV.tw",
+    "streams": [
+      {
+        "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

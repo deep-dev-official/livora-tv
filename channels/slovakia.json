@@ -1,0 +1,1664 @@
+[
+  {
+    "id": "24-sk",
+    "name": ":24",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "News",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/tTCuczU.png",
+    "epgId": "24.sk",
+    "streams": [
+      {
+        "url": "http://88.212.15.27/live/test_trojka_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "antikinfotv-sk",
+    "name": "Antik Info TV",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "News",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/Q0qL60o.png",
+    "epgId": "AntikInfoTV.sk",
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arenasport1-sk",
+    "name": "Arena Sport 1",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Sports",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/2qf67zW.png",
+    "epgId": "ArenaSport1.sk",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arenasport2-sk",
+    "name": "Arena Sport 2",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Sports",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/Yq3Jf19.png",
+    "epgId": "ArenaSport2.sk",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ducktv-sk",
+    "name": "ducktv",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/gRFQ35W.png",
+    "epgId": "ducktv.sk",
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/duck_tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://jmp2.uk/stvp-ESBC4700001GR",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ducktv-sk",
+    "name": "ducktv",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/gRFQ35W.png",
+    "epgId": "ducktv.sk",
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/duck_tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://jmp2.uk/stvp-ESBC4700001GR",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ducktv-sk",
+    "name": "ducktv",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/gRFQ35W.png",
+    "epgId": "ducktv.sk",
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/duck_tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://jmp2.uk/stvp-ESBC4700001GR",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ducktv-sk",
+    "name": "ducktv",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/gRFQ35W.png",
+    "epgId": "ducktv.sk",
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/duck_tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://jmp2.uk/stvp-ESBC4700001GR",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ducktv-sk",
+    "name": "ducktv",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/gRFQ35W.png",
+    "epgId": "ducktv.sk",
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/duck_tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://jmp2.uk/stvp-ESBC4700001GR",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ducktvplus-sk",
+    "name": "ducktv PLUS",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Kids",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/RFhxfOx.png",
+    "epgId": "ducktvPLUS.sk",
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dvojka-sk",
+    "name": "Dvojka",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Documentary",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/ft10wQn.png",
+    "epgId": "Dvojka.sk",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hahatv-sk",
+    "name": "HAHA TV",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Comedy",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "",
+    "epgId": "HAHATV.sk",
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jednotka-sk",
+    "name": "Jednotka",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/aqVki9i.png",
+    "epgId": "Jednotka.sk",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lifetv-sk",
+    "name": "LifeTv",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Religious",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/jO8kAY2.png",
+    "epgId": "LifeTv.sk",
+    "streams": [
+      {
+        "url": "https://lifetv.mpks.sk/s.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtr-sk",
+    "name": "MTR",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://www.mtr.sk/img/logo-mtr-0.png",
+    "epgId": "MTR.sk",
+    "streams": [
+      {
+        "url": "https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nztv-sk",
+    "name": "NZTV",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/jGZlnzT.png",
+    "epgId": "NZTV.sk",
+    "streams": [
+      {
+        "url": "http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "486p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nztv-sk",
+    "name": "NZTV",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/jGZlnzT.png",
+    "epgId": "NZTV.sk",
+    "streams": [
+      {
+        "url": "http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "486p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "primacoolsk-sk",
+    "name": "Prima Cool SK",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png",
+    "epgId": "PrimaCoolSK.sk",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "primakrimisk-sk",
+    "name": "Prima Krimi SK",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://www.jojgroup.sk/wp-content/uploads/PRIMA-KRIMI-SK-2-scaled.png",
+    "epgId": "PrimaKrimiSK.sk",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "primalovesk-sk",
+    "name": "Prima love SK",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://www.jojgroup.sk/wp-content/uploads/PRIMA-LOVE-1.png",
+    "epgId": "PrimaloveSK.sk",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "primask-sk",
+    "name": "Prima SK",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/PRIMA_SK_logo_RGB.png",
+    "epgId": "PrimaSK.sk",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_prima_plus_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "regiotv-sk",
+    "name": "Regio TV",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/WlF6tlZ.png",
+    "epgId": "RegioTV.sk",
+    "streams": [
+      {
+        "url": "http://tv.geniusnet.sk:8081/regiotv/pl.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "regiotv-sk",
+    "name": "Regio TV",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/WlF6tlZ.png",
+    "epgId": "RegioTV.sk",
+    "streams": [
+      {
+        "url": "http://tv.geniusnet.sk:8081/regiotv/pl.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "senzi-sk",
+    "name": "Senzi",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/1qJMmBu.png",
+    "epgId": "Senzi.sk",
+    "streams": [
+      {
+        "url": "http://lb.streaming.sk/senzi/stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport-sk",
+    "name": "Sport",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Sports",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/oAtcxNZ.png",
+    "epgId": "Sport.sk",
+    "streams": [
+      {
+        "url": "http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televiziamocenok-sk",
+    "name": "Televizia Mocenok",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/psb8GxZ.png",
+    "epgId": "TeleviziaMocenok.sk",
+    "streams": [
+      {
+        "url": "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "turbotv-sk",
+    "name": "Turbo TV",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/HI7bCHq.png",
+    "epgId": "TurboTV.sk",
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv8-sk",
+    "name": "TV8",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/Z7URrp1.png",
+    "epgId": "TV8.sk",
+    "streams": [
+      {
+        "url": "http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_osem/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv8-sk",
+    "name": "TV8",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/Z7URrp1.png",
+    "epgId": "TV8.sk",
+    "streams": [
+      {
+        "url": "http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_osem/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv8-sk",
+    "name": "TV8",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/Z7URrp1.png",
+    "epgId": "TV8.sk",
+    "streams": [
+      {
+        "url": "http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_osem/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv9-sk",
+    "name": "TV9",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/Sco4x8t.png",
+    "epgId": "TV9.sk",
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_tv9/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvbrezova-sk",
+    "name": "TV Brezova",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/59LpYoF.png",
+    "epgId": "TVBrezova.sk",
+    "streams": [
+      {
+        "url": "http://95.105.193.219:88/hls/tvb.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcentral-sk",
+    "name": "TV Central",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/LqGT8o9.png",
+    "epgId": "TVCentral.sk",
+    "streams": [
+      {
+        "url": "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_central/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcentral-sk",
+    "name": "TV Central",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/LqGT8o9.png",
+    "epgId": "TVCentral.sk",
+    "streams": [
+      {
+        "url": "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_central/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvdk-sk",
+    "name": "TV DK",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/qTOnPXe.png",
+    "epgId": "TVDK.sk",
+    "streams": [
+      {
+        "url": "http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "486p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "486p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvdk-sk",
+    "name": "TV DK",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/qTOnPXe.png",
+    "epgId": "TVDK.sk",
+    "streams": [
+      {
+        "url": "http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "486p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "486p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvliptov-sk",
+    "name": "TV Liptov",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/CkvB3af.png",
+    "epgId": "TVLiptov.sk",
+    "streams": [
+      {
+        "url": "http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvlocall-sk",
+    "name": "TV LocAll",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/xN1CJol.png",
+    "epgId": "TVLocAll.sk",
+    "streams": [
+      {
+        "url": "http://tv.geniusnet.sk:8081/localltv/pl.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_locall/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvlocall-sk",
+    "name": "TV LocAll",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/xN1CJol.png",
+    "epgId": "TVLocAll.sk",
+    "streams": [
+      {
+        "url": "http://tv.geniusnet.sk:8081/localltv/pl.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_locall/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvlux-sk",
+    "name": "TV Lux",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/mAMyTkq.png",
+    "epgId": "TVLux.sk",
+    "streams": [
+      {
+        "url": "https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvlux-sk",
+    "name": "TV Lux",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/mAMyTkq.png",
+    "epgId": "TVLux.sk",
+    "streams": [
+      {
+        "url": "https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmistral-sk",
+    "name": "TV Mistral",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/IOJ6rcb.jpeg",
+    "epgId": "TVMistral.sk",
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmyjava-sk",
+    "name": "TV Myjava",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/9f9VmvF.png",
+    "epgId": "TVMyjava.sk",
+    "streams": [
+      {
+        "url": "http://95.105.193.219:88/hls/tvm.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnitricka-sk",
+    "name": "TV Nitricka",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/iwWyG1A.png",
+    "epgId": "TVNitricka.sk",
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_nitricka/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnrsr-sk",
+    "name": "TV NRSR",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Legislative",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/hsJsu3I.png",
+    "epgId": "TVNRSR.sk",
+    "streams": [
+      {
+        "url": "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvpanorama-sk",
+    "name": "TV Panorama",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/0YtCG4Y.png",
+    "epgId": "TVPanorama.sk",
+    "streams": [
+      {
+        "url": "https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvpoprad-sk",
+    "name": "TV Poprad",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/x6ZvOp6.png",
+    "epgId": "TVPoprad.sk",
+    "streams": [
+      {
+        "url": "http://213.81.153.221:8080/poprad",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvpovazie-sk",
+    "name": "TV Povazie",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/JRD9YIY.png",
+    "epgId": "TVPovazie.sk",
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/test_povazie/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvraj-sk",
+    "name": "TV Raj",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/CGckMyx.png",
+    "epgId": "TVRaj.sk",
+    "streams": [
+      {
+        "url": "https://ottst05.flexitv.sk/2827-tv-pc.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvromana-sk",
+    "name": "TV Romana",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/r7avFBX.png",
+    "epgId": "TVRomana.sk",
+    "streams": [
+      {
+        "url": "http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvruzinov-sk",
+    "name": "TV Ruzinov",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/bUGuntH.png",
+    "epgId": "TVRuzinov.sk",
+    "streams": [
+      {
+        "url": "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvsen-sk",
+    "name": "TV Sen",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/ckm2oLD.png",
+    "epgId": "TVSen.sk",
+    "streams": [
+      {
+        "url": "http://95.105.193.219:88/hls/tvsen.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvseverka-sk",
+    "name": "TV Severka",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/oQSee9S.png",
+    "epgId": "TVSeverka.sk",
+    "streams": [
+      {
+        "url": "http://88.212.7.11/live/test_severka_web_player/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvskalica-sk",
+    "name": "TV Skalica",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/GB8fMoJ.png",
+    "epgId": "TVSkalica.sk",
+    "streams": [
+      {
+        "url": "http://95.105.193.219:88/hls/tvs.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvstaratura-sk",
+    "name": "TV Stara Tura",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/kerkvRX.png",
+    "epgId": "TVStaraTura.sk",
+    "streams": [
+      {
+        "url": "http://95.105.193.219:88/hls/tvst.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvt-sk",
+    "name": "TVT",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/QG0iZlG.png",
+    "epgId": "TVT.sk",
+    "streams": [
+      {
+        "url": "https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "486p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvvega-sk",
+    "name": "TV Vega",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/Qw3NeLA.png",
+    "epgId": "TVVega.sk",
+    "streams": [
+      {
+        "url": "http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvvita-sk",
+    "name": "TV Vita",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "Culture",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/Cx1GLbo.png",
+    "epgId": "TVVita.sk",
+    "streams": [
+      {
+        "url": "https://dash3.antik.sk/live/test_vita/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viotv-sk",
+    "name": "VIO TV",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/7EL3VZ5.png",
+    "epgId": "VIOTV.sk",
+    "streams": [
+      {
+        "url": "http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zapadoslovenskatv-sk",
+    "name": "Zapadoslovenska TV",
+    "country": "SK",
+    "countryName": "Slovakia",
+    "category": "General",
+    "language": "slk",
+    "languageName": "Slovak",
+    "logo": "https://i.imgur.com/D72Y1IB.png",
+    "epgId": "ZapadoslovenskaTV.sk",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

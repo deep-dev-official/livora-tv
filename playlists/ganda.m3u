@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="BBSTV.ug" tvg-name="BBS TV" tvg-logo="https://i.imgur.com/Hub1AXv.png" group-title="General",BBS TV (HD)
+https://bbstv.ug/hls/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="BukeddeTV1.ug" tvg-name="Bukedde TV 1" tvg-logo="https://i.imgur.com/HFq5QlJ.png" group-title="General",Bukedde TV 1 (576p)
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+
+#EXTINF:-1 tvg-id="TayariWestTV.ug" tvg-name="Tayari West TV" tvg-logo="https://i.imgur.com/tbnOtUZ.jpeg" group-title="General",Tayari West TV (1080p)
+https://stream.hydeinnovations.com/tarari-west/index.m3u8

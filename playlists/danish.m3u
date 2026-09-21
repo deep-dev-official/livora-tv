@@ -1,0 +1,86 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="DR1.dk" tvg-name="DR1" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="General",DR1 (1080p)
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
+
+#EXTINF:-1 tvg-id="DR2.dk" tvg-name="DR2" tvg-logo="https://i.imgur.com/7bYtukP.png" group-title="Culture",DR2 (1080p)
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
+
+#EXTINF:-1 tvg-id="DRRamasjang.dk" tvg-name="DR Ramasjang" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/960px-DR_Ramasjang_2020.svg.png" group-title="Kids",DR Ramasjang (720p)
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
+
+#EXTINF:-1 tvg-id="DRTV.dk" tvg-name="DRTV" tvg-logo="https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png" group-title="General",DRTV (1080p)
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+
+#EXTINF:-1 tvg-id="KanalHovedstaden.dk" tvg-name="Kanal Hovedstaden" tvg-logo="https://i.imgur.com/afujBQs.jpeg" group-title="General",Kanal Hovedstaden (720p)
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="KKRtv.dk" tvg-name="KKRtv" tvg-logo="https://i.imgur.com/TbtjWHI.png" group-title="Religious",KKRtv (720p)
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KKRtv.dk" tvg-name="KKRtv" tvg-logo="https://i.imgur.com/TbtjWHI.png" group-title="Religious",KKRtv (720p)
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAlienInvasion.se" tvg-name="Pluto TV Alien Invasion" tvg-logo="https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png" group-title="Documentary",Pluto TV Alien Invasion (HD)
+https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDanskeklassikere.se" tvg-name="Pluto TV Danske klassikere" tvg-logo="https://images.pluto.tv/channels/67d2b814fe36d6e7b1d2318a/colorLogoPNG.png" group-title="Movies",Pluto TV Danske klassikere (HD)
+https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFishing.se" tvg-name="Pluto TV Fishing" tvg-logo="https://i.imgur.com/ZaHOk8j.png" group-title="Sports",Pluto TV Fishing (HD)
+https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHandboldHighlights.se" tvg-name="Pluto TV Handbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Sports",Pluto TV Handbold Highlights (HD)
+https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHandboldLive.se" tvg-name="Pluto TV Handbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="Sports",Pluto TV Handbold Live (HD)
+https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHumor.se" tvg-name="Pluto TV Humor" tvg-logo="https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png" group-title="Movies",Pluto TV Humor (HD)
+https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilm.se" tvg-name="Pluto TV Klassiske tegnefilm" tvg-logo="https://images.pluto.tv/channels/67f508992ebe80e2929b5c98/colorLogoPNG_1748955041610.png" group-title="Kids",Pluto TV Klassiske tegnefilm (720p)
+https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKultfilm.se" tvg-name="Pluto TV Kultfilm" tvg-logo="https://images.pluto.tv/channels/63dbe7ed51f5d000083e9499/colorLogoPNG.png" group-title="Movies",Pluto TV Kultfilm (HD)
+https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSpace.se" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png" group-title="Documentary",Pluto TV Space (HD)
+https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVStarTrek.se" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png" group-title="Movies",Pluto TV Star Trek (HD)
+https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTegnefilm.se" tvg-name="Pluto TV Tegnefilm" tvg-logo="https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png" group-title="Kids",Pluto TV Tegnefilm (720p)
+https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTegnefilm.se" tvg-name="Pluto TV Tegnefilm" tvg-logo="https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png" group-title="Kids",Pluto TV Tegnefilm (720p)
+https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVVerdenskrigene.se" tvg-name="Pluto TV Verdenskrigene" tvg-logo="https://images.pluto.tv/channels/677d397b60fbeb00084b0bff/colorLogoPNG_1759437735629.png" group-title="Documentary",Pluto TV Verdenskrigene (HD)
+https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVVerdenskrigene.se" tvg-name="Pluto TV Verdenskrigene" tvg-logo="https://images.pluto.tv/channels/677d397b60fbeb00084b0bff/colorLogoPNG_1759437735629.png" group-title="Documentary",Pluto TV Verdenskrigene (HD)
+https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
+
+#EXTINF:-1 tvg-id="PodRadiopaPlutoTV.se" tvg-name="PodRadio pa Pluto TV" tvg-logo="https://images.pluto.tv/channels/67f79fdb3481170e68c0bc38/colorLogoPNG_1748943874109.png" group-title="Entertainment",PodRadio pa Pluto TV (HD)
+https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
+
+#EXTINF:-1 tvg-id="TV2Bornholm.dk" tvg-name="TV 2/Bornholm" tvg-logo="https://i.imgur.com/cEOpXU6.png" group-title="General",TV 2/Bornholm (1080p)
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TV2Sport.dk" tvg-name="TV 2 Sport" tvg-logo="https://i.imgur.com/76Zzs5R.png" group-title="Sports",TV 2 Sport (HD)
+https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3Plus.dk" tvg-name="TV3+" tvg-logo="https://i.imgur.com/pj9jZHP.png" group-title="General",TV3+ (HD)
+https://7nyaler.streamhostingcdn.top/stream/49/index.m3u8
+
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-name="TV from the Danish Parliament" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="Legislative",TV from the Danish Parliament (1080p)
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="TVMarineret.dk" tvg-name="TVMarineret" tvg-logo="https://i.imgur.com/r1Caske.jpg" group-title="General",TVMarineret (1080p)
+http://sdream.info:8080/hls/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="TVStorbyen.dk" tvg-name="TV Storbyen" tvg-logo="https://i.ibb.co/X5h3hJL/tvstb.png" group-title="General",TV Storbyen (720p)
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "312kino-kg",
+    "name": "312 Kino",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "Movies",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.ibb.co/3m9LrLj/k7gIibH.png",
+    "epgId": "312Kino.kg",
+    "streams": [
+      {
+        "url": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "312tv-kg",
+    "name": "312 TV",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "Entertainment",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.ibb.co/S6sZvqk/iLSGi6c.png",
+    "epgId": "312TV.kg",
+    "streams": [
+      {
+        "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alatoo24-kg",
+    "name": "Ala-Too 24",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "News",
+    "language": "kir",
+    "languageName": "Kirghiz",
+    "logo": "https://i.imgur.com/vBPmUQA.png",
+    "epgId": "AlaToo24.kg",
+    "streams": [
+      {
+        "url": "https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bilimilim-kg",
+    "name": "Bilim Ilim",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "Kids",
+    "language": "kir",
+    "languageName": "Kirghiz",
+    "logo": "https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png",
+    "epgId": "BilimIlim.kg",
+    "streams": [
+      {
+        "url": "http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eltr-kg",
+    "name": "ElTR",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "General",
+    "language": "kir",
+    "languageName": "Kirghiz",
+    "logo": "https://i.ibb.co/r6czQwQ/365049798-774721644658455-5702658175909463406-n-2.png",
+    "epgId": "ElTR.kg",
+    "streams": [
+      {
+        "url": "http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "manastv-kg",
+    "name": "Manas TV",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "Education",
+    "language": "kir",
+    "languageName": "Kirghiz",
+    "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
+    "epgId": "ManasTV.kg",
+    "streams": [
+      {
+        "url": "http://212.42.111.152:8080/hls/manas.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "music-kg",
+    "name": "Music",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "Music",
+    "language": "kir",
+    "languageName": "Kirghiz",
+    "logo": "https://www.utrk.kg/img/stream/45.png",
+    "epgId": "Music.kg",
+    "streams": [
+      {
+        "url": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nexttv-kg",
+    "name": "Next TV",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "General",
+    "language": "kir",
+    "languageName": "Kirghiz",
+    "logo": "https://i.imgur.com/9MiwdgD.png",
+    "epgId": "NextTV.kg",
+    "streams": [
+      {
+        "url": "http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oshpirim-kg",
+    "name": "Osh Pirim",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "General",
+    "language": "kir",
+    "languageName": "Kirghiz",
+    "logo": "https://i.ibb.co/9VBnyQ1/cropped-white.png",
+    "epgId": "OshPirim.kg",
+    "streams": [
+      {
+        "url": "http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport-kg",
+    "name": "Sport",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "Sports",
+    "language": "kir",
+    "languageName": "Kirghiz",
+    "logo": "https://i.imgur.com/ORCu0w0.png",
+    "epgId": "Sport.kg",
+    "streams": [
+      {
+        "url": "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv1kg-kg",
+    "name": "TV1.KG",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/Mti9t9C.png",
+    "epgId": "TV1KG.kg",
+    "streams": [
+      {
+        "url": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv15-kg",
+    "name": "TV15",
+    "country": "KG",
+    "countryName": "Kyrgyzstan",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.ibb.co/1byxRtp/tv15.png",
+    "epgId": "TV15.kg",
+    "streams": [
+      {
+        "url": "http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

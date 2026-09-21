@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="TVTeuta.me" tvg-name="TV Teuta" tvg-logo="https://i.imgur.com/sWVqBuW.png" group-title="General",TV Teuta (HD)
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8

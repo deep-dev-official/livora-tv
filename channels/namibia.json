@@ -1,0 +1,46 @@
+[
+  {
+    "id": "nbc1-na",
+    "name": "NBC 1",
+    "country": "NA",
+    "countryName": "Namibia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/ykQerMH.png",
+    "epgId": "NBC1.na",
+    "streams": [
+      {
+        "url": "https://hls2.nbcplus.na/hls/high_nbc1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tjiltv-na",
+    "name": "Tjil TV",
+    "country": "NA",
+    "countryName": "Namibia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/iBbawJ0.png",
+    "epgId": "TjilTV.na",
+    "streams": [
+      {
+        "url": "https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

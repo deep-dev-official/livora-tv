@@ -1,0 +1,664 @@
+[
+  {
+    "id": "1tv-ge",
+    "name": "1TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/FSkYLPK.png",
+    "epgId": "1TV.ge",
+    "streams": [
+      {
+        "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://nue01-edge01.itdc.ge/gpb/mpegts",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "1tv-ge",
+    "name": "1TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/FSkYLPK.png",
+    "epgId": "1TV.ge",
+    "streams": [
+      {
+        "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://nue01-edge01.itdc.ge/gpb/mpegts",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "2tv-ge",
+    "name": "2 TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/FJBL6zI.png",
+    "epgId": "2TV.ge",
+    "streams": [
+      {
+        "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "adjarasport1-ge",
+    "name": "Adjarasport 1",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "Sports",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/SVV5xHC.png",
+    "epgId": "Adjarasport1.ge",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "apsuatv-ge",
+    "name": "Apsua TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/TJowroY.png",
+    "epgId": "ApsuaTV.ge",
+    "streams": [
+      {
+        "url": "https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bmgtv-ge",
+    "name": "BMG TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "Business",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/vGLkTPA.png",
+    "epgId": "BMGTV.ge",
+    "streams": [
+      {
+        "url": "https://tv.nucast.tv/lb/ge/bmg/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "comedytv-ge",
+    "name": "Comedy TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "Comedy",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/i1TANKv.png",
+    "epgId": "ComedyTV.ge",
+    "streams": [
+      {
+        "url": "http://31.146.5.178:8087/play/a00b/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ertsulovneba-ge",
+    "name": "Ertsulovneba",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "Religious",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/KuuODMM.png",
+    "epgId": "Ertsulovneba.ge",
+    "streams": [
+      {
+        "url": "https://stream.sstv.ge/live/sstv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "euronewsgeorgia-ge",
+    "name": "Euronews Georgia",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "News",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/VNJ4soR.png",
+    "epgId": "EuronewsGeorgia.ge",
+    "streams": [
+      {
+        "url": "http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "formula-ge",
+    "name": "Formula",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "News",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/fsqBn8G.png",
+    "epgId": "Formula.ge",
+    "streams": [
+      {
+        "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "formula-ge",
+    "name": "Formula",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "News",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/fsqBn8G.png",
+    "epgId": "Formula.ge",
+    "streams": [
+      {
+        "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gdstv-ge",
+    "name": "GDS TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/gv61tFf.png",
+    "epgId": "GDSTV.ge",
+    "streams": [
+      {
+        "url": "http://31.146.5.178:8087/play/a00a/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gmstv-ge",
+    "name": "GMS TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "",
+    "epgId": "GMSTV.ge",
+    "streams": [
+      {
+        "url": "http://158.101.222.193:88/georgia_play.php?id=gms",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "imeditv-ge",
+    "name": "Imedi TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/94hNyxZ.png",
+    "epgId": "ImediTV.ge",
+    "streams": [
+      {
+        "url": "https://tv.cdn.xsg.ge/imedihd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://nue01-edge01.itdc.ge/imedihd/mpegts",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "imeditv-ge",
+    "name": "Imedi TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/94hNyxZ.png",
+    "epgId": "ImediTV.ge",
+    "streams": [
+      {
+        "url": "https://tv.cdn.xsg.ge/imedihd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://nue01-edge01.itdc.ge/imedihd/mpegts",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maestro-ge",
+    "name": "Maestro",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/nUz1VRv.png",
+    "epgId": "Maestro.ge",
+    "streams": [
+      {
+        "url": "http://str2.iptvhd.ru:8080/maestro/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtavariarkhi-ge",
+    "name": "Mtavari Arkhi",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/tLtGnJW.png",
+    "epgId": "MtavariArkhi.ge",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "obieqtivitv-ge",
+    "name": "Obieqtivi TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "News",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/Kqc8H8X.png",
+    "epgId": "ObieqtiviTV.ge",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "palitranews-ge",
+    "name": "Palitra News",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "News",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/BW95PMF.png",
+    "epgId": "PalitraNews.ge",
+    "streams": [
+      {
+        "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "palitranews-ge",
+    "name": "Palitra News",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "News",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/BW95PMF.png",
+    "epgId": "PalitraNews.ge",
+    "streams": [
+      {
+        "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://livestream.palitra.ge/hls/palitratv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rionitv-ge",
+    "name": "Rioni TV",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/ogMqmth.png",
+    "epgId": "RioniTV.ge",
+    "streams": [
+      {
+        "url": "http://video.rionitv.com:9090/hls/live/rioni.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rustavi2-ge",
+    "name": "Rustavi 2",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/rPqd1Cx.png",
+    "epgId": "Rustavi2.ge",
+    "streams": [
+      {
+        "url": "http://31.146.5.178:8087/play/a008/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rustavi2-ge",
+    "name": "Rustavi 2",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/rPqd1Cx.png",
+    "epgId": "Rustavi2.ge",
+    "streams": [
+      {
+        "url": "http://31.146.5.178:8087/play/a008/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "setantasports3-ge",
+    "name": "Setanta Sports 3",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "Sports",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013",
+    "epgId": "SetantaSports3.ge",
+    "streams": [
+      {
+        "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvc-ge",
+    "name": "TVC",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://sul.ge/images/televizia/tvc.png",
+    "epgId": "TVC.ge",
+    "streams": [
+      {
+        "url": "http://31.146.5.178:8087/play/a009/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvpirveli-ge",
+    "name": "TV Pirveli",
+    "country": "GE",
+    "countryName": "Georgia",
+    "category": "General",
+    "language": "kat",
+    "languageName": "Georgian",
+    "logo": "https://i.imgur.com/cGHsM1x.png",
+    "epgId": "TVPirveli.ge",
+    "streams": [
+      {
+        "url": "http://nue01-edge01.itdc.ge/pirvelitv/mpegts",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

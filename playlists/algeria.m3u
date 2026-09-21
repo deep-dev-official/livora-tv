@@ -1,0 +1,26 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-name="AL24 News" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="News",AL24 News (HD)
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-name="Amou Yazid TV" tvg-logo="https://i.imgur.com/L8UPGPC.png" group-title="Kids",Amou Yazid TV (576p)
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="Religious",CNA (360p)
+https://live.creacast.com/cna/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="Religious",CNA (360p)
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElHeddafTV.dz" tvg-name="El-Heddaf TV" tvg-logo="https://i.imgur.com/cDkIDIA.png" group-title="Sports",El-Heddaf TV (1080p)
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+
+#EXTINF:-1 tvg-id="ElwataniaTV.dz" tvg-name="Elwatania TV" tvg-logo="https://i.imgur.com/NKR8WFq.png" group-title="General",Elwatania TV (1080i)
+https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+
+#EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="General",TV2 (1080p)
+http://185.9.2.18/chid_347/index.m3u8
+
+#EXTINF:-1 tvg-id="TV7.dz" tvg-name="TV7" tvg-logo="https://i.imgur.com/40rR4hD.png" group-title="Education",TV7 (1080p)
+http://185.9.2.18/chid_352/index.m3u8

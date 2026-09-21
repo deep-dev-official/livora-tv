@@ -1,0 +1,310 @@
+[
+  {
+    "id": "badakhshon-tj",
+    "name": "Badakhshon",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "General",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/iK6AmkZ.png",
+    "epgId": "Badakhshon.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/11/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dushanbehd-tj",
+    "name": "Dushanbe HD",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "General",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/WWPIziG.png",
+    "epgId": "DushanbeHD.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/7/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "futbol-tj",
+    "name": "Futbol",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "Sports",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/RngmCDn.png",
+    "epgId": "Futbol.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ilmvatabiat-tj",
+    "name": "Ilm va Tabiat",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "Science",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/MDULX7X.png",
+    "epgId": "IlmvaTabiat.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/15/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jahonnamo-tj",
+    "name": "Jahonnamo",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "General",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/ffqdD8W.png",
+    "epgId": "Jahonnamo.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/4/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "khatlon-tj",
+    "name": "Khatlon",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "General",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/X4xVpBj.png",
+    "epgId": "Khatlon.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/10/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tmt-tj",
+    "name": "TMT",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "General",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/Dg0UkNR.png",
+    "epgId": "TMT.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/9/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tojikiston-tj",
+    "name": "Tojikiston",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "General",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/sEXCFNk.png",
+    "epgId": "Tojikiston.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/1/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvbahoriston-tj",
+    "name": "TV Bahoriston",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "Kids",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/Dacai5z.png",
+    "epgId": "TVBahoriston.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/3/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvkulob-tj",
+    "name": "TV Kulob",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "General",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/AFgEYFp.png",
+    "epgId": "TVKulob.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/12/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvsafina-tj",
+    "name": "TV Safina",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "General",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/Ho2vKZJ.png",
+    "epgId": "TVSafina.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/2/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvsayohi-tj",
+    "name": "TV Sayohi",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "Travel",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/lAkMrtr.png",
+    "epgId": "TVSayohi.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/16/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvsinamo-tj",
+    "name": "TV Sinamo",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "General",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/W2qz5a4.png",
+    "epgId": "TVSinamo.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/6/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvsugd-tj",
+    "name": "TV Sugd",
+    "country": "TJ",
+    "countryName": "Tajikistan",
+    "category": "General",
+    "language": "tgk",
+    "languageName": "Tajik",
+    "logo": "https://i.imgur.com/YzkwTHb.png",
+    "epgId": "TVSugd.tj",
+    "streams": [
+      {
+        "url": "https://live.teleradiocom.tj/14/3m.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

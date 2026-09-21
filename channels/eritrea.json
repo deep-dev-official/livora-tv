@@ -1,0 +1,24 @@
+[
+  {
+    "id": "eritv1-er",
+    "name": "ERi-TV 1",
+    "country": "ER",
+    "countryName": "Eritrea",
+    "category": "General",
+    "language": "tir",
+    "languageName": "Tigrinya",
+    "logo": "https://i.imgur.com/bTR0Huw.png",
+    "epgId": "ERiTV1.er",
+    "streams": [
+      {
+        "url": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

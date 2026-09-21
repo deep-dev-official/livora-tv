@@ -57,14 +57,16 @@ export async function generatePlaylists() {
   const masterLines = [createM3uHeader()];
 
   for (const channel of channels) {
-    const activeStreams = (channel.streams || []).filter(s => s.status === 'active');
-    if (activeStreams.length === 0) continue;
+    const validStreams = (channel.streams || []).filter(s => s.status !== 'inactive' && s.status !== 'not_found' && s.status !== 'forbidden');
+    if (validStreams.length === 0) continue;
 
-    totalActiveStreams += activeStreams.length;
-    const channelCopy = { ...channel, streams: activeStreams };
+    validStreams.sort((a, b) => (a.status === 'active' ? -1 : 1));
+
+    totalActiveStreams += validStreams.length;
+    const channelCopy = { ...channel, streams: validStreams };
     activeChannels.push(channelCopy);
 
-    for (const stream of activeStreams) {
+    for (const stream of validStreams) {
       const entry = buildM3uEntry(channel, stream);
       masterLines.push(entry);
 

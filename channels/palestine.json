@@ -1,0 +1,580 @@
+[
+  {
+    "id": "ajyaltv-ps",
+    "name": "Ajyal TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/i6Y7beR.jpg",
+    "epgId": "AjyalTV.ps",
+    "streams": [
+      {
+        "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://htvmada.mada.ps:8888/ajyal/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ajyaltv-ps",
+    "name": "Ajyal TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/i6Y7beR.jpg",
+    "epgId": "AjyalTV.ps",
+    "streams": [
+      {
+        "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://htvmada.mada.ps:8888/ajyal/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "almadina-ps",
+    "name": "Al Madina",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/NVOeM3P.png",
+    "epgId": "AlMadina.ps",
+    "streams": [
+      {
+        "url": "https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alnajahnews-ps",
+    "name": "Al Najah News",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/c2bwn4G.png",
+    "epgId": "AlNajahNews.ps",
+    "streams": [
+      {
+        "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "falastinitv-ps",
+    "name": "Falastini TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/6B3Cims.png",
+    "epgId": "FalastiniTV.ps",
+    "streams": [
+      {
+        "url": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "holyquranradionablus-ps",
+    "name": "Holy Quran Radio Nablus",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
+    "epgId": "HolyQuranRadioNablus.ps",
+    "streams": [
+      {
+        "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kolalnastv-ps",
+    "name": "Kolalnas TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/OyMxcRG.png",
+    "epgId": "KolalnasTV.ps",
+    "streams": [
+      {
+        "url": "https://htvint.mada.ps/kolalnas/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maantv-ps",
+    "name": "Ma'an TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/hRFa03k.png",
+    "epgId": "MaanTV.ps",
+    "streams": [
+      {
+        "url": "https://htvmada.mada.ps:4443/maannews/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "musawachannel-ps",
+    "name": "Musawa Channel",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/GB2Q9kl.png",
+    "epgId": "MusawaChannel.ps",
+    "streams": [
+      {
+        "url": "https://pbc.furrera.ps/musawahd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nablustv-ps",
+    "name": "Nablus TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/GoLhaDK.png",
+    "epgId": "NablusTV.ps",
+    "streams": [
+      {
+        "url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "palestineedu-ps",
+    "name": "Palestine Edu",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "Education",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/AwVHXyC.png",
+    "epgId": "PalestineEdu.ps",
+    "streams": [
+      {
+        "url": "https://pbc.furrera.ps/PalestineEDU/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "palestinemubasher-ps",
+    "name": "Palestine Mubasher",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/68llVTZ.png",
+    "epgId": "PalestineMubasher.ps",
+    "streams": [
+      {
+        "url": "https://pbc.furrera.ps/palestinelivehd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "palestinesatellitechannel-ps",
+    "name": "Palestine Satellite Channel",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/4B5FvmX.png",
+    "epgId": "PalestineSatelliteChannel.ps",
+    "streams": [
+      {
+        "url": "https://pbc.furrera.ps/palestinehd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "palestinesatellitechannel-ps",
+    "name": "Palestine Satellite Channel",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/4B5FvmX.png",
+    "epgId": "PalestineSatelliteChannel.ps",
+    "streams": [
+      {
+        "url": "https://pbc.furrera.ps/palestinehd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "palestinetoday-ps",
+    "name": "Palestine Today",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/BS8XXug.png",
+    "epgId": "PalestineToday.ps",
+    "streams": [
+      {
+        "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioalbaladtv-ps",
+    "name": "Radio Albalad TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
+    "epgId": "RadioAlbaladTV.ps",
+    "streams": [
+      {
+        "url": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioalbaladtv-ps",
+    "name": "Radio Albalad TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
+    "epgId": "RadioAlbaladTV.ps",
+    "streams": [
+      {
+        "url": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rajeentv-ps",
+    "name": "Rajeen TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/6Cx22ya.png",
+    "epgId": "RajeenTV.ps",
+    "streams": [
+      {
+        "url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "serajtv-ps",
+    "name": "Seraj TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/1d25a9Q.png",
+    "epgId": "SerajTV.ps",
+    "streams": [
+      {
+        "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "https://www.alaqsanet.news/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "shababfm-ps",
+    "name": "Shabab FM",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/4Cyz4Bn.png",
+    "epgId": "ShababFM.ps",
+    "streams": [
+      {
+        "url": "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "watartv-ps",
+    "name": "Watar TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/jdr22Sk.jpeg",
+    "epgId": "WatarTV.ps",
+    "streams": [
+      {
+        "url": "http://htvint.mada.ps:8889/orient/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://htvint.mada.ps/orient/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "watartv-ps",
+    "name": "Watar TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/jdr22Sk.jpeg",
+    "epgId": "WatarTV.ps",
+    "streams": [
+      {
+        "url": "http://htvint.mada.ps:8889/orient/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://htvint.mada.ps/orient/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wattantv-ps",
+    "name": "Wattan TV",
+    "country": "PS",
+    "countryName": "Palestine",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/sf2A9vT.png",
+    "epgId": "WattanTV.ps",
+    "streams": [
+      {
+        "url": "https://htvmada.mada.ps:4443/wattan/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

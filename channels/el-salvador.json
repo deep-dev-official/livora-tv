@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "agapetv-sv",
+    "name": "Agape TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/DsGmrnc.png",
+    "epgId": "AgapeTV.sv",
+    "streams": [
+      {
+        "url": "https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arboldevidatv-sv",
+    "name": "Arbol de Vida TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/4sGDc4X.jpg",
+    "epgId": "ArboldeVidaTV.sv",
+    "streams": [
+      {
+        "url": "https://yupistream.top:19360/livearbol/livearbol.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "awapasportstv-sv",
+    "name": "Awapa Sports TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/MNw5cJH.jpg",
+    "epgId": "AwapaSportsTV.sv",
+    "streams": [
+      {
+        "url": "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal2-sv",
+    "name": "Canal 2",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png",
+    "epgId": "Canal2.sv",
+    "streams": [
+      {
+        "url": "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://186.33.26.18:8000/play/a0qp/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal2-sv",
+    "name": "Canal 2",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png",
+    "epgId": "Canal2.sv",
+    "streams": [
+      {
+        "url": "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://186.33.26.18:8000/play/a0qp/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal3impresionante-sv",
+    "name": "Canal 3 Impresionante",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mdfiWG9.png",
+    "epgId": "Canal3Impresionante.sv",
+    "streams": [
+      {
+        "url": "https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal4-sv",
+    "name": "Canal 4",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png",
+    "epgId": "Canal4.sv",
+    "streams": [
+      {
+        "url": "http://45.5.118.188:8000/play/a00j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal6-sv",
+    "name": "Canal 6",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/M4muPLK.png",
+    "epgId": "Canal6.sv",
+    "streams": [
+      {
+        "url": "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.167.2.101:8000/play/a0qs/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal6-sv",
+    "name": "Canal 6",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/M4muPLK.png",
+    "epgId": "Canal6.sv",
+    "streams": [
+      {
+        "url": "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.167.2.101:8000/play/a0qs/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal10-sv",
+    "name": "Canal 10",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/y2ppMnY.png",
+    "epgId": "Canal10.sv",
+    "streams": [
+      {
+        "url": "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.167.2.101:8000/play/a0r8/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal10-sv",
+    "name": "Canal 10",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/y2ppMnY.png",
+    "epgId": "Canal10.sv",
+    "streams": [
+      {
+        "url": "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.167.2.101:8000/play/a0r8/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal11tutv-sv",
+    "name": "Canal 11 TuTV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/itqQEux.png",
+    "epgId": "Canal11TuTV.sv",
+    "streams": [
+      {
+        "url": "https://stream.giostreaming.app/canal11/canal11.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "349p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal12-sv",
+    "name": "Canal 12",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/WMv3yEf.png",
+    "epgId": "Canal12.sv",
+    "streams": [
+      {
+        "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://186.33.26.18:8000/play/a0nw/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal12-sv",
+    "name": "Canal 12",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/WMv3yEf.png",
+    "epgId": "Canal12.sv",
+    "streams": [
+      {
+        "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://186.33.26.18:8000/play/a0nw/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal15elzamorano-sv",
+    "name": "Canal 15 El Zamorano",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/op13ujg.png",
+    "epgId": "Canal15ElZamorano.sv",
+    "streams": [
+      {
+        "url": "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal65-sv",
+    "name": "Canal 65",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/P15QovY.png",
+    "epgId": "Canal65.sv",
+    "streams": [
+      {
+        "url": "https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canaltrv-sv",
+    "name": "Canal TRV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/g5QKQ2E.png",
+    "epgId": "CanalTRV.sv",
+    "streams": [
+      {
+        "url": "https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "el15tv-sv",
+    "name": "El 15 TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/LsrCVy3.jpg",
+    "epgId": "El15TV.sv",
+    "streams": [
+      {
+        "url": "https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elcaminotv-sv",
+    "name": "El Camino TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ZSktjGB.png",
+    "epgId": "ElCaminoTV.sv",
+    "streams": [
+      {
+        "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elimtv-sv",
+    "name": "Elim TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/payIg0N.png",
+    "epgId": "ElimTV.sv",
+    "streams": [
+      {
+        "url": "https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gsgtv-sv",
+    "name": "GSG TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/8fZnNu0.png",
+    "epgId": "GSGTV.sv",
+    "streams": [
+      {
+        "url": "https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rpn3.bozztv.com/schurch1/livecdn69/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gsgtv-sv",
+    "name": "GSG TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/8fZnNu0.png",
+    "epgId": "GSGTV.sv",
+    "streams": [
+      {
+        "url": "https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rpn3.bozztv.com/schurch1/livecdn69/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jfvtv-sv",
+    "name": "JFV TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/SrmI6nU.jpeg",
+    "epgId": "JFVTV.sv",
+    "streams": [
+      {
+        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "josuetv-sv",
+    "name": "Josue TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/LNWGe1D.jpg",
+    "epgId": "JosueTV.sv",
+    "streams": [
+      {
+        "url": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "legislativeassemblyofelsalvador-sv",
+    "name": "Legislative Assembly of El Salvador",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Legislative",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/OBuiCyb.png",
+    "epgId": "LegislativeAssemblyofElSalvador.sv",
+    "streams": [
+      {
+        "url": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "megavisioncanal19-sv",
+    "name": "Megavision Canal 19",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/voyVP6X.png",
+    "epgId": "MegavisionCanal19.sv",
+    "streams": [
+      {
+        "url": "https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "megavisioncanal21-sv",
+    "name": "Megavision Canal 21",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HbdYU9k.png",
+    "epgId": "MegavisionCanal21.sv",
+    "streams": [
+      {
+        "url": "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "morazantv-sv",
+    "name": "Morazan TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Yh1lFZH.jpeg",
+    "epgId": "MorazanTV.sv",
+    "streams": [
+      {
+        "url": "http://45.167.2.138:8000/play/a0o4/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtvcanal57-sv",
+    "name": "RTV Canal 57",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/tnOGWqL.png",
+    "epgId": "RTVCanal57.sv",
+    "streams": [
+      {
+        "url": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "soltv-sv",
+    "name": "SolTV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jaBxxpt.png",
+    "epgId": "SolTV.sv",
+    "streams": [
+      {
+        "url": "http://rtmp.info:1935/soltv/envivo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "soltv-sv",
+    "name": "SolTV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jaBxxpt.png",
+    "epgId": "SolTV.sv",
+    "streams": [
+      {
+        "url": "http://rtmp.info:1935/soltv/envivo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "svplus-sv",
+    "name": "SV+",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/bCcnLVL.png",
+    "epgId": "SVPlus.sv",
+    "streams": [
+      {
+        "url": "http://45.167.2.101:8000/play/a0qx/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://186.33.26.18:8000/play/a0qx/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "svplus-sv",
+    "name": "SV+",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/bCcnLVL.png",
+    "epgId": "SVPlus.sv",
+    "streams": [
+      {
+        "url": "http://45.167.2.101:8000/play/a0qx/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://186.33.26.18:8000/play/a0qx/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tcsplus-sv",
+    "name": "TCS+",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/iYFWG06.png",
+    "epgId": "TCSPlus.sv",
+    "streams": [
+      {
+        "url": "https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tribunatv-sv",
+    "name": "Tribuna TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/C5vHpd0.png",
+    "epgId": "TribunaTV.sv",
+    "streams": [
+      {
+        "url": "https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvca-sv",
+    "name": "TVCa",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/uPWWtCA.png",
+    "epgId": "TVCa.sv",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcnetwork-sv",
+    "name": "TVC Network",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/S1xiWB3.png",
+    "epgId": "TVCNetwork.sv",
+    "streams": [
+      {
+        "url": "https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcret-sv",
+    "name": "TV CRET",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ChonoKb.png",
+    "epgId": "TVCRET.sv",
+    "streams": [
+      {
+        "url": "https://radiocret.net:8082/hls/tvcret.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvgetsemani-sv",
+    "name": "TV Getsemani",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/C9SJCcE.jpg",
+    "epgId": "TVGetsemani.sv",
+    "streams": [
+      {
+        "url": "https://serversv.com:8080/hls/tvgetsemani.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvleondejuda-sv",
+    "name": "TV Leon de Juda",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ZUCppwi.png",
+    "epgId": "TVLeondeJuda.sv",
+    "streams": [
+      {
+        "url": "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmelsalvador-sv",
+    "name": "TVM El Salvador",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/fyCC8R6.png",
+    "epgId": "TVMElSalvador.sv",
+    "streams": [
+      {
+        "url": "https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://201.247.102.189/tmp_hls/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmelsalvador-sv",
+    "name": "TVM El Salvador",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/fyCC8R6.png",
+    "epgId": "TVMElSalvador.sv",
+    "streams": [
+      {
+        "url": "https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://201.247.102.189/tmp_hls/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvocanal23-sv",
+    "name": "TVO Canal 23",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nsXXEUZ.png",
+    "epgId": "TVOCanal23.sv",
+    "streams": [
+      {
+        "url": "http://45.167.2.101:8000/play/a0qo/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvocanal23-sv",
+    "name": "TVO Canal 23",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nsXXEUZ.png",
+    "epgId": "TVOCanal23.sv",
+    "streams": [
+      {
+        "url": "http://45.167.2.101:8000/play/a0qo/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wowtv-sv",
+    "name": "WOW TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/dHxaWyp.png",
+    "epgId": "WOWTV.sv",
+    "streams": [
+      {
+        "url": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wowtv-sv",
+    "name": "WOW TV",
+    "country": "SV",
+    "countryName": "El Salvador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/dHxaWyp.png",
+    "epgId": "WOWTV.sv",
+    "streams": [
+      {
+        "url": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

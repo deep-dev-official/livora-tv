@@ -1,0 +1,1920 @@
+[
+  {
+    "id": "ballcasterz-cz",
+    "name": "Ballcasterz",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "cze",
+    "languageName": "English",
+    "logo": "https://web02.antik.sk/assets/img/channels/59cd3407a28c122f4abbc7b01eff7a0c.svg",
+    "epgId": "Ballcasterz.cz",
+    "streams": [
+      {
+        "url": "http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "barrandovkrimi-cz",
+    "name": "Barrandov Krimi",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png",
+    "epgId": "BarrandovKrimi.cz",
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cnnprimanews-cz",
+    "name": "CNN Prima News",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "News",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/elZyUjX.png",
+    "epgId": "CNNPrimaNews.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ct1-cz",
+    "name": "CT1",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png",
+    "epgId": "CT1.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_ct1_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ct2-cz",
+    "name": "CT2",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Documentary",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
+    "epgId": "CT2.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ct24-cz",
+    "name": "CT24",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "News",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png",
+    "epgId": "CT24.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ct24-cz",
+    "name": "CT24",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "News",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png",
+    "epgId": "CT24.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ctdecko-cz",
+    "name": "CT Decko",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Kids",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
+    "epgId": "CTDecko.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ctsport-cz",
+    "name": "CT Sport",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Sports",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png",
+    "epgId": "CTSport.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "currenttimetv-cz",
+    "name": "Current Time TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "News",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/hKo8ApU.png",
+    "epgId": "CurrentTimeTV.cz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/384/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "currenttimetv-cz",
+    "name": "Current Time TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "News",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/hKo8ApU.png",
+    "epgId": "CurrentTimeTV.cz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/384/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "currenttimetv-cz",
+    "name": "Current Time TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "News",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/hKo8ApU.png",
+    "epgId": "CurrentTimeTV.cz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/384/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannel-cz",
+    "name": "Disney Channel",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Kids",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "epgId": "DisneyChannel.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_disney/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneyjunior-cz",
+    "name": "Disney Junior",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Kids",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "epgId": "DisneyJunior.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_disney_junior/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dvtvextra-cz",
+    "name": "DVTV Extra",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "cze",
+    "languageName": "English",
+    "logo": "https://web02.antik.sk/assets/img/channels/615631fb7d93832cdf7a2d85be336c4e.svg",
+    "epgId": "DVTVExtra.cz",
+    "streams": [
+      {
+        "url": "https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elektrikatv-cz",
+    "name": "Elektrika TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/OLd5od5.png",
+    "epgId": "ElektrikaTV.cz",
+    "streams": [
+      {
+        "url": "https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eurosport4kczechia-cz",
+    "name": "Eurosport 4K Czechia",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Sports",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/0o3zjC7.png",
+    "epgId": "Eurosport4KCzechia.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "filmplus-cz",
+    "name": "Film+",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Movies",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/OBYuY3S.png",
+    "epgId": "FilmPlus.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "golfchannel-cz",
+    "name": "Golf Channel",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Sports",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png",
+    "epgId": "GolfChannel.cz",
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "history2-cz",
+    "name": "History2",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "cze",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png",
+    "epgId": "History2.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_h2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "history-cz",
+    "name": "History",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Documentary",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "epgId": "History.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_history/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jc1-cz",
+    "name": "JC1",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/AM8YtcV.png",
+    "epgId": "JC1.cz",
+    "streams": [
+      {
+        "url": "https://stream.jc1.cz/hls/jc1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jihoceskatelevize-cz",
+    "name": "Jihoceska televize",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/Hi8hZzl.png",
+    "epgId": "Jihoceskatelevize.cz",
+    "streams": [
+      {
+        "url": "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kinobarrandov-cz",
+    "name": "Kino Barrandov",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Movies",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png",
+    "epgId": "KinoBarrandov.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kvifftv-cz",
+    "name": "KVIFF TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "cze",
+    "languageName": "English",
+    "logo": "https://web02.antik.sk/assets/img/channels/0d824abdc4c21ab5d35cf946847cedee.svg",
+    "epgId": "KVIFFTV.cz",
+    "streams": [
+      {
+        "url": "http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "minimaxcee-cz",
+    "name": "Minimax CEE",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/WWOlm1x.png",
+    "epgId": "MinimaxCEE.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_minimax/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnautv-cz",
+    "name": "Mnau TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/deVHJKS.png",
+    "epgId": "MnauTV.cz",
+    "streams": [
+      {
+        "url": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "musicboxclassic-cz",
+    "name": "Music Box Classic",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://musicboxclassic.com/music_box_classic_logo.png",
+    "epgId": "MusicBoxClassic.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/mb_classic/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "musicboxdance-cz",
+    "name": "Music Box Dance",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://musicboxdance.com/music_box_dance_logo.png",
+    "epgId": "MusicBoxDance.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/mb_dance/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "musicboxhits-cz",
+    "name": "Music Box Hits",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://musicboxhits.com/music_box_hits_logo.png",
+    "epgId": "MusicBoxHits.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/mb_hits/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "musicboxsexy-cz",
+    "name": "Music Box Sexy",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://musicboxsexy.com/music_box_sexy_logo.png",
+    "epgId": "MusicBoxSexy.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/mb_sexy/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographic-cz",
+    "name": "National Geographic",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Documentary",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "epgId": "NationalGeographic.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographicwild-cz",
+    "name": "National Geographic Wild",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Documentary",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "epgId": "NationalGeographicWild.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.29/live/test_ngw/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nickelodeon-cz",
+    "name": "Nickelodeon",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Kids",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "epgId": "Nickelodeon.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nickjr-cz",
+    "name": "Nick Jr.",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "epgId": "NickJr.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_nick_jr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nicktoons-cz",
+    "name": "Nicktoons",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Kids",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+    "epgId": "Nicktoons.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_nicktoons/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ocko-cz",
+    "name": "Ocko",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
+    "epgId": "Ocko.cz",
+    "streams": [
+      {
+        "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ocko-cz",
+    "name": "Ocko",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
+    "epgId": "Ocko.cz",
+    "streams": [
+      {
+        "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ockoblack-cz",
+    "name": "Ocko Black",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/5rw9tWy.png",
+    "epgId": "OckoBlack.cz",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ockoexpres-cz",
+    "name": "Ocko Expres",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png",
+    "epgId": "OckoExpres.cz",
+    "streams": [
+      {
+        "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ockogold-cz",
+    "name": "Ocko Gold",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/nrWNyLc.jpg",
+    "epgId": "OckoGold.cz",
+    "streams": [
+      {
+        "url": "https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ockogold-cz",
+    "name": "Ocko Gold",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/nrWNyLc.jpg",
+    "epgId": "OckoGold.cz",
+    "streams": [
+      {
+        "url": "https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ockostar-cz",
+    "name": "Ocko Star",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png",
+    "epgId": "OckoStar.cz",
+    "streams": [
+      {
+        "url": "https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "plzentv-cz",
+    "name": "Plzen TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/TxLKSqL.png",
+    "epgId": "PlzenTV.cz",
+    "streams": [
+      {
+        "url": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "polartv-cz",
+    "name": "Polar TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/pTJHIX1.png",
+    "epgId": "PolarTV.cz",
+    "streams": [
+      {
+        "url": "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "polartv-cz",
+    "name": "Polar TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/pTJHIX1.png",
+    "epgId": "PolarTV.cz",
+    "streams": [
+      {
+        "url": "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prima-cz",
+    "name": "Prima",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png",
+    "epgId": "Prima.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/prima_avc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "primacool-cz",
+    "name": "Prima Cool",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/960px-Prima_Cool_logo_zelen%C3%A9.png",
+    "epgId": "PrimaCool.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "primakrimi-cz",
+    "name": "Prima Krimi",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png",
+    "epgId": "PrimaKrimi.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "primalove-cz",
+    "name": "Prima Love",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png",
+    "epgId": "PrimaLove.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/prima_love_cz_avc/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "primamax-cz",
+    "name": "Prima Max",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/ePrdyLi.png",
+    "epgId": "PrimaMax.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "primashow-cz",
+    "name": "Prima Show",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/XbwAwkp.png",
+    "epgId": "PrimaShow.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "primastar-cz",
+    "name": "Prima Star",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/ppqgNDA.png",
+    "epgId": "PrimaStar.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "primazoom-cz",
+    "name": "Prima Zoom",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/uNJqZ6p.png",
+    "epgId": "PrimaZoom.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "retromusictv-cz",
+    "name": "Retro Music TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/pyOjdZs.png",
+    "epgId": "RetroMusicTV.cz",
+    "streams": [
+      {
+        "url": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "retromusictv-cz",
+    "name": "Retro Music TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/pyOjdZs.png",
+    "epgId": "RetroMusicTV.cz",
+    "streams": [
+      {
+        "url": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "retromusictv-cz",
+    "name": "Retro Music TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/pyOjdZs.png",
+    "epgId": "RetroMusicTV.cz",
+    "streams": [
+      {
+        "url": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtmplus-cz",
+    "name": "RTM+",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/RNdcP2J.png",
+    "epgId": "RTMPlus.cz",
+    "streams": [
+      {
+        "url": "https://www.rtmplus.cz/live/1-playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "slagermuzika-cz",
+    "name": "Slager Muzika",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/hKdXwrW.png",
+    "epgId": "SlagerMuzika.cz",
+    "streams": [
+      {
+        "url": "https://stream-23.mazana.tv/slagrmuzika.m3u8s",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "slageroriginal-cz",
+    "name": "Slager Original",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Music",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/0YjeWcq.png",
+    "epgId": "SlagerOriginal.cz",
+    "streams": [
+      {
+        "url": "https://stream-13.mazana.tv/slagroriginal.m3u8s",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "spektrum-cz",
+    "name": "Spektrum",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Documentary",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/F5Uosum.png",
+    "epgId": "Spektrum.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_spektrum/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "spektrumhome-cz",
+    "name": "Spektrum Home",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Entertainment",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/VaVi65F.png",
+    "epgId": "SpektrumHome.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_home_hevc/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport1-cz",
+    "name": "Sport1",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Sports",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/X5X3tKC.png",
+    "epgId": "Sport1.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_sport1_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport2-cz",
+    "name": "Sport2",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Sports",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/UxflVoU.png",
+    "epgId": "Sport2.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_sport_2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sportytv-cz",
+    "name": "Sporty TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Sports",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/Wz5bQKx.jpeg",
+    "epgId": "SportyTV.cz",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/sporty_tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televizeprerov-cz",
+    "name": "Televize Prerov",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/opuhDX9.png",
+    "epgId": "TelevizePrerov.cz",
+    "streams": [
+      {
+        "url": "https://173.212.247.21/live/tvprerov.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://tvprerov.cz/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televizeseznam-cz",
+    "name": "Televize Seznam",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/TpQ8PRb.png",
+    "epgId": "TelevizeSeznam.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvbarrandov-cz",
+    "name": "TV Barrandov",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png",
+    "epgId": "TVBarrandov.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_barrandov/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvbrno1-cz",
+    "name": "TV Brno 1",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/8Xm3WSn.png",
+    "epgId": "TVBrno1.cz",
+    "streams": [
+      {
+        "url": "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnoe-cz",
+    "name": "TV Noe",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/500px-Noe-logo-2016.png",
+    "epgId": "TVNoe.cz",
+    "streams": [
+      {
+        "url": "https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnoeplus-cz",
+    "name": "TV Noe+",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/p4FtFUl.png",
+    "epgId": "TVNoePlus.cz",
+    "streams": [
+      {
+        "url": "https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvpaprika-cz",
+    "name": "TV Paprika",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Lifestyle",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/NSabYyT.png",
+    "epgId": "TVPaprika.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "upnetwork-cz",
+    "name": "Up Network",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/cwlHDjh.png",
+    "epgId": "UpNetwork.cz",
+    "streams": [
+      {
+        "url": "https://dash.antik.sk/live/test_upnetwork/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "utv-cz",
+    "name": "UTV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/ulfeIwM.png",
+    "epgId": "UTV.cz",
+    "streams": [
+      {
+        "url": "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatexplore-cz",
+    "name": "Viasat Explore",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Documentary",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/DyT5pKB.png",
+    "epgId": "ViasatExplore.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasathistory-cz",
+    "name": "Viasat History",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Documentary",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/wRP9XA7.png",
+    "epgId": "ViasatHistory.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatnature-cz",
+    "name": "Viasat Nature",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Documentary",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/ousRqqD.png",
+    "epgId": "ViasatNature.cz",
+    "streams": [
+      {
+        "url": "http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vychodoceskatv-cz",
+    "name": "Vychodoceska TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "General",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/4Wwptd3.png",
+    "epgId": "VychodoceskaTV.cz",
+    "streams": [
+      {
+        "url": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yachtingtv-cz",
+    "name": "Yachting TV",
+    "country": "CZ",
+    "countryName": "Czech Republic",
+    "category": "Lifestyle",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/YxO60B1.png",
+    "epgId": "YachtingTV.cz",
+    "streams": [
+      {
+        "url": "https://streams2.sofast.tv/vglive-sk-461164/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

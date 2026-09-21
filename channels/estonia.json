@@ -1,0 +1,736 @@
+[
+  {
+    "id": "bestofdancetv-ee",
+    "name": "Best of Dance TV",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png",
+    "epgId": "BestofDanceTV.ee",
+    "streams": [
+      {
+        "url": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dancetvalgorhythm-ee",
+    "name": "DanceTV Algorhythm",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "DanceTVAlgorhythm.ee",
+    "streams": [
+      {
+        "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dancetvdeephousedistrict-ee",
+    "name": "DanceTV Deep House District",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png",
+    "epgId": "DanceTVDeepHouseDistrict.ee",
+    "streams": [
+      {
+        "url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dancetvedmmainstage-ee",
+    "name": "DanceTV EDM Mainstage",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "DanceTVEDMMainstage.ee",
+    "streams": [
+      {
+        "url": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dancetvhousefloor-ee",
+    "name": "DanceTV House Floor",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png",
+    "epgId": "DanceTVHouseFloor.ee",
+    "streams": [
+      {
+        "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dancetvminimaltech-ee",
+    "name": "DanceTV Minimal Tech",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "DanceTVMinimalTech.ee",
+    "streams": [
+      {
+        "url": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dancetvtechnowarehouse-ee",
+    "name": "DanceTV Techno Warehouse",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png",
+    "epgId": "DanceTVTechnoWarehouse.ee",
+    "streams": [
+      {
+        "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "etv2-ee",
+    "name": "ETV 2",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Kids",
+    "language": "est",
+    "languageName": "Estonian",
+    "logo": "https://i.imgur.com/fUjGHDa.png",
+    "epgId": "ETV2.ee",
+    "streams": [
+      {
+        "url": "https://sb.err.ee/live/etv2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "etv-ee",
+    "name": "ETV",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "General",
+    "language": "est",
+    "languageName": "Estonian",
+    "logo": "https://i.imgur.com/5URjPgG.png",
+    "epgId": "ETV.ee",
+    "streams": [
+      {
+        "url": "https://sb.err.ee/live/etv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "etvplus-ee",
+    "name": "ETV+",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Entertainment",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
+    "epgId": "ETVPlus.ee",
+    "streams": [
+      {
+        "url": "https://sb.err.ee/live/etvpluss.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "go3sport1-ee",
+    "name": "Go3 Sport 1",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Sports",
+    "language": "est",
+    "languageName": "Estonian",
+    "logo": "https://i.imgur.com/0eZa0qh.png",
+    "epgId": "Go3Sport1.ee",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/416/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kidzonemax-ee",
+    "name": "KidZone Max",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/qJSvxE2.png",
+    "epgId": "KidZoneMax.ee",
+    "streams": [
+      {
+        "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://kidzonemax.lt",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lifetv-ee",
+    "name": "Life TV",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Religious",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/JhrTB82.png",
+    "epgId": "LifeTV.ee",
+    "streams": [
+      {
+        "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "432p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lifetv.bitflip.ee/live/stream1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "432p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lifetv-ee",
+    "name": "Life TV",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Religious",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/JhrTB82.png",
+    "epgId": "LifeTV.ee",
+    "streams": [
+      {
+        "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "432p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lifetv.bitflip.ee/live/stream1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "432p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "otv-ee",
+    "name": "OTV",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Entertainment",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg",
+    "epgId": "OTV.ee",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/otv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "riigikogu-ee",
+    "name": "Riigikogu",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "General",
+    "language": "est",
+    "languageName": "Estonian",
+    "logo": "https://i.imgur.com/dJRGDt2.png",
+    "epgId": "Riigikogu.ee",
+    "streams": [
+      {
+        "url": "https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tbnbaltia-ee",
+    "name": "TBN Baltia",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Religious",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/rKBaK56.png",
+    "epgId": "TBNBaltia.ee",
+    "streams": [
+      {
+        "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vantageclassic-ee",
+    "name": "Vantage Classic",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://vantagetv.ee/vantage_classic.png",
+    "epgId": "VantageClassic.ee",
+    "streams": [
+      {
+        "url": "https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vantageclassic-ee",
+    "name": "Vantage Classic",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://vantagetv.ee/vantage_classic.png",
+    "epgId": "VantageClassic.ee",
+    "streams": [
+      {
+        "url": "https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vantagedance-ee",
+    "name": "Vantage Dance",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://vantagetv.ee/vantage_dance.png",
+    "epgId": "VantageDance.ee",
+    "streams": [
+      {
+        "url": "https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vantagedance-ee",
+    "name": "Vantage Dance",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://vantagetv.ee/vantage_dance.png",
+    "epgId": "VantageDance.ee",
+    "streams": [
+      {
+        "url": "https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vantagemusic-ee",
+    "name": "Vantage Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://vantagetv.ee/vantage_music.png",
+    "epgId": "VantageMusic.ee",
+    "streams": [
+      {
+        "url": "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vantagemusic-ee",
+    "name": "Vantage Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://vantagetv.ee/vantage_music.png",
+    "epgId": "VantageMusic.ee",
+    "streams": [
+      {
+        "url": "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vantagemusic-ee",
+    "name": "Vantage Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://vantagetv.ee/vantage_music.png",
+    "epgId": "VantageMusic.ee",
+    "streams": [
+      {
+        "url": "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vantagemusic-ee",
+    "name": "Vantage Music",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://vantagetv.ee/vantage_music.png",
+    "epgId": "VantageMusic.ee",
+    "streams": [
+      {
+        "url": "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vantagerock-ee",
+    "name": "Vantage Rock",
+    "country": "EE",
+    "countryName": "Estonia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://vantagetv.ee/vantage_rock.png",
+    "epgId": "VantageRock.ee",
+    "streams": [
+      {
+        "url": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

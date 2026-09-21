@@ -13,13 +13,11 @@
       {
         "url": "https://sscsott.com/7news/live/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:49:45.394Z",
-        "http_status": 206,
-        "latency_ms": 652
+        "last_checked": null
       }
     ]
   },
@@ -37,13 +35,51 @@
       {
         "url": "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "HD",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:49:46.012Z",
-        "http_status": 206,
-        "latency_ms": 1233
+        "last_checked": null
+      },
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/582886861",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "8xm-pk",
+    "name": "8XM",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Music",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
+    "epgId": "8XM.pk",
+    "streams": [
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/582886861",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
@@ -61,13 +97,11 @@
       {
         "url": "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "HD",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:49:47.191Z",
-        "http_status": 206,
-        "latency_ms": 170
+        "last_checked": null
       }
     ]
   },
@@ -85,13 +119,11 @@
       {
         "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:49:49.010Z",
-        "http_status": 206,
-        "latency_ms": 84
+        "last_checked": null
       }
     ]
   },
@@ -109,13 +141,77 @@
       {
         "url": "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "HD",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:49:49.423Z",
-        "http_status": 206,
-        "latency_ms": 168
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aajentertainment-pk",
+    "name": "Aaj Entertainment",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.ibb.co/xt5RBDds/Aaj-Entertainment-HD.png",
+    "epgId": "AajEntertainment.pk",
+    "streams": [
+      {
+        "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aajnews-pk",
+    "name": "Aaj News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/VNGnHYz.png",
+    "epgId": "AajNews.pk",
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/750987367",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "abbtakk-pk",
+    "name": "Abb Takk",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/D6IHRrP.png",
+    "epgId": "AbbTakk.pk",
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/852828604",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
@@ -131,15 +227,53 @@
     "epgId": "ABNNews.pk",
     "streams": [
       {
+        "url": "http://115.42.65.142:9981/stream/channelid/966869781",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
         "url": "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:03.038Z",
-        "http_status": 206,
-        "latency_ms": 1178
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "abnnews-pk",
+    "name": "ABN News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/R7BThkR.jpeg",
+    "epgId": "ABNNews.pk",
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/966869781",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
@@ -157,13 +291,3537 @@
       {
         "url": "https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "HD",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:13.732Z",
-        "http_status": 206,
-        "latency_ms": 1810
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aiknews-pk",
+    "name": "Aik News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/svPXoAP.png",
+    "epgId": "AikNews.pk",
+    "streams": [
+      {
+        "url": "https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aplustv-pk",
+    "name": "A-Plus TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/uu0UJme.png",
+    "epgId": "APlusTV.pk",
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/113328724",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aplustv-pk",
+    "name": "A-Plus TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/uu0UJme.png",
+    "epgId": "APlusTV.pk",
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/113328724",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aplustv-pk",
+    "name": "A-Plus TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/uu0UJme.png",
+    "epgId": "APlusTV.pk",
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/113328724",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "apnachannel-pk",
+    "name": "Apna Channel",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/ICSA4W6.png",
+    "epgId": "ApnaChannel.pk",
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/1273966657",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arymusik-pk",
+    "name": "ARY Musik",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Music",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png",
+    "epgId": "ARYMusik.pk",
+    "streams": [
+      {
+        "url": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://live.arydigital.tv/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arynews-pk",
+    "name": "ARY News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/R4KtTbJ.jpg",
+    "epgId": "ARYNews.pk",
+    "streams": [
+      {
+        "url": "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atv-pk",
+    "name": "ATV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG",
+    "epgId": "ATV.pk",
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/299762256",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aurlifehd-pk",
+    "name": "aurLife HD",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/GfWLn3O.jpg",
+    "epgId": "aurLifeHD.pk",
+    "streams": [
+      {
+        "url": "http://124.109.47.101/hls/stream1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "614p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "avtkhyber-pk",
+    "name": "AVT Khyber",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "pus",
+    "languageName": "Pashto",
+    "logo": "https://i.imgur.com/FqkABWT.png",
+    "epgId": "AVTKhyber.pk",
+    "streams": [
+      {
+        "url": "http://115.42.65.142:9981/stream/channelid/1380586642",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bolentertainment-pk",
+    "name": "Bol Entertainment",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/eajSRFo.png",
+    "epgId": "BolEntertainment.pk",
+    "streams": [
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bsfilm-pk",
+    "name": "BS Film",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg",
+    "epgId": "BSFilm.pk",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bsfilm-pk",
+    "name": "BS Film",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg",
+    "epgId": "BSFilm.pk",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bstv-pk",
+    "name": "BSTV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3952-640x360-FFFFFF.jpg",
+    "epgId": "BSTV.pk",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "capitaltv-pk",
+    "name": "Capital TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/UxAE5O4.png",
+    "epgId": "CapitalTV.pk",
+    "streams": [
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "city41-pk",
+    "name": "City 41",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/U5BdY2g.png",
+    "epgId": "City41.pk",
+    "streams": [
+      {
+        "url": "http://163.61.227.29:8000/play/a02r/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "discoverpakistan-pk",
+    "name": "Discover Pakistan",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Travel",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/IJH47fJ.png",
+    "epgId": "DiscoverPakistan.pk",
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "discoverpakistan-pk",
+    "name": "Discover Pakistan",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Travel",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/IJH47fJ.png",
+    "epgId": "DiscoverPakistan.pk",
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "discoverpakistan-pk",
+    "name": "Discover Pakistan",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Travel",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/IJH47fJ.png",
+    "epgId": "DiscoverPakistan.pk",
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dunyanews-pk",
+    "name": "Dunya News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/1PbtW0y.png",
+    "epgId": "DunyaNews.pk",
+    "streams": [
+      {
+        "url": "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dunyanews-pk",
+    "name": "Dunya News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/1PbtW0y.png",
+    "epgId": "DunyaNews.pk",
+    "streams": [
+      {
+        "url": "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "expressentertainment-pk",
+    "name": "Express Entertainment",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/rgHbb8W.png",
+    "epgId": "ExpressEntertainment.pk",
+    "streams": [
+      {
+        "url": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fazaltv-pk",
+    "name": "Fazal TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/c0fvKia.png",
+    "epgId": "FazalTV.pk",
+    "streams": [
+      {
+        "url": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "filmax-pk",
+    "name": "Filmax",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Movies",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/eLmdZ6k.png",
+    "epgId": "Filmax.pk",
+    "streams": [
+      {
+        "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "filmazia-pk",
+    "name": "Filmazia",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Movies",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/hpTCANa.png",
+    "epgId": "Filmazia.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02k/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandskidsclubtv-pk",
+    "name": "God Stands Kids Club TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Kids",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/FxDBbpz.jpeg",
+    "epgId": "GodStandsKidsClubTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandskidsclubtv-pk",
+    "name": "God Stands Kids Club TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Kids",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/FxDBbpz.jpeg",
+    "epgId": "GodStandsKidsClubTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandskidsclubtv-pk",
+    "name": "God Stands Kids Club TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Kids",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/FxDBbpz.jpeg",
+    "epgId": "GodStandsKidsClubTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandskidsclubtv-pk",
+    "name": "God Stands Kids Club TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Kids",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/FxDBbpz.jpeg",
+    "epgId": "GodStandsKidsClubTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandstv-pk",
+    "name": "God Stands TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "epgId": "GodStandsTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandstv-pk",
+    "name": "God Stands TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "epgId": "GodStandsTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandstv-pk",
+    "name": "God Stands TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "epgId": "GodStandsTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandstv-pk",
+    "name": "God Stands TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "epgId": "GodStandsTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandstv-pk",
+    "name": "God Stands TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "epgId": "GodStandsTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandstv-pk",
+    "name": "God Stands TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "epgId": "GodStandsTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandstv-pk",
+    "name": "God Stands TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "epgId": "GodStandsTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "godstandstv-pk",
+    "name": "God Stands TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/EO6cYUI.png",
+    "epgId": "GodStandsTV.pk",
+    "streams": [
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gracenetwork-pk",
+    "name": "Grace Network",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/QSaZPJ4.png",
+    "epgId": "GraceNetwork.pk",
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "harpalgeo-pk",
+    "name": "HarPal Geo",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Culture",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/NX3vvAX.png",
+    "epgId": "HarPalGeo.pk",
+    "streams": [
+      {
+        "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "humnews-pk",
+    "name": "Hum News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/9OroocT.png",
+    "epgId": "HumNews.pk",
+    "streams": [
+      {
+        "url": "http://103.86.135.164:9981/stream/channelid/2024790699?profile=pass&ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "humtv-pk",
+    "name": "Hum TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png",
+    "epgId": "HumTV.pk",
+    "streams": [
+      {
+        "url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "humtv-pk",
+    "name": "Hum TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png",
+    "epgId": "HumTV.pk",
+    "streams": [
+      {
+        "url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "isaactv-pk",
+    "name": "Isaac TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/RHDbsiO.png",
+    "epgId": "IsaacTV.pk",
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/isaac/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jalwatv-pk",
+    "name": "Jalwa TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/HWb5Iat.png",
+    "epgId": "JalwaTV.pk",
+    "streams": [
+      {
+        "url": "http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jalwatv-pk",
+    "name": "Jalwa TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/HWb5Iat.png",
+    "epgId": "JalwaTV.pk",
+    "streams": [
+      {
+        "url": "http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jeremiahtv-pk",
+    "name": "Jeremiah TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg",
+    "epgId": "JeremiahTV.pk",
+    "streams": [
+      {
+        "url": "https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jeremiahtv-pk",
+    "name": "Jeremiah TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg",
+    "epgId": "JeremiahTV.pk",
+    "streams": [
+      {
+        "url": "https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "joomusic-pk",
+    "name": "JooMusic",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Music",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/KHuKQQL.png",
+    "epgId": "JooMusic.pk",
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "joshuatv-pk",
+    "name": "Joshua TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/x9xPR2h.png",
+    "epgId": "JoshuaTV.pk",
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/joshua/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kay2hd-pk",
+    "name": "Kay2 HD",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/CRKk0iP.png",
+    "epgId": "Kay2HD.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a027/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kidszone-pk",
+    "name": "Kids Zone",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Kids",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/mJWBVH1.png",
+    "epgId": "KidsZone.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04m/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kingtv-pk",
+    "name": "King TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/dujrwRE.png",
+    "epgId": "KingTV.pk",
+    "streams": [
+      {
+        "url": "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kohenoornews-pk",
+    "name": "Kohenoor News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/cD3Ogdh.png",
+    "epgId": "KohenoorNews.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00r/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ktnnews-pk",
+    "name": "KTN News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "snd",
+    "languageName": "Sindhi",
+    "logo": "https://i.imgur.com/RtEzpPQ.png",
+    "epgId": "KTNNews.pk",
+    "streams": [
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/151M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ktnnews-pk",
+    "name": "KTN News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "snd",
+    "languageName": "Sindhi",
+    "logo": "https://i.imgur.com/RtEzpPQ.png",
+    "epgId": "KTNNews.pk",
+    "streams": [
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/151M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lahorenews-pk",
+    "name": "Lahore News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/bQfQeEA.jpeg",
+    "epgId": "LahoreNews.pk",
+    "streams": [
+      {
+        "url": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lahorerang-pk",
+    "name": "Lahore Rang",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/hglxHTa.png",
+    "epgId": "LahoreRang.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a01q/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ltnfamily-pk",
+    "name": "LTN Family",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Family",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.ibb.co/zhbLf04g/LTN-Family.png",
+    "epgId": "LTNFamily.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "madanichannelenglish-pk",
+    "name": "Madani Channel English",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Abi9j0A.png",
+    "epgId": "MadaniChannelEnglish.pk",
+    "streams": [
+      {
+        "url": "http://tvsen7.aynascope.net/MadaniTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "madanichannelenglish-pk",
+    "name": "Madani Channel English",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Abi9j0A.png",
+    "epgId": "MadaniChannelEnglish.pk",
+    "streams": [
+      {
+        "url": "http://tvsen7.aynascope.net/MadaniTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "madanichannelurdu-pk",
+    "name": "Madani Channel Urdu",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/MitLeCJ.png",
+    "epgId": "MadaniChannelUrdu.pk",
+    "streams": [
+      {
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "masalatv-pk",
+    "name": "Masala TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Cooking",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg",
+    "epgId": "MasalaTV.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02x/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "masalatv-pk",
+    "name": "Masala TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Cooking",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg",
+    "epgId": "MasalaTV.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02x/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mashriqtv-pk",
+    "name": "Mashriq TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "pus",
+    "languageName": "Pashto",
+    "logo": "https://i.imgur.com/8pMiqcp.png",
+    "epgId": "MashriqTV.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02s/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/108M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mashriqtv-pk",
+    "name": "Mashriq TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "pus",
+    "languageName": "Pashto",
+    "logo": "https://i.imgur.com/8pMiqcp.png",
+    "epgId": "MashriqTV.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02s/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/108M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mehrantv-pk",
+    "name": "Mehran TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Culture",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/ma2bFXk.png",
+    "epgId": "MehranTV.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00m/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "metro1news-pk",
+    "name": "Metro1 News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/qD9cj27.jpg",
+    "epgId": "Metro1News.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04u/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "minimax-pk",
+    "name": "Minimax",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Kids",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/TJvf8vd.png",
+    "epgId": "Minimax.pk",
+    "streams": [
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mnews-pk",
+    "name": "M News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/ANyX0yK.png",
+    "epgId": "MNews.pk",
+    "streams": [
+      {
+        "url": "https://cdn.rabta.stream/M-News/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "msports-pk",
+    "name": "M Sports",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Sports",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png",
+    "epgId": "MSports.pk",
+    "streams": [
+      {
+        "url": "https://cdn.rabta.stream/M-Sports/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "msports-pk",
+    "name": "M Sports",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Sports",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png",
+    "epgId": "MSports.pk",
+    "streams": [
+      {
+        "url": "https://cdn.rabta.stream/M-Sports/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "msports-pk",
+    "name": "M Sports",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Sports",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png",
+    "epgId": "MSports.pk",
+    "streams": [
+      {
+        "url": "https://cdn.rabta.stream/M-Sports/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "neonews-pk",
+    "name": "Neo News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/9mrbPRs.png",
+    "epgId": "NeoNews.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a01p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "neonews-pk",
+    "name": "Neo News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/9mrbPRs.png",
+    "epgId": "NeoNews.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a01p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "newsone-pk",
+    "name": "News One",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/2N45SPQ.png",
+    "epgId": "NewsOne.pk",
+    "streams": [
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.250.28.74:8000/play/a04j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "newsone-pk",
+    "name": "News One",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/2N45SPQ.png",
+    "epgId": "NewsOne.pk",
+    "streams": [
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://103.250.28.74:8000/play/a04j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "onegolf-pk",
+    "name": "One Golf",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/7JhaEW5.png",
+    "epgId": "OneGolf.pk",
+    "streams": [
+      {
+        "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "onnewshd-pk",
+    "name": "ON News HD",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/h3IUrMI.png",
+    "epgId": "ONNewsHD.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a046/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "paighantv-pk",
+    "name": "Paighan TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/zokC3gO.png",
+    "epgId": "PaighanTV.pk",
+    "streams": [
+      {
+        "url": "http://116.90.120.151:8000/play/a00h/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "paighantv-pk",
+    "name": "Paighan TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/zokC3gO.png",
+    "epgId": "PaighanTV.pk",
+    "streams": [
+      {
+        "url": "http://116.90.120.151:8000/play/a00h/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pashto1-pk",
+    "name": "Pashto 1",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "pus",
+    "languageName": "Pashto",
+    "logo": "https://i.imgur.com/QB9xOSZ.png",
+    "epgId": "Pashto1.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00t/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pksports-pk",
+    "name": "PK Sports",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Sports",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/qtbSnrY.png",
+    "epgId": "PKSports.pk",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "playentertainment-pk",
+    "name": "Play Entertainment",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/BnNNDrE.png",
+    "epgId": "PlayEntertainment.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a050/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pmitv-pk",
+    "name": "PMI TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/SfyCwXj.png",
+    "epgId": "PMITV.pk",
+    "streams": [
+      {
+        "url": "https://cdn.live247stream.com/pmi/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "praisetv-pk",
+    "name": "Praise TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/T9fIdLs.png",
+    "epgId": "PraiseTV.pk",
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://pixelsmedia.live/livepraisetv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "praisetv-pk",
+    "name": "Praise TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/T9fIdLs.png",
+    "epgId": "PraiseTV.pk",
+    "streams": [
+      {
+        "url": "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://pixelsmedia.live/livepraisetv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ptvnews-pk",
+    "name": "PTV News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/Fpn8VU7.png",
+    "epgId": "PTVNews.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a017/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ptvsports-pk",
+    "name": "PTV Sports",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Sports",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/CPm6GHA.png",
+    "epgId": "PTVSports.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ptvsports-pk",
+    "name": "PTV Sports",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Sports",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/CPm6GHA.png",
+    "epgId": "PTVSports.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "publicnews-pk",
+    "name": "Public News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/q3ij8wO.png",
+    "epgId": "PublicNews.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04g/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qurantv-pk",
+    "name": "Quran TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/nc7X3Ux.png",
+    "epgId": "QuranTV.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a03e/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "raavitv-pk",
+    "name": "Raavi TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/Sdvg5h2.png",
+    "epgId": "RaaviTV.pk",
+    "streams": [
+      {
+        "url": "http://116.90.120.149:8000/play/a01f/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rohi-pk",
+    "name": "Rohi",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "lah",
+    "languageName": "Lahnda",
+    "logo": "https://i.imgur.com/zC8hXi4.png",
+    "epgId": "Rohi.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rozenews-pk",
+    "name": "Roze News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/TedWqfL.png",
+    "epgId": "RozeNews.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a01k/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sabtv-pk",
+    "name": "SAB TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Entertainment",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/hC7Sidr.png",
+    "epgId": "SABTV.pk",
+    "streams": [
+      {
+        "url": "https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "samaatv-pk",
+    "name": "Samaa TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/r3U4A1P.png",
+    "epgId": "SamaaTV.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a022/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "samaatv-pk",
+    "name": "Samaa TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/r3U4A1P.png",
+    "epgId": "SamaaTV.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a022/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "shinestartv-pk",
+    "name": "Shine Star TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/I3lTIeN.png",
+    "epgId": "ShineStarTV.pk",
+    "streams": [
+      {
+        "url": "https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "silverscreen-pk",
+    "name": "Silver Screen",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/s4Rv6pK.png",
+    "epgId": "SilverScreen.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a044/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sindhtv-pk",
+    "name": "Sindh TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/izpeOsx.png",
+    "epgId": "SindhTV.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00u/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sindhtvnews-pk",
+    "name": "Sindh TV News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Ap9K1lj.png",
+    "epgId": "SindhTVNews.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00v/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "skynewsurdu-pk",
+    "name": "Sky News Urdu",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",
+    "epgId": "SkyNewsUrdu.pk",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starasia-pk",
+    "name": "Star Asia",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/9coLhX8.png",
+    "epgId": "StarAsia.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a010/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suchtv-pk",
+    "name": "Such TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/yYMh3JJ.png",
+    "epgId": "SuchTV.pk",
+    "streams": [
+      {
+        "url": "https://video.primexsports.com/suchnews/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sunonewshd-pk",
+    "name": "Suno News HD",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/FeSntVO.jpg",
+    "epgId": "SunoNewsHD.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a02a/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tensportspakistan-pk",
+    "name": "Ten Sports Pakistan",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/58dIRkS.jpeg",
+    "epgId": "TenSportsPakistan.pk",
+    "streams": [
+      {
+        "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvoneglobal-pk",
+    "name": "TV One Global",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/Xn3XxMY.png",
+    "epgId": "TVOneGlobal.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvtoday-pk",
+    "name": "TV Today",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/MYoosNo.png",
+    "epgId": "TVToday.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a06e/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "venushd-pk",
+    "name": "Venus HD",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/0C9KunR.png",
+    "epgId": "VenusHD.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04x/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vshnews-pk",
+    "name": "VSH News",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/pmPZoYC.png",
+    "epgId": "VSHNews.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a00w/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wasebtv-pk",
+    "name": "Waseb TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "lah",
+    "languageName": "Lahnda",
+    "logo": "https://i.imgur.com/RsF5yVA.png",
+    "epgId": "WasebTV.pk",
+    "streams": [
+      {
+        "url": "http://103.250.28.74:8000/play/a04k/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zindagitv-pk",
+    "name": "Zindagi TV",
+    "country": "PK",
+    "countryName": "Pakistan",
+    "category": "General",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://i.imgur.com/XBHvR5J.png",
+    "epgId": "ZindagiTV.pk",
+    "streams": [
+      {
+        "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   }

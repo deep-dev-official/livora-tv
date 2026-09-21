@@ -1,0 +1,24 @@
+[
+  {
+    "id": "telepeyi-gf",
+    "name": "Tele Peyi",
+    "country": "GF",
+    "countryName": "French Guiana",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/LJ9sXaB.png",
+    "epgId": "TelePeyi.gf",
+    "streams": [
+      {
+        "url": "https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

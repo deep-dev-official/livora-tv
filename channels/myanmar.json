@@ -1,0 +1,438 @@
+[
+  {
+    "id": "5plus-mm",
+    "name": "5 Plus",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Entertainment",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/4EHL2mH.png",
+    "epgId": "5Plus.mm",
+    "streams": [
+      {
+        "url": "https://mmtvs.exliatycl.online/5plus/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel9-mm",
+    "name": "Channel 9",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "General",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
+    "epgId": "Channel9.mm",
+    "streams": [
+      {
+        "url": "https://mmtvs.exliatycl.online/channel9/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channelk-mm",
+    "name": "Channel K",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Entertainment",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/6PqxuhF.png",
+    "epgId": "ChannelK.mm",
+    "streams": [
+      {
+        "url": "https://mmtvs.exliatycl.online/channelk/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dvbtv-mm",
+    "name": "DVB TV",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "News",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/VdezHOv.png",
+    "epgId": "DVBTV.mm",
+    "streams": [
+      {
+        "url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fortunetv-mm",
+    "name": "Fortune TV",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Entertainment",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/MM5evnD.png",
+    "epgId": "FortuneTV.mm",
+    "streams": [
+      {
+        "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hluttawsd-mm",
+    "name": "Hluttaw S & D",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Legislative",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/Gffq8ks.png",
+    "epgId": "HluttawSD.mm",
+    "streams": [
+      {
+        "url": "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mentertainmentchannel-mm",
+    "name": "M Entertainment Channel",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Entertainment",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/6PcdTZ2.png",
+    "epgId": "MEntertainmentChannel.mm",
+    "streams": [
+      {
+        "url": "https://mmtvs.exliatycl.online/mchannel/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mrtv-mm",
+    "name": "MRTV",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "General",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/uyv7oJH.png",
+    "epgId": "MRTV.mm",
+    "streams": [
+      {
+        "url": "https://asia.sipradius.net/cache/SEAGames4/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mrtvott.com/cache/MRTV-HD/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mrtv-mm",
+    "name": "MRTV",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "General",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/uyv7oJH.png",
+    "epgId": "MRTV.mm",
+    "streams": [
+      {
+        "url": "https://asia.sipradius.net/cache/SEAGames4/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mrtvott.com/cache/MRTV-HD/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mrtventertainment-mm",
+    "name": "MRTV Entertainment",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Entertainment",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/c9q6oT0.png",
+    "epgId": "MRTVEntertainment.mm",
+    "streams": [
+      {
+        "url": "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mrtvfarmer-mm",
+    "name": "MRTV Farmer",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Documentary",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/f4PWvrW.jpg",
+    "epgId": "MRTVFarmer.mm",
+    "streams": [
+      {
+        "url": "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mrtvnews-mm",
+    "name": "MRTV News",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "News",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/5eK8Bc4.png",
+    "epgId": "MRTVNews.mm",
+    "streams": [
+      {
+        "url": "https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mrtvnrc-mm",
+    "name": "MRTV NRC",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Culture",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/5aLFslk.jpg",
+    "epgId": "MRTVNRC.mm",
+    "streams": [
+      {
+        "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mrtvsports-mm",
+    "name": "MRTV Sports",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Sports",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/cFTR4kC.png",
+    "epgId": "MRTVSports.mm",
+    "streams": [
+      {
+        "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mwd-mm",
+    "name": "MWD",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "General",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/zyTQG9F.png",
+    "epgId": "MWD.mm",
+    "streams": [
+      {
+        "url": "http://203.81.84.130/hls/mwd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mwddocumentary-mm",
+    "name": "MWD Documentary",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Documentary",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/4XV7cjU.png",
+    "epgId": "MWDDocumentary.mm",
+    "streams": [
+      {
+        "url": "http://203.81.84.130/hls/mwd_document/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mwdmovies-mm",
+    "name": "MWD Movies",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Movies",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/5KRsqeF.png",
+    "epgId": "MWDMovies.mm",
+    "streams": [
+      {
+        "url": "http://203.81.84.130/hls/mwd_movie/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mwdvariety-mm",
+    "name": "MWD Variety",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "Entertainment",
+    "language": "mya",
+    "languageName": "Burmese",
+    "logo": "https://i.imgur.com/wb3Ku8X.png",
+    "epgId": "MWDVariety.mm",
+    "streams": [
+      {
+        "url": "http://203.81.84.130/hls/mwd_variety/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "myanmarinternationaltv-mm",
+    "name": "Myanmar International TV",
+    "country": "MM",
+    "countryName": "Myanmar",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/ClmWqE5.png",
+    "epgId": "MyanmarInternationalTV.mm",
+    "streams": [
+      {
+        "url": "https://mrtvott.com/cache/MITV/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

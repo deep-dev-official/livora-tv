@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="AsianDrama.hk" tvg-name="Asian Drama" tvg-logo="https://i.imgur.com/wqtN7mH.png" group-title="Entertainment",Asian Drama (1080p)
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+
+#EXTINF:-1 tvg-id="GoldenJade.hk" tvg-name="Golden Jade" tvg-logo="https://i.imgur.com/lPYxsUr.png" group-title="General",Golden Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+
+#EXTINF:-1 tvg-id="HOYInfotainment.hk" tvg-name="HOY Infotainment" tvg-logo="https://i.imgur.com/LNokYLQ.png" group-title="General",HOY Infotainment (1080p)
+https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
+
+#EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY TV" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="General",HOY TV (1080p)
+https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
+
+#EXTINF:-1 tvg-id="Jade.hk" tvg-name="Jade" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="Entertainment",Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus TV" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="General",Lotus TV (720p)
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus TV" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="General",Lotus TV (HD)
+https://play-sh.quklive.com/live/1780907795235397.m3u8
+
+#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-name="Pet Club TV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Entertainment",Pet Club TV (1080p)
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-name="Pet Club TV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Entertainment",Pet Club TV (1080p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8

@@ -33,19 +33,18 @@ export const SOURCES = {
     logos: 'https://iptv-org.github.io/api/logos.json',
     categories: 'https://iptv-org.github.io/api/categories.json',
     languages: 'https://iptv-org.github.io/api/languages.json',
-    countries: 'https://iptv-org.github.io/api/countries.json'
+    countries: 'https://iptv-org.github.io/api/countries.json',
+    masterM3u: 'https://iptv-org.github.io/iptv/index.m3u'
   }
 };
 
 export const VALIDATION_CONFIG = {
-  concurrency: 16,
-  timeoutMs: 8000,
-  maxRetries: 2,
-  retryDelayMs: 600,
+  concurrency: 32,
+  timeoutMs: 5000,
+  maxRetries: 1,
+  retryDelayMs: 400,
   userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 LivoraTV/1.0',
-  sampleLimitPerCountry: 50
+  sampleLimitPerCountry: 500
 };
 
-export const TARGET_COUNTRIES = [
-  'IN', 'BD', 'US', 'GB', 'CA', 'AU', 'PK', 'AE', 'SA', 'DE', 'FR'
-];
+export const TARGET_COUNTRIES = [];

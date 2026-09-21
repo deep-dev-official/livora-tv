@@ -1,0 +1,134 @@
+[
+  {
+    "id": "981pearlfm-sx",
+    "name": "98.1 Pearl FM",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/GY750xh.jpg",
+    "epgId": "981PearlFM.sx",
+    "streams": [
+      {
+        "url": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcarib-sx",
+    "name": "TVCARiB",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "epgId": "TVCARiB.sx",
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcaribcinema-sx",
+    "name": "TVCARiB Cinema",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "category": "Movies",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "epgId": "TVCARiBCinema.sx",
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcaribgospel-sx",
+    "name": "TVCARiB Gospel",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "epgId": "TVCARiBGospel.sx",
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcaribkidsteens-sx",
+    "name": "TVCARiB Kids & Teens",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "category": "Kids",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "epgId": "TVCARiBKidsTeens.sx",
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcariblatino-sx",
+    "name": "TVCARiB Latino",
+    "country": "SX",
+    "countryName": "Sint Maarten",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "epgId": "TVCARiBLatino.sx",
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

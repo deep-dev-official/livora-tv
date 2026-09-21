@@ -1,0 +1,2756 @@
+[
+  {
+    "id": "americaestereoguayaquil-ec",
+    "name": "America Estereo Guayaquil",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gUqKymM.png",
+    "epgId": "AmericaEstereoGuayaquil.ec",
+    "streams": [
+      {
+        "url": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "americaestereoibarra-ec",
+    "name": "America Estereo Ibarra",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gUqKymM.png",
+    "epgId": "AmericaEstereoIbarra.ec",
+    "streams": [
+      {
+        "url": "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "americaestereoquito-ec",
+    "name": "America Estereo Quito",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gUqKymM.png",
+    "epgId": "AmericaEstereoQuito.ec",
+    "streams": [
+      {
+        "url": "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "americaestereotulcan-ec",
+    "name": "America Estereo Tulcan",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gUqKymM.png",
+    "epgId": "AmericaEstereoTulcan.ec",
+    "streams": [
+      {
+        "url": "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "614p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "antenaunoradiovideo-ec",
+    "name": "Antena Uno Radiovideo",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/PCN6iZJ.png",
+    "epgId": "AntenaUnoRadiovideo.ec",
+    "streams": [
+      {
+        "url": "https://tvdatta.com:3578/live/antenaunolive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "asomavision-ec",
+    "name": "Asomavision",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/VqwyCV1.png",
+    "epgId": "Asomavision.ec",
+    "streams": [
+      {
+        "url": "https://asomatv.cloud-ip.cc/livestream/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "614p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "australtv-ec",
+    "name": "Austral TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/zgGuCYL.png",
+    "epgId": "AustralTV.ec",
+    "streams": [
+      {
+        "url": "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bacanteveo-ec",
+    "name": "Bacan Te Veo",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/m1LK6rY.png",
+    "epgId": "BacanTeVeo.ec",
+    "streams": [
+      {
+        "url": "https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "caprichotv-ec",
+    "name": "Capricho TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/eUoj9bG.png",
+    "epgId": "CaprichoTV.ec",
+    "streams": [
+      {
+        "url": "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ciracutv-ec",
+    "name": "Ciracu TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Culture",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mkf2TJ6.png",
+    "epgId": "CiracuTV.ec",
+    "streams": [
+      {
+        "url": "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "curiquinguetv-ec",
+    "name": "Curiquingue TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/oukGx28.png",
+    "epgId": "CuriquingueTV.ec",
+    "streams": [
+      {
+        "url": "https://video2.lhdserver.es/pjtv/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "duendetv-ec",
+    "name": "Duende Tv",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/6125FPV.jpg",
+    "epgId": "DuendeTv.ec",
+    "streams": [
+      {
+        "url": "https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "durantv-ec",
+    "name": "Duran TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/8k8DsBL.png",
+    "epgId": "DuranTV.ec",
+    "streams": [
+      {
+        "url": "https://cloudvideo.servers10.com:8081/8074/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecoteltv-ec",
+    "name": "Ecotel TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/pVlZUSV.png",
+    "epgId": "EcotelTV.ec",
+    "streams": [
+      {
+        "url": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecuadortv-ec",
+    "name": "Ecuador TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/hj6EYwe.png",
+    "epgId": "EcuadorTV.ec",
+    "streams": [
+      {
+        "url": "http://45.224.97.181:9999/EcuadorTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecuadortv-ec",
+    "name": "Ecuador TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/hj6EYwe.png",
+    "epgId": "EcuadorTV.ec",
+    "streams": [
+      {
+        "url": "http://45.224.97.181:9999/EcuadorTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecuamundoradiotv-ec",
+    "name": "EcuaMundo Radio TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/EMe5oWn.jpg",
+    "epgId": "EcuaMundoRadioTV.ec",
+    "streams": [
+      {
+        "url": "https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecuavisa-ec",
+    "name": "Ecuavisa",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Hl5wowk.png",
+    "epgId": "Ecuavisa.ec",
+    "streams": [
+      {
+        "url": "https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/ECUAVISA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/Ecuavisa/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecuavisa-ec",
+    "name": "Ecuavisa",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Hl5wowk.png",
+    "epgId": "Ecuavisa.ec",
+    "streams": [
+      {
+        "url": "https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/ECUAVISA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/Ecuavisa/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecuavisa-ec",
+    "name": "Ecuavisa",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Hl5wowk.png",
+    "epgId": "Ecuavisa.ec",
+    "streams": [
+      {
+        "url": "https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/ECUAVISA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/Ecuavisa/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecuavisa-ec",
+    "name": "Ecuavisa",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Hl5wowk.png",
+    "epgId": "Ecuavisa.ec",
+    "streams": [
+      {
+        "url": "https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.171.108.253:8888/ECUAVISA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/Ecuavisa/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "educatv-ec",
+    "name": "Educa TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Education",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/lY9Bx2u.png",
+    "epgId": "EducaTV.ec",
+    "streams": [
+      {
+        "url": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elsolnetworktv-ec",
+    "name": "El Sol Network TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TIH3zlP.png",
+    "epgId": "ElSolNetworkTV.ec",
+    "streams": [
+      {
+        "url": "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fmmundo-ec",
+    "name": "FM Mundo",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/1nNnYQO.png",
+    "epgId": "FMMundo.ec",
+    "streams": [
+      {
+        "url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gamavision-ec",
+    "name": "Gamavision",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
+    "epgId": "Gamavision.ec",
+    "streams": [
+      {
+        "url": "http://45.224.97.181:9999/Gamavision/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.esradioecuador.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gamavision-ec",
+    "name": "Gamavision",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
+    "epgId": "Gamavision.ec",
+    "streams": [
+      {
+        "url": "http://45.224.97.181:9999/Gamavision/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.esradioecuador.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gaviotatv-ec",
+    "name": "Gaviota TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/1vlZA6O.png",
+    "epgId": "GaviotaTV.ec",
+    "streams": [
+      {
+        "url": "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gm7digital-ec",
+    "name": "GM7 Digital",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3708-294x165-FFFFFF.jpg",
+    "epgId": "GM7Digital.ec",
+    "streams": [
+      {
+        "url": "https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hechosecuador-ec",
+    "name": "Hechos Ecuador",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/koMQZNX.png",
+    "epgId": "HechosEcuador.ec",
+    "streams": [
+      {
+        "url": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ieanjesusecuador-ec",
+    "name": "IeanJesus Ecuador",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TyckDSV.png",
+    "epgId": "IeanJesusEcuador.ec",
+    "streams": [
+      {
+        "url": "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "imperiotvcanal6-ec",
+    "name": "Imperio TV Canal 6",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/NrsNljx.png",
+    "epgId": "ImperioTVCanal6.ec",
+    "streams": [
+      {
+        "url": "https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "infinitatv-ec",
+    "name": "Infinita TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/1nHxdkR.png",
+    "epgId": "InfinitaTV.ec",
+    "streams": [
+      {
+        "url": "https://s2.tvdatta.com:3753/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "intitv-ec",
+    "name": "Inti TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Education",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/2WirGqb.png",
+    "epgId": "IntiTV.ec",
+    "streams": [
+      {
+        "url": "https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kchtv-ec",
+    "name": "KCHTV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/CwQmZm7.jpeg",
+    "epgId": "KCHTV.ec",
+    "streams": [
+      {
+        "url": "http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lanuevaradiotv977-ec",
+    "name": "La Nueva Radio TV 97.7",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/19FN4Lp.png",
+    "epgId": "LaNuevaRadioTV977.ec",
+    "streams": [
+      {
+        "url": "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "laperlaradiotv-ec",
+    "name": "La Perla Radio TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/8wDMgmB.jpg",
+    "epgId": "LaPerlaRadioTV.ec",
+    "streams": [
+      {
+        "url": "https://eu1.servers10.com:8081/8068/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "latacungatv-ec",
+    "name": "LatacungaTV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YjgYYH3.png",
+    "epgId": "LatacungaTV.ec",
+    "streams": [
+      {
+        "url": "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "loretotv-ec",
+    "name": "Loreto TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/3qGSAT3.png",
+    "epgId": "LoretoTV.ec",
+    "streams": [
+      {
+        "url": "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "majestadtelevision-ec",
+    "name": "Majestad Television",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/d1GWRnm.png",
+    "epgId": "MajestadTelevision.ec",
+    "streams": [
+      {
+        "url": "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "makrodigitaltelevision-ec",
+    "name": "MakroDigital Television",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://makrodigitaltelevision.com/logo.jpg",
+    "epgId": "MakroDigitalTelevision.ec",
+    "streams": [
+      {
+        "url": "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://makrodigitaltelevision.com",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "makrodigitaltelevision-ec",
+    "name": "MakroDigital Television",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://makrodigitaltelevision.com/logo.jpg",
+    "epgId": "MakroDigitalTelevision.ec",
+    "streams": [
+      {
+        "url": "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://makrodigitaltelevision.com",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "manavision-ec",
+    "name": "Manavision",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Culture",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mZkW342.png",
+    "epgId": "Manavision.ec",
+    "streams": [
+      {
+        "url": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "marcatv-ec",
+    "name": "Marca TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ez1NxwJ.jpg",
+    "epgId": "MarcaTV.ec",
+    "streams": [
+      {
+        "url": "http://200.7.219.221:8088/live/livetv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mariopintotv-ec",
+    "name": "Mario Pinto TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/9rU6yWo.jpg",
+    "epgId": "MarioPintoTV.ec",
+    "streams": [
+      {
+        "url": "https://eu1.servers10.com:8081/8028/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "melradiotv-ec",
+    "name": "Mel Radio TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/uu8Clh2.png",
+    "epgId": "MelRadioTV.ec",
+    "streams": [
+      {
+        "url": "https://eu1.servers10.com:8081/8334/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "metropolimediostv-ec",
+    "name": "Metropoli Medios TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yID5T2S.jpg",
+    "epgId": "MetropoliMediosTV.ec",
+    "streams": [
+      {
+        "url": "https://eu1.servers10.com:8081/8214/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "multicanalcatamayo-ec",
+    "name": "Multicanal Catamayo",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IHKBGmu.png",
+    "epgId": "MulticanalCatamayo.ec",
+    "streams": [
+      {
+        "url": "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nukatv-ec",
+    "name": "Nuka TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/4r2Ycju.png",
+    "epgId": "NukaTV.ec",
+    "streams": [
+      {
+        "url": "https://cloudvideo.servers10.com:8081/8118/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ondasquevedenastv-ec",
+    "name": "Ondas Quevedenas TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/K9pW0LA.jpeg",
+    "epgId": "OndasQuevedenasTV.ec",
+    "streams": [
+      {
+        "url": "https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oromartv-ec",
+    "name": "Oromar TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/j5Vvxd5.png",
+    "epgId": "OromarTV.ec",
+    "streams": [
+      {
+        "url": "http://45.224.97.181:9999/Oromar/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oromartv-ec",
+    "name": "Oromar TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/j5Vvxd5.png",
+    "epgId": "OromarTV.ec",
+    "streams": [
+      {
+        "url": "http://45.224.97.181:9999/Oromar/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oromartvplus-ec",
+    "name": "Oromar TV+",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://oromartv.com/images/OTV400.png",
+    "epgId": "OromarTVPlus.ec",
+    "streams": [
+      {
+        "url": "https://stream.oromar.tv/hls/camriva/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pantallaclasicaec-ec",
+    "name": "Pantalla Clasica EC",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Movies",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mhbERF9.jpg",
+    "epgId": "PantallaClasicaEC.ec",
+    "streams": [
+      {
+        "url": "https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "512p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "planetachannel-ec",
+    "name": "Planeta Channel",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/XyBKaXI.png",
+    "epgId": "PlanetaChannel.ec",
+    "streams": [
+      {
+        "url": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "plustv-ec",
+    "name": "Plus TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TZqOINg.png",
+    "epgId": "PlusTV.ec",
+    "streams": [
+      {
+        "url": "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "puruwatv-ec",
+    "name": "Puruwa TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/CYldC2R.png",
+    "epgId": "PuruwaTV.ec",
+    "streams": [
+      {
+        "url": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiobonita1067-ec",
+    "name": "Radio Bonita 106.7",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IvZtqyz.png",
+    "epgId": "RadioBonita1067.ec",
+    "streams": [
+      {
+        "url": "https://cloudvideo.servers10.com:8081/8154/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiocuencaestereo-ec",
+    "name": "Radio Cuenca Estereo",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/qZzSOeU.png",
+    "epgId": "RadioCuencaEstereo.ec",
+    "streams": [
+      {
+        "url": "https://eu1.servers10.com:8081/8074/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiofantastica989fm-ec",
+    "name": "Radio Fantastica 98.9 FM",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mpcIbrH.jpg",
+    "epgId": "RadioFantastica989FM.ec",
+    "streams": [
+      {
+        "url": "http://190.107.232.9:8082/livestream/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioimpacto2-ec",
+    "name": "Radio Impacto 2",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YvK1hm7.png",
+    "epgId": "RadioImpacto2.ec",
+    "streams": [
+      {
+        "url": "https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "288p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiomonumentaltv-ec",
+    "name": "Radio Monumental TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/a97MaV2.png",
+    "epgId": "RadioMonumentalTV.ec",
+    "streams": [
+      {
+        "url": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "redtveventanas-ec",
+    "name": "Red TVE Ventanas",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Pzf2ZAW.png",
+    "epgId": "RedTVEVentanas.ec",
+    "streams": [
+      {
+        "url": "https://s2.tvdatta.com:3825/live/redtvelive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "432p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtrtv-ec",
+    "name": "RTRTV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/dvP2yqB.png",
+    "epgId": "RTRTV.ec",
+    "streams": [
+      {
+        "url": "https://tv3ecuador.site/hls/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rts-ec",
+    "name": "RTS",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/PML8cJA.png",
+    "epgId": "RTS.ec",
+    "streams": [
+      {
+        "url": "http://45.171.108.253:8888/RTS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/RTS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/RTSHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rts-ec",
+    "name": "RTS",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/PML8cJA.png",
+    "epgId": "RTS.ec",
+    "streams": [
+      {
+        "url": "http://45.171.108.253:8888/RTS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/RTS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/RTSHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rts-ec",
+    "name": "RTS",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/PML8cJA.png",
+    "epgId": "RTS.ec",
+    "streams": [
+      {
+        "url": "http://45.171.108.253:8888/RTS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/RTS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/RTSHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rts-ec",
+    "name": "RTS",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/PML8cJA.png",
+    "epgId": "RTS.ec",
+    "streams": [
+      {
+        "url": "http://45.171.108.253:8888/RTS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/RTS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/RTSHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtu-ec",
+    "name": "RTU",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/1OWvMP4.png",
+    "epgId": "RTU.ec",
+    "streams": [
+      {
+        "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/RTU/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtu-ec",
+    "name": "RTU",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/1OWvMP4.png",
+    "epgId": "RTU.ec",
+    "streams": [
+      {
+        "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/RTU/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtv-ec",
+    "name": "RTV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/DzxGHRZ.png",
+    "epgId": "RTV.ec",
+    "streams": [
+      {
+        "url": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sonoondatv-ec",
+    "name": "Sono Onda TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HWHeqWY.png",
+    "epgId": "SonoOndaTV.ec",
+    "streams": [
+      {
+        "url": "https://live.obslivestream.com/sonoondatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "studioplustv-ec",
+    "name": "Studio + TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://carjocosa.space/studio/logo.png",
+    "epgId": "StudioPlusTV.ec",
+    "streams": [
+      {
+        "url": "https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloudvideo.servers10.com:8081/8184/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "studioplustv-ec",
+    "name": "Studio + TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://carjocosa.space/studio/logo.png",
+    "epgId": "StudioPlusTV.ec",
+    "streams": [
+      {
+        "url": "https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloudvideo.servers10.com:8081/8184/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tctelevision-ec",
+    "name": "TC Television",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/okK02EN.png",
+    "epgId": "TCTelevision.ec",
+    "streams": [
+      {
+        "url": "http://45.224.97.181:9999/TC/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://177.234.218.66:8084/play/a089/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tctelevision-ec",
+    "name": "TC Television",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/okK02EN.png",
+    "epgId": "TCTelevision.ec",
+    "streams": [
+      {
+        "url": "http://45.224.97.181:9999/TC/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://177.234.218.66:8084/play/a089/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleamazonas-ec",
+    "name": "Teleamazonas",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
+    "epgId": "Teleamazonas.ec",
+    "streams": [
+      {
+        "url": "http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/Teleamazonas/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/TeleamazonasHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleamazonas-ec",
+    "name": "Teleamazonas",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
+    "epgId": "Teleamazonas.ec",
+    "streams": [
+      {
+        "url": "http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/Teleamazonas/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/TeleamazonasHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleamazonas-ec",
+    "name": "Teleamazonas",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
+    "epgId": "Teleamazonas.ec",
+    "streams": [
+      {
+        "url": "http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/Teleamazonas/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/TeleamazonasHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleamazonas-ec",
+    "name": "Teleamazonas",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
+    "epgId": "Teleamazonas.ec",
+    "streams": [
+      {
+        "url": "http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/Teleamazonas/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/TeleamazonasHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleamazonas-ec",
+    "name": "Teleamazonas",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png",
+    "epgId": "Teleamazonas.ec",
+    "streams": [
+      {
+        "url": "http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.224.97.181:9999/Teleamazonas/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/TeleamazonasHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecosta-ec",
+    "name": "Telecosta",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/1DqLy8H.png",
+    "epgId": "Telecosta.ec",
+    "streams": [
+      {
+        "url": "https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemar-ec",
+    "name": "Telemar",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/0vX9oJF.png",
+    "epgId": "Telemar.ec",
+    "streams": [
+      {
+        "url": "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telerama-ec",
+    "name": "Telerama",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/J6Mc42H.png",
+    "epgId": "Telerama.ec",
+    "streams": [
+      {
+        "url": "https://play.once.net.ec/telerama/live.tv/538.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesucesos-ec",
+    "name": "Telesucesos",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/D1BBTv8.png",
+    "epgId": "Telesucesos.ec",
+    "streams": [
+      {
+        "url": "https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/play.html?name=UIO-HD",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvc-ec",
+    "name": "TVC",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/k6h5Cz2.png",
+    "epgId": "TVC.ec",
+    "streams": [
+      {
+        "url": "http://45.224.97.181:9999/TVC/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/TVCHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvc-ec",
+    "name": "TVC",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/k6h5Cz2.png",
+    "epgId": "TVC.ec",
+    "streams": [
+      {
+        "url": "http://45.224.97.181:9999/TVC/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/TVCHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvc-ec",
+    "name": "TVC",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/k6h5Cz2.png",
+    "epgId": "TVC.ec",
+    "streams": [
+      {
+        "url": "http://45.224.97.181:9999/TVC/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://157.100.248.242:8080/TVCHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcisne-ec",
+    "name": "TV Cisne",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/xIuFSnx.png",
+    "epgId": "TVCisne.ec",
+    "streams": [
+      {
+        "url": "https://video2.lhdserver.es/tvcisne/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcolorcanal36-ec",
+    "name": "TV Color Canal 36",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QJW6khK.jpg",
+    "epgId": "TVColorCanal36.ec",
+    "streams": [
+      {
+        "url": "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvlegislativa-ec",
+    "name": "TV Legislativa",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Legislative",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/3Y6Lp5l.png",
+    "epgId": "TVLegislativa.ec",
+    "streams": [
+      {
+        "url": "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvoro-ec",
+    "name": "TvOro",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/9d02qUU.jpeg",
+    "epgId": "TvOro.ec",
+    "streams": [
+      {
+        "url": "http://45.187.0.19:9090/tvusa/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvuniversalecuador-ec",
+    "name": "TV Universal Ecuador",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TIsk5zN.png",
+    "epgId": "TVUniversalEcuador.ec",
+    "streams": [
+      {
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "uebitvonline-ec",
+    "name": "UEBI TV Online",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Education",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Tf0BF2q.jpg",
+    "epgId": "UEBITVOnline.ec",
+    "streams": [
+      {
+        "url": "https://ventaxtv.com:3575/live/uebilive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "uniandestv-ec",
+    "name": "UNIANDES TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Education",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/1rluyB7.png",
+    "epgId": "UNIANDESTV.ec",
+    "streams": [
+      {
+        "url": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "unsiontv-ec",
+    "name": "Unsion TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HQGBqGU.png",
+    "epgId": "UnsionTV.ec",
+    "streams": [
+      {
+        "url": "http://provedores.unsion.tv:8081/srt/1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vitotvo-ec",
+    "name": "VitoTVO",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QoJ2gD0.png",
+    "epgId": "VitoTVO.ec",
+    "streams": [
+      {
+        "url": "http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vosytv-ec",
+    "name": "Vos y TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/294FDCB.png",
+    "epgId": "VosyTV.ec",
+    "streams": [
+      {
+        "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wuanplus-ec",
+    "name": "Wuan+",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/pJNx1za.png",
+    "epgId": "WuanPlus.ec",
+    "streams": [
+      {
+        "url": "https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zaracaytv-ec",
+    "name": "Zaracay TV",
+    "country": "EC",
+    "countryName": "Ecuador",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/6q0Gp9R.png",
+    "epgId": "ZaracayTV.ec",
+    "streams": [
+      {
+        "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

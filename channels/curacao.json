@@ -1,0 +1,90 @@
+[
+  {
+    "id": "boncetv-cw",
+    "name": "Bonce TV",
+    "country": "CW",
+    "countryName": "Curacao",
+    "category": "Entertainment",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/7cVkllH.png",
+    "epgId": "BonceTV.cw",
+    "streams": [
+      {
+        "url": "https://seswa.bonce.tv/hls/bonceswa.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nospais-cw",
+    "name": "Nos Pais",
+    "country": "CW",
+    "countryName": "Curacao",
+    "category": "Entertainment",
+    "language": "pap",
+    "languageName": "Papiamento",
+    "logo": "https://i.imgur.com/ZUob2uZ.png",
+    "epgId": "NosPais.cw",
+    "streams": [
+      {
+        "url": "https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvdirect13-cw",
+    "name": "TV Direct 13",
+    "country": "CW",
+    "countryName": "Curacao",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/T2IbQqv.png",
+    "epgId": "TVDirect13.cw",
+    "streams": [
+      {
+        "url": "https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vamtv-cw",
+    "name": "VAM TV",
+    "country": "CW",
+    "countryName": "Curacao",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/CD1PffA.png",
+    "epgId": "VAMTV.cw",
+    "streams": [
+      {
+        "url": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

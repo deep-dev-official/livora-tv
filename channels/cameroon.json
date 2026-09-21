@@ -1,0 +1,412 @@
+[
+  {
+    "id": "afrique54tv-cm",
+    "name": "Afrique54 TV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/WIaRpiS.png",
+    "epgId": "Afrique54TV.cm",
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "afriquemedia-cm",
+    "name": "Afrique Media",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/spQgX7X.png",
+    "epgId": "AfriqueMedia.cm",
+    "streams": [
+      {
+        "url": "https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://odysee.com",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "allocine-cm",
+    "name": "Allo Cine",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "Movies",
+    "language": "fre",
+    "languageName": "English",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg",
+    "epgId": "AlloCine.cm",
+    "streams": [
+      {
+        "url": "https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cam10tv-cm",
+    "name": "CAM 10 TV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/xspb9uY.png",
+    "epgId": "CAM10TV.cm",
+    "streams": [
+      {
+        "url": "https://stream.it-innov.com/cam10tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "crtv-cm",
+    "name": "CRTV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/cQWNh3L.png",
+    "epgId": "CRTV.cm",
+    "streams": [
+      {
+        "url": "http://145.239.5.177/147/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "crtv-cm",
+    "name": "CRTV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/cQWNh3L.png",
+    "epgId": "CRTV.cm",
+    "streams": [
+      {
+        "url": "http://145.239.5.177/147/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "crtvnews-cm",
+    "name": "CRTV News",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/5CshVf9.png",
+    "epgId": "CRTVNews.cm",
+    "streams": [
+      {
+        "url": "https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "foryoutv-cm",
+    "name": "For You TV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/1oMboXL.png",
+    "epgId": "ForYouTV.cm",
+    "streams": [
+      {
+        "url": "https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kemettv-cm",
+    "name": "Kemet TV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "Culture",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/NZ0YqOb.jpeg",
+    "epgId": "KemetTV.cm",
+    "streams": [
+      {
+        "url": "https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kemettv-cm",
+    "name": "Kemet TV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "Culture",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/NZ0YqOb.jpeg",
+    "epgId": "KemetTV.cm",
+    "streams": [
+      {
+        "url": "https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lauradavemediatv-cm",
+    "name": "Laura Dave Media TV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/zzG1S2n.png",
+    "epgId": "LauraDaveMediaTV.cm",
+    "streams": [
+      {
+        "url": "https://streaming.lauradavemedia.com/ldm/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "myrighteoustv-cm",
+    "name": "My Righteous TV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/wKSLNHB.png",
+    "epgId": "MyRighteousTV.cm",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mytvchannel-cm",
+    "name": "My TV Channel",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/vh2373L.png",
+    "epgId": "MyTVChannel.cm",
+    "streams": [
+      {
+        "url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "panafricanmediatv-cm",
+    "name": "Panafrican Media TV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/wneSSYM.png",
+    "epgId": "PanafricanMediaTV.cm",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "playtv-cm",
+    "name": "Play TV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "Music",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/1dmBqpf.png",
+    "epgId": "PlayTV.cm",
+    "streams": [
+      {
+        "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "plextv-cm",
+    "name": "PLEX TV",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.ibb.co/H4VktvG/Plex-TV-237.jpg",
+    "epgId": "PLEXTV.cm",
+    "streams": [
+      {
+        "url": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tr24television-cm",
+    "name": "TR24 Television",
+    "country": "CM",
+    "countryName": "Cameroon",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
+    "epgId": "TR24Television.cm",
+    "streams": [
+      {
+        "url": "https://stream.it-innov.com/tr24/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

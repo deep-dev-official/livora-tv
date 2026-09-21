@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "apsaratv11-kh",
+    "name": "Apsara TV11",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/9wJe71I.png",
+    "epgId": "ApsaraTV11.kh",
+    "streams": [
+      {
+        "url": "https://live.ams.com.kh/app/stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ardbtv-kh",
+    "name": "ARDB TV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "Outdoor",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/yOncWla.png",
+    "epgId": "ARDBTV.kh",
+    "streams": [
+      {
+        "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bayontv-kh",
+    "name": "Bayon TV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/Gry2KEN.jpg",
+    "epgId": "BayonTV.kh",
+    "streams": [
+      {
+        "url": "https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btvnews-kh",
+    "name": "BTV News",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "News",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/sUHiRj3.png",
+    "epgId": "BTVNews.kh",
+    "streams": [
+      {
+        "url": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://server.dtvhd.com/memfs/cf0911cf-4ccc-47b1-8996-e5d705442b89.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btvnews-kh",
+    "name": "BTV News",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "News",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/sUHiRj3.png",
+    "epgId": "BTVNews.kh",
+    "streams": [
+      {
+        "url": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://server.dtvhd.com/memfs/cf0911cf-4ccc-47b1-8996-e5d705442b89.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ctn-kh",
+    "name": "CTN",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/r523kOq.png",
+    "epgId": "CTN.kh",
+    "streams": [
+      {
+        "url": "https://live.happywatch99.com/ctnhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ctv8hd-kh",
+    "name": "CTV8 HD",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/yrdr4Po.png",
+    "epgId": "CTV8HD.kh",
+    "streams": [
+      {
+        "url": "https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://server.dtvhd.com/memfs/92d5968d-1b58-486d-a1ba-7b5a3f21c16c.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ctv8hd-kh",
+    "name": "CTV8 HD",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/yrdr4Po.png",
+    "epgId": "CTV8HD.kh",
+    "streams": [
+      {
+        "url": "https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://server.dtvhd.com/memfs/92d5968d-1b58-486d-a1ba-7b5a3f21c16c.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ctv9-kh",
+    "name": "CTV 9",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/jgVJt2G.png",
+    "epgId": "CTV9.kh",
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dmusic-kh",
+    "name": "D Music",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "Music",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "",
+    "epgId": "DMusic.kh",
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1280p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eacnewstv-kh",
+    "name": "EAC News TV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/EuYhS9Z.png",
+    "epgId": "EACNewsTV.kh",
+    "streams": [
+      {
+        "url": "https://live.eac-news.com/LiveApp/streams/eacnews.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebcgeneraleducation-kh",
+    "name": "EBC General Education",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "Education",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png",
+    "epgId": "EBCGeneralEducation.kh",
+    "streams": [
+      {
+        "url": "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "freshnews-kh",
+    "name": "Fresh News",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "News",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/bV6sawt.png",
+    "epgId": "FreshNews.kh",
+    "streams": [
+      {
+        "url": "http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hangmeashdtv-kh",
+    "name": "Hang Meas HDTV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/P8oOR8I.png",
+    "epgId": "HangMeasHDTV.kh",
+    "streams": [
+      {
+        "url": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hangmeashdtv-kh",
+    "name": "Hang Meas HDTV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/P8oOR8I.png",
+    "epgId": "HangMeasHDTV.kh",
+    "streams": [
+      {
+        "url": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hangmeashdtv-kh",
+    "name": "Hang Meas HDTV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/P8oOR8I.png",
+    "epgId": "HangMeasHDTV.kh",
+    "streams": [
+      {
+        "url": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hangmeashdtv-kh",
+    "name": "Hang Meas HDTV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/P8oOR8I.png",
+    "epgId": "HangMeasHDTV.kh",
+    "streams": [
+      {
+        "url": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hangmeashdtv-kh",
+    "name": "Hang Meas HDTV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/P8oOR8I.png",
+    "epgId": "HangMeasHDTV.kh",
+    "streams": [
+      {
+        "url": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "itvhd-kh",
+    "name": "iTV HD",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "Entertainment",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/qIPvw8N.jpg",
+    "epgId": "iTVHD.kh",
+    "streams": [
+      {
+        "url": "https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.eac-news.com/Khmer/streams/ITVHD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "itvhd-kh",
+    "name": "iTV HD",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "Entertainment",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/qIPvw8N.jpg",
+    "epgId": "iTVHD.kh",
+    "streams": [
+      {
+        "url": "https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.eac-news.com/Khmer/streams/ITVHD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "komsantv-kh",
+    "name": "Komsan TV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "Movies",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/SNTf2r3.png",
+    "epgId": "KomsanTV.kh",
+    "streams": [
+      {
+        "url": "http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "msjtv-kh",
+    "name": "MSJ TV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/TilslGU.png",
+    "epgId": "MSJTV.kh",
+    "streams": [
+      {
+        "url": "https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://www.iptvservice.site/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://119.15.85.85:5080/LiveApp/streams/MSJTV_hd_playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "msjtv-kh",
+    "name": "MSJ TV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/TilslGU.png",
+    "epgId": "MSJTV.kh",
+    "streams": [
+      {
+        "url": "https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://www.iptvservice.site/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://119.15.85.85:5080/LiveApp/streams/MSJTV_hd_playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "msjtv-kh",
+    "name": "MSJ TV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/TilslGU.png",
+    "epgId": "MSJTV.kh",
+    "streams": [
+      {
+        "url": "https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://www.iptvservice.site/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://119.15.85.85:5080/LiveApp/streams/MSJTV_hd_playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mytv-kh",
+    "name": "My TV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "Entertainment",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/lhxRefQ.png",
+    "epgId": "MyTV.kh",
+    "streams": [
+      {
+        "url": "https://live.happywatch99.com/mytvhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntv-kh",
+    "name": "NTV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/SoBhuIb.png",
+    "epgId": "NTV.kh",
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.pdtvhd.com/LiveApp/streams/ntvhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntv-kh",
+    "name": "NTV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/SoBhuIb.png",
+    "epgId": "NTV.kh",
+    "streams": [
+      {
+        "url": "http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.pdtvhd.com/LiveApp/streams/ntvhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "onetveschoolcambodia-kh",
+    "name": "One TV E-School Cambodia",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "Education",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/wLzVdeT.png",
+    "epgId": "OneTVESchoolCambodia.kh",
+    "streams": [
+      {
+        "url": "http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rasmeyhangmeashdtv-kh",
+    "name": "Rasmey Hang Meas HDTV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/EcqEMMg.png",
+    "epgId": "RasmeyHangMeasHDTV.kh",
+    "streams": [
+      {
+        "url": "http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.happywatch99.com/rhm/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rasmeyhangmeashdtv-kh",
+    "name": "Rasmey Hang Meas HDTV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/EcqEMMg.png",
+    "epgId": "RasmeyHangMeasHDTV.kh",
+    "streams": [
+      {
+        "url": "http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.happywatch99.com/rhm/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sangkemtv-kh",
+    "name": "Sangkem TV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "Religious",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/728fAcC.png",
+    "epgId": "SangkemTV.kh",
+    "streams": [
+      {
+        "url": "https://live.sangkemtv.com/memfs/sangkem.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "seatv-kh",
+    "name": "SEA TV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/oZPorvg.png",
+    "epgId": "SEATV.kh",
+    "streams": [
+      {
+        "url": "https://seatv.netlinkbroadcaster.com/hls/test.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv5cambodia-kh",
+    "name": "TV5 Cambodia",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/iMZLyoX.png",
+    "epgId": "TV5Cambodia.kh",
+    "streams": [
+      {
+        "url": "https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvk2-kh",
+    "name": "TVK 2",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "Education",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/L36ptO2.png",
+    "epgId": "TVK2.kh",
+    "streams": [
+      {
+        "url": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvk-kh",
+    "name": "TVK",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "General",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/5hPxjcl.png",
+    "epgId": "TVK.kh",
+    "streams": [
+      {
+        "url": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wikitv-kh",
+    "name": "Wiki TV",
+    "country": "KH",
+    "countryName": "Cambodia",
+    "category": "Education",
+    "language": "khm",
+    "languageName": "Khmer",
+    "logo": "https://i.imgur.com/rnV0Ui1.png",
+    "epgId": "WikiTV.kh",
+    "streams": [
+      {
+        "url": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

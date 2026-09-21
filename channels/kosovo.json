@@ -1,0 +1,372 @@
+[
+  {
+    "id": "atv-xk",
+    "name": "ATV",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "News",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/lX6sekx.png",
+    "epgId": "ATV.xk",
+    "streams": [
+      {
+        "url": "http://5.254.89.106/8709/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "firstchannel-xk",
+    "name": "First Channel",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "Entertainment",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/LchiPOr.png",
+    "epgId": "FirstChannel.xk",
+    "streams": [
+      {
+        "url": "http://5.254.89.106/8717/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "klankosova-xk",
+    "name": "Klan Kosova",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "General",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/pQjSsNQ.png",
+    "epgId": "KlanKosova.xk",
+    "streams": [
+      {
+        "url": "http://5.254.89.106/8706/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kohavision-xk",
+    "name": "Kohavision",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "News",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/LOi9yma.png",
+    "epgId": "Kohavision.xk",
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://5.254.89.106/8705/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kohavision-xk",
+    "name": "Kohavision",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "News",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/LOi9yma.png",
+    "epgId": "Kohavision.xk",
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://5.254.89.106/8705/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtk1-xk",
+    "name": "RTK 1",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "General",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/KTcWcO6.png",
+    "epgId": "RTK1.xk",
+    "streams": [
+      {
+        "url": "http://5.254.89.106/8702/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtk3-xk",
+    "name": "RTK 3",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "General",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/Ut9VcT3.png",
+    "epgId": "RTK3.xk",
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtv21-xk",
+    "name": "RTV21",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "General",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/AqQltGh.png",
+    "epgId": "RTV21.xk",
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "t7-xk",
+    "name": "T7",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "General",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/b7FvSJj.png",
+    "epgId": "T7.xk",
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvarberia3femije-xk",
+    "name": "TV Arberia 3 Femije",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "Kids",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "epgId": "TVArberia3Femije.xk",
+    "streams": [
+      {
+        "url": "https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvarberia4muzike-xk",
+    "name": "TV Arberia 4 Muzike",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "Music",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "epgId": "TVArberia4Muzike.xk",
+    "streams": [
+      {
+        "url": "https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvarberiaretrohits-xk",
+    "name": "TV Arberia Retro Hits",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "Music",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/zLRzyVS.png",
+    "epgId": "TVArberiaRetroHits.xk",
+    "streams": [
+      {
+        "url": "https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvarta-xk",
+    "name": "TV Arta",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "News",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/MAhJkK9.png",
+    "epgId": "TVArta.xk",
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvdielli-xk",
+    "name": "TV Dielli",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "General",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/kLl3ar5.png",
+    "epgId": "TVDielli.xk",
+    "streams": [
+      {
+        "url": "http://stream.tvdielli.com:8081/dielli/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvopoja-xk",
+    "name": "TV Opoja",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "General",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/hxi4Qiq.png",
+    "epgId": "TVOpoja.xk",
+    "streams": [
+      {
+        "url": "http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvsyri-xk",
+    "name": "TV Syri",
+    "country": "XK",
+    "countryName": "Kosovo",
+    "category": "General",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/ZQuFosn.png",
+    "epgId": "TVSyri.xk",
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

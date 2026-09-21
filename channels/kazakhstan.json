@@ -1,0 +1,1954 @@
+[
+  {
+    "id": "24kz-kz",
+    "name": "24KZ",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "News",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b0/24KZ2023.svg",
+    "epgId": "24KZ.kz",
+    "streams": [
+      {
+        "url": "https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "31kanal-kz",
+    "name": "31 Kanal",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://31.kz/noimage.png",
+    "epgId": "31Kanal.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/388/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://31.kz/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "31kanal-kz",
+    "name": "31 Kanal",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://31.kz/noimage.png",
+    "epgId": "31Kanal.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/388/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://31.kz/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "31kanal-kz",
+    "name": "31 Kanal",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://31.kz/noimage.png",
+    "epgId": "31Kanal.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/388/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://31.kz/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "abaitv-kz",
+    "name": "Abai TV",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Culture",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/Nw2R7Dq.png",
+    "epgId": "AbaiTV.kz",
+    "streams": [
+      {
+        "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "abaitv-kz",
+    "name": "Abai TV",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Culture",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/Nw2R7Dq.png",
+    "epgId": "AbaiTV.kz",
+    "streams": [
+      {
+        "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alautv-kz",
+    "name": "Alau TV",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/gK6ZRzp.png",
+    "epgId": "AlauTV.kz",
+    "streams": [
+      {
+        "url": "https://otv.wotom.net/alau/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "almatytv-kz",
+    "name": "Almaty TV",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/Mjqwt8C.png",
+    "epgId": "AlmatyTV.kz",
+    "streams": [
+      {
+        "url": "https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aqjaiyq-kz",
+    "name": "Aqjaiyq",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/ZqIzzmf.png",
+    "epgId": "Aqjaiyq.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/oraltv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aqtobe-kz",
+    "name": "Aqtobe",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/csKl1z6.png",
+    "epgId": "Aqtobe.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/aktobetv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "astanatv-kz",
+    "name": "Astana TV",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/j4HfVK0.png",
+    "epgId": "AstanaTV.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/28/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "astanatv-kz",
+    "name": "Astana TV",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/j4HfVK0.png",
+    "epgId": "AstanaTV.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/28/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atamekenbusiness-kz",
+    "name": "Atameken Business",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Business",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/CfRvm8i.png",
+    "epgId": "AtamekenBusiness.kz",
+    "streams": [
+      {
+        "url": "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atyray-kz",
+    "name": "Atyray",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/kva4O3T.png",
+    "epgId": "Atyray.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/atyrautv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "balapan-kz",
+    "name": "Balapan",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Kids",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/2o5T0gi.png",
+    "epgId": "Balapan.kz",
+    "streams": [
+      {
+        "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "balapan-kz",
+    "name": "Balapan",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Kids",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/2o5T0gi.png",
+    "epgId": "Balapan.kz",
+    "streams": [
+      {
+        "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "balapaninternational-kz",
+    "name": "Balapan International",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Kids",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
+    "epgId": "BalapanInternational.kz",
+    "streams": [
+      {
+        "url": "https://live-3.otcnet.ru/Balapan/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel7-kz",
+    "name": "Channel 7",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/LebKU09.png",
+    "epgId": "Channel7.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/27/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel7-kz",
+    "name": "Channel 7",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/LebKU09.png",
+    "epgId": "Channel7.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/27/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channeloneeurasia-kz",
+    "name": "Channel One Eurasia",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/vm5sJHP.png",
+    "epgId": "ChannelOneEurasia.kz",
+    "streams": [
+      {
+        "url": "https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ertis-kz",
+    "name": "Ertis",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/tghMiwW.png",
+    "epgId": "Ertis.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jambyl-kz",
+    "name": "Jambyl",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/X7N3JK4.png",
+    "epgId": "Jambyl.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/taraztv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jibekjoly-kz",
+    "name": "Jibek Joly",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/SqyXtgK.png",
+    "epgId": "JibekJoly.kz",
+    "streams": [
+      {
+        "url": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jibekjoly-kz",
+    "name": "Jibek Joly",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/SqyXtgK.png",
+    "epgId": "JibekJoly.kz",
+    "streams": [
+      {
+        "url": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "khabar-kz",
+    "name": "Khabar",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/upZ0Cuu.png",
+    "epgId": "Khabar.kz",
+    "streams": [
+      {
+        "url": "https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kinoboevik-kz",
+    "name": "KinoBoevik",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Movies",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://kt.server-img.lfstrm.tv/images/channel_logos/logo_66b351f01f828dca40d006b3.png",
+    "epgId": "KinoBoevik.kz",
+    "streams": [
+      {
+        "url": "https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kokshe-kz",
+    "name": "Kokshe",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/pOR3FSR.png",
+    "epgId": "Kokshe.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ktk-kz",
+    "name": "KTK",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/BurrNTo.png",
+    "epgId": "KTK.kz",
+    "streams": [
+      {
+        "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/26/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ktk-kz",
+    "name": "KTK",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/BurrNTo.png",
+    "epgId": "KTK.kz",
+    "streams": [
+      {
+        "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/26/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ktk-kz",
+    "name": "KTK",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/BurrNTo.png",
+    "epgId": "KTK.kz",
+    "streams": [
+      {
+        "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/26/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ktk-kz",
+    "name": "KTK",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/BurrNTo.png",
+    "epgId": "KTK.kz",
+    "streams": [
+      {
+        "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/26/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mangystay-kz",
+    "name": "Mangystay",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/9JfLseu.png",
+    "epgId": "Mangystay.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/mangystautv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mirovoekino-kz",
+    "name": "Mirovoe kino",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Movies",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_65c24031d8bec399a7aa2226.png",
+    "epgId": "Mirovoekino.kz",
+    "streams": [
+      {
+        "url": "https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtrk-kz",
+    "name": "MTRK",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/XMyRwDk.png",
+    "epgId": "MTRK.kz",
+    "streams": [
+      {
+        "url": "https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtrk-kz",
+    "name": "MTRK",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/XMyRwDk.png",
+    "epgId": "MTRK.kz",
+    "streams": [
+      {
+        "url": "https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "muzzone-kz",
+    "name": "MuzzOne",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Music",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/nHVABXh.png",
+    "epgId": "MuzzOne.kz",
+    "streams": [
+      {
+        "url": "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://muzzone.tv/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nickelodeoncis-kz",
+    "name": "Nickelodeon CIS",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Kids",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png",
+    "epgId": "NickelodeonCIS.kz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "novoetelevidenie-kz",
+    "name": "Novoe televidenie",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/mmKWrWs.png",
+    "epgId": "Novoetelevidenie.kz",
+    "streams": [
+      {
+        "url": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "novoetelevidenie-kz",
+    "name": "Novoe televidenie",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/mmKWrWs.png",
+    "epgId": "Novoetelevidenie.kz",
+    "streams": [
+      {
+        "url": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "novoetelevidenie-kz",
+    "name": "Novoe televidenie",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/mmKWrWs.png",
+    "epgId": "Novoetelevidenie.kz",
+    "streams": [
+      {
+        "url": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntk-kz",
+    "name": "NTK",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/hHSCH4L.png",
+    "epgId": "NTK.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/389/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntk-kz",
+    "name": "NTK",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/hHSCH4L.png",
+    "epgId": "NTK.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/389/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ontustik-kz",
+    "name": "Ontustik",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/xqr1hjN.png",
+    "epgId": "Ontustik.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qazaqstan-kz",
+    "name": "Qazaqstan",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/oI8g396.png",
+    "epgId": "Qazaqstan.kz",
+    "streams": [
+      {
+        "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/71/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://megogo.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qazaqstan-kz",
+    "name": "Qazaqstan",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/oI8g396.png",
+    "epgId": "Qazaqstan.kz",
+    "streams": [
+      {
+        "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/71/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://megogo.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qazaqstan-kz",
+    "name": "Qazaqstan",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/oI8g396.png",
+    "epgId": "Qazaqstan.kz",
+    "streams": [
+      {
+        "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/71/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://megogo.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qazaqstan-kz",
+    "name": "Qazaqstan",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/oI8g396.png",
+    "epgId": "Qazaqstan.kz",
+    "streams": [
+      {
+        "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/71/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://megogo.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qazaqstaninternational-kz",
+    "name": "Qazaqstan International",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=",
+    "epgId": "QazaqstanInternational.kz",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qazsport-kz",
+    "name": "QazSport",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Sports",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/UDJ0P5Q.png",
+    "epgId": "QazSport.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/72/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qazsport-kz",
+    "name": "QazSport",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Sports",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/UDJ0P5Q.png",
+    "epgId": "QazSport.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/72/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qazsport-kz",
+    "name": "QazSport",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Sports",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/UDJ0P5Q.png",
+    "epgId": "QazSport.kz",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/72/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qonaevmedia-kz",
+    "name": "Qonaev Media",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Entertainment",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/JLlqgdp.png",
+    "epgId": "QonaevMedia.kz",
+    "streams": [
+      {
+        "url": "https://s.qonaevtv.kz/live/qonaev/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qostanai-kz",
+    "name": "Qostanai",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/eOz4xJ8.png",
+    "epgId": "Qostanai.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qyzyljar-kz",
+    "name": "Qyzyljar",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/7l1WSDJ.png",
+    "epgId": "Qyzyljar.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/petropavltv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qyzylorda-kz",
+    "name": "Qyzylorda",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/r4BFQpE.png",
+    "epgId": "Qyzylorda.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rikatv-kz",
+    "name": "Rika TV",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/KJHWZ3B.png",
+    "epgId": "RikaTV.kz",
+    "streams": [
+      {
+        "url": "https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "saryarqa-kz",
+    "name": "Saryarqa",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/EIXwi1c.png",
+    "epgId": "Saryarqa.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/karagandytv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "semei-kz",
+    "name": "Semei",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.ibb.co/P9V0532/Captura.png",
+    "epgId": "Semei.kz",
+    "streams": [
+      {
+        "url": "https://stream.kaztrk.kz/regional/semeytv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://qazaqstan.tv/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "silkway-kz",
+    "name": "Silk Way",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/SJNDksF.png",
+    "epgId": "SilkWay.kz",
+    "streams": [
+      {
+        "url": "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "silkway-kz",
+    "name": "Silk Way",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/SJNDksF.png",
+    "epgId": "SilkWay.kz",
+    "streams": [
+      {
+        "url": "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "silkwaycinema-kz",
+    "name": "Silk Way Cinema",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Movies",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://www.cableman.ru/sites/default/files/Silk-way-CINEMA.png",
+    "epgId": "SilkWayCinema.kz",
+    "streams": [
+      {
+        "url": "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sportplusqazaqstan-kz",
+    "name": "Sport+ Qazaqstan",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "Sports",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/vIV7x6n.png",
+    "epgId": "SportPlusQazaqstan.kz",
+    "streams": [
+      {
+        "url": "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tdk42-kz",
+    "name": "TDK 42",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/iVhdcS7.png",
+    "epgId": "TDK42.kz",
+    "streams": [
+      {
+        "url": "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "turantv-kz",
+    "name": "Turan TV",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/VagTPMo.png",
+    "epgId": "TuranTV.kz",
+    "streams": [
+      {
+        "url": "https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ulytau-kz",
+    "name": "Ulytau",
+    "country": "KZ",
+    "countryName": "Kazakhstan",
+    "category": "General",
+    "language": "kaz",
+    "languageName": "Kazakh",
+    "logo": "https://i.imgur.com/jTL6TvC.png",
+    "epgId": "Ulytau.kz",
+    "streams": [
+      {
+        "url": "https://ulytau.tv/hls/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

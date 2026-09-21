@@ -1,0 +1,182 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="24.sk" tvg-name=":24" tvg-logo="https://i.imgur.com/tTCuczU.png" group-title="News",:24 (1080p)
+http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntikInfoTV.sk" tvg-name="Antik Info TV" tvg-logo="https://i.imgur.com/Q0qL60o.png" group-title="News",Antik Info TV (1080p)
+https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport1.sk" tvg-name="Arena Sport 1" tvg-logo="https://i.imgur.com/2qf67zW.png" group-title="Sports",Arena Sport 1 (HD)
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport2.sk" tvg-name="Arena Sport 2" tvg-logo="https://i.imgur.com/Yq3Jf19.png" group-title="Sports",Arena Sport 2 (HD)
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",ducktv (HD)
+https://dash3.antik.sk/live/duck_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",ducktv (720p)
+https://jmp2.uk/stvp-ESBC4700001GR
+
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",ducktv (720p)
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",ducktv (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
+
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",ducktv (720p)
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ducktvPLUS.sk" tvg-name="ducktv PLUS" tvg-logo="https://i.imgur.com/RFhxfOx.png" group-title="Kids",ducktv PLUS (HD)
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dvojka.sk" tvg-name="Dvojka" tvg-logo="https://i.imgur.com/ft10wQn.png" group-title="Documentary",Dvojka (HD)
+http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HAHATV.sk" tvg-name="HAHA TV" tvg-logo="" group-title="Comedy",HAHA TV (HD)
+https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-name="Jednotka" tvg-logo="https://i.imgur.com/aqVki9i.png" group-title="General",Jednotka (HD)
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LifeTv.sk" tvg-name="LifeTv" tvg-logo="https://i.imgur.com/jO8kAY2.png" group-title="Religious",LifeTv (1080p)
+https://lifetv.mpks.sk/s.m3u8
+
+#EXTINF:-1 tvg-id="MTR.sk" tvg-name="MTR" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="General",MTR (1080p)
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+
+#EXTINF:-1 tvg-id="NZTV.sk" tvg-name="NZTV" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="General",NZTV (486p)
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+
+#EXTINF:-1 tvg-id="NZTV.sk" tvg-name="NZTV" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="General",NZTV (HD)
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaCoolSK.sk" tvg-name="Prima Cool SK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png" group-title="General",Prima Cool SK (1080p)
+http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaKrimiSK.sk" tvg-name="Prima Krimi SK" tvg-logo="https://www.jojgroup.sk/wp-content/uploads/PRIMA-KRIMI-SK-2-scaled.png" group-title="General",Prima Krimi SK (HD)
+http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaloveSK.sk" tvg-name="Prima love SK" tvg-logo="https://www.jojgroup.sk/wp-content/uploads/PRIMA-LOVE-1.png" group-title="General",Prima love SK (1080p)
+http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSK.sk" tvg-name="Prima SK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/PRIMA_SK_logo_RGB.png" group-title="General",Prima SK (HD)
+http://88.212.15.19/live/test_prima_plus_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RegioTV.sk" tvg-name="Regio TV" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="General",Regio TV (406p)
+http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
+
+#EXTINF:-1 tvg-id="RegioTV.sk" tvg-name="Regio TV" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="General",Regio TV (HD)
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Senzi.sk" tvg-name="Senzi" tvg-logo="https://i.imgur.com/1qJMmBu.png" group-title="General",Senzi (720p)
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport.sk" tvg-name="Sport" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="Sports",Sport (1080p)
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-name="Televizia Mocenok" tvg-logo="https://i.imgur.com/psb8GxZ.png" group-title="General",Televizia Mocenok (720p)
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TurboTV.sk" tvg-name="Turbo TV" tvg-logo="https://i.imgur.com/HI7bCHq.png" group-title="General",Turbo TV (1080p)
+https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="General",TV8 (576p)
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="General",TV8 (360p)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="General",TV8 (HD)
+https://dash3.antik.sk/live/test_osem/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV9.sk" tvg-name="TV9" tvg-logo="https://i.imgur.com/Sco4x8t.png" group-title="General",TV9 (HD)
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBrezova.sk" tvg-name="TV Brezova" tvg-logo="https://i.imgur.com/59LpYoF.png" group-title="General",TV Brezova (540p)
+http://95.105.193.219:88/hls/tvb.m3u8
+
+#EXTINF:-1 tvg-id="TVCentral.sk" tvg-name="TV Central" tvg-logo="https://i.imgur.com/LqGT8o9.png" group-title="General",TV Central (540p)
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+
+#EXTINF:-1 tvg-id="TVCentral.sk" tvg-name="TV Central" tvg-logo="https://i.imgur.com/LqGT8o9.png" group-title="General",TV Central (HD)
+https://dash4.antik.sk/live/test_central/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVDK.sk" tvg-name="TV DK" tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="General",TV DK (486p)
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVDK.sk" tvg-name="TV DK" tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="General",TV DK (486p)
+https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVLiptov.sk" tvg-name="TV Liptov" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="General",TV Liptov (1080p)
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVLocAll.sk" tvg-name="TV LocAll" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="General",TV LocAll (406p)
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+
+#EXTINF:-1 tvg-id="TVLocAll.sk" tvg-name="TV LocAll" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="General",TV LocAll (HD)
+https://dash3.antik.sk/live/test_locall/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVLux.sk" tvg-name="TV Lux" tvg-logo="https://i.imgur.com/mAMyTkq.png" group-title="General",TV Lux (720p)
+https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8
+
+#EXTINF:-1 tvg-id="TVLux.sk" tvg-name="TV Lux" tvg-logo="https://i.imgur.com/mAMyTkq.png" group-title="General",TV Lux (720p)
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMistral.sk" tvg-name="TV Mistral" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" group-title="General",TV Mistral (HD)
+https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMyjava.sk" tvg-name="TV Myjava" tvg-logo="https://i.imgur.com/9f9VmvF.png" group-title="General",TV Myjava (540p)
+http://95.105.193.219:88/hls/tvm.m3u8
+
+#EXTINF:-1 tvg-id="TVNitricka.sk" tvg-name="TV Nitricka" tvg-logo="https://i.imgur.com/iwWyG1A.png" group-title="General",TV Nitricka (HD)
+https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNRSR.sk" tvg-name="TV NRSR" tvg-logo="https://i.imgur.com/hsJsu3I.png" group-title="Legislative",TV NRSR (720p)
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPanorama.sk" tvg-name="TV Panorama" tvg-logo="https://i.imgur.com/0YtCG4Y.png" group-title="General",TV Panorama (HD)
+https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
+
+#EXTINF:-1 tvg-id="TVPoprad.sk" tvg-name="TV Poprad" tvg-logo="https://i.imgur.com/x6ZvOp6.png" group-title="General",TV Poprad (1080p)
+http://213.81.153.221:8080/poprad
+
+#EXTINF:-1 tvg-id="TVPovazie.sk" tvg-name="TV Povazie" tvg-logo="https://i.imgur.com/JRD9YIY.png" group-title="General",TV Povazie (1080p)
+https://dash3.antik.sk/live/test_povazie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRaj.sk" tvg-name="TV Raj" tvg-logo="https://i.imgur.com/CGckMyx.png" group-title="General",TV Raj (720p)
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+
+#EXTINF:-1 tvg-id="TVRomana.sk" tvg-name="TV Romana" tvg-logo="https://i.imgur.com/r7avFBX.png" group-title="General",TV Romana (720p)
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRuzinov.sk" tvg-name="TV Ruzinov" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="General",TV Ruzinov (1080p)
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSen.sk" tvg-name="TV Sen" tvg-logo="https://i.imgur.com/ckm2oLD.png" group-title="General",TV Sen (540p)
+http://95.105.193.219:88/hls/tvsen.m3u8
+
+#EXTINF:-1 tvg-id="TVSeverka.sk" tvg-name="TV Severka" tvg-logo="https://i.imgur.com/oQSee9S.png" group-title="General",TV Severka (576p)
+http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSkalica.sk" tvg-name="TV Skalica" tvg-logo="https://i.imgur.com/GB8fMoJ.png" group-title="General",TV Skalica (540p)
+http://95.105.193.219:88/hls/tvs.m3u8
+
+#EXTINF:-1 tvg-id="TVStaraTura.sk" tvg-name="TV Stara Tura" tvg-logo="https://i.imgur.com/kerkvRX.png" group-title="General",TV Stara Tura (540p)
+http://95.105.193.219:88/hls/tvst.m3u8
+
+#EXTINF:-1 tvg-id="TVT.sk" tvg-name="TVT" tvg-logo="https://i.imgur.com/QG0iZlG.png" group-title="General",TVT (486p)
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVVega.sk" tvg-name="TV Vega" tvg-logo="https://i.imgur.com/Qw3NeLA.png" group-title="General",TV Vega (576p)
+http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVVita.sk" tvg-name="TV Vita" tvg-logo="https://i.imgur.com/Cx1GLbo.png" group-title="Culture",TV Vita (HD)
+https://dash3.antik.sk/live/test_vita/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VIOTV.sk" tvg-name="VIO TV" tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="General",VIO TV (480p)
+http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk" tvg-name="Zapadoslovenska TV" tvg-logo="https://i.imgur.com/D72Y1IB.png" group-title="General",Zapadoslovenska TV (HD)
+https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8

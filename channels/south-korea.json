@@ -1,0 +1,3484 @@
+[
+  {
+    "id": "abn-kr",
+    "name": "ABN",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://www.abn.co.kr/resources/images/logo.png",
+    "epgId": "ABN.kr",
+    "streams": [
+      {
+        "url": "https://vod2.abn.co.kr/IPHONE/abn.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangradio-kr",
+    "name": "Arirang Radio",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/dtfiG9k.png",
+    "epgId": "ArirangRadio.kr",
+    "streams": [
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangradio-kr",
+    "name": "Arirang Radio",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/dtfiG9k.png",
+    "epgId": "ArirangRadio.kr",
+    "streams": [
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangradio-kr",
+    "name": "Arirang Radio",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/dtfiG9k.png",
+    "epgId": "ArirangRadio.kr",
+    "streams": [
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangradio-kr",
+    "name": "Arirang Radio",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/dtfiG9k.png",
+    "epgId": "ArirangRadio.kr",
+    "streams": [
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangradio-kr",
+    "name": "Arirang Radio",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/dtfiG9k.png",
+    "epgId": "ArirangRadio.kr",
+    "streams": [
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangtv-kr",
+    "name": "Arirang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/kk2MdNC.png",
+    "epgId": "ArirangTV.kr",
+    "streams": [
+      {
+        "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arirangun-kr",
+    "name": "Arirang UN",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Jdy3WNm.png",
+    "epgId": "ArirangUN.kr",
+    "streams": [
+      {
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bbstv-kr",
+    "name": "BBS TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Religious",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/01UmXRe.png",
+    "epgId": "BBSTV.kr",
+    "streams": [
+      {
+        "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btntv-kr",
+    "name": "BTN TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Religious",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/sOoS7RQ.png",
+    "epgId": "BTNTV.kr",
+    "streams": [
+      {
+        "url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channela-kr",
+    "name": "Channel A",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/W9laHPD.png",
+    "epgId": "ChannelA.kr",
+    "streams": [
+      {
+        "url": "http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cjonstyle-kr",
+    "name": "CJ OnStyle",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/JiSfEBv.png",
+    "epgId": "CJOnStyle.kr",
+    "streams": [
+      {
+        "url": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cjonstyleplus-kr",
+    "name": "CJ OnStyle+",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/OYmOL20.png",
+    "epgId": "CJOnStylePlus.kr",
+    "streams": [
+      {
+        "url": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebs1tv-kr",
+    "name": "EBS 1TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Education",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png",
+    "epgId": "EBS1TV.kr",
+    "streams": [
+      {
+        "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebs1tv-kr",
+    "name": "EBS 1TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Education",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png",
+    "epgId": "EBS1TV.kr",
+    "streams": [
+      {
+        "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebs2tv-kr",
+    "name": "EBS 2TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Education",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png",
+    "epgId": "EBS2TV.kr",
+    "streams": [
+      {
+        "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebsenglish-kr",
+    "name": "EBS English",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Education",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/5wLJzb0.png",
+    "epgId": "EBSEnglish.kr",
+    "streams": [
+      {
+        "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebskids-kr",
+    "name": "EBS Kids",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Kids",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/62oo8Bx.png",
+    "epgId": "EBSKids.kr",
+    "streams": [
+      {
+        "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebsplus1-kr",
+    "name": "EBS Plus 1",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Education",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/aCeuhon.png",
+    "epgId": "EBSPlus1.kr",
+    "streams": [
+      {
+        "url": "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ebsplus2-kr",
+    "name": "EBS Plus 2",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Education",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/pllIMGi.png",
+    "epgId": "EBSPlus2.kr",
+    "streams": [
+      {
+        "url": "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fgtv-kr",
+    "name": "FGTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Religious",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png",
+    "epgId": "FGTV.kr",
+    "streams": [
+      {
+        "url": "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gcn-kr",
+    "name": "GCN",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Religious",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/yzwtMOC.png",
+    "epgId": "GCN.kr",
+    "streams": [
+      {
+        "url": "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gongyounghomeshopping-kr",
+    "name": "Gongyoung Home Shopping",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/YL3rpd7.png",
+    "epgId": "GongyoungHomeShopping.kr",
+    "streams": [
+      {
+        "url": "https://etv.publichs.com/live5.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "goodtv-kr",
+    "name": "Good TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Religious",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.ibb.co/1v913gn/logo-goodtv.png",
+    "epgId": "GoodTV.kr",
+    "streams": [
+      {
+        "url": "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gsmyshop-kr",
+    "name": "GS My Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/ETPQwui.png",
+    "epgId": "GSMyShop.kr",
+    "streams": [
+      {
+        "url": "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gsshop-kr",
+    "name": "GS Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/F7QDbEy.png",
+    "epgId": "GSShop.kr",
+    "streams": [
+      {
+        "url": "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gugaktv-kr",
+    "name": "Gugak TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Music",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/Ey7Htm8.png",
+    "epgId": "GugakTV.kr",
+    "streams": [
+      {
+        "url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gugbangtv-kr",
+    "name": "Gugbang TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "News",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/f1tz5fg.png",
+    "epgId": "GugbangTV.kr",
+    "streams": [
+      {
+        "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlajdtv-kr",
+    "name": "HLAJ-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/JM4rxGU.png",
+    "epgId": "HLAJDTV.kr",
+    "streams": [
+      {
+        "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "352p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlamdtv-kr",
+    "name": "HLAM-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/5oraHc0.png",
+    "epgId": "HLAMDTV.kr",
+    "streams": [
+      {
+        "url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlandtv-kr",
+    "name": "HLAN-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/lthyx2P.png",
+    "epgId": "HLANDTV.kr",
+    "streams": [
+      {
+        "url": "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlaodtv-kr",
+    "name": "HLAO-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/uR0gScb.png",
+    "epgId": "HLAODTV.kr",
+    "streams": [
+      {
+        "url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlaqdtv-kr",
+    "name": "HLAQ-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/FGsKCH3.png",
+    "epgId": "HLAQDTV.kr",
+    "streams": [
+      {
+        "url": "http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlatdtv-kr",
+    "name": "HLAT-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/3VSuYsn.png",
+    "epgId": "HLATDTV.kr",
+    "streams": [
+      {
+        "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlawdtv-kr",
+    "name": "HLAW-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/nqRWpUu.png",
+    "epgId": "HLAWDTV.kr",
+    "streams": [
+      {
+        "url": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlcgdtv-kr",
+    "name": "HLCG-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/ABdmZMc.png",
+    "epgId": "HLCGDTV.kr",
+    "streams": [
+      {
+        "url": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlcndtv-kr",
+    "name": "HLCN-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/wmGJgYh.png",
+    "epgId": "HLCNDTV.kr",
+    "streams": [
+      {
+        "url": "https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlcqdtv-kr",
+    "name": "HLCQ-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/HCbvAiM.png",
+    "epgId": "HLCQDTV.kr",
+    "streams": [
+      {
+        "url": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlctdtv-kr",
+    "name": "HLCT-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/LlYQR8m.png",
+    "epgId": "HLCTDTV.kr",
+    "streams": [
+      {
+        "url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlcxdtv-kr",
+    "name": "HLCX-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/3C57SwN.png",
+    "epgId": "HLCXDTV.kr",
+    "streams": [
+      {
+        "url": "https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "450p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hldedtv-kr",
+    "name": "HLDE-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/jknoVmp.png",
+    "epgId": "HLDEDTV.kr",
+    "streams": [
+      {
+        "url": "http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hldgdtv-kr",
+    "name": "HLDG-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/gaBq1Lz.png",
+    "epgId": "HLDGDTV.kr",
+    "streams": [
+      {
+        "url": "https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hldhdtv-kr",
+    "name": "HLDH-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/Srsw4Mi.png",
+    "epgId": "HLDHDTV.kr",
+    "streams": [
+      {
+        "url": "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hldpdtv-kr",
+    "name": "HLDP-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/BBCoqIf.png",
+    "epgId": "HLDPDTV.kr",
+    "streams": [
+      {
+        "url": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hldqdtv-kr",
+    "name": "HLDQ-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/byss0Ld.png",
+    "epgId": "HLDQDTV.kr",
+    "streams": [
+      {
+        "url": "http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hldrdtv-kr",
+    "name": "HLDR-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/zVunmpQ.png",
+    "epgId": "HLDRDTV.kr",
+    "streams": [
+      {
+        "url": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlkjdtv-kr",
+    "name": "HLKJ-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/iAz0Psw.png",
+    "epgId": "HLKJDTV.kr",
+    "streams": [
+      {
+        "url": "http://123.140.197.22/stream/1/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlkudtv-kr",
+    "name": "HLKU-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/jiFOYi5.png",
+    "epgId": "HLKUDTV.kr",
+    "streams": [
+      {
+        "url": "https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hlqsdtv-kr",
+    "name": "HLQS-DTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/oWB3ApR.png",
+    "epgId": "HLQSDTV.kr",
+    "streams": [
+      {
+        "url": "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "homeshopping-kr",
+    "name": "Home & Shopping",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/IcexRXG.png",
+    "epgId": "HomeShopping.kr",
+    "streams": [
+      {
+        "url": "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hyundaihomeshopping-kr",
+    "name": "Hyundai Home Shopping",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/NJpECmq.png",
+    "epgId": "HyundaiHomeShopping.kr",
+    "streams": [
+      {
+        "url": "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hyundaihomeshoppingplusshop-kr",
+    "name": "Hyundai Home Shopping + Shop",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/DoNOuZE.png",
+    "epgId": "HyundaiHomeShoppingPlusShop.kr",
+    "streams": [
+      {
+        "url": "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kbsjoy-kr",
+    "name": "KBS Joy",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Entertainment",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png",
+    "epgId": "KBSJoy.kr",
+    "streams": [
+      {
+        "url": "https://xykt-fix.github.io/flv/KJ_W.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kbsworld-kr",
+    "name": "KBS World",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
+    "epgId": "KBSWorld.kr",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1448/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://cinerama.uz/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://31.148.48.15/KBS_World/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kbsworld-kr",
+    "name": "KBS World",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
+    "epgId": "KBSWorld.kr",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1448/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://cinerama.uz/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://31.148.48.15/KBS_World/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kbsworld-kr",
+    "name": "KBS World",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
+    "epgId": "KBSWorld.kr",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1448/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://cinerama.uz/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://31.148.48.15/KBS_World/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kctv-kr",
+    "name": "KCTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/IHkZpaI.png",
+    "epgId": "KCTV.kr",
+    "streams": [
+      {
+        "url": "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kshopping-kr",
+    "name": "K Shopping",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/Tmb3xK8.png",
+    "epgId": "KShopping.kr",
+    "streams": [
+      {
+        "url": "https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ktv-kr",
+    "name": "KTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Legislative",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png",
+    "epgId": "KTV.kr",
+    "streams": [
+      {
+        "url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lottehomeshopping-kr",
+    "name": "Lotte Home Shopping",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/dJeNehc.png",
+    "epgId": "LotteHomeShopping.kr",
+    "streams": [
+      {
+        "url": "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lotteonetv-kr",
+    "name": "Lotte OneTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/bXe7tYE.png",
+    "epgId": "LotteOneTV.kr",
+    "streams": [
+      {
+        "url": "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcdrama-kr",
+    "name": "MBC Drama",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Entertainment",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/Q20rqnX.png",
+    "epgId": "MBCDrama.kr",
+    "streams": [
+      {
+        "url": "http://mytv.dothome.co.kr/ch/catv/26.php",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcgyeongnamtv-kr",
+    "name": "MBC Gyeongnam TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/Ronb1JP.png",
+    "epgId": "MBCGyeongnamTV.kr",
+    "streams": [
+      {
+        "url": "https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcnet-kr",
+    "name": "MBC Net",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/960px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png",
+    "epgId": "MBCNet.kr",
+    "streams": [
+      {
+        "url": "http://mytv.dothome.co.kr/ch/catv/28.php",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtn-kr",
+    "name": "MTN",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/MS0lqoG.png",
+    "epgId": "MTN.kr",
+    "streams": [
+      {
+        "url": "http://183.110.27.87/mtnlive/720/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalassemblytv-kr",
+    "name": "National Assembly TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Legislative",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/UKdB8vD.png",
+    "epgId": "NationalAssemblyTV.kr",
+    "streams": [
+      {
+        "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nbs-kr",
+    "name": "NBS",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Education",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/pOSroOE.png",
+    "epgId": "NBS.kr",
+    "streams": [
+      {
+        "url": "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nhtv-kr",
+    "name": "NHTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Entertainment",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/DfECkgB.png",
+    "epgId": "NHTV.kr",
+    "streams": [
+      {
+        "url": "http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nshomeshopping-kr",
+    "name": "NS Home Shopping",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/Q9xsDQo.png",
+    "epgId": "NSHomeShopping.kr",
+    "streams": [
+      {
+        "url": "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nsshopplus-kr",
+    "name": "NS Shop+",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/7KmXNci.png",
+    "epgId": "NSShopPlus.kr",
+    "streams": [
+      {
+        "url": "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oun-kr",
+    "name": "OUN",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Education",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/7s6JtcU.png",
+    "epgId": "OUN.kr",
+    "streams": [
+      {
+        "url": "https://live.knou.ac.kr/knou1/live1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtv-kr",
+    "name": "RTV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/Vhp7yR7.png",
+    "epgId": "RTV.kr",
+    "streams": [
+      {
+        "url": "https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rutctv-kr",
+    "name": "RUTC TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Religious",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.ibb.co/yPDhKBp/rutc-logo.jpg",
+    "epgId": "RUTCTV.kr",
+    "streams": [
+      {
+        "url": "http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "shinsegaetvshopping-kr",
+    "name": "Shinsegae TV Shopping",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/Hq3yjqA.png",
+    "epgId": "ShinsegaeTVShopping.kr",
+    "streams": [
+      {
+        "url": "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "shoppingnt-kr",
+    "name": "Shopping NT",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/BgbJp5X.png",
+    "epgId": "ShoppingNT.kr",
+    "streams": [
+      {
+        "url": "https://live.shoppingntmall.com/live/10011.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tbstv-kr",
+    "name": "TBS TV",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/iOnWS6V.png",
+    "epgId": "TBSTV.kr",
+    "streams": [
+      {
+        "url": "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvchosun2-kr",
+    "name": "TV Chosun 2",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/Ev5JoBJ.png",
+    "epgId": "TVChosun2.kr",
+    "streams": [
+      {
+        "url": "http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "http://broadcast.tvchosun.com/onair/on2.cstv",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvchosun-kr",
+    "name": "TV Chosun",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/62EwaCG.png",
+    "epgId": "TVChosun.kr",
+    "streams": [
+      {
+        "url": "http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "http://broadcast.tvchosun.com/onair/on.cstv",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wshopping-kr",
+    "name": "W Shopping",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "Shop",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/hfXjVJd.png",
+    "epgId": "WShopping.kr",
+    "streams": [
+      {
+        "url": "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ytn-kr",
+    "name": "YTN",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png",
+    "epgId": "YTN.kr",
+    "streams": [
+      {
+        "url": "http://202.60.106.14:8080/214/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.60.106.14:21585/214/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ytn-kr",
+    "name": "YTN",
+    "country": "KR",
+    "countryName": "South Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png",
+    "epgId": "YTN.kr",
+    "streams": [
+      {
+        "url": "http://202.60.106.14:8080/214/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://202.60.106.14:21585/214/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

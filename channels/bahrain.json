@@ -1,0 +1,112 @@
+[
+  {
+    "id": "bahraininternational-bh",
+    "name": "Bahrain International",
+    "country": "BH",
+    "countryName": "Bahrain",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/t6Lmntr.png",
+    "epgId": "BahrainInternational.bh",
+    "streams": [
+      {
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bahrainquran-bh",
+    "name": "Bahrain Quran",
+    "country": "BH",
+    "countryName": "Bahrain",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/er5hOK4.png",
+    "epgId": "BahrainQuran.bh",
+    "streams": [
+      {
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bahrainsports1-bh",
+    "name": "Bahrain Sports 1",
+    "country": "BH",
+    "countryName": "Bahrain",
+    "category": "Sports",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/fBpLsbC.png",
+    "epgId": "BahrainSports1.bh",
+    "streams": [
+      {
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bahrainsports2-bh",
+    "name": "Bahrain Sports 2",
+    "country": "BH",
+    "countryName": "Bahrain",
+    "category": "Sports",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/ZkuZmIo.png",
+    "epgId": "BahrainSports2.bh",
+    "streams": [
+      {
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bahraintv-bh",
+    "name": "Bahrain TV",
+    "country": "BH",
+    "countryName": "Bahrain",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/LTD0jIm.png",
+    "epgId": "BahrainTV.bh",
+    "streams": [
+      {
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

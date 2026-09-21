@@ -1,0 +1,460 @@
+[
+  {
+    "id": "alerthalnabawichannel-jo",
+    "name": "Alerth Alnabawi Channel",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/iYibJxK.png",
+    "epgId": "AlerthAlnabawiChannel.jo",
+    "streams": [
+      {
+        "url": "http://82.212.74.2:8000/live/7307.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alhaqeqaaldawlia-jo",
+    "name": "Alhaqeqa Aldawlia",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "",
+    "epgId": "AlhaqeqaAldawlia.jo",
+    "streams": [
+      {
+        "url": "https://ghaasiflu.online/alhqeqa/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "altaghiertv-jo",
+    "name": "Altaghier TV",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/YTyCBvB.png",
+    "epgId": "AltaghierTV.jo",
+    "streams": [
+      {
+        "url": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ammantv-jo",
+    "name": "Amman TV",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/5l7kw0b.png",
+    "epgId": "AmmanTV.jo",
+    "streams": [
+      {
+        "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ammantv-jo",
+    "name": "Amman TV",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/5l7kw0b.png",
+    "epgId": "AmmanTV.jo",
+    "streams": [
+      {
+        "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jordanarchive-jo",
+    "name": "Jordan Archive",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/8UrCl4k.png",
+    "epgId": "JordanArchive.jo",
+    "streams": [
+      {
+        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jordancomedy-jo",
+    "name": "Jordan Comedy",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "Comedy",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/DuwwoO2.png",
+    "epgId": "JordanComedy.jo",
+    "streams": [
+      {
+        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jordandrama-jo",
+    "name": "Jordan Drama",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/gvIAEsJ.png",
+    "epgId": "JordanDrama.jo",
+    "streams": [
+      {
+        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jordankitchen-jo",
+    "name": "Jordan Kitchen",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "Cooking",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/B45qcQX.png",
+    "epgId": "JordanKitchen.jo",
+    "streams": [
+      {
+        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jordansongs-jo",
+    "name": "Jordan Songs",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/1DE7Gmw.png",
+    "epgId": "JordanSongs.jo",
+    "streams": [
+      {
+        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jordansport-jo",
+    "name": "Jordan Sport",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "Sports",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/2EmrZPQ.png",
+    "epgId": "JordanSport.jo",
+    "streams": [
+      {
+        "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jordantourism-jo",
+    "name": "Jordan Tourism",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/gpeIoU9.png",
+    "epgId": "JordanTourism.jo",
+    "streams": [
+      {
+        "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jordantv-jo",
+    "name": "Jordan TV",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/0XozB5N.png",
+    "epgId": "JordanTV.jo",
+    "streams": [
+      {
+        "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kaifatv-jo",
+    "name": "Kaifa TV",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/zGGeSQg.png",
+    "epgId": "KaifaTV.jo",
+    "streams": [
+      {
+        "url": "http://82.212.74.2:8000/live/7311.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "melodyfm-jo",
+    "name": "Melody FM",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/J8omcNz.png",
+    "epgId": "MelodyFM.jo",
+    "streams": [
+      {
+        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiofannjordanstudio-jo",
+    "name": "Radio Fann Jordan Studio",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://cdn-profiles.tunein.com/s142626/images/logod.jpg",
+    "epgId": "RadioFannJordanStudio.jo",
+    "streams": [
+      {
+        "url": "http://45.63.116.205/hls2/stream1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioyaqeenjordancityview-jo",
+    "name": "Radio Yaqeen Jordan City View",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/wHOQU0R.png",
+    "epgId": "RadioYaqeenJordanCityView.jo",
+    "streams": [
+      {
+        "url": "http://45.63.116.205/hls4/stream1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rotanaradiojordanstudio-jo",
+    "name": "Rotana Radio Jordan Studio",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/xGDjlp5.png",
+    "epgId": "RotanaRadioJordanStudio.jo",
+    "streams": [
+      {
+        "url": "http://45.63.116.205/hls/stream1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rotanatarabjordancityview-jo",
+    "name": "Rotana Tarab Jordan City View",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/NjgOBts.png",
+    "epgId": "RotanaTarabJordanCityView.jo",
+    "streams": [
+      {
+        "url": "http://45.63.116.205/hls3/stream1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "royatv-jo",
+    "name": "Roya TV",
+    "country": "JO",
+    "countryName": "Jordan",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/WX80rty.png",
+    "epgId": "RoyaTV.jo",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

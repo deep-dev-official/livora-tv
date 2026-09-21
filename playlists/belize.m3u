@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="FlexStudioRadioTV.bz" tvg-name="Flex Studio Radio TV" tvg-logo="https://i.imgur.com/tZjqtxd.png" group-title="Music",Flex Studio Radio TV (HD)
+https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GuadalupeMedia.bz" tvg-name="Guadalupe Media" tvg-logo="https://i.imgur.com/EfaOwRE.png" group-title="Religious",Guadalupe Media (720p)
+https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8

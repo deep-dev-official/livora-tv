@@ -1,0 +1,514 @@
+[
+  {
+    "id": "alvinchanneltv-az",
+    "name": "Alvin Channel TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/m6CM7VU.png",
+    "epgId": "AlvinChannelTV.az",
+    "streams": [
+      {
+        "url": "https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "anewztv-az",
+    "name": "AnewZ TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Lwgdbuu.png",
+    "epgId": "AnewZTV.az",
+    "streams": [
+      {
+        "url": "https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "apatv-az",
+    "name": "APA Tv",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "News",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/2CSW4V4.png",
+    "epgId": "APATv.az",
+    "streams": [
+      {
+        "url": "http://stream.apa.tv/apastream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ayaztv-az",
+    "name": "Ayaz TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://www.ayaztv.com/storage/assets/site_logo.png",
+    "epgId": "AyazTV.az",
+    "streams": [
+      {
+        "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aztv-az",
+    "name": "Az TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/snBMMeH.png",
+    "epgId": "AzTV.az",
+    "streams": [
+      {
+        "url": "https://str.yodacdn.net/azertv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aztv-az",
+    "name": "Az TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/snBMMeH.png",
+    "epgId": "AzTV.az",
+    "streams": [
+      {
+        "url": "https://str.yodacdn.net/azertv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aztv-az",
+    "name": "Az TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/snBMMeH.png",
+    "epgId": "AzTV.az",
+    "streams": [
+      {
+        "url": "https://str.yodacdn.net/azertv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bakutv-az",
+    "name": "Baku.TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "News",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/r4FzxSg.png",
+    "epgId": "BakuTV.az",
+    "streams": [
+      {
+        "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cbcsport-az",
+    "name": "CBC Sport",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "Sports",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/3mEdjuq.png",
+    "epgId": "CBCSport.az",
+    "streams": [
+      {
+        "url": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eltv-az",
+    "name": "EL TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/tTlokZ2.png",
+    "epgId": "ELTV.az",
+    "streams": [
+      {
+        "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "260p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.eltv.az/live/eltv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eltv-az",
+    "name": "EL TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/tTlokZ2.png",
+    "epgId": "ELTV.az",
+    "streams": [
+      {
+        "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "260p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.eltv.az/live/eltv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ictimaitv-az",
+    "name": "Ictimai TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/HzY4VMo.png",
+    "epgId": "IctimaiTV.az",
+    "streams": [
+      {
+        "url": "https://live.itv.az/itv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal35-az",
+    "name": "Kanal 35",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://live.ntv.az/kanal35.png",
+    "epgId": "Kanal35.az",
+    "streams": [
+      {
+        "url": "https://str2.yodacdn.net/kanal35/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanals-az",
+    "name": "Kanal S",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png",
+    "epgId": "KanalS.az",
+    "streams": [
+      {
+        "url": "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kapaztv-az",
+    "name": "Kapaz TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "News",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png",
+    "epgId": "KapazTV.az",
+    "streams": [
+      {
+        "url": "http://85.132.78.122:8050/hls/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "knmusictv-az",
+    "name": "KN Music TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "Music",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",
+    "epgId": "KNMusicTV.az",
+    "streams": [
+      {
+        "url": "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "medeniyyettv-az",
+    "name": "Medeniyyet TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "Culture",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/PlvaDIa.png",
+    "epgId": "MedeniyyetTV.az",
+    "streams": [
+      {
+        "url": "https://str.yodacdn.net/medeniyyettele/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "naxcivantv-az",
+    "name": "Naxcivan TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://i.imgur.com/8yLFkdE.png",
+    "epgId": "NaxcivanTV.az",
+    "streams": [
+      {
+        "url": "https://str2.yodacdn.net/ntv/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vilayettv-az",
+    "name": "Vilayet TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png",
+    "epgId": "VilayetTV.az",
+    "streams": [
+      {
+        "url": "https://nl.livekadeh.com/hls2/vilayet.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "xezertv-az",
+    "name": "Xezer TV",
+    "country": "AZ",
+    "countryName": "Azerbaijan",
+    "category": "General",
+    "language": "aze",
+    "languageName": "Azerbaijani",
+    "logo": "",
+    "epgId": "XezerTV.az",
+    "streams": [
+      {
+        "url": "https://www.xezerxeber.az/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

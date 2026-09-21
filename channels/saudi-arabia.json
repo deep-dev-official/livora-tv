@@ -13,13 +13,11 @@
       {
         "url": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:01.033Z",
-        "http_status": 206,
-        "latency_ms": 487
+        "last_checked": null
       }
     ]
   },
@@ -37,13 +35,11 @@
       {
         "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:11.781Z",
-        "http_status": 206,
-        "latency_ms": 2309
+        "last_checked": null
       }
     ]
   },
@@ -61,13 +57,11 @@
       {
         "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "HD",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.092Z",
-        "http_status": 200,
-        "latency_ms": 1892
+        "last_checked": null
       }
     ]
   },
@@ -85,13 +79,51 @@
       {
         "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.629Z",
-        "http_status": 206,
-        "latency_ms": 1991
+        "last_checked": null
+      },
+      {
+        "url": "https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alarabiyaenglish-sa",
+    "name": "Al Arabiya English",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://english.alarabiya.net/.resources/aa-fe-templating/webresources/dist/assets/gfx/logo/en-night-logo.svg",
+    "epgId": "AlArabiyaEnglish.sa",
+    "streams": [
+      {
+        "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   },
@@ -109,24 +141,20 @@
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.440Z",
-        "http_status": 206,
-        "latency_ms": 1413
+        "last_checked": null
       },
       {
         "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.305Z",
-        "http_status": 200,
-        "latency_ms": 1137
+        "last_checked": null
       }
     ]
   },
@@ -144,24 +172,20 @@
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.440Z",
-        "http_status": 206,
-        "latency_ms": 1413
+        "last_checked": null
       },
       {
         "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.305Z",
-        "http_status": 200,
-        "latency_ms": 1137
+        "last_checked": null
       }
     ]
   },
@@ -179,35 +203,29 @@
       {
         "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:19.495Z",
-        "http_status": 206,
-        "latency_ms": 1389
+        "last_checked": null
       },
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:19.500Z",
-        "http_status": 206,
-        "latency_ms": 1388
+        "last_checked": null
       },
       {
         "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.362Z",
-        "http_status": 206,
-        "latency_ms": 239
+        "last_checked": null
       }
     ]
   },
@@ -225,35 +243,29 @@
       {
         "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:19.495Z",
-        "http_status": 206,
-        "latency_ms": 1389
+        "last_checked": null
       },
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:19.500Z",
-        "http_status": 206,
-        "latency_ms": 1388
+        "last_checked": null
       },
       {
         "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.362Z",
-        "http_status": 206,
-        "latency_ms": 239
+        "last_checked": null
       }
     ]
   },
@@ -271,35 +283,29 @@
       {
         "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:19.495Z",
-        "http_status": 206,
-        "latency_ms": 1389
+        "last_checked": null
       },
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:19.500Z",
-        "http_status": 206,
-        "latency_ms": 1388
+        "last_checked": null
       },
       {
         "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.362Z",
-        "http_status": 206,
-        "latency_ms": 239
+        "last_checked": null
       }
     ]
   },
@@ -317,13 +323,11 @@
       {
         "url": "https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:21.225Z",
-        "http_status": 200,
-        "latency_ms": 520
+        "last_checked": null
       }
     ]
   },
@@ -341,35 +345,29 @@
       {
         "url": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.930Z",
-        "http_status": 206,
-        "latency_ms": 3109
+        "last_checked": null
       },
       {
         "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.906Z",
-        "http_status": 206,
-        "latency_ms": 2877
+        "last_checked": null
       },
       {
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:22.625Z",
-        "http_status": 200,
-        "latency_ms": 739
+        "last_checked": null
       }
     ]
   },
@@ -387,35 +385,29 @@
       {
         "url": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.930Z",
-        "http_status": 206,
-        "latency_ms": 3109
+        "last_checked": null
       },
       {
         "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.906Z",
-        "http_status": 206,
-        "latency_ms": 2877
+        "last_checked": null
       },
       {
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:22.625Z",
-        "http_status": 200,
-        "latency_ms": 739
+        "last_checked": null
       }
     ]
   },
@@ -433,35 +425,29 @@
       {
         "url": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.930Z",
-        "http_status": 206,
-        "latency_ms": 3109
+        "last_checked": null
       },
       {
         "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.906Z",
-        "http_status": 206,
-        "latency_ms": 2877
+        "last_checked": null
       },
       {
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:22.625Z",
-        "http_status": 200,
-        "latency_ms": 739
+        "last_checked": null
       }
     ]
   },
@@ -479,13 +465,11 @@
       {
         "url": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "https://rotana.net/",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:25.042Z",
-        "http_status": 206,
-        "latency_ms": 2904
+        "last_checked": null
       }
     ]
   },
@@ -503,13 +487,11 @@
       {
         "url": "https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:22.561Z",
-        "http_status": 200,
-        "latency_ms": 370
+        "last_checked": null
       }
     ]
   },
@@ -527,35 +509,29 @@
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:22.355Z",
-        "http_status": 206,
-        "latency_ms": 76
+        "last_checked": null
       },
       {
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.422Z",
-        "http_status": 200,
-        "latency_ms": 2103
+        "last_checked": null
       },
       {
         "url": "https://list.iptvcat.com/my_list/s/c40a8dcdb403912a5a3d6a2a7b6be679.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "HD",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:26.933Z",
-        "http_status": 200,
-        "latency_ms": 4578
+        "last_checked": null
       }
     ]
   },
@@ -573,35 +549,29 @@
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:22.355Z",
-        "http_status": 206,
-        "latency_ms": 76
+        "last_checked": null
       },
       {
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.422Z",
-        "http_status": 200,
-        "latency_ms": 2103
+        "last_checked": null
       },
       {
         "url": "https://list.iptvcat.com/my_list/s/c40a8dcdb403912a5a3d6a2a7b6be679.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "HD",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:26.933Z",
-        "http_status": 200,
-        "latency_ms": 4578
+        "last_checked": null
       }
     ]
   },
@@ -619,35 +589,29 @@
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:22.355Z",
-        "http_status": 206,
-        "latency_ms": 76
+        "last_checked": null
       },
       {
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.422Z",
-        "http_status": 200,
-        "latency_ms": 2103
+        "last_checked": null
       },
       {
         "url": "https://list.iptvcat.com/my_list/s/c40a8dcdb403912a5a3d6a2a7b6be679.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "HD",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:26.933Z",
-        "http_status": 200,
-        "latency_ms": 4578
+        "last_checked": null
       }
     ]
   },
@@ -665,13 +629,11 @@
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:23.058Z",
-        "http_status": 206,
-        "latency_ms": 497
+        "last_checked": null
       }
     ]
   },
@@ -689,35 +651,29 @@
       {
         "url": "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:25.413Z",
-        "http_status": 206,
-        "latency_ms": 932
+        "last_checked": null
       },
       {
         "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:25.427Z",
-        "http_status": 206,
-        "latency_ms": 749
+        "last_checked": null
       },
       {
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.743Z",
-        "http_status": 200,
-        "latency_ms": 245
+        "last_checked": null
       }
     ]
   },
@@ -735,35 +691,29 @@
       {
         "url": "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:25.413Z",
-        "http_status": 206,
-        "latency_ms": 932
+        "last_checked": null
       },
       {
         "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:25.427Z",
-        "http_status": 206,
-        "latency_ms": 749
+        "last_checked": null
       },
       {
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.743Z",
-        "http_status": 200,
-        "latency_ms": 245
+        "last_checked": null
       }
     ]
   },
@@ -781,35 +731,1327 @@
       {
         "url": "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:25.413Z",
-        "http_status": 206,
-        "latency_ms": 932
+        "last_checked": null
       },
       {
         "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "720p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:25.427Z",
-        "http_status": 206,
-        "latency_ms": 749
+        "last_checked": null
       },
       {
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "360p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.743Z",
-        "http_status": 200,
-        "latency_ms": 245
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alwesamtv-sa",
+    "name": "Alwesam TV",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/rtqVAxf.png",
+    "epgId": "AlwesamTV.sa",
+    "streams": [
+      {
+        "url": "https://stream.addresses-sat.com/Alwesam/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "asharqdiscovery-sa",
+    "name": "Asharq Discovery",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Documentary",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Czxi7yk.png",
+    "epgId": "AsharqDiscovery.sa",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "asharqdocumentary-sa",
+    "name": "Asharq Documentary",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Documentary",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/v6VsFEt.png",
+    "epgId": "AsharqDocumentary.sa",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "asharqnews-sa",
+    "name": "Asharq News",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Business",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/bqRC3sl.png",
+    "epgId": "AsharqNews.sa",
+    "streams": [
+      {
+        "url": "https://live-news.asharq.com/asharq.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "asharqnews-sa",
+    "name": "Asharq News",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Business",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/bqRC3sl.png",
+    "epgId": "AsharqNews.sa",
+    "streams": [
+      {
+        "url": "https://live-news.asharq.com/asharq.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "asharqnews-sa",
+    "name": "Asharq News",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Business",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/bqRC3sl.png",
+    "epgId": "AsharqNews.sa",
+    "streams": [
+      {
+        "url": "https://live-news.asharq.com/asharq.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "asharqnews-sa",
+    "name": "Asharq News",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Business",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/bqRC3sl.png",
+    "epgId": "AsharqNews.sa",
+    "streams": [
+      {
+        "url": "https://live-news.asharq.com/asharq.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "asharqradio-sa",
+    "name": "Asharq Radio",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Business",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/M6K8cD3.jpeg",
+    "epgId": "AsharqRadio.sa",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atfalmawahebtv-sa",
+    "name": "Atfal & Mawaheb TV",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Kids",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Y2BqP9m.png",
+    "epgId": "AtfalMawahebTV.sa",
+    "streams": [
+      {
+        "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atfalmawahebtv-sa",
+    "name": "Atfal & Mawaheb TV",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Kids",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Y2BqP9m.png",
+    "epgId": "AtfalMawahebTV.sa",
+    "streams": [
+      {
+        "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "babalhara-sa",
+    "name": "Bab Al Hara",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Series",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/QtlnZbq.png",
+    "epgId": "BabAlHara.sa",
+    "streams": [
+      {
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bigtimeplus-sa",
+    "name": "Big Time Plus",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b",
+    "epgId": "BigTimePlus.sa",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "drpaltv-sa",
+    "name": "Dr Pal TV",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Dr%20Pal%20TV.jpeg",
+    "epgId": "DrPalTV.sa",
+    "streams": [
+      {
+        "url": "https://stream.cisk.tech/drpal/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fairuz-sa",
+    "name": "Fairuz",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png",
+    "epgId": "Fairuz.sa",
+    "streams": [
+      {
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "holyquranradio-sa",
+    "name": "Holy Quran Radio",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",
+    "epgId": "HolyQuranRadio.sa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "iqraaafricaeurope-sa",
+    "name": "Iqraa Africa & Europe",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/nUlZvSe.png",
+    "epgId": "IqraaAfricaEurope.sa",
+    "streams": [
+      {
+        "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "iqraaarabic-sa",
+    "name": "Iqraa Arabic",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/HPVsIa4.png",
+    "epgId": "IqraaArabic.sa",
+    "streams": [
+      {
+        "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "iqraaquran-sa",
+    "name": "Iqraa Quran",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/HPVsIa4.png",
+    "epgId": "IqraaQuran.sa",
+    "streams": [
+      {
+        "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jeddahradio-sa",
+    "name": "Jeddah Radio",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png",
+    "epgId": "JeddahRadio.sa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lbc-sa",
+    "name": "LBC",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
+    "epgId": "LBC.sa",
+    "streams": [
+      {
+        "url": "http://185.9.2.18/chid_327/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://rotana.net/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lbc-sa",
+    "name": "LBC",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
+    "epgId": "LBC.sa",
+    "streams": [
+      {
+        "url": "http://185.9.2.18/chid_327/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://rotana.net/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "majidalmohandis-sa",
+    "name": "Majid Al Mohandis",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg",
+    "epgId": "MajidAlMohandis.sa",
+    "streams": [
+      {
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "makkahtv-sa",
+    "name": "Makkah TV",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.ibb.co/r2k71w5N/download.png",
+    "epgId": "MakkahTV.sa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "makkahtv-sa",
+    "name": "Makkah TV",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.ibb.co/r2k71w5N/download.png",
+    "epgId": "MakkahTV.sa",
+    "streams": [
+      {
+        "url": "https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://www.dens.tv/",
+        "userAgent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maraya-sa",
+    "name": "Maraya",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Series",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png",
+    "epgId": "Maraya.sa",
+    "streams": [
+      {
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcloud-sa",
+    "name": "MBC Loud",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/mptwwLs.png",
+    "epgId": "MBCLoud.sa",
+    "streams": [
+      {
+        "url": "https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcmasrdrama-sa",
+    "name": "MBC Masr Drama",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Series",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
+    "epgId": "MBCMasrDrama.sa",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcmood-sa",
+    "name": "MBC Mood",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png",
+    "epgId": "MBCMood.sa",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcmood-sa",
+    "name": "MBC Mood",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png",
+    "epgId": "MBCMood.sa",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcplusdrama-sa",
+    "name": "MBC+ Drama",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Movies",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/lxWdjXG.png",
+    "epgId": "MBCPlusDrama.sa",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mohammedabdo-sa",
+    "name": "Mohammed Abdo",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png",
+    "epgId": "MohammedAbdo.sa",
+    "streams": [
+      {
+        "url": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moviesaction-sa",
+    "name": "Movies Action",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Movies",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/NIVhISa.png",
+    "epgId": "MoviesAction.sa",
+    "streams": [
+      {
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moviesthriller-sa",
+    "name": "Movies Thriller",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Movies",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/JWihdcl.png",
+    "epgId": "MoviesThriller.sa",
+    "streams": [
+      {
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nidaealislamradio-sa",
+    "name": "Nidae AlIslam Radio",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png",
+    "epgId": "NidaeAlIslamRadio.sa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "panoramafm-sa",
+    "name": "Panorama FM",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/JkDD3bK.png",
+    "epgId": "PanoramaFM.sa",
+    "streams": [
+      {
+        "url": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "panoramafm-sa",
+    "name": "Panorama FM",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/JkDD3bK.png",
+    "epgId": "PanoramaFM.sa",
+    "streams": [
+      {
+        "url": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rabehsaqer-sa",
+    "name": "Rabeh Saqer",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png",
+    "epgId": "RabehSaqer.sa",
+    "streams": [
+      {
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rashidalmajed-sa",
+    "name": "Rashid AlMajed",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp",
+    "epgId": "RashidAlMajed.sa",
+    "streams": [
+      {
+        "url": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rotanacinemaksa-sa",
+    "name": "Rotana Cinema KSA",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Movies",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/pGgp38I.png",
+    "epgId": "RotanaCinemaKSA.sa",
+    "streams": [
+      {
+        "url": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://rotana.net/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rotanaclassic-sa",
+    "name": "Rotana Classic",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Classic",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/pMMUvkt.png",
+    "epgId": "RotanaClassic.sa",
+    "streams": [
+      {
+        "url": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://rotana.net/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rotanaclip-sa",
+    "name": "Rotana Clip",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/nhREk0o.png",
+    "epgId": "RotanaClip.sa",
+    "streams": [
+      {
+        "url": "https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://rotana.net/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rotanacomedy-sa",
+    "name": "Rotana Comedy",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Comedy",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/IlT8U6S.png",
+    "epgId": "RotanaComedy.sa",
+    "streams": [
+      {
+        "url": "https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://rotana.net/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rotanadrama-sa",
+    "name": "Rotana Drama",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Series",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/btnhPjZ.png",
+    "epgId": "RotanaDrama.sa",
+    "streams": [
+      {
+        "url": "https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://rotana.net/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rotanakhalijia-sa",
+    "name": "Rotana Khalijia",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/6HMluzv.png",
+    "epgId": "RotanaKhalijia.sa",
+    "streams": [
+      {
+        "url": "https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://rotana.net/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rotanamusic-sa",
+    "name": "Rotana Music",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/2zFQbQi.png",
+    "epgId": "RotanaMusic.sa",
+    "streams": [
+      {
+        "url": "https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://rotana.net/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "saudiaradio-sa",
+    "name": "Saudia Radio",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/32/f9/fullhd_4c7e170fe0169d36ed17d45a645d4e69fb961793.png",
+    "epgId": "SaudiaRadio.sa",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "saudithaqafiyatv-sa",
+    "name": "Saudi Thaqafiya TV",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Culture",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg",
+    "epgId": "SaudiThaqafiyaTV.sa",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sbc-sa",
+    "name": "SBC",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/9JSQglj.png",
+    "epgId": "SBC.sa",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tarab-sa",
+    "name": "Tarab",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Music",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png",
+    "epgId": "Tarab.sa",
+    "streams": [
+      {
+        "url": "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thikrayattv-sa",
+    "name": "Thikrayat TV",
+    "country": "SA",
+    "countryName": "Saudi Arabia",
+    "category": "Classic",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/AKa1X9d.png",
+    "epgId": "ThikrayatTV.sa",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   }

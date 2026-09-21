@@ -1,0 +1,134 @@
+[
+  {
+    "id": "canal3-bf",
+    "name": "Canal 3",
+    "country": "BF",
+    "countryName": "Burkina Faso",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/WIrVAa2.png",
+    "epgId": "Canal3.bf",
+    "streams": [
+      {
+        "url": "https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "filinfotv-bf",
+    "name": "Filinfo TV",
+    "country": "BF",
+    "countryName": "Burkina Faso",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/KG93Tvn.png",
+    "epgId": "FilinfoTV.bf",
+    "streams": [
+      {
+        "url": "https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "impacttv-bf",
+    "name": "Impact TV",
+    "country": "BF",
+    "countryName": "Burkina Faso",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/nynh5LY.png",
+    "epgId": "ImpactTV.bf",
+    "streams": [
+      {
+        "url": "https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtb3-bf",
+    "name": "RTB 3",
+    "country": "BF",
+    "countryName": "Burkina Faso",
+    "category": "Culture",
+    "language": "mos",
+    "languageName": "Mossi",
+    "logo": "https://i.imgur.com/OFZm8ic.png",
+    "epgId": "RTB3.bf",
+    "streams": [
+      {
+        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtb-bf",
+    "name": "RTB",
+    "country": "BF",
+    "countryName": "Burkina Faso",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/BFfLV0y.png",
+    "epgId": "RTB.bf",
+    "streams": [
+      {
+        "url": "https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "savanetv-bf",
+    "name": "Savane TV",
+    "country": "BF",
+    "countryName": "Burkina Faso",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/mv3S1Zc.png",
+    "epgId": "SavaneTV.bf",
+    "streams": [
+      {
+        "url": "https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

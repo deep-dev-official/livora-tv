@@ -1,0 +1,412 @@
+[
+  {
+    "id": "asiatv-lk",
+    "name": "Asia TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "Entertainment",
+    "language": "sin",
+    "languageName": "Sinhala",
+    "logo": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
+    "epgId": "AsiaTV.lk",
+    "streams": [
+      {
+        "url": "https://stream.asiatvnet.com/1/live/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "charanatv-lk",
+    "name": "Charana TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "Education",
+    "language": "sin",
+    "languageName": "Sinhala",
+    "logo": "",
+    "epgId": "CharanaTV.lk",
+    "streams": [
+      {
+        "url": "https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hirutv-lk",
+    "name": "Hiru TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "Entertainment",
+    "language": "sin",
+    "languageName": "Sinhala",
+    "logo": "https://i.imgur.com/M66UqPB.png",
+    "epgId": "HiruTV.lk",
+    "streams": [
+      {
+        "url": "https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "imaitv-lk",
+    "name": "Imai TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "Culture",
+    "language": "tam",
+    "languageName": "Tamil",
+    "logo": "https://i.imgur.com/9tODclu.png",
+    "epgId": "ImaiTV.lk",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jayatv-lk",
+    "name": "Jaya TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "Religious",
+    "language": "sin",
+    "languageName": "Sinhala",
+    "logo": "https://i.imgur.com/J8NA1i9.jpeg",
+    "epgId": "JayaTV.lk",
+    "streams": [
+      {
+        "url": "https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.jayatv.lk/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jayatv-lk",
+    "name": "Jaya TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "Religious",
+    "language": "sin",
+    "languageName": "Sinhala",
+    "logo": "https://i.imgur.com/J8NA1i9.jpeg",
+    "epgId": "JayaTV.lk",
+    "streams": [
+      {
+        "url": "https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.jayatv.lk/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "monaratv-lk",
+    "name": "Monara TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "Entertainment",
+    "language": "tam",
+    "languageName": "Tamil",
+    "logo": "https://i.imgur.com/EB99mzR.png",
+    "epgId": "MonaraTV.lk",
+    "streams": [
+      {
+        "url": "https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ndtvlanka-lk",
+    "name": "NDTV LANKA",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "Entertainment",
+    "language": "tam",
+    "languageName": "Tamil",
+    "logo": "https://i.imgur.com/5cyTVRJ.png",
+    "epgId": "NDTVLANKA.lk",
+    "streams": [
+      {
+        "url": "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "shakthitv-lk",
+    "name": "Shakthi TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "General",
+    "language": "tam",
+    "languageName": "Tamil",
+    "logo": "https://i.imgur.com/RX6IwK8.png",
+    "epgId": "ShakthiTV.lk",
+    "streams": [
+      {
+        "url": "https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "shraddhatv-lk",
+    "name": "Shraddha TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "General",
+    "language": "sin",
+    "languageName": "Sinhala",
+    "logo": "https://i.imgur.com/sZ3fEMi.png",
+    "epgId": "ShraddhaTV.lk",
+    "streams": [
+      {
+        "url": "https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "siyathatv-lk",
+    "name": "Siyatha TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "General",
+    "language": "sin",
+    "languageName": "Sinhala",
+    "logo": "https://i.imgur.com/9Zc8G7i.png",
+    "epgId": "SiyathaTV.lk",
+    "streams": [
+      {
+        "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "startamiltelevision-lk",
+    "name": "Star Tamil Television",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "Movies",
+    "language": "tam",
+    "languageName": "Tamil",
+    "logo": "https://i.imgur.com/fjHcr9z.jpg",
+    "epgId": "StarTamilTelevision.lk",
+    "streams": [
+      {
+        "url": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "swarnavahini-lk",
+    "name": "Swarnavahini",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "General",
+    "language": "sin",
+    "languageName": "Sinhala",
+    "logo": "https://i.imgur.com/0hnpeq9.png",
+    "epgId": "Swarnavahini.lk",
+    "streams": [
+      {
+        "url": "https://teledrama.ebc.lk/TTT/proxy.php",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "talenttv-lk",
+    "name": "Talent TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://talenttv.lk/logo-footer.png",
+    "epgId": "TalentTV.lk",
+    "streams": [
+      {
+        "url": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "talenttv-lk",
+    "name": "Talent TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "Sports",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://talenttv.lk/logo-footer.png",
+    "epgId": "TalentTV.lk",
+    "streams": [
+      {
+        "url": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thebuddhist-lk",
+    "name": "The Buddhist",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "General",
+    "language": "sin",
+    "languageName": "Sinhala",
+    "logo": "https://i.imgur.com/DUzOKWM.png",
+    "epgId": "TheBuddhist.lk",
+    "streams": [
+      {
+        "url": "https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "verbumtv-lk",
+    "name": "Verbum TV",
+    "country": "LK",
+    "countryName": "Sri Lanka",
+    "category": "General",
+    "language": "tam",
+    "languageName": "Tamil",
+    "logo": "https://i.imgur.com/YEKEaB4.png",
+    "epgId": "VerbumTV.lk",
+    "streams": [
+      {
+        "url": "https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

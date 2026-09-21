@@ -1,0 +1,90 @@
+[
+  {
+    "id": "almasirah-ye",
+    "name": "Al Masirah",
+    "country": "YE",
+    "countryName": "Yemen",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/V055t5e.png",
+    "epgId": "AlMasirah.ye",
+    "streams": [
+      {
+        "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "almasirahmubacher-ye",
+    "name": "Al Masirah Mubacher",
+    "country": "YE",
+    "countryName": "Yemen",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/0xHb3XM.jpg",
+    "epgId": "AlMasirahMubacher.ye",
+    "streams": [
+      {
+        "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "642p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alsahattv-ye",
+    "name": "Al-Sahat TV",
+    "country": "YE",
+    "countryName": "Yemen",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/UVndAta.png",
+    "epgId": "AlSahatTV.ye",
+    "streams": [
+      {
+        "url": "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yementodaytv-ye",
+    "name": "Yemen Today TV",
+    "country": "YE",
+    "countryName": "Yemen",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/8TzcJu5.png",
+    "epgId": "YemenTodayTV.ye",
+    "streams": [
+      {
+        "url": "https://video.yementdy.tv/hls/yementoday.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,328 @@
+[
+  {
+    "id": "haitinewschannel-ht",
+    "name": "Haiti News Channel",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
+    "epgId": "HaitiNewsChannel.ht",
+    "streams": [
+      {
+        "url": "https://cdn.haititivi.com/website/haitinews/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://haititivi.com/website/haitinews/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "haitinewschannel-ht",
+    "name": "Haiti News Channel",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
+    "epgId": "HaitiNewsChannel.ht",
+    "streams": [
+      {
+        "url": "https://cdn.haititivi.com/website/haitinews/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://haititivi.com/website/haitinews/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "netalkoletv-ht",
+    "name": "Netalkole TV",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/SdVrpzY.png",
+    "epgId": "NetalkoleTV.ht",
+    "streams": [
+      {
+        "url": "https://watch.haitilive.net/naktvhd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiotele4veh-ht",
+    "name": "Radio Tele 4VEH",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/AnOjqaS.png",
+    "epgId": "RadioTele4VEH.ht",
+    "streams": [
+      {
+        "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioteleamenfm-ht",
+    "name": "Radio Tele Amen FM",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/MTaFdHE.png",
+    "epgId": "RadioTeleAmenFM.ht",
+    "streams": [
+      {
+        "url": "http://184.173.179.163:1935/daniel/daniel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiotelefullgospel-ht",
+    "name": "Radio Tele Full Gospel",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/WbwIp9y.jpeg",
+    "epgId": "RadioTeleFullGospel.ht",
+    "streams": [
+      {
+        "url": "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioteleginen-ht",
+    "name": "Radio Tele Ginen",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/ESlt16G.png",
+    "epgId": "RadioTeleGinen.ht",
+    "streams": [
+      {
+        "url": "http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiotelehit-ht",
+    "name": "Radio Tele Hit",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "Music",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",
+    "epgId": "RadioTeleHit.ht",
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioteleplanetcompas-ht",
+    "name": "Radio Tele Planet Compas",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/ddb4lsa.png",
+    "epgId": "RadioTelePlanetCompas.ht",
+    "streams": [
+      {
+        "url": "https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiotelevisionshilo-ht",
+    "name": "Radio Television Shilo",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://cdn.onlineradiobox.com/img/l/0/98960.v3.png",
+    "epgId": "RadioTelevisionShilo.ht",
+    "streams": [
+      {
+        "url": "https://watch.haitilive.net/freehb/rtvs/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telehaiti-ht",
+    "name": "Tele Haiti",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/Hso9j58.png",
+    "epgId": "TeleHaiti.ht",
+    "streams": [
+      {
+        "url": "http://66.175.238.147:1935/live/myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1088p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telelouange-ht",
+    "name": "Tele Louange",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "Religious",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/DjnMUuL.png",
+    "epgId": "TeleLouange.ht",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tnh-ht",
+    "name": "TNH",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "General",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/8nvCXzt.png",
+    "epgId": "TNH.ht",
+    "streams": [
+      {
+        "url": "https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvpanou-ht",
+    "name": "TV Panou",
+    "country": "HT",
+    "countryName": "Haiti",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/zee6sWn.png",
+    "epgId": "TVPanou.ht",
+    "streams": [
+      {
+        "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

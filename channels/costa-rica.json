@@ -1,0 +1,2544 @@
+[
+  {
+    "id": "88stereo-cr",
+    "name": "88 Stereo",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/i3YwORV.png",
+    "epgId": "88Stereo.cr",
+    "streams": [
+      {
+        "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "360rftv-cr",
+    "name": "360 RFTV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/EBtgnxR.png",
+    "epgId": "360RFTV.cr",
+    "streams": [
+      {
+        "url": "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "agrotendenciatv-cr",
+    "name": "Agrotendencia TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Outdoor",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/frd60hR.png",
+    "epgId": "AgrotendenciaTV.cr",
+    "streams": [
+      {
+        "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "antenaseistv-cr",
+    "name": "Antena Seis TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/9Nh2mo9.png",
+    "epgId": "AntenaSeisTV.cr",
+    "streams": [
+      {
+        "url": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bestclasicostv-cr",
+    "name": "BestClasicosTV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/a/BRb8AVL.png",
+    "epgId": "BestClasicosTV.cr",
+    "streams": [
+      {
+        "url": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bestclasicostv-cr",
+    "name": "BestClasicosTV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/a/BRb8AVL.png",
+    "epgId": "BestClasicosTV.cr",
+    "streams": [
+      {
+        "url": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bestclasicostv-cr",
+    "name": "BestClasicosTV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/a/BRb8AVL.png",
+    "epgId": "BestClasicosTV.cr",
+    "streams": [
+      {
+        "url": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal1-cr",
+    "name": "Canal 1",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png",
+    "epgId": "Canal1.cr",
+    "streams": [
+      {
+        "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal2-cr",
+    "name": "Canal 2",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Nn8BtH5.png",
+    "epgId": "Canal2.cr",
+    "streams": [
+      {
+        "url": "https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal2-cr",
+    "name": "Canal 2",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Nn8BtH5.png",
+    "epgId": "Canal2.cr",
+    "streams": [
+      {
+        "url": "https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal3kmktv-cr",
+    "name": "Canal 3 KMK TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/sgRDRBK.jpg",
+    "epgId": "Canal3KMKTV.cr",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal4-cr",
+    "name": "Canal 4",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/5arZEgO.png",
+    "epgId": "Canal4.cr",
+    "streams": [
+      {
+        "url": "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.186.106.207:8000/play/a09t/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal4-cr",
+    "name": "Canal 4",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/5arZEgO.png",
+    "epgId": "Canal4.cr",
+    "streams": [
+      {
+        "url": "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.186.106.207:8000/play/a09t/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal4-cr",
+    "name": "Canal 4",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/5arZEgO.png",
+    "epgId": "Canal4.cr",
+    "streams": [
+      {
+        "url": "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.186.106.207:8000/play/a09t/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal6-cr",
+    "name": "Canal 6",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nfKJftW.png",
+    "epgId": "Canal6.cr",
+    "streams": [
+      {
+        "url": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.5.118.188:8000/play/a02x/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal6-cr",
+    "name": "Canal 6",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nfKJftW.png",
+    "epgId": "Canal6.cr",
+    "streams": [
+      {
+        "url": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.5.118.188:8000/play/a02x/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal6-cr",
+    "name": "Canal 6",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nfKJftW.png",
+    "epgId": "Canal6.cr",
+    "streams": [
+      {
+        "url": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.5.118.188:8000/play/a02x/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal8-cr",
+    "name": "Canal 8",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nefPi2Y.png",
+    "epgId": "Canal8.cr",
+    "streams": [
+      {
+        "url": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal10-cr",
+    "name": "Canal 10",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TO6WQbW.png",
+    "epgId": "Canal10.cr",
+    "streams": [
+      {
+        "url": "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal10-cr",
+    "name": "Canal 10",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TO6WQbW.png",
+    "epgId": "Canal10.cr",
+    "streams": [
+      {
+        "url": "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal11-cr",
+    "name": "Canal 11",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png",
+    "epgId": "Canal11.cr",
+    "streams": [
+      {
+        "url": "https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.5.117.188:8000/play/a02w/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal11-cr",
+    "name": "Canal 11",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png",
+    "epgId": "Canal11.cr",
+    "streams": [
+      {
+        "url": "https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.5.117.188:8000/play/a02w/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal11-cr",
+    "name": "Canal 11",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png",
+    "epgId": "Canal11.cr",
+    "streams": [
+      {
+        "url": "https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://45.5.117.188:8000/play/a02w/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cartagomediostv-cr",
+    "name": "Cartago Medios TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Vcd40AL.png",
+    "epgId": "CartagoMediosTV.cr",
+    "streams": [
+      {
+        "url": "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "colosaltv-cr",
+    "name": "Colosal TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/0DZB3eB.png",
+    "epgId": "ColosalTV.cr",
+    "streams": [
+      {
+        "url": "http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "colosaltv-cr",
+    "name": "Colosal TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/0DZB3eB.png",
+    "epgId": "ColosalTV.cr",
+    "streams": [
+      {
+        "url": "http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "conexionpositivatelevision-cr",
+    "name": "Conexion Positiva Television",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/HSSyRDs/conexion-positiva.png",
+    "epgId": "ConexionPositivaTelevision.cr",
+    "streams": [
+      {
+        "url": "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "costaricachannel-cr",
+    "name": "Costa Rica Channel",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Culture",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/N4pFVVF.png",
+    "epgId": "CostaRicaChannel.cr",
+    "streams": [
+      {
+        "url": "https://video0.rogohosting.com:19360/8006/8006.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cotobrustv-cr",
+    "name": "Coto Brus TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png",
+    "epgId": "CotoBrusTV.cr",
+    "streams": [
+      {
+        "url": "https://cloudvideo.servers10.com:8081/8030/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cristovisioncanal31-cr",
+    "name": "Cristo Vision Canal 31",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/CFXZ8j0.png",
+    "epgId": "CristoVisionCanal31.cr",
+    "streams": [
+      {
+        "url": "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "enlace-cr",
+    "name": "Enlace",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YwUVTmS.png",
+    "epgId": "Enlace.cr",
+    "streams": [
+      {
+        "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://177.234.247.66:9975/Enlace/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/ENLACE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "enlace-cr",
+    "name": "Enlace",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YwUVTmS.png",
+    "epgId": "Enlace.cr",
+    "streams": [
+      {
+        "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://177.234.247.66:9975/Enlace/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/ENLACE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "enlace-cr",
+    "name": "Enlace",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YwUVTmS.png",
+    "epgId": "Enlace.cr",
+    "streams": [
+      {
+        "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://177.234.247.66:9975/Enlace/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://138.121.15.230:9002/ENLACE/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "enlacejuvenil-cr",
+    "name": "Enlace Juvenil",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/GfpPQ5D.png",
+    "epgId": "EnlaceJuvenil.cr",
+    "streams": [
+      {
+        "url": "https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "extratv42-cr",
+    "name": "Extra TV 42",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jjTodXj.png",
+    "epgId": "ExtraTV42.cr",
+    "streams": [
+      {
+        "url": "https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "extremakidstv-cr",
+    "name": "Extrema Kids TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg",
+    "epgId": "ExtremaKidsTV.cr",
+    "streams": [
+      {
+        "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "extrematv-cr",
+    "name": "Extrema TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/E9AuhOU.png",
+    "epgId": "ExtremaTV.cr",
+    "streams": [
+      {
+        "url": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "futv-cr",
+    "name": "FUTV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/f8BkLql.png",
+    "epgId": "FUTV.cr",
+    "streams": [
+      {
+        "url": "http://190.61.90.17:40000/play/a03v/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gamtvcr-cr",
+    "name": "GAMTV.cr",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/xFCS7wM/GAMTVCR.png",
+    "epgId": "GAMTVcr.cr",
+    "streams": [
+      {
+        "url": "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "garabitotv-cr",
+    "name": "Garabito TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/sAYNKJ8.png",
+    "epgId": "GarabitoTV.cr",
+    "streams": [
+      {
+        "url": "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gextv-cr",
+    "name": "Gex TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://gextv.com/LOGO-WHITE.png",
+    "epgId": "GexTV.cr",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "guatusotv-cr",
+    "name": "Guatuso TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://www.grupodgrajal.com/images/logoguatusochannel.png",
+    "epgId": "GuatusoTV.cr",
+    "streams": [
+      {
+        "url": "https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "impactchannel-cr",
+    "name": "Impact Channel",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YRRID7W.png",
+    "epgId": "ImpactChannel.cr",
+    "streams": [
+      {
+        "url": "https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "iqchannel-cr",
+    "name": "IQ Channel",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/hwuaomt.png",
+    "epgId": "IQChannel.cr",
+    "streams": [
+      {
+        "url": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lapotenteradiotv-cr",
+    "name": "La Potente Radio TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ti5Fg5D.png",
+    "epgId": "LaPotenteRadioTV.cr",
+    "streams": [
+      {
+        "url": "https://latamvdo.com:3626/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "limontv-cr",
+    "name": "Limon TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/rdpcv7C/1689421727166.jpg",
+    "epgId": "LimonTV.cr",
+    "streams": [
+      {
+        "url": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lossantostv-cr",
+    "name": "Los Santos TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/5xw86wu.png",
+    "epgId": "LosSantosTV.cr",
+    "streams": [
+      {
+        "url": "https://lstv.duckdns.org:449/hls/lstv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tiquiciatv.com/hls/lstv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "https://lossantostv.com",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lossantostv-cr",
+    "name": "Los Santos TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/5xw86wu.png",
+    "epgId": "LosSantosTV.cr",
+    "streams": [
+      {
+        "url": "https://lstv.duckdns.org:449/hls/lstv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tiquiciatv.com/hls/lstv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "https://lossantostv.com",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "luznacientetv-cr",
+    "name": "Luz Naciente TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/GC2lubh.png",
+    "epgId": "LuzNacienteTV.cr",
+    "streams": [
+      {
+        "url": "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nicoyatv-cr",
+    "name": "NicoyaTV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Lj2jRn3.png",
+    "epgId": "NicoyaTV.cr",
+    "streams": [
+      {
+        "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "norteinformativotv-cr",
+    "name": "Norte Informativo TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg",
+    "epgId": "NorteInformativoTV.cr",
+    "streams": [
+      {
+        "url": "https://videohd.live:19360/8076/8076.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "opa-cr",
+    "name": "¡OPA!",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/300c1ZH.png",
+    "epgId": "OPA.cr",
+    "streams": [
+      {
+        "url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "opa-cr",
+    "name": "¡OPA!",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/300c1ZH.png",
+    "epgId": "OPA.cr",
+    "streams": [
+      {
+        "url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "quinceucr-cr",
+    "name": "Quince UCR",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/U7DUlem.png",
+    "epgId": "QuinceUCR.cr",
+    "streams": [
+      {
+        "url": "http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "quinceucr-cr",
+    "name": "Quince UCR",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/U7DUlem.png",
+    "epgId": "QuinceUCR.cr",
+    "streams": [
+      {
+        "url": "http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioturrialbatvsports-cr",
+    "name": "Radio Turrialba TV Sports",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/2ZcUXbE.png",
+    "epgId": "RadioTurrialbaTVSports.cr",
+    "streams": [
+      {
+        "url": "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://iblups.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://sc1.escuela4.com/live/d7316d659b5a77fb8719d49330315886807b02b0.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://www.radioturrialba.com/p/radio-turrialba-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radioturrialbatvsports-cr",
+    "name": "Radio Turrialba TV Sports",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/2ZcUXbE.png",
+    "epgId": "RadioTurrialbaTVSports.cr",
+    "streams": [
+      {
+        "url": "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://iblups.com/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://sc1.escuela4.com/live/d7316d659b5a77fb8719d49330315886807b02b0.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://www.radioturrialba.com/p/radio-turrialba-en-vivo.html",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "retroxtv-cr",
+    "name": "Retrox TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Classic",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/viJBL6f.png",
+    "epgId": "RetroxTV.cr",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "retroxtv-cr",
+    "name": "Retrox TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Classic",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/viJBL6f.png",
+    "epgId": "RetroxTV.cr",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "retroxtv-cr",
+    "name": "Retrox TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Classic",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/viJBL6f.png",
+    "epgId": "RetroxTV.cr",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rttv-cr",
+    "name": "RTTV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/eTfsCCq.png",
+    "epgId": "RTTV.cr",
+    "streams": [
+      {
+        "url": "https://cloudvideo.servers10.com:19360/8212/8212.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sanjosetv-cr",
+    "name": "San Jose TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
+    "epgId": "SanJoseTV.cr",
+    "streams": [
+      {
+        "url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sanvitotelevision-cr",
+    "name": "San Vito Television",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Yd7JOxr.png",
+    "epgId": "SanVitoTelevision.cr",
+    "streams": [
+      {
+        "url": "https://stream.lamegatv.com/hls/sanvitotelevision/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sarapiquitv-cr",
+    "name": "Sarapiqui TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/obTnd32.png",
+    "epgId": "SarapiquiTV.cr",
+    "streams": [
+      {
+        "url": "http://tiquiciatv.com:1935/stv/web/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lstv.duckdns.org:449/hls/stv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sarapiquitv-cr",
+    "name": "Sarapiqui TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/obTnd32.png",
+    "epgId": "SarapiquiTV.cr",
+    "streams": [
+      {
+        "url": "http://tiquiciatv.com:1935/stv/web/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lstv.duckdns.org:449/hls/stv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "soyplanchatv-cr",
+    "name": "SOY Plancha TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+    "epgId": "SOYPlanchaTV.cr",
+    "streams": [
+      {
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "supercable-cr",
+    "name": "Super Cable",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/KYtJp8F.png",
+    "epgId": "SuperCable.cr",
+    "streams": [
+      {
+        "url": "http://191.102.39.254:5000/live/5up3r5/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tdtv-cr",
+    "name": "TDtv",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/OFSOvpd.jpg",
+    "epgId": "TDtv.cr",
+    "streams": [
+      {
+        "url": "https://cloudvideo.servers10.com:8081/8230/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telebrunca-cr",
+    "name": "TeleBrunca",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/m3xu6Ms.png",
+    "epgId": "TeleBrunca.cr",
+    "streams": [
+      {
+        "url": "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemas-cr",
+    "name": "TeleMas",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/5Rc8mA5.png",
+    "epgId": "TeleMas.cr",
+    "streams": [
+      {
+        "url": "https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telemas-cr",
+    "name": "TeleMas",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/5Rc8mA5.png",
+    "epgId": "TeleMas.cr",
+    "streams": [
+      {
+        "url": "https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleredtelevision-cr",
+    "name": "Telered Television",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/cIvfnsa.jpg",
+    "epgId": "TeleredTelevision.cr",
+    "streams": [
+      {
+        "url": "https://k20.usastreams.com:8081/telered/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://teleredtelevision.com/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesurcostarica-cr",
+    "name": "TeleSUR Costa Rica",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/KUpgeOf.png",
+    "epgId": "TeleSURCostaRica.cr",
+    "streams": [
+      {
+        "url": "https://s1.tvdatta.com:3582/live/telesurlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teletica7-cr",
+    "name": "Teletica 7",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ctnvE3c.png",
+    "epgId": "Teletica7.cr",
+    "streams": [
+      {
+        "url": "https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.101.11:7050/play/a07t/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teletica7-cr",
+    "name": "Teletica 7",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ctnvE3c.png",
+    "epgId": "Teletica7.cr",
+    "streams": [
+      {
+        "url": "https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://190.61.101.11:7050/play/a07t/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleuno-cr",
+    "name": "Tele Uno",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/eRwYxc2.png",
+    "epgId": "TeleUno.cr",
+    "streams": [
+      {
+        "url": "http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleuno-cr",
+    "name": "Tele Uno",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/eRwYxc2.png",
+    "epgId": "TeleUno.cr",
+    "streams": [
+      {
+        "url": "http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ticavision-cr",
+    "name": "TicaVision",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/mev90pC.jpg",
+    "epgId": "TicaVision.cr",
+    "streams": [
+      {
+        "url": "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tigosports-cr",
+    "name": "Tigo Sports",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/UrsLSRs.png",
+    "epgId": "TigoSports.cr",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trivision36-cr",
+    "name": "Trivision 36",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/aadWnIx.jpg",
+    "epgId": "Trivision36.cr",
+    "streams": [
+      {
+        "url": "https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://player.instantvideocloud.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvn14-cr",
+    "name": "TVN 14",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/1aNEo6U.png",
+    "epgId": "TVN14.cr",
+    "streams": [
+      {
+        "url": "http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvsurcanal9-cr",
+    "name": "TV Sur Canal 9",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7HbISMV.png",
+    "epgId": "TVSurCanal9.cr",
+    "streams": [
+      {
+        "url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "620p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvsurcanal14-cr",
+    "name": "TV Sur Canal 14",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/OpHYYZA.png",
+    "epgId": "TVSurCanal14.cr",
+    "streams": [
+      {
+        "url": "https://k20.usastreams.com:8081/tvsur/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "urbanotv-cr",
+    "name": "Urbano TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/KVVU9PI.png",
+    "epgId": "UrbanoTV.cr",
+    "streams": [
+      {
+        "url": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "videotourchannel-cr",
+    "name": "Video Tour Channel",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/zEi8eMC.png",
+    "epgId": "VideoTourChannel.cr",
+    "streams": [
+      {
+        "url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "videotourchannel-cr",
+    "name": "Video Tour Channel",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/zEi8eMC.png",
+    "epgId": "VideoTourChannel.cr",
+    "streams": [
+      {
+        "url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vintagemusic-cr",
+    "name": "Vintage Music",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/KImqYnN.jpeg",
+    "epgId": "VintageMusic.cr",
+    "streams": [
+      {
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vmlatino-cr",
+    "name": "VM Latino",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Dvo1b82.png",
+    "epgId": "VMLatino.cr",
+    "streams": [
+      {
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "voiceoverradiotv-cr",
+    "name": "VoiceOver Radio TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HzGs1Eh.png",
+    "epgId": "VoiceOverRadioTV.cr",
+    "streams": [
+      {
+        "url": "https://cloudvideo.servers10.com:8081/8198/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zonamusictv-cr",
+    "name": "Zona Music TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TJ5l9iI.png",
+    "epgId": "ZonaMusicTV.cr",
+    "streams": [
+      {
+        "url": "https://acceso.radiosportstv.online:3022/stream/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zurquitv-cr",
+    "name": "Zurqui TV",
+    "country": "CR",
+    "countryName": "Costa Rica",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/XvktUBB.jpg",
+    "epgId": "ZurquiTV.cr",
+    "streams": [
+      {
+        "url": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

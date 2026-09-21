@@ -1,0 +1,2006 @@
+[
+  {
+    "id": "abejalestv-ve",
+    "name": "AbejalesTV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800",
+    "epgId": "AbejalesTV.ve",
+    "streams": [
+      {
+        "url": "https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aguacatetv-ve",
+    "name": "Aguacate TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+    "epgId": "AguacateTV.ve",
+    "streams": [
+      {
+        "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alcancetv-ve",
+    "name": "Alcance TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/veeuqS1.png",
+    "epgId": "AlcanceTV.ve",
+    "streams": [
+      {
+        "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "anzoateguitv-ve",
+    "name": "Anzoategui TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/SLqrEOz.png",
+    "epgId": "AnzoateguiTV.ve",
+    "streams": [
+      {
+        "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "as3sporttv-ve",
+    "name": "AS3 Sport TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
+    "epgId": "AS3SportTV.ve",
+    "streams": [
+      {
+        "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "audaztv-ve",
+    "name": "Audaz TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QtCgtZq.jpg",
+    "epgId": "AudazTV.ve",
+    "streams": [
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "432p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "barinastv-ve",
+    "name": "Barinas TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png",
+    "epgId": "BarinasTV.ve",
+    "streams": [
+      {
+        "url": "https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btatv-ve",
+    "name": "BTA TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vygOosC.png",
+    "epgId": "BTATV.ve",
+    "streams": [
+      {
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canal21tachira-ve",
+    "name": "Canal 21 Tachira",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/7Tb7CF4.jpg",
+    "epgId": "Canal21Tachira.ve",
+    "streams": [
+      {
+        "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalcdelzulia-ve",
+    "name": "Canal C del Zulia",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/ew44KOZ.png",
+    "epgId": "CanalCdelZulia.ve",
+    "streams": [
+      {
+        "url": "https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "https://canalc.vercel.app",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canaldiplomatico-ve",
+    "name": "Canal Diplomatico",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Culture",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png",
+    "epgId": "CanalDiplomatico.ve",
+    "streams": [
+      {
+        "url": "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canali-ve",
+    "name": "Canal I",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vKfOavW.png",
+    "epgId": "CanalI.ve",
+    "streams": [
+      {
+        "url": "https://streaming.canal-i.com/canal-i/live/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "catatumbotv-ve",
+    "name": "Catatumbo TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/LBI2la0.png",
+    "epgId": "CatatumboTV.ve",
+    "streams": [
+      {
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "esportsmaxtv-ve",
+    "name": "eSports Max TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/OprRgQN.png",
+    "epgId": "eSportsMaxTV.ve",
+    "streams": [
+      {
+        "url": "https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "exctv-ve",
+    "name": "EXC TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Science",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Znd1Ml9.png",
+    "epgId": "EXCTV.ve",
+    "streams": [
+      {
+        "url": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "globaltv-ve",
+    "name": "GlobalTV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://imgur.com/hzM9D9L.jpg",
+    "epgId": "GlobalTV.ve",
+    "streams": [
+      {
+        "url": "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "globovision-ve",
+    "name": "Globovision",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/v6nRdxQ.png",
+    "epgId": "Globovision.ve",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a09k/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "grandetv-ve",
+    "name": "Grande TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jxCirrP.png",
+    "epgId": "GrandeTV.ve",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "grandetv-ve",
+    "name": "Grande TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jxCirrP.png",
+    "epgId": "GrandeTV.ve",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "guarotv-ve",
+    "name": "Guaro TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",
+    "epgId": "GuaroTV.ve",
+    "streams": [
+      {
+        "url": "https://stream.guarotv.net:3592/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "intertv-ve",
+    "name": "Inter TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg",
+    "epgId": "InterTV.ve",
+    "streams": [
+      {
+        "url": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "islatv-ve",
+    "name": "Isla TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/l11Ixhi.jpeg",
+    "epgId": "IslaTV.ve",
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "italianissimo-ve",
+    "name": "Italianissimo",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/JCpbUZB.png",
+    "epgId": "Italianissimo.ve",
+    "streams": [
+      {
+        "url": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kandelatv-ve",
+    "name": "KandelaTV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/cCFxyIp.jpg",
+    "epgId": "KandelaTV.ve",
+    "streams": [
+      {
+        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lapuracrematelevision-ve",
+    "name": "LaPuraCrema Television",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/EJf1eRt.png",
+    "epgId": "LaPuraCremaTelevision.ve",
+    "streams": [
+      {
+        "url": "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "laraenredes-ve",
+    "name": "Lara en Redes",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg",
+    "epgId": "LaraenRedes.ve",
+    "streams": [
+      {
+        "url": "https://streamtv.laraenredes.com:3020/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lateletuya-ve",
+    "name": "La Tele Tuya",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png",
+    "epgId": "LaTeleTuya.ve",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0fs/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "latinatv-ve",
+    "name": "Latina TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1",
+    "epgId": "LatinaTV.ve",
+    "streams": [
+      {
+        "url": "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lgdtelevision-ve",
+    "name": "LGD Television",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/a9E0DTY.jpeg",
+    "epgId": "LGDTelevision.ve",
+    "streams": [
+      {
+        "url": "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mastalk-ve",
+    "name": "Mas Talk",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/unE2LGz.jpg",
+    "epgId": "MasTalk.ve",
+    "streams": [
+      {
+        "url": "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maxanime-ve",
+    "name": "MAX Anime",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Animation",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/Oj3hEBh.jpg",
+    "epgId": "MAXAnime.ve",
+    "streams": [
+      {
+        "url": "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maximatv-ve",
+    "name": "Maxima TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/HMZRVL5.jpeg",
+    "epgId": "MaximaTV.ve",
+    "streams": [
+      {
+        "url": "https://maximatv.net/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "meridianotv-ve",
+    "name": "Meridiano TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Sports",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/I6gsUqD.png",
+    "epgId": "MeridianoTV.ve",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "monagasvision-ve",
+    "name": "Monagas Vision",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/yfgTa2d.png",
+    "epgId": "MonagasVision.ve",
+    "streams": [
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nortenatv-ve",
+    "name": "Nortena Tv",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Entertainment",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
+    "epgId": "NortenaTv.ve",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oasistelevision-ve",
+    "name": "Oasis Television",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/TEr1U90.png",
+    "epgId": "OasisTelevision.ve",
+    "streams": [
+      {
+        "url": "http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "onzatv-ve",
+    "name": "Onza TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/usrP6T2.png",
+    "epgId": "OnzaTV.ve",
+    "streams": [
+      {
+        "url": "https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "onzatv-ve",
+    "name": "Onza TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/usrP6T2.png",
+    "epgId": "OnzaTV.ve",
+    "streams": [
+      {
+        "url": "https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oxigenotv-ve",
+    "name": "Oxigeno TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Music",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/n3PweBQ.png",
+    "epgId": "OxigenoTV.ve",
+    "streams": [
+      {
+        "url": "https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ploustv-ve",
+    "name": "Plous TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Lifestyle",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/OSet4en.png",
+    "epgId": "PlousTV.ve",
+    "streams": [
+      {
+        "url": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "portuguesatelevision-ve",
+    "name": "Portuguesa Television",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jHUSfGz.png",
+    "epgId": "PortuguesaTelevision.ve",
+    "streams": [
+      {
+        "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "proclamaciontv-ve",
+    "name": "Proclamacion TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/8dt7awY.jpeg",
+    "epgId": "ProclamacionTV.ve",
+    "streams": [
+      {
+        "url": "https://video2.getstreamhosting.com:19360/8000/8000.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "promartv-ve",
+    "name": "PromarTV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png",
+    "epgId": "PromarTV.ve",
+    "streams": [
+      {
+        "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vcp.myplaytv.com/promar/promar/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "promartv-ve",
+    "name": "PromarTV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png",
+    "epgId": "PromarTV.ve",
+    "streams": [
+      {
+        "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vcp.myplaytv.com/promar/promar/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "reformatv-ve",
+    "name": "Reforma TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Religious",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/iZMDddR.png",
+    "epgId": "ReformaTV.ve",
+    "streams": [
+      {
+        "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "showventv-ve",
+    "name": "ShowVen TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Culture",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/AJIN8Dc.png",
+    "epgId": "ShowVenTV.ve",
+    "streams": [
+      {
+        "url": "https://cdnbarinas.tvzamora.com/showven/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "siembratv-ve",
+    "name": "Siembra TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/zRX91Xr.png",
+    "epgId": "SiembraTV.ve",
+    "streams": [
+      {
+        "url": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "somostv-ve",
+    "name": "Somos TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jOroeJZ.png",
+    "epgId": "SomosTV.ve",
+    "streams": [
+      {
+        "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tamtv-ve",
+    "name": "TAM TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
+    "epgId": "TAMTV.ve",
+    "streams": [
+      {
+        "url": "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telearagua-ve",
+    "name": "TeleAragua",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/jPzcb2S.png",
+    "epgId": "TeleAragua.ve",
+    "streams": [
+      {
+        "url": "http://45.173.198.59:8080/hls/nginx3.m3u8?tla=",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telebocono-ve",
+    "name": "Telebocono",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/YDE4Jsi.jpg",
+    "epgId": "Telebocono.ve",
+    "streams": [
+      {
+        "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telecentro-ve",
+    "name": "Telecentro",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/QtRNfaj.png",
+    "epgId": "Telecentro.ve",
+    "streams": [
+      {
+        "url": "https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesur-ve",
+    "name": "Telesur",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "epgId": "Telesur.ve",
+    "streams": [
+      {
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesur-ve",
+    "name": "Telesur",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "epgId": "Telesur.ve",
+    "streams": [
+      {
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesur-ve",
+    "name": "Telesur",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "epgId": "Telesur.ve",
+    "streams": [
+      {
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesur-ve",
+    "name": "Telesur",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "epgId": "Telesur.ve",
+    "streams": [
+      {
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telesur-ve",
+    "name": "Telesur",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "epgId": "Telesur.ve",
+    "streams": [
+      {
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televen-ve",
+    "name": "Televen",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/cxvkUvK.png",
+    "epgId": "Televen.ve",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "televisoradeoriente-ve",
+    "name": "Televisora de Oriente",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/wFC6Xxq.png",
+    "epgId": "TelevisoradeOriente.ve",
+    "streams": [
+      {
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tnoradio-ve",
+    "name": "TNO Radio",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png",
+    "epgId": "TNORadio.ve",
+    "streams": [
+      {
+        "url": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "torococotv-ve",
+    "name": "Torococo TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png",
+    "epgId": "TorococoTV.ve",
+    "streams": [
+      {
+        "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trt-ve",
+    "name": "TRT",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG",
+    "epgId": "TRT.ve",
+    "streams": [
+      {
+        "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "410p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tutv-ve",
+    "name": "Tu TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/OBEmXQF.png",
+    "epgId": "TuTV.ve",
+    "streams": [
+      {
+        "url": "https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvandes-ve",
+    "name": "TV Andes",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.ibb.co/c1YHQ8K/tvandes.png",
+    "epgId": "TVAndes.ve",
+    "streams": [
+      {
+        "url": "https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvfamilia-ve",
+    "name": "TV Familia",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Family",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/A3bU5e7.png",
+    "epgId": "TVFamilia.ve",
+    "streams": [
+      {
+        "url": "https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvfamilia-ve",
+    "name": "TV Familia",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "Family",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/A3bU5e7.png",
+    "epgId": "TVFamilia.ve",
+    "streams": [
+      {
+        "url": "https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmparati-ve",
+    "name": "TVM para ti",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://intervenhosting.net/imagenes/tvmparati.jpg",
+    "epgId": "TVMparati.ve",
+    "streams": [
+      {
+        "url": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvoasismonay-ve",
+    "name": "TV Oasis Monay",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/hwd7osJ.jpeg",
+    "epgId": "TVOasisMonay.ve",
+    "streams": [
+      {
+        "url": "https://servilive.com:3562/live/vav4c8z38live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvs-ve",
+    "name": "TVS",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/J8ztiAN.png",
+    "epgId": "TVS.ve",
+    "streams": [
+      {
+        "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "un24-ve",
+    "name": "UN24",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "News",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/nGJlulj.png",
+    "epgId": "UN24.ve",
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://un24.tv/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "unitv-ve",
+    "name": "UniTV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/KLGeznX.png",
+    "epgId": "UniTV.ve",
+    "streams": [
+      {
+        "url": "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "valetv-ve",
+    "name": "Vale TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/NMI2Wed.png",
+    "epgId": "ValeTV.ve",
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "valetv-ve",
+    "name": "Vale TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/NMI2Wed.png",
+    "epgId": "ValeTV.ve",
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "venevision-ve",
+    "name": "Venevision",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gm1m8hW.png",
+    "epgId": "Venevision.ve",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0if/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "venevision-ve",
+    "name": "Venevision",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/gm1m8hW.png",
+    "epgId": "Venevision.ve",
+    "streams": [
+      {
+        "url": "http://181.78.8.199:8000/play/a0if/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "venevisioninternacional-ve",
+    "name": "Venevision Internacional",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/vtGED07.jpg",
+    "epgId": "VenevisionInternacional.ve",
+    "streams": [
+      {
+        "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vepacotv-ve",
+    "name": "Vepaco TV",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/0bqJksL.png",
+    "epgId": "VepacoTV.ve",
+    "streams": [
+      {
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "watavision-ve",
+    "name": "Wata Vision",
+    "country": "VE",
+    "countryName": "Venezuela",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6957c378f20b5c77b1942a25/240b9ab5a_IMG_1222.jpeg",
+    "epgId": "WataVision.ve",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

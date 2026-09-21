@@ -1,0 +1,404 @@
+[
+  {
+    "id": "arubatv-aw",
+    "name": "Aruba.TV",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Travel",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/9fWY09U.png",
+    "epgId": "ArubaTV.aw",
+    "streams": [
+      {
+        "url": "https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arubatvplus-aw",
+    "name": "ArubaTV +",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Entertainment",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/9s6LZJZ.png",
+    "epgId": "ArubaTVPlus.aw",
+    "streams": [
+      {
+        "url": "https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "balchitv-aw",
+    "name": "Balchi TV",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Culture",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/XlCaZvF.png",
+    "epgId": "BalchiTV.aw",
+    "streams": [
+      {
+        "url": "https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "coolfm989-aw",
+    "name": "Cool FM 98.9",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/uGE6lZ2.png",
+    "epgId": "CoolFM989.aw",
+    "streams": [
+      {
+        "url": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "heartradioaruba-aw",
+    "name": "Heart Radio Aruba",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/MKZCskA.png",
+    "epgId": "HeartRadioAruba.aw",
+    "streams": [
+      {
+        "url": "https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nosislatv-aw",
+    "name": "Nos Isla TV",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Entertainment",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/sH7ZkPx.png",
+    "epgId": "NosIslaTV.aw",
+    "streams": [
+      {
+        "url": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nosislatv-aw",
+    "name": "Nos Isla TV",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Entertainment",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/sH7ZkPx.png",
+    "epgId": "NosIslaTV.aw",
+    "streams": [
+      {
+        "url": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "power1017fm-aw",
+    "name": "Power 101.7 FM",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/bkQrXjB.png",
+    "epgId": "Power1017FM.aw",
+    "streams": [
+      {
+        "url": "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telearuba-aw",
+    "name": "Telearuba",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/PY3P0aM.png",
+    "epgId": "Telearuba.aw",
+    "streams": [
+      {
+        "url": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telearuba-aw",
+    "name": "Telearuba",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "General",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/PY3P0aM.png",
+    "epgId": "Telearuba.aw",
+    "streams": [
+      {
+        "url": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viptv-aw",
+    "name": "VIP TV",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/6N0qITv.png",
+    "epgId": "VIPTV.aw",
+    "streams": [
+      {
+        "url": "https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viptv-aw",
+    "name": "VIP TV",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/6N0qITv.png",
+    "epgId": "VIPTV.aw",
+    "streams": [
+      {
+        "url": "https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wavezfm-aw",
+    "name": "Wavez FM",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Music",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/uyROZSS.png",
+    "epgId": "WavezFM.aw",
+    "streams": [
+      {
+        "url": "https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "x1027fm-aw",
+    "name": "X 102.7 FM",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/28b810Y.png",
+    "epgId": "X1027FM.aw",
+    "streams": [
+      {
+        "url": "https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://player.castr.com/live_21e811c0d60d11eeaa1a471c2c967e4a",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "x1027fm-aw",
+    "name": "X 102.7 FM",
+    "country": "AW",
+    "countryName": "Aruba",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/28b810Y.png",
+    "epgId": "X1027FM.aw",
+    "streams": [
+      {
+        "url": "https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://player.castr.com/live_21e811c0d60d11eeaa1a471c2c967e4a",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

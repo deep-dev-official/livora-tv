@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="Rohi.pk" tvg-name="Rohi" tvg-logo="https://i.imgur.com/zC8hXi4.png" group-title="General",Rohi (576p)
+http://103.250.28.74:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="WasebTV.pk" tvg-name="Waseb TV" tvg-logo="https://i.imgur.com/RsF5yVA.png" group-title="General",Waseb TV (576p)
+http://103.250.28.74:8000/play/a04k/index.m3u8

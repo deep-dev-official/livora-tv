@@ -1,0 +1,6290 @@
+[
+  {
+    "id": "4utv-tr",
+    "name": "4U TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/PexhKwp.png",
+    "epgId": "4UTV.tr",
+    "streams": [
+      {
+        "url": "https://hls.4utv.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "24tv-tr",
+    "name": "24 TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/8FO41es.png",
+    "epgId": "24TV.tr",
+    "streams": [
+      {
+        "url": "https://tv.ensonhaber.com/tv24/tv24.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "24tv-tr",
+    "name": "24 TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/8FO41es.png",
+    "epgId": "24TV.tr",
+    "streams": [
+      {
+        "url": "https://tv.ensonhaber.com/tv24/tv24.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "360-tr",
+    "name": "360",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/agn47sQ.png",
+    "epgId": "360.tr",
+    "streams": [
+      {
+        "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "a2tv-tr",
+    "name": "A2TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
+    "epgId": "A2TV.tr",
+    "streams": [
+      {
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "afroturktv-tr",
+    "name": "Afroturk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/fWlLvRA.png",
+    "epgId": "AfroturkTV.tr",
+    "streams": [
+      {
+        "url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ahaber-tr",
+    "name": "A Haber",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
+    "epgId": "AHaber.tr",
+    "streams": [
+      {
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aksutv-tr",
+    "name": "Aksu TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/mgDCKiy.png",
+    "epgId": "AksuTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alanyapostatv-tr",
+    "name": "Alanya Posta TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/a3w9eFe.png",
+    "epgId": "AlanyaPostaTV.tr",
+    "streams": [
+      {
+        "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "almahriahtv-tr",
+    "name": "Almahriah TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/GgEeTNr.png",
+    "epgId": "AlmahriahTV.tr",
+    "streams": [
+      {
+        "url": "https://starmenajo.com/hls/almahriah/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alrafidaintv-tr",
+    "name": "Al-Rafidain TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/rjXDCN5.png",
+    "epgId": "AlRafidainTV.tr",
+    "streams": [
+      {
+        "url": "https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "altastv-tr",
+    "name": "Altas TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/XaJ7fp6.png",
+    "epgId": "AltasTV.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alzahratvturkic-tr",
+    "name": "Al-Zahra TV Turkic",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Religious",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/QEHKGnG.png",
+    "epgId": "AlZahraTVTurkic.tr",
+    "streams": [
+      {
+        "url": "https://live.al-zahratv.com/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "anadolunettv-tr",
+    "name": "Anadolu Net TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://www.anadolunettv.com/d/r/logo.png",
+    "epgId": "AnadoluNetTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arastv-tr",
+    "name": "Aras TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/JsDCyWG.png",
+    "epgId": "ArasTV.tr",
+    "streams": [
+      {
+        "url": "http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aspor-tr",
+    "name": "A Spor",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/ZhkZzLf.png",
+    "epgId": "ASpor.tr",
+    "streams": [
+      {
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "astv-tr",
+    "name": "AS TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png",
+    "epgId": "ASTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "900p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "astv-tr",
+    "name": "AS TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png",
+    "epgId": "ASTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "900p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atv-tr",
+    "name": "ATV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/HyVUwFC.png",
+    "epgId": "ATV.tr",
+    "streams": [
+      {
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atv-tr",
+    "name": "ATV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/HyVUwFC.png",
+    "epgId": "ATV.tr",
+    "streams": [
+      {
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atvalanya-tr",
+    "name": "ATV Alanya",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/bUwarR0.png",
+    "epgId": "ATVAlanya.tr",
+    "streams": [
+      {
+        "url": "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atvalanya-tr",
+    "name": "ATV Alanya",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/bUwarR0.png",
+    "epgId": "ATVAlanya.tr",
+    "streams": [
+      {
+        "url": "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atvavrupa-tr",
+    "name": "ATV Avrupa",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png",
+    "epgId": "ATVAvrupa.tr",
+    "streams": [
+      {
+        "url": "https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "beinboxoffice1-tr",
+    "name": "beIN Box Office 1",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/MGrJFVN.png",
+    "epgId": "beINBoxOffice1.tr",
+    "streams": [
+      {
+        "url": "https://nord.ayakkabiparti.lol/box1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "beinboxoffice2-tr",
+    "name": "beIN Box Office 2",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/Kg7oOcO.png",
+    "epgId": "beINBoxOffice2.tr",
+    "streams": [
+      {
+        "url": "https://nord.ayakkabiparti.lol/box2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "beinboxoffice3-tr",
+    "name": "beIN Box Office 3",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/5NZur1S.png",
+    "epgId": "beINBoxOffice3.tr",
+    "streams": [
+      {
+        "url": "https://nord.ayakkabiparti.lol/box3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "beinmoviesstars-tr",
+    "name": "beIN Movies Stars",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/eryPkrT.png",
+    "epgId": "beINMoviesStars.tr",
+    "streams": [
+      {
+        "url": "https://nord.ayakkabiparti.lol/bsaction1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "beinmoviesturk-tr",
+    "name": "beIN Movies Turk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/nw8Sa2z.png",
+    "epgId": "beINMoviesTurk.tr",
+    "streams": [
+      {
+        "url": "https://nord.ayakkabiparti.lol/bsturk/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "benguturktv-tr",
+    "name": "Benguturk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/p3ON1oX.png",
+    "epgId": "BenguturkTV.tr",
+    "streams": [
+      {
+        "url": "http://185.234.111.229:8000/play/a05u",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "benguturktv-tr",
+    "name": "Benguturk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/p3ON1oX.png",
+    "epgId": "BenguturkTV.tr",
+    "streams": [
+      {
+        "url": "http://185.234.111.229:8000/play/a05u",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "beyaztv-tr",
+    "name": "Beyaz TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/uykIdML.png",
+    "epgId": "BeyazTV.tr",
+    "streams": [
+      {
+        "url": "https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "birtv-tr",
+    "name": "Bir TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://birtv.tv/assets/upload/637f83951df60.png",
+    "epgId": "BirTV.tr",
+    "streams": [
+      {
+        "url": "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bloomberght-tr",
+    "name": "Bloomberg HT",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Business",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/bmkXfIE.png",
+    "epgId": "BloombergHT.tr",
+    "streams": [
+      {
+        "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bloomberght-tr",
+    "name": "Bloomberg HT",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Business",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/bmkXfIE.png",
+    "epgId": "BloombergHT.tr",
+    "streams": [
+      {
+        "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bloomberght-tr",
+    "name": "Bloomberg HT",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Business",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/bmkXfIE.png",
+    "epgId": "BloombergHT.tr",
+    "streams": [
+      {
+        "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bricvesatranctv-tr",
+    "name": "Bric ve Satranc TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/TXDV1ty.png",
+    "epgId": "BricveSatrancTV.tr",
+    "streams": [
+      {
+        "url": "http://139.162.182.79/live/test/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "brtv-tr",
+    "name": "BRTV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/U3qlEAp.png",
+    "epgId": "BRTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bursatv-tr",
+    "name": "Bursa TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/9cl1MR8.png",
+    "epgId": "BursaTV.tr",
+    "streams": [
+      {
+        "url": "https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "caytv-tr",
+    "name": "Cay TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/ndupxwu.png",
+    "epgId": "CayTV.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cekmekoytv-tr",
+    "name": "Cekmekoy TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/sjAGFWu.png",
+    "epgId": "CekmekoyTV.tr",
+    "streams": [
+      {
+        "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ciftcitv-tr",
+    "name": "Ciftci TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Education",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/CLzP4vL.png",
+    "epgId": "CiftciTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cnbce-tr",
+    "name": "CNBC-e",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Business",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://s.cnbce.com/dist/images/logo-nav.png",
+    "epgId": "CNBCe.tr",
+    "streams": [
+      {
+        "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "denizpostasitv-tr",
+    "name": "Deniz Postasi TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/Mm8hdfx.png",
+    "epgId": "DenizPostasiTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dha-tr",
+    "name": "DHA",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/VZhag2x.png",
+    "epgId": "DHA.tr",
+    "streams": [
+      {
+        "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneyjr-tr",
+    "name": "Disney Jr.",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Animation",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "epgId": "DisneyJr.tr",
+    "streams": [
+      {
+        "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "diyanettv-tr",
+    "name": "Diyanet TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Religious",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png",
+    "epgId": "DiyanetTV.tr",
+    "streams": [
+      {
+        "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "diyartv-tr",
+    "name": "Diyar TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Religious",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/qWkHjRA.png",
+    "epgId": "DiyarTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dosttv-tr",
+    "name": "Dost TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Religious",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png",
+    "epgId": "DostTV.tr",
+    "streams": [
+      {
+        "url": "https://dost.stream.emsal.im/tv/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dreamturk-tr",
+    "name": "Dream Turk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/vJ8VaZi.png",
+    "epgId": "DreamTurk.tr",
+    "streams": [
+      {
+        "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "edessatv-tr",
+    "name": "Edessa TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/rhU6j9I.png",
+    "epgId": "EdessaTV.tr",
+    "streams": [
+      {
+        "url": "https://canli.edessatv.com/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ekoturk-tr",
+    "name": "Ekoturk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65",
+    "epgId": "Ekoturk.tr",
+    "streams": [
+      {
+        "url": "https://cdn.ekoturk.net/hls/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "elsharqtv-tr",
+    "name": "Elsharq TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/8vmfZb5.png",
+    "epgId": "ElsharqTV.tr",
+    "streams": [
+      {
+        "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ertv-tr",
+    "name": "ERTV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/VDGEPrD.png",
+    "epgId": "ERTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "erzurumwebtv-tr",
+    "name": "Erzurum Web TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/HF7N4Li.png",
+    "epgId": "ErzurumWebTV.tr",
+    "streams": [
+      {
+        "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "estv-tr",
+    "name": "ES TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/epAEBrp.png",
+    "epgId": "ESTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "etvkayseri-tr",
+    "name": "ETV Kayseri",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj",
+    "epgId": "ETVKayseri.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "etvmanisa-tr",
+    "name": "ETV Manisa",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.ibb.co/QKXtdkz/sOd3INg.png",
+    "epgId": "ETVManisa.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eurod-tr",
+    "name": "Euro D",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/x9kHsXo.png",
+    "epgId": "EuroD.tr",
+    "streams": [
+      {
+        "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fbtv-tr",
+    "name": "FB TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/qBVqtYd.png",
+    "epgId": "FBTV.tr",
+    "streams": [
+      {
+        "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "finansturktv-tr",
+    "name": "Finans Turk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
+    "epgId": "FinansTurkTV.tr",
+    "streams": [
+      {
+        "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "flashhabertv-tr",
+    "name": "Flash Haber TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "",
+    "epgId": "FlashHaberTV.tr",
+    "streams": [
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fortunatv-tr",
+    "name": "Fortuna TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Lifestyle",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/ZbUSlOC.png",
+    "epgId": "FortunaTV.tr",
+    "streams": [
+      {
+        "url": "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fortunatv-tr",
+    "name": "Fortuna TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Lifestyle",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/ZbUSlOC.png",
+    "epgId": "FortunaTV.tr",
+    "streams": [
+      {
+        "url": "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gem24b-tr",
+    "name": "GEM 24B",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/8LgdPst.png",
+    "epgId": "GEM24B.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gembollywood-tr",
+    "name": "GEM Bollywood",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/2XASeBk.png",
+    "epgId": "GEMBollywood.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemclassic-tr",
+    "name": "GEM Classic",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Classic",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/25BhuOf.png",
+    "epgId": "GEMClassic.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemcomedy-tr",
+    "name": "GEM Comedy",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Comedy",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/FuscfJW.png",
+    "epgId": "GEMComedy.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemdrama-tr",
+    "name": "GEM Drama",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/k2pGyRH.png",
+    "epgId": "GEMDrama.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemdramaplus-tr",
+    "name": "GEM Drama +",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://gemgroup.tv/assets/images/channels/icon_7.png",
+    "epgId": "GEMDramaPlus.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gementertainment-tr",
+    "name": "GEM Entertainment",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://www.gemgroup.tv/assets/images/channels/icon_8.png",
+    "epgId": "GEMEntertainment.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemfilm-tr",
+    "name": "GEM Film",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/nrFz3LU.png",
+    "epgId": "GEMFilm.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemfit-tr",
+    "name": "GEM Fit",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/7FQxaII.png",
+    "epgId": "GEMFit.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemfood-tr",
+    "name": "GEM Food",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Cooking",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/SMtSinK.png",
+    "epgId": "GEMFood.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemjunior-tr",
+    "name": "GEM Junior",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Kids",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/jK8yzj2.png",
+    "epgId": "GEMJunior.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemkids-tr",
+    "name": "GEM Kids",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Kids",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/ArkjaFk.png",
+    "epgId": "GEMKids.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemlife-tr",
+    "name": "GEM Life",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Lifestyle",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/gI8qePa.png",
+    "epgId": "GEMLife.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemmifa-tr",
+    "name": "GEM Mifa",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/qlI7o7V.png",
+    "epgId": "GEMMifa.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemmifaplus-tr",
+    "name": "GEM Mifa +",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/8FIAqR5.png",
+    "epgId": "GEMMifaPlus.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemnature-tr",
+    "name": "GEM Nature",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Documentary",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/ENvOMDQ.png",
+    "epgId": "GEMNature.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemonyx-tr",
+    "name": "GEM Onyx",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/gXRIAw4.png",
+    "epgId": "GEMOnyx.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gempixel-tr",
+    "name": "GEM Pixel",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.ibb.co/Q3tkbPrn/icon-27.png",
+    "epgId": "GEMPixel.tr",
+    "streams": [
+      {
+        "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gempixel-tr",
+    "name": "GEM Pixel",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.ibb.co/Q3tkbPrn/icon-27.png",
+    "epgId": "GEMPixel.tr",
+    "streams": [
+      {
+        "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemriver-tr",
+    "name": "GEM River",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/yJ6f1B6.png",
+    "epgId": "GEMRiver.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemriverplus-tr",
+    "name": "GEM River +",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://gemgroup.tv/assets/images/channels/icon_29.png",
+    "epgId": "GEMRiverPlus.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemrubix-tr",
+    "name": "GEM Rubix",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/cDjOj58.png",
+    "epgId": "GEMRubix.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemrubixplus-tr",
+    "name": "GEM Rubix +",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://gemgroup.tv/assets/images/channels/icon_31.png",
+    "epgId": "GEMRubixPlus.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemseriesplus-tr",
+    "name": "GEM Series +",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Series",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://gemgroup.tv/assets/images/channels/icon_33.png",
+    "epgId": "GEMSeriesPlus.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemsport-tr",
+    "name": "GEM Sport",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://www.gemgroup.tv/assets/images/channels/icon_34.png",
+    "epgId": "GEMSport.tr",
+    "streams": [
+      {
+        "url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR+-+GEM+Sport%2Fchunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemtv-tr",
+    "name": "GEM TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://gemgroup.tv/assets/images/channels/icon_16.png",
+    "epgId": "GEMTV.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gemtvplus-tr",
+    "name": "GEM TV +",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://gemgroup.tv/assets/images/channels/icon_17.png",
+    "epgId": "GEMTVPlus.tr",
+    "streams": [
+      {
+        "url": "https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "grandcinema-tr",
+    "name": "Grand Cinema",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "",
+    "epgId": "GrandCinema.tr",
+    "streams": [
+      {
+        "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "guneydogutv-tr",
+    "name": "Guneydogu TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/JT5pp3Y.png",
+    "epgId": "GuneydoguTV.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gzt-tr",
+    "name": "GZT",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Documentary",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png",
+    "epgId": "GZT.tr",
+    "streams": [
+      {
+        "url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "haber61tv-tr",
+    "name": "Haber61 TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/2a2XUKl.png",
+    "epgId": "Haber61TV.tr",
+    "streams": [
+      {
+        "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "haber61tv-tr",
+    "name": "Haber61 TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/2a2XUKl.png",
+    "epgId": "Haber61TV.tr",
+    "streams": [
+      {
+        "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "haberglobal-tr",
+    "name": "Haber Global",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/fu6XeGS.png",
+    "epgId": "HaberGlobal.tr",
+    "streams": [
+      {
+        "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "haberturktv-tr",
+    "name": "Haberturk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/6Tw3rUp.png",
+    "epgId": "HaberturkTV.tr",
+    "streams": [
+      {
+        "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "halktv-tr",
+    "name": "Halk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/xM0HA30.png",
+    "epgId": "HalkTV.tr",
+    "streams": [
+      {
+        "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "htsportv-tr",
+    "name": "HTSpor TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://www.htspor.com/images/manifest/social-share-logo.png",
+    "epgId": "HTSporTV.tr",
+    "streams": [
+      {
+        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hunattv-tr",
+    "name": "Hunat TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/NrxHGnb.png",
+    "epgId": "HunatTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hunattv-tr",
+    "name": "Hunat TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/NrxHGnb.png",
+    "epgId": "HunatTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "iceltv-tr",
+    "name": "Icel TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/CGwImKv.png",
+    "epgId": "IcelTV.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ilketv-tr",
+    "name": "Ilke TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png",
+    "epgId": "IlkeTV.tr",
+    "streams": [
+      {
+        "url": "https://stream.ilketv.com.tr/hls/ilkecanli.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal3-tr",
+    "name": "Kanal 3",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/eXErSv0.png",
+    "epgId": "Kanal3.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal3-tr",
+    "name": "Kanal 3",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/eXErSv0.png",
+    "epgId": "Kanal3.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal3-tr",
+    "name": "Kanal 3",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/eXErSv0.png",
+    "epgId": "Kanal3.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal3-tr",
+    "name": "Kanal 3",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/eXErSv0.png",
+    "epgId": "Kanal3.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal7-tr",
+    "name": "Kanal 7",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/0gq9xOm.png",
+    "epgId": "Kanal7.tr",
+    "streams": [
+      {
+        "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal7-tr",
+    "name": "Kanal 7",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/0gq9xOm.png",
+    "epgId": "Kanal7.tr",
+    "streams": [
+      {
+        "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal7avrupa-tr",
+    "name": "Kanal 7 Avrupa",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/wlfyj5l.png",
+    "epgId": "Kanal7Avrupa.tr",
+    "streams": [
+      {
+        "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal12-tr",
+    "name": "Kanal 12",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/51xCkXG.png",
+    "epgId": "Kanal12.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal15-tr",
+    "name": "Kanal 15",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/wb1Cdc9.png",
+    "epgId": "Kanal15.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal23-tr",
+    "name": "Kanal 23",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/3br8RCq.png",
+    "epgId": "Kanal23.tr",
+    "streams": [
+      {
+        "url": "https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal23-tr",
+    "name": "Kanal 23",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/3br8RCq.png",
+    "epgId": "Kanal23.tr",
+    "streams": [
+      {
+        "url": "https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal26-tr",
+    "name": "Kanal 26",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/Mr7XPii.png",
+    "epgId": "Kanal26.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal32-tr",
+    "name": "Kanal 32",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "",
+    "epgId": "Kanal32.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal33-tr",
+    "name": "Kanal 33",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/5WYaoFZ.png",
+    "epgId": "Kanal33.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal34-tr",
+    "name": "Kanal 34",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/SIaI6Sj.png",
+    "epgId": "Kanal34.tr",
+    "streams": [
+      {
+        "url": "https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanal58-tr",
+    "name": "Kanal 58",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/Rgc66sv.png",
+    "epgId": "Kanal58.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanald-tr",
+    "name": "Kanal D",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/9o1atM6.png",
+    "epgId": "KanalD.tr",
+    "streams": [
+      {
+        "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanalddrama-tr",
+    "name": "Kanal D Drama",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/WIeZMKT.png",
+    "epgId": "KanalDDrama.tr",
+    "streams": [
+      {
+        "url": "http://190.93.224.42/KANAL-D-DRAMA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanalddrama-tr",
+    "name": "Kanal D Drama",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/WIeZMKT.png",
+    "epgId": "KanalDDrama.tr",
+    "streams": [
+      {
+        "url": "http://190.93.224.42/KANAL-D-DRAMA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanalddrama-tr",
+    "name": "Kanal D Drama",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/WIeZMKT.png",
+    "epgId": "KanalDDrama.tr",
+    "streams": [
+      {
+        "url": "http://190.93.224.42/KANAL-D-DRAMA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanalddrama-tr",
+    "name": "Kanal D Drama",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/WIeZMKT.png",
+    "epgId": "KanalDDrama.tr",
+    "streams": [
+      {
+        "url": "http://190.93.224.42/KANAL-D-DRAMA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanalfirat-tr",
+    "name": "Kanal Firat",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/3o8Rokp.png",
+    "epgId": "KanalFirat.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanalhayat-tr",
+    "name": "Kanal Hayat",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/eikZj19.png",
+    "epgId": "KanalHayat.tr",
+    "streams": [
+      {
+        "url": "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanalv-tr",
+    "name": "Kanal V",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/7RNjTno.png",
+    "epgId": "KanalV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kaytv-tr",
+    "name": "Kay TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/MymuDJ1.png",
+    "epgId": "KayTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kentturk-tr",
+    "name": "Kent Turk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/FQKPjsm.png",
+    "epgId": "KentTurk.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kentturk-tr",
+    "name": "Kent Turk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/FQKPjsm.png",
+    "epgId": "KentTurk.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kocaelitv-tr",
+    "name": "Kocaeli TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/LeTP4zq.png",
+    "epgId": "KocaeliTV.tr",
+    "streams": [
+      {
+        "url": "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "konyaolaytv-tr",
+    "name": "Konya Olay TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg",
+    "epgId": "KonyaOlayTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kralpoptv-tr",
+    "name": "Kral Pop TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/ch365lh.png",
+    "epgId": "KralPopTV.tr",
+    "streams": [
+      {
+        "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lalegultv-tr",
+    "name": "Lalegul TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Religious",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/wwCysFs.png",
+    "epgId": "LalegulTV.tr",
+    "streams": [
+      {
+        "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://lalegultv.netmedya.net/hls/lalegultv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lalegultv-tr",
+    "name": "Lalegul TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Religious",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/wwCysFs.png",
+    "epgId": "LalegulTV.tr",
+    "streams": [
+      {
+        "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://lalegultv.netmedya.net/hls/lalegultv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lalegultv-tr",
+    "name": "Lalegul TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Religious",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/wwCysFs.png",
+    "epgId": "LalegulTV.tr",
+    "streams": [
+      {
+        "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://lalegultv.netmedya.net/hls/lalegultv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lifetv-tr",
+    "name": "Life TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/lWeJxm0.png",
+    "epgId": "LifeTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "linetv-tr",
+    "name": "Line TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/6GNp7f8.png",
+    "epgId": "LineTV.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "luystv-tr",
+    "name": "Luys TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Culture",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/9EruWIQ.png",
+    "epgId": "LuysTV.tr",
+    "streams": [
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mavikaradeniztv-tr",
+    "name": "MaviKaradeniz TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/wyWappU.png",
+    "epgId": "MaviKaradenizTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "medmuzik-tr",
+    "name": "Med Muzik",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "kur",
+    "languageName": "Kurdish",
+    "logo": "https://i.imgur.com/gtUFmCD.png",
+    "epgId": "MedMuzik.tr",
+    "streams": [
+      {
+        "url": "http://54.36.110.140/live3/live3.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mekameleentv-tr",
+    "name": "Mekameleen TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/q7iVchl.png",
+    "epgId": "MekameleenTV.tr",
+    "streams": [
+      {
+        "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "meltemtv-tr",
+    "name": "Meltem TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/C3m6w5S.png",
+    "epgId": "MeltemTV.tr",
+    "streams": [
+      {
+        "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mercantv-tr",
+    "name": "Mercan TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/3CWV8bS.png",
+    "epgId": "MercanTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "minikacocuk-tr",
+    "name": "Minika Cocuk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Kids",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/VCywMTv.png",
+    "epgId": "MinikaCocuk.tr",
+    "streams": [
+      {
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "minikacocuk-tr",
+    "name": "Minika Cocuk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Kids",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/VCywMTv.png",
+    "epgId": "MinikaCocuk.tr",
+    "streams": [
+      {
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "minikago-tr",
+    "name": "Minika Go",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Kids",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/qIoipDq.png",
+    "epgId": "MinikaGo.tr",
+    "streams": [
+      {
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "minikago-tr",
+    "name": "Minika Go",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Kids",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/qIoipDq.png",
+    "epgId": "MinikaGo.tr",
+    "streams": [
+      {
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moviesmartturk-tr",
+    "name": "MovieSmart Turk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Movies",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/DWN9ulT.png",
+    "epgId": "MovieSmartTurk.tr",
+    "streams": [
+      {
+        "url": "http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mturktv-tr",
+    "name": "MTurk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/xj1gvrq.png",
+    "epgId": "MTurkTV.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographic-tr",
+    "name": "National Geographic",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Documentary",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "epgId": "NationalGeographic.tr",
+    "streams": [
+      {
+        "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nord.ayakkabiparti.lol/natgeo/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographic-tr",
+    "name": "National Geographic",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Documentary",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "epgId": "NationalGeographic.tr",
+    "streams": [
+      {
+        "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nord.ayakkabiparti.lol/natgeo/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographicwild-tr",
+    "name": "National Geographic Wild",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Documentary",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "epgId": "NationalGeographicWild.tr",
+    "streams": [
+      {
+        "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographicwild-tr",
+    "name": "National Geographic Wild",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Documentary",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "epgId": "NationalGeographicWild.tr",
+    "streams": [
+      {
+        "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "naturaltv-tr",
+    "name": "Natural TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Culture",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/rfcJ674.png",
+    "epgId": "NaturalTV.tr",
+    "streams": [
+      {
+        "url": "http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "naturaltv-tr",
+    "name": "Natural TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Culture",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/rfcJ674.png",
+    "epgId": "NaturalTV.tr",
+    "streams": [
+      {
+        "url": "http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nowtv-tr",
+    "name": "NOW TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/5EYjWK7.png",
+    "epgId": "NOWTV.tr",
+    "streams": [
+      {
+        "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://116.202.238.88/FOXTV_TR/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nowtv-tr",
+    "name": "NOW TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Entertainment",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/5EYjWK7.png",
+    "epgId": "NOWTV.tr",
+    "streams": [
+      {
+        "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://116.202.238.88/FOXTV_TR/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntv-tr",
+    "name": "NTV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png",
+    "epgId": "NTV.tr",
+    "streams": [
+      {
+        "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "number1ask-tr",
+    "name": "Number 1 Ask",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/slwbux7.png",
+    "epgId": "Number1Ask.tr",
+    "streams": [
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "number1damar-tr",
+    "name": "Number 1 Damar",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/rYtbAGZ.png",
+    "epgId": "Number1Damar.tr",
+    "streams": [
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "number1dance-tr",
+    "name": "Number 1 Dance",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/ZM4PSyq.png",
+    "epgId": "Number1Dance.tr",
+    "streams": [
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "number1tv-tr",
+    "name": "Number 1 TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/02cDIBi.png",
+    "epgId": "Number1TV.tr",
+    "streams": [
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mn-nl.mncdn.com/blutv_nr12/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "number1tv-tr",
+    "name": "Number 1 TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/02cDIBi.png",
+    "epgId": "Number1TV.tr",
+    "streams": [
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mn-nl.mncdn.com/blutv_nr12/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "olayturktv-tr",
+    "name": "OlayTurk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/e9ca6gc.png",
+    "epgId": "OlayTurkTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "on4tv-tr",
+    "name": "On4 TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/qGRa1KI.png",
+    "epgId": "On4TV.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powerdance-tr",
+    "name": "Power Dance",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/QpPteBO.png",
+    "epgId": "PowerDance.tr",
+    "streams": [
+      {
+        "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powerlove-tr",
+    "name": "Power Love",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/0RzUswR.png",
+    "epgId": "PowerLove.tr",
+    "streams": [
+      {
+        "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powerturkakustik-tr",
+    "name": "PowerTurk Akustik",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/driabBO.png",
+    "epgId": "PowerTurkAkustik.tr",
+    "streams": [
+      {
+        "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powerturkslow-tr",
+    "name": "PowerTurk Slow",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/tQSoQXW.png",
+    "epgId": "PowerTurkSlow.tr",
+    "streams": [
+      {
+        "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powerturktaptaze-tr",
+    "name": "PowerTurk Taptaze",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/a5nW3HU.png",
+    "epgId": "PowerTurkTaptaze.tr",
+    "streams": [
+      {
+        "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powerturktv-tr",
+    "name": "PowerTurk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/9OPoXQG.png",
+    "epgId": "PowerTurkTV.tr",
+    "streams": [
+      {
+        "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powerturktv-tr",
+    "name": "PowerTurk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/9OPoXQG.png",
+    "epgId": "PowerTurkTV.tr",
+    "streams": [
+      {
+        "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powerturktv-tr",
+    "name": "PowerTurk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/9OPoXQG.png",
+    "epgId": "PowerTurkTV.tr",
+    "streams": [
+      {
+        "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powerturktv-tr",
+    "name": "PowerTurk TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/9OPoXQG.png",
+    "epgId": "PowerTurkTV.tr",
+    "streams": [
+      {
+        "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powertv-tr",
+    "name": "Power TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/XSL1gd7.png",
+    "epgId": "PowerTV.tr",
+    "streams": [
+      {
+        "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "powertv-tr",
+    "name": "Power TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/XSL1gd7.png",
+    "epgId": "PowerTV.tr",
+    "streams": [
+      {
+        "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qaftv-tr",
+    "name": "Qaf TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/hrk7Uce.png",
+    "epgId": "QafTV.tr",
+    "streams": [
+      {
+        "url": "https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "semerkandtv-tr",
+    "name": "Semerkand TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/UVGGrQd.png",
+    "epgId": "SemerkandTV.tr",
+    "streams": [
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sercemtv-tr",
+    "name": "Sercem TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Religious",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://sercemtv.com.tr/sercemlogo.jpg",
+    "epgId": "SercemTV.tr",
+    "streams": [
+      {
+        "url": "https://canli.sercemtv.com.tr/hls/0/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "showturk-tr",
+    "name": "Show Turk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/fdZpGDj.png",
+    "epgId": "ShowTurk.tr",
+    "streams": [
+      {
+        "url": "https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ssport2-tr",
+    "name": "S Sport 2",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/2jIItAy.png",
+    "epgId": "SSport2.tr",
+    "streams": [
+      {
+        "url": "https://corestream.siteyaptim.live/s-sport2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ssport2-tr",
+    "name": "S Sport 2",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/2jIItAy.png",
+    "epgId": "SSport2.tr",
+    "streams": [
+      {
+        "url": "https://corestream.siteyaptim.live/s-sport2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ssport-tr",
+    "name": "S Sport",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png",
+    "epgId": "SSport.tr",
+    "streams": [
+      {
+        "url": "https://corestream.siteyaptim.live/s-sport/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "startv-tr",
+    "name": "Star TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/9O3DHRB.png",
+    "epgId": "StarTV.tr",
+    "streams": [
+      {
+        "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sunrtv-tr",
+    "name": "Sun RTV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/64tph9N.png",
+    "epgId": "SunRTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sunrtv-tr",
+    "name": "Sun RTV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/64tph9N.png",
+    "epgId": "SunRTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tbmmtv-tr",
+    "name": "TBMM TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png",
+    "epgId": "TBMMTV.tr",
+    "streams": [
+      {
+        "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tele1-tr",
+    "name": "Tele 1",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",
+    "epgId": "Tele1.tr",
+    "streams": [
+      {
+        "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tempotv-tr",
+    "name": "Tempo TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/tZpx32y.png",
+    "epgId": "TempoTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tgrtbelgesel-tr",
+    "name": "TGRT Belgesel",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/VwWTnf0.png",
+    "epgId": "TGRTBelgesel.tr",
+    "streams": [
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tgrthaber-tr",
+    "name": "TGRT Haber",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/PrxwKDw.png",
+    "epgId": "TGRTHaber.tr",
+    "streams": [
+      {
+        "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tgrthaber-tr",
+    "name": "TGRT Haber",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/PrxwKDw.png",
+    "epgId": "TGRTHaber.tr",
+    "streams": [
+      {
+        "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tivi6-tr",
+    "name": "Tivi 6",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/Mbi0jbz.png",
+    "epgId": "Tivi6.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tjktv2-tr",
+    "name": "TJK TV 2",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/3zHdkYG.png",
+    "epgId": "TJKTV2.tr",
+    "streams": [
+      {
+        "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tjktv-tr",
+    "name": "TJK TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/3zHdkYG.png",
+    "epgId": "TJKTV.tr",
+    "streams": [
+      {
+        "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tontv-tr",
+    "name": "Ton TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/f0Soeob.png",
+    "epgId": "TonTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trt1-tr",
+    "name": "TRT 1",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png",
+    "epgId": "TRT1.tr",
+    "streams": [
+      {
+        "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1440p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trt2-tr",
+    "name": "TRT 2",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/iOCQdyD.png",
+    "epgId": "TRT2.tr",
+    "streams": [
+      {
+        "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1440p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trt3-tr",
+    "name": "TRT 3",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/JrWFwBd.png",
+    "epgId": "TRT3.tr",
+    "streams": [
+      {
+        "url": "https://tv-trt3.live.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtarabi-tr",
+    "name": "TRT Arabi",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/dEfI2M9.png",
+    "epgId": "TRTArabi.tr",
+    "streams": [
+      {
+        "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtavaz-tr",
+    "name": "TRT Avaz",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png",
+    "epgId": "TRTAvaz.tr",
+    "streams": [
+      {
+        "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtbelgesel-tr",
+    "name": "TRT Belgesel",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Documentary",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png",
+    "epgId": "TRTBelgesel.tr",
+    "streams": [
+      {
+        "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtbelgesel-tr",
+    "name": "TRT Belgesel",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Documentary",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png",
+    "epgId": "TRTBelgesel.tr",
+    "streams": [
+      {
+        "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtcocuk-tr",
+    "name": "TRT Cocuk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Kids",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+    "epgId": "TRTCocuk.tr",
+    "streams": [
+      {
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1440p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtdiyanetcocuk-tr",
+    "name": "TRT Diyanet Cocuk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Kids",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/8PmXz9t.png",
+    "epgId": "TRTDiyanetCocuk.tr",
+    "streams": [
+      {
+        "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trteba-tr",
+    "name": "TRT EBA",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Education",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png",
+    "epgId": "TRTEBA.tr",
+    "streams": [
+      {
+        "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtebailkokul-tr",
+    "name": "TRT EBA Ilkokul",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Education",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/CRBfZi4.png",
+    "epgId": "TRTEBAIlkokul.tr",
+    "streams": [
+      {
+        "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtebalise-tr",
+    "name": "TRT EBA Lise",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Education",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/vj2L2L2.png",
+    "epgId": "TRTEBALise.tr",
+    "streams": [
+      {
+        "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtgenc-tr",
+    "name": "TRT Genc",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/fCHQYWS.png",
+    "epgId": "TRTGenc.tr",
+    "streams": [
+      {
+        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1440p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trthaber-tr",
+    "name": "TRT Haber",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
+    "epgId": "TRTHaber.tr",
+    "streams": [
+      {
+        "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtkurdi-tr",
+    "name": "TRT Kurdi",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "kur",
+    "languageName": "Kurdish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png",
+    "epgId": "TRTKurdi.tr",
+    "streams": [
+      {
+        "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtmuzik-tr",
+    "name": "TRT Muzik",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/JgUzRH8.png",
+    "epgId": "TRTMuzik.tr",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtmuzik-tr",
+    "name": "TRT Muzik",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Music",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/JgUzRH8.png",
+    "epgId": "TRTMuzik.tr",
+    "streams": [
+      {
+        "url": "https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtspor-tr",
+    "name": "TRT Spor",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/6tv0zxh.png",
+    "epgId": "TRTSpor.tr",
+    "streams": [
+      {
+        "url": "https://corestream.siteyaptim.live/trt-spor/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtsporyildiz-tr",
+    "name": "TRT Spor Yildiz",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Sports",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
+    "epgId": "TRTSporYildiz.tr",
+    "streams": [
+      {
+        "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1440p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtturk-tr",
+    "name": "TRT Turk",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png",
+    "epgId": "TRTTurk.tr",
+    "streams": [
+      {
+        "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtworld-tr",
+    "name": "TRT World",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png",
+    "epgId": "TRTWorld.tr",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtworld-tr",
+    "name": "TRT World",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png",
+    "epgId": "TRTWorld.tr",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trtworld-tr",
+    "name": "TRT World",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png",
+    "epgId": "TRTWorld.tr",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "turkhabertv-tr",
+    "name": "TurkHaber TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "News",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/2AcRKdL.png",
+    "epgId": "TurkHaberTV.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv1-tr",
+    "name": "TV 1",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/8CtrYVb.png",
+    "epgId": "TV1.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv4-tr",
+    "name": "TV 4",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/UpsQsbd.png",
+    "epgId": "TV4.tr",
+    "streams": [
+      {
+        "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv8-tr",
+    "name": "TV8",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png",
+    "epgId": "TV8.tr",
+    "streams": [
+      {
+        "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv8-tr",
+    "name": "TV8",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png",
+    "epgId": "TV8.tr",
+    "streams": [
+      {
+        "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv41-tr",
+    "name": "TV 41",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/6T472LM.png",
+    "epgId": "TV41.tr",
+    "streams": [
+      {
+        "url": "http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv41-tr",
+    "name": "TV 41",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/6T472LM.png",
+    "epgId": "TV41.tr",
+    "streams": [
+      {
+        "url": "http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv41-tr",
+    "name": "TV 41",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/6T472LM.png",
+    "epgId": "TV41.tr",
+    "streams": [
+      {
+        "url": "http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv42-tr",
+    "name": "TV 42",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://www.tv42.com.tr/logo.png",
+    "epgId": "TV42.tr",
+    "streams": [
+      {
+        "url": "https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv52-tr",
+    "name": "TV 52",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/k4R5CzO.png",
+    "epgId": "TV52.tr",
+    "streams": [
+      {
+        "url": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv100-tr",
+    "name": "TV 100",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png",
+    "epgId": "TV100.tr",
+    "streams": [
+      {
+        "url": "https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv264-tr",
+    "name": "TV 264",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/tudXdOZ.png",
+    "epgId": "TV264.tr",
+    "streams": [
+      {
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvden-tr",
+    "name": "TV Den",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/Uhg95Ze.png",
+    "epgId": "TVDen.tr",
+    "streams": [
+      {
+        "url": "http://canli.tvden.com.tr/hls/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvnet-tr",
+    "name": "TVNET",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/mQo8yWQ.png",
+    "epgId": "TVNET.tr",
+    "streams": [
+      {
+        "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ulketv-tr",
+    "name": "Ulke TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/wdWR7Qk.png",
+    "epgId": "UlkeTV.tr",
+    "streams": [
+      {
+        "url": "http://217.174.229.138:8000/play/a0el",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "urfanatiktv-tr",
+    "name": "Urfa Natik TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/8KO0uxn.png",
+    "epgId": "UrfaNatikTV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "van65tv-tr",
+    "name": "Van 65 TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://van65tv.com/assets/images/logo/logo.png",
+    "epgId": "Van65TV.tr",
+    "streams": [
+      {
+        "url": "https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vavtv-tr",
+    "name": "Vav TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/jw0gB8L.png",
+    "epgId": "VavTV.tr",
+    "streams": [
+      {
+        "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasathistory-tr",
+    "name": "Viasat History",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "Documentary",
+    "language": "tur",
+    "languageName": "Turkish",
+    "logo": "https://i.imgur.com/wRP9XA7.png",
+    "epgId": "ViasatHistory.tr",
+    "streams": [
+      {
+        "url": "https://nord.ayakkabiparti.lol/viasathistory/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zaroktv-tr",
+    "name": "Zarok TV",
+    "country": "TR",
+    "countryName": "Turkiye",
+    "category": "General",
+    "language": "kur",
+    "languageName": "Kurdish",
+    "logo": "https://i.imgur.com/o0eevnb.png",
+    "epgId": "ZarokTV.tr",
+    "streams": [
+      {
+        "url": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

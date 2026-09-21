@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "arenasport5premium-rs",
+    "name": "Arena Sport 5 Premium",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Sports",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "",
+    "epgId": "ArenaSport5Premium.rs",
+    "streams": [
+      {
+        "url": "https://nl1.nghk.ai/SK2SRHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "belleamie-rs",
+    "name": "Belle Amie",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/tOlN5Rz.png",
+    "epgId": "BelleAmie.rs",
+    "streams": [
+      {
+        "url": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dmsat-rs",
+    "name": "DM Sat",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Music",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/LdeA1Cn.png",
+    "epgId": "DMSat.rs",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/DMSat/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://85.14.32.26:8800/udp/239.100.10.40:5000",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dmsat-rs",
+    "name": "DM Sat",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Music",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/LdeA1Cn.png",
+    "epgId": "DMSat.rs",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/DMSat/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://85.14.32.26:8800/udp/239.100.10.40:5000",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "edutv-rs",
+    "name": "EDU TV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Education",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/NE48DJb.png",
+    "epgId": "EDUTV.rs",
+    "streams": [
+      {
+        "url": "https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "idjtv-rs",
+    "name": "IDJTV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/btvyrzr.png",
+    "epgId": "IDJTV.rs",
+    "streams": [
+      {
+        "url": "https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In%24trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kitchentv-rs",
+    "name": "Kitchen TV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Cooking",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/WcGKc4C.png",
+    "epgId": "KitchenTV.rs",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a03n",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "narodnatv-rs",
+    "name": "Narodna TV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/dua57HD.png",
+    "epgId": "NarodnaTV.rs",
+    "streams": [
+      {
+        "url": "https://edge8.pink.rs/narodnatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nova-rs",
+    "name": "Nova",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/sU8UPPY.png",
+    "epgId": "Nova.rs",
+    "streams": [
+      {
+        "url": "https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43%2123t001&player=m3u8&sp=novas&stream=hp7000&u=novas",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pannontv-rs",
+    "name": "Pannon TV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/xQa2idL.png",
+    "epgId": "PannonTV.rs",
+    "streams": [
+      {
+        "url": "https://stream.nmih.hu:4102/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "648p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pink-rs",
+    "name": "Pink",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/66wHb7E.png",
+    "epgId": "Pink.rs",
+    "streams": [
+      {
+        "url": "https://edge8.pink.rs/pinktv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prva-rs",
+    "name": "Prva",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/NA31Gtm.png",
+    "epgId": "Prva.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/PrvaTVHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prvafiles-rs",
+    "name": "Prva Files",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/8lZgAXu.png",
+    "epgId": "PrvaFiles.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/PrvaFiles/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prvakick-rs",
+    "name": "Prva Kick",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/zsXD3cd.png",
+    "epgId": "PrvaKick.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/PrvaKick/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prvalife-rs",
+    "name": "Prva Life",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/fHntwzn.png",
+    "epgId": "PrvaLife.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/PrvaLife/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prvamax-rs",
+    "name": "Prva Max",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/BzxmOaQ.png",
+    "epgId": "PrvaMax.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/PrvaMax/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prvaplus-rs",
+    "name": "Prva Plus",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/IlenHxZ.png",
+    "epgId": "PrvaPlus.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/PrvaPlus/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prvaworld-rs",
+    "name": "Prva World",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/tuh1vzj.png",
+    "epgId": "PrvaWorld.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/PrvaWorld/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiohitfmtv-rs",
+    "name": "Radio Hit FM TV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Music",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/gP2OT4S.png",
+    "epgId": "RadioHitFMTV.rs",
+    "streams": [
+      {
+        "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiokarolinatv-rs",
+    "name": "Radio Karolina TV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Music",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/g2HpLX1.png",
+    "epgId": "RadioKarolinaTV.rs",
+    "streams": [
+      {
+        "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "radiololatv-rs",
+    "name": "Radio Lola TV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Music",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/41eE8fl.png",
+    "epgId": "RadioLolaTV.rs",
+    "streams": [
+      {
+        "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rts1-rs",
+    "name": "RTS 1",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/S1pKHSR.png",
+    "epgId": "RTS1.rs",
+    "streams": [
+      {
+        "url": "https://webtvstream.bhtelecom.ba/rts1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://de1.dstv.cx/RTS1HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rts1-rs",
+    "name": "RTS 1",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/S1pKHSR.png",
+    "epgId": "RTS1.rs",
+    "streams": [
+      {
+        "url": "https://webtvstream.bhtelecom.ba/rts1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://de1.dstv.cx/RTS1HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rts2-rs",
+    "name": "RTS 2",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/jltAf5h.png",
+    "epgId": "RTS2.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/RTS2HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rts2-rs",
+    "name": "RTS 2",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/jltAf5h.png",
+    "epgId": "RTS2.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/RTS2HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rts3-rs",
+    "name": "RTS 3",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/gxuGB4J.png",
+    "epgId": "RTS3.rs",
+    "streams": [
+      {
+        "url": "http://185.81.240.65:15000/udp/233.233.233.36:12000",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtsdrama-rs",
+    "name": "RTS Drama",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Series",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/bsTUhYK.png",
+    "epgId": "RTSDrama.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/RTSDrama/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtskolo-rs",
+    "name": "RTS Kolo",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/gXlEDDW.png",
+    "epgId": "RTSKolo.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/RTSKolo/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtsmuzika-rs",
+    "name": "RTS Muzika",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Music",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/n8p11NI.png",
+    "epgId": "RTSMuzika.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/RTSMuzika/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtspoletarac-rs",
+    "name": "RTS Poletarac",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/8Nnw8NF.png",
+    "epgId": "RTSPoletarac.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/RTSPoletarac/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtssvet-rs",
+    "name": "RTS Svet",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/LjunOdy.png",
+    "epgId": "RTSSvet.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/RTSSvet/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtstrezor-rs",
+    "name": "RTS Trezor",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/BnSHfxF.png",
+    "epgId": "RTSTrezor.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/RTSTrezor/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtszivot-rs",
+    "name": "RTS Zivot",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/NpFG9uy.png",
+    "epgId": "RTSZivot.rs",
+    "streams": [
+      {
+        "url": "https://de1.dstv.cx/RTSZivot/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtvbap-rs",
+    "name": "RTV Bap",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/TBAtPH6.png",
+    "epgId": "RTVBap.rs",
+    "streams": [
+      {
+        "url": "https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtvnovipazar-rs",
+    "name": "RTV Novi Pazar",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/NpyRVyC.png",
+    "epgId": "RTVNoviPazar.rs",
+    "streams": [
+      {
+        "url": "https://tv.rtvnp.rs/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sandzaktv-rs",
+    "name": "Sandzak TV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/lm9Fgsp.png",
+    "epgId": "SandzakTV.rs",
+    "streams": [
+      {
+        "url": "https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "scifi-rs",
+    "name": "Sci Fi",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/FPumwfg.png",
+    "epgId": "SciFi.rs",
+    "streams": [
+      {
+        "url": "https://webtvstream.bhtelecom.ba/sci-fi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "soskanalplus-rs",
+    "name": "SOS Kanal Plus",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Sports",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/9SD40uH.png",
+    "epgId": "SOSKanalPlus.rs",
+    "streams": [
+      {
+        "url": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tdiradiotv-rs",
+    "name": "TDI Radio TV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Music",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/POdTmaD.png",
+    "epgId": "TDIRadioTV.rs",
+    "streams": [
+      {
+        "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "toptv-rs",
+    "name": "Top TV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Music",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/UJqbKEC.png",
+    "epgId": "TopTV.rs",
+    "streams": [
+      {
+        "url": "http://82.165.71.58:8081/TopTV/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvdugaplus-rs",
+    "name": "TV Duga+",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Music",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/qZV3JW5.png",
+    "epgId": "TVDugaPlus.rs",
+    "streams": [
+      {
+        "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvhram-rs",
+    "name": "TV Hram",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/XzAYOFK.png",
+    "epgId": "TVHram.rs",
+    "streams": [
+      {
+        "url": "https://vod1.laki.eu/live/hram/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvkanalm-rs",
+    "name": "TV Kanal M",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/hqNVRUU.png",
+    "epgId": "TVKanalM.rs",
+    "streams": [
+      {
+        "url": "http://176.67.210.1/hls/kanalm.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmarsh-rs",
+    "name": "TV Marsh",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/Dt1mPyX.png",
+    "epgId": "TVMarsh.rs",
+    "streams": [
+      {
+        "url": "http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvpanon-rs",
+    "name": "TV Panon",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/9ZKA4Gx.png",
+    "epgId": "TVPanon.rs",
+    "streams": [
+      {
+        "url": "https://stream2.nmih.hu:4102/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvpikanal-rs",
+    "name": "TV Pi Kanal",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/8ugnFa3.png",
+    "epgId": "TVPiKanal.rs",
+    "streams": [
+      {
+        "url": "https://stream.pikanal.rs/pikanal/pgm.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvpirot-rs",
+    "name": "TV Pirot",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/o5y1ok6.png",
+    "epgId": "TVPirot.rs",
+    "streams": [
+      {
+        "url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zicotv-rs",
+    "name": "ZICO TV",
+    "country": "RS",
+    "countryName": "Serbia",
+    "category": "Music",
+    "language": "sqi",
+    "languageName": "Albanian",
+    "logo": "https://i.imgur.com/8wbTnNW.png",
+    "epgId": "ZICOTV.rs",
+    "streams": [
+      {
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

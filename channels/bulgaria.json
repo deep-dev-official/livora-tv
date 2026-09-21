@@ -1,0 +1,2344 @@
+[
+  {
+    "id": "78tv-bg",
+    "name": "7/8 TV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Entertainment",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png",
+    "epgId": "78TV.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0cn",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "100automototv-bg",
+    "name": "100% Auto Moto TV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Auto",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/SZtJfOG.png",
+    "epgId": "100AutoMotoTV.bg",
+    "streams": [
+      {
+        "url": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "406p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "agrotv-bg",
+    "name": "Agro TV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Outdoor",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/tPMNDtD.png",
+    "epgId": "AgroTV.bg",
+    "streams": [
+      {
+        "url": "https://restr2.bgtv.bg/agro/hls/agro.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bloombergtvbulgaria-bg",
+    "name": "Bloomberg TV Bulgaria",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Business",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/cHwOVqk.png",
+    "epgId": "BloombergTVBulgaria.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a04m",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt1-bg",
+    "name": "BNT 1",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/7JU9b5j.png",
+    "epgId": "BNT1.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT1_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a046",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt1-bg",
+    "name": "BNT 1",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/7JU9b5j.png",
+    "epgId": "BNT1.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT1_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a046",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt1-bg",
+    "name": "BNT 1",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/7JU9b5j.png",
+    "epgId": "BNT1.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT1_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a046",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt2-bg",
+    "name": "BNT 2",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/FyTUr9Q.png",
+    "epgId": "BNT2.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT2_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a049",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt2-bg",
+    "name": "BNT 2",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/FyTUr9Q.png",
+    "epgId": "BNT2.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT2_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a049",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt2-bg",
+    "name": "BNT 2",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/FyTUr9Q.png",
+    "epgId": "BNT2.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT2_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a049",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt3-bg",
+    "name": "BNT 3",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/pPpSJ4u.png",
+    "epgId": "BNT3.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT3_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a03x",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt3-bg",
+    "name": "BNT 3",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/pPpSJ4u.png",
+    "epgId": "BNT3.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT3_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a03x",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt3-bg",
+    "name": "BNT 3",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/pPpSJ4u.png",
+    "epgId": "BNT3.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT3_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a03x",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt4-bg",
+    "name": "BNT 4",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/Lw8b3yu.png",
+    "epgId": "BNT4.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT4_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a04u",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt4-bg",
+    "name": "BNT 4",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/Lw8b3yu.png",
+    "epgId": "BNT4.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT4_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a04u",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bnt4-bg",
+    "name": "BNT 4",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/Lw8b3yu.png",
+    "epgId": "BNT4.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/BNT4_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://213.91.179.28:8000/play/a04u",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "boxtv-bg",
+    "name": "BOX TV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Music",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/swFzesA.png",
+    "epgId": "BOXTV.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0an",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btv-bg",
+    "name": "bTV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/l47z7gw.png",
+    "epgId": "bTV.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a03w",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btvaction-bg",
+    "name": "bTV Action",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/hGUXHuT.png",
+    "epgId": "bTVAction.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a04n",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btvcinema-bg",
+    "name": "bTV Cinema",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/uV81rS4.png",
+    "epgId": "bTVCinema.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a04i",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btvcomedy-bg",
+    "name": "bTV Comedy",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Comedy",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/1c6A5dO.png",
+    "epgId": "bTVComedy.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a04k",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btvlady-bg",
+    "name": "bTV Lady",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/rXBPJ1e.png",
+    "epgId": "bTVLady.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a05i",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bulgariaonair-bg",
+    "name": "Bulgaria On Air",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "News",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/mvShl7F.png",
+    "epgId": "BulgariaOnAir.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a05x",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cinebox-bg",
+    "name": "cine.box",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "",
+    "epgId": "cinebox.bg",
+    "streams": [
+      {
+        "url": "http://212.70.131.37:8000/play/a08b",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cinestar1bulgaria-bg",
+    "name": "CineStar 1 Bulgaria",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/t9vVTLH.png",
+    "epgId": "CineStar1Bulgaria.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a05h",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "citytv-bg",
+    "name": "City TV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Music",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/mFL452f.png",
+    "epgId": "CityTV.bg",
+    "streams": [
+      {
+        "url": "https://tv.city.bg/play/tshls/citytv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "codefashiontv-bg",
+    "name": "Code Fashion TV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Lifestyle",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/mVc2g64.png",
+    "epgId": "CodeFashionTV.bg",
+    "streams": [
+      {
+        "url": "https://cdn2.invivo.bg/Codefashion_5500/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "codehealthtv-bg",
+    "name": "Code Health TV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Lifestyle",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/NXBMzGV.png",
+    "epgId": "CodeHealthTV.bg",
+    "streams": [
+      {
+        "url": "https://cdn2.invivo.bg/codehealth_test/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "diema-bg",
+    "name": "Diema",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "",
+    "epgId": "Diema.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a045",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "diemafamily-bg",
+    "name": "Diema Family",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Family",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/SgNVY4d.png",
+    "epgId": "DiemaFamily.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a047",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannel-bg",
+    "name": "Disney Channel",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Kids",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/UxrAiAe.png",
+    "epgId": "DisneyChannel.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a059",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dstv-bg",
+    "name": "DSTV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Music",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/YMgzzkf.png",
+    "epgId": "DSTV.bg",
+    "streams": [
+      {
+        "url": "http://46.249.95.140:8081/hls/data.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "614p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ekids-bg",
+    "name": "EKids",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Kids",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "",
+    "epgId": "EKids.bg",
+    "streams": [
+      {
+        "url": "http://78.108.244.134:8899/ekids",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eurocom-bg",
+    "name": "Eurocom",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "",
+    "epgId": "Eurocom.bg",
+    "streams": [
+      {
+        "url": "https://live.ecomservice.bg/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "euronewsbulgaria-bg",
+    "name": "Euronews Bulgaria",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "News",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/RrQVoOg.png",
+    "epgId": "EuronewsBulgaria.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a05e",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "h2-bg",
+    "name": "H2",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Documentary",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+    "epgId": "H2.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a03r",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "history-bg",
+    "name": "History",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Documentary",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "",
+    "epgId": "History.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0c1",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hitmixmusic-bg",
+    "name": "Hit Mix Music",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Music",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/Gbaxq6P.png",
+    "epgId": "HitMixMusic.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0cl",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hopechannelbulgaria-bg",
+    "name": "Hope Channel Bulgaria",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Religious",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/bxzeEML.png",
+    "epgId": "HopeChannelBulgaria.bg",
+    "streams": [
+      {
+        "url": "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "id-bg",
+    "name": "ID",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Documentary",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "",
+    "epgId": "ID.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0cf",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kinonova-bg",
+    "name": "Kino Nova",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/hMqEY0J.png",
+    "epgId": "KinoNova.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a041",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lightchannel-bg",
+    "name": "Light Channel",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Religious",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/S3Fbf8T.png",
+    "epgId": "LightChannel.bg",
+    "streams": [
+      {
+        "url": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "magictv-bg",
+    "name": "Magic TV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Music",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/n7bcrrp.png",
+    "epgId": "MagicTV.bg",
+    "streams": [
+      {
+        "url": "https://bss1.neterra.tv/magictv/magictv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maxsport1-bg",
+    "name": "Max Sport 1",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Sports",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/0ohnpql.png",
+    "epgId": "MaxSport1.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0as",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maxsport1-bg",
+    "name": "Max Sport 1",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Sports",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/0ohnpql.png",
+    "epgId": "MaxSport1.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0as",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maxsport2-bg",
+    "name": "Max Sport 2",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Sports",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/33m1wPN.png",
+    "epgId": "MaxSport2.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0at",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maxsport2-bg",
+    "name": "Max Sport 2",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Sports",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/33m1wPN.png",
+    "epgId": "MaxSport2.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0at",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maxsport3-bg",
+    "name": "Max Sport 3",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Sports",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/eGiGgZ2.png",
+    "epgId": "MaxSport3.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0ar",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maxsport3-bg",
+    "name": "Max Sport 3",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Sports",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/eGiGgZ2.png",
+    "epgId": "MaxSport3.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0ar",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maxsport4-bg",
+    "name": "Max Sport 4",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Sports",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/7IxXX6f.png",
+    "epgId": "MaxSport4.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a05n",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "maxsport4-bg",
+    "name": "Max Sport 4",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Sports",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/7IxXX6f.png",
+    "epgId": "MaxSport4.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a05n",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moviestar-bg",
+    "name": "Movie Star",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/DdZH49P.png",
+    "epgId": "MovieStar.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/MovieStar/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://85.14.32.26:8800/udp/239.100.10.160:5000",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moviestar-bg",
+    "name": "Movie Star",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/DdZH49P.png",
+    "epgId": "MovieStar.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/MovieStar/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://85.14.32.26:8800/udp/239.100.10.160:5000",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographic-bg",
+    "name": "National Geographic",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Documentary",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "epgId": "NationalGeographic.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0ct",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographic-bg",
+    "name": "National Geographic",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Documentary",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "epgId": "NationalGeographic.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0ct",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographicwild-bg",
+    "name": "National Geographic Wild",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Documentary",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "epgId": "NationalGeographicWild.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0cu",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographicwild-bg",
+    "name": "National Geographic Wild",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Documentary",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "epgId": "NationalGeographicWild.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0cu",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nickelodeon-bg",
+    "name": "Nickelodeon",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Kids",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "epgId": "Nickelodeon.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a056",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nickelodeon-bg",
+    "name": "Nickelodeon",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Kids",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "epgId": "Nickelodeon.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a056",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nostalgia-bg",
+    "name": "Nostalgia",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Classic",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/JU1dFfK.png",
+    "epgId": "Nostalgia.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a03q",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nova-bg",
+    "name": "Nova",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/WCsPSLX.png",
+    "epgId": "Nova.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a03l",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "novanews-bg",
+    "name": "Nova News",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "News",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c3/Nova_News_HD.svg",
+    "epgId": "NovaNews.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a063",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "plovdivorthodoxtv-bg",
+    "name": "Plovdiv Orthodox TV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Religious",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "",
+    "epgId": "PlovdivOrthodoxTV.bg",
+    "streams": [
+      {
+        "url": "http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ring-bg",
+    "name": "RING",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Kids",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "",
+    "epgId": "RING.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a06e",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rmtv-bg",
+    "name": "RMTV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://rmtv.bg/img/logo.png",
+    "epgId": "RMTV.bg",
+    "streams": [
+      {
+        "url": "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "288p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starchannel-bg",
+    "name": "Star Channel",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "epgId": "StarChannel.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0c9",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_FOX/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starchannel-bg",
+    "name": "Star Channel",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "epgId": "StarChannel.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0c9",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_FOX/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starcrime-bg",
+    "name": "Star Crime",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Series",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
+    "epgId": "StarCrime.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0cs",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starcrime-bg",
+    "name": "Star Crime",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Series",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
+    "epgId": "StarCrime.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0cs",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starlife-bg",
+    "name": "Star Life",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Series",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
+    "epgId": "StarLife.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0cr",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starlife-bg",
+    "name": "Star Life",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Series",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
+    "epgId": "StarLife.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a0cr",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thevoice-bg",
+    "name": "The Voice",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Music",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/OoJSmoj.png",
+    "epgId": "TheVoice.bg",
+    "streams": [
+      {
+        "url": "https://bss1.neterra.tv/thevoice/thevoice.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thisisbulgariahd-bg",
+    "name": "This is Bulgaria HD",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Entertainment",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/062jkXw.png",
+    "epgId": "ThisisBulgariaHD.bg",
+    "streams": [
+      {
+        "url": "https://streamer103.neterra.tv/thisisbulgaria/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tiankovfolk-bg",
+    "name": "Tiankov Folk",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Music",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/VKY4q64.png",
+    "epgId": "TiankovFolk.bg",
+    "streams": [
+      {
+        "url": "https://streamer103.neterra.tv/tiankov-folk/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tiankovorientfolk-bg",
+    "name": "Tiankov Orient Folk",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Music",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/33LexyP.png",
+    "epgId": "TiankovOrientFolk.bg",
+    "streams": [
+      {
+        "url": "https://streamer103.neterra.tv/tiankov-orient/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "traveltv-bg",
+    "name": "Travel TV",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Travel",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/5xllfed.png",
+    "epgId": "TravelTV.bg",
+    "streams": [
+      {
+        "url": "https://streamer103.neterra.tv/travel/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv1000-bg",
+    "name": "TV1000",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/GHNsctR.png",
+    "epgId": "TV1000.bg",
+    "streams": [
+      {
+        "url": "http://85.14.32.26:8800/udp/239.100.10.100:5000",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv1000-bg",
+    "name": "TV1000",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Movies",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/GHNsctR.png",
+    "epgId": "TV1000.bg",
+    "streams": [
+      {
+        "url": "http://85.14.32.26:8800/udp/239.100.10.100:5000",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvrodina-bg",
+    "name": "TV Rodina",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Music",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "",
+    "epgId": "TVRodina.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/RodinaTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvspravedlivabulgariya-bg",
+    "name": "TV Spravedliva Bulgariya",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://tvsb.bg/theme/images/logo.png",
+    "epgId": "TVSpravedlivaBulgariya.bg",
+    "streams": [
+      {
+        "url": "https://tv.tvsb.bg/112.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvzagora-bg",
+    "name": "TV Zagora",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/DvBboqe.png",
+    "epgId": "TVZagora.bg",
+    "streams": [
+      {
+        "url": "http://zagoratv.ddns.net:8080/tvzagora.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatexplore-bg",
+    "name": "Viasat Explore",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Documentary",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
+    "epgId": "ViasatExplore.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasathistory-bg",
+    "name": "Viasat History",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Documentary",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
+    "epgId": "ViasatHistory.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasatnature-bg",
+    "name": "Viasat Nature",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "Documentary",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
+    "epgId": "ViasatNature.bg",
+    "streams": [
+      {
+        "url": "https://shift03.isp.bg/ViasatNature_HD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vivacomarena-bg",
+    "name": "Vivacom Arena",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/M7QKnH3.png",
+    "epgId": "VivacomArena.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a053",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vivacomarena-bg",
+    "name": "Vivacom Arena",
+    "country": "BG",
+    "countryName": "Bulgaria",
+    "category": "General",
+    "language": "bul",
+    "languageName": "Bulgarian",
+    "logo": "https://i.imgur.com/M7QKnH3.png",
+    "epgId": "VivacomArena.bg",
+    "streams": [
+      {
+        "url": "http://213.91.179.28:8000/play/a053",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+        "last_checked": null
+      },
+      {
+        "url": "http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

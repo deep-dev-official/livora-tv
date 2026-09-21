@@ -1,0 +1,24 @@
+[
+  {
+    "id": "kringvarpforoya-fo",
+    "name": "KVF",
+    "country": "FO",
+    "countryName": "Faroe Islands",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "KringvarpForoya.fo",
+    "streams": [
+      {
+        "url": "https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

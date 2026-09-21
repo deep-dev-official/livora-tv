@@ -1,0 +1,1368 @@
+[
+  {
+    "id": "acnn-ng",
+    "name": "ACNN",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/91JLpxr.png",
+    "epgId": "ACNN.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "africatv3-ng",
+    "name": "Africa TV3",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "hau",
+    "languageName": "Hausa",
+    "logo": "https://i.imgur.com/iibE9WL.png",
+    "epgId": "AfricaTV3.ng",
+    "streams": [
+      {
+        "url": "http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "amusicchannel-ng",
+    "name": "AMusic Channel",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/06zuf64.png",
+    "epgId": "AMusicChannel.ng",
+    "streams": [
+      {
+        "url": "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "amusicchannel-ng",
+    "name": "AMusic Channel",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/06zuf64.png",
+    "epgId": "AMusicChannel.ng",
+    "streams": [
+      {
+        "url": "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "approvaltv-ng",
+    "name": "Approval TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://storage.approvaltv.com/2026/03/approvallogo.png",
+    "epgId": "ApprovalTV.ng",
+    "streams": [
+      {
+        "url": "https://live.approvaltv.com/approvaltv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://live.approvaltv.com/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "approvaltv-ng",
+    "name": "Approval TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://storage.approvaltv.com/2026/03/approvallogo.png",
+    "epgId": "ApprovalTV.ng",
+    "streams": [
+      {
+        "url": "https://live.approvaltv.com/approvaltv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "https://live.approvaltv.com/",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bcsstarcrosstv-ng",
+    "name": "BCS StarCross TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/VKv1Y6p.png",
+    "epgId": "BCSStarCrossTV.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bridetv-ng",
+    "name": "Bride TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/snZMucg.png",
+    "epgId": "BrideTV.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "caughtuptv-ng",
+    "name": "Caught-Up TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/7jeoulU.png",
+    "epgId": "CaughtUpTV.ng",
+    "streams": [
+      {
+        "url": "https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channels24-ng",
+    "name": "Channels 24",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/ww5zNmY.png",
+    "epgId": "Channels24.ng",
+    "streams": [
+      {
+        "url": "https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channelstv-ng",
+    "name": "Channels TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg",
+    "epgId": "ChannelsTV.ng",
+    "streams": [
+      {
+        "url": "https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chosentvenglish-ng",
+    "name": "Chosen TV English",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "ChosenTVEnglish.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/dvrfl06/astv/astv-chosentv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "chosentvenglish-ng",
+    "name": "Chosen TV English",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "ChosenTVEnglish.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live20.bozztv.com/dvrfl06/astv/astv-chosentv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cloveworldtv-ng",
+    "name": "cLoveworld TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/MKKap2F.png",
+    "epgId": "cLoveworldTV.ng",
+    "streams": [
+      {
+        "url": "https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cozatv-ng",
+    "name": "Coza TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/QVBdpuF.png",
+    "epgId": "CozaTV.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dunamistv-ng",
+    "name": "Dunamis TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/thGAXeM.png",
+    "epgId": "DunamisTV.ng",
+    "streams": [
+      {
+        "url": "https://atechgroupuk.site/DTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "flametv-ng",
+    "name": "Flame TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/ORKcnzr.png",
+    "epgId": "FlameTV.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fortistv-ng",
+    "name": "Fortis TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/HoO9Urd.jpg",
+    "epgId": "FortisTV.ng",
+    "streams": [
+      {
+        "url": "https://stream.fortistv.com/hls/fortis-news/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "foursquaretv-ng",
+    "name": "Foursquare TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/ORer9ag.png",
+    "epgId": "FoursquareTV.ng",
+    "streams": [
+      {
+        "url": "https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "itagetv-ng",
+    "name": "Itage TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Movies",
+    "language": "yor",
+    "languageName": "Yoruba",
+    "logo": "https://i.imgur.com/FP1aUPw.jpg",
+    "epgId": "ItageTV.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kingsviewtv-ng",
+    "name": "Kingsview TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Entertainment",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/py1XOXX.png",
+    "epgId": "KingsviewTV.ng",
+    "streams": [
+      {
+        "url": "https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ln247-ng",
+    "name": "LN247",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/s6PUehQ.jpg",
+    "epgId": "LN247.ng",
+    "streams": [
+      {
+        "url": "https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "loveworldarabic-ng",
+    "name": "LoveWorld Arabic",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/KYMjRjK.png",
+    "epgId": "LoveWorldArabic.ng",
+    "streams": [
+      {
+        "url": "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "loveworldpersia-ng",
+    "name": "LoveWorld Persia",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/Vd2xPxh.png",
+    "epgId": "LoveWorldPersia.ng",
+    "streams": [
+      {
+        "url": "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "loveworldsat-ng",
+    "name": "LoveworldSAT",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Fg65XCS.png",
+    "epgId": "LoveworldSAT.ng",
+    "streams": [
+      {
+        "url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "loveworldsat-ng",
+    "name": "LoveworldSAT",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Fg65XCS.png",
+    "epgId": "LoveworldSAT.ng",
+    "streams": [
+      {
+        "url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "loveworlduk-ng",
+    "name": "LoveWorld UK",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/JgHbDmF.png",
+    "epgId": "LoveWorldUK.ng",
+    "streams": [
+      {
+        "url": "https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "loveworldusa-ng",
+    "name": "LoveWorld USA",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "LoveWorldUSA.ng",
+    "streams": [
+      {
+        "url": "https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "masterstv-ng",
+    "name": "Master's TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "MastersTV.ng",
+    "streams": [
+      {
+        "url": "https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moregracetv-ng",
+    "name": "More Grace TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/DNTeCQt.png",
+    "epgId": "MoreGraceTV.ng",
+    "streams": [
+      {
+        "url": "https://atechgroupuk.site/ETV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "410p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "newscentral-ng",
+    "name": "News Central",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/qvCgI8N.png",
+    "epgId": "NewsCentral.ng",
+    "streams": [
+      {
+        "url": "https://wf.newscentral.ng:8443/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "newvisiontv-ng",
+    "name": "New Vision TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "NewVisionTV.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nigbati-ng",
+    "name": "Nigbati",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Culture",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "",
+    "epgId": "Nigbati.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ntainternational-ng",
+    "name": "NTA International",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Culture",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/mN8j8CR.png",
+    "epgId": "NTAInternational.ng",
+    "streams": [
+      {
+        "url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "osbctv-ng",
+    "name": "OSBC TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/lj9WEq8.png",
+    "epgId": "OSBCTV.ng",
+    "streams": [
+      {
+        "url": "https://cloud.odysee.live/content/0edfb4b7fb52d2d5ae30e052ce6b61d376fcd662/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "https://odysee.com/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "phenomenallifetv-ng",
+    "name": "Phenomenal Life TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/JHbhLuK.jpg",
+    "epgId": "PhenomenalLifeTV.ng",
+    "streams": [
+      {
+        "url": "https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "plustvafrica-ng",
+    "name": "Plus TV Africa",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/6RT3yao.png",
+    "epgId": "PlusTVAfrica.ng",
+    "streams": [
+      {
+        "url": "https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "qausaintv-ng",
+    "name": "Qausain TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Culture",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
+    "epgId": "QausainTV.ng",
+    "streams": [
+      {
+        "url": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "questtv-ng",
+    "name": "Quest TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/4ATTIQi.png",
+    "epgId": "QuestTV.ng",
+    "streams": [
+      {
+        "url": "https://media2.streambrothers.com:19360/8028/8028.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rapidtv-ng",
+    "name": "Rapid TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/FkMNcj1.jpeg",
+    "epgId": "RapidTV.ng",
+    "streams": [
+      {
+        "url": "https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ravetv-ng",
+    "name": "Rave TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/pXKQE0G.png",
+    "epgId": "RaveTV.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "salvationtv-ng",
+    "name": "Salvation TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Nb08dfK.png",
+    "epgId": "SalvationTV.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "silverbirdnews24-ng",
+    "name": "Silverbird News 24",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/9jcV9oG.png",
+    "epgId": "SilverbirdNews24.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "soundcitytv-ng",
+    "name": "Soundcity TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/fKtPcT4.png",
+    "epgId": "SoundcityTV.ng",
+    "streams": [
+      {
+        "url": "https://cs2.push2stream.com/SOUNDCITY/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sunnatv-ng",
+    "name": "Sunna TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/K2Snk2T.png",
+    "epgId": "SunnaTV.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "superscreentv-ng",
+    "name": "Superscreen TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Culture",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/uTNmSWE.png",
+    "epgId": "SuperscreenTV.ng",
+    "streams": [
+      {
+        "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "412p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "synagoguetv-ng",
+    "name": "Synagogue TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/MOaBr9M.png",
+    "epgId": "SynagogueTV.ng",
+    "streams": [
+      {
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teleregencytv-ng",
+    "name": "Tele Regency TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://teleregency.tv/logo-white.png",
+    "epgId": "TeleRegencyTV.ng",
+    "streams": [
+      {
+        "url": "https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvc-ng",
+    "name": "TVC",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/ReV8R5S.png",
+    "epgId": "TVC.ng",
+    "streams": [
+      {
+        "url": "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://212.5.144.156:8080/tvc/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvc-ng",
+    "name": "TVC",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/ReV8R5S.png",
+    "epgId": "TVC.ng",
+    "streams": [
+      {
+        "url": "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://212.5.144.156:8080/tvc/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvwest-ng",
+    "name": "TV-WEST",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://tvwest.ng/wp-content/uploads/2026/07/cropped-TW.jpg",
+    "epgId": "TVWEST.ng",
+    "streams": [
+      {
+        "url": "https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "utvafrica-ng",
+    "name": "UTV Africa",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://www.utvafrica.com/images/utv-logo.png",
+    "epgId": "UTVAfrica.ng",
+    "streams": [
+      {
+        "url": "https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestreamUTV/8f263182c36c7e5c56a986bf770091e3.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "waffitv-ng",
+    "name": "Waffi TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/3uEuzVH.jpeg",
+    "epgId": "WaffiTV.ng",
+    "streams": [
+      {
+        "url": "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "240p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "waptv-ng",
+    "name": "Wap TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/Djng8pI.png",
+    "epgId": "WapTV.ng",
+    "streams": [
+      {
+        "url": "https://newproxy3.vidivu.tv/waptv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wazobiamaxtvnigeria-ng",
+    "name": "Wazobia Max TV Nigeria",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/IeioxBp.png",
+    "epgId": "WazobiaMaxTVNigeria.ng",
+    "streams": [
+      {
+        "url": "https://wazobia.live:8333/channel/wmax.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wazobiamaxtvportharcourt-ng",
+    "name": "Wazobia Max TV Port-Harcourt",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
+    "epgId": "WazobiaMaxTVPortHarcourt.ng",
+    "streams": [
+      {
+        "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "wholewordtv-ng",
+    "name": "Whole Word TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/71MRtuK.png",
+    "epgId": "WholeWordTV.ng",
+    "streams": [
+      {
+        "url": "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yobetv-ng",
+    "name": "Yobe TV",
+    "country": "NG",
+    "countryName": "Nigeria",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://ytv.ng/images/yobe/ytv-logo.jpg",
+    "epgId": "YobeTV.ng",
+    "streams": [
+      {
+        "url": "https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestream24/60414fd886a863e5851f4559fb86e7f6.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

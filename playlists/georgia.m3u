@@ -1,0 +1,80 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="1TV.ge" tvg-name="1TV" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="General",1TV (720p)
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+#EXTINF:-1 tvg-id="1TV.ge" tvg-name="1TV" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="General",1TV (HD)
+http://nue01-edge01.itdc.ge/gpb/mpegts
+
+#EXTINF:-1 tvg-id="2TV.ge" tvg-name="2 TV" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="General",2 TV (720p)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Adjarasport1.ge" tvg-name="Adjarasport 1" tvg-logo="https://i.imgur.com/SVV5xHC.png" group-title="Sports",Adjarasport 1 (HD)
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+
+#EXTINF:-1 tvg-id="ApsuaTV.ge" tvg-name="Apsua TV" tvg-logo="https://i.imgur.com/TJowroY.png" group-title="General",Apsua TV (HD)
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+
+#EXTINF:-1 tvg-id="BMGTV.ge" tvg-name="BMG TV" tvg-logo="https://i.imgur.com/vGLkTPA.png" group-title="Business",BMG TV (HD)
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyTV.ge" tvg-name="Comedy TV" tvg-logo="https://i.imgur.com/i1TANKv.png" group-title="Comedy",Comedy TV (HD)
+http://31.146.5.178:8087/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="Ertsulovneba.ge" tvg-name="Ertsulovneba" tvg-logo="https://i.imgur.com/KuuODMM.png" group-title="Religious",Ertsulovneba (HD)
+https://stream.sstv.ge/live/sstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsGeorgia.ge" tvg-name="Euronews Georgia" tvg-logo="https://i.imgur.com/VNJ4soR.png" group-title="News",Euronews Georgia (HD)
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+
+#EXTINF:-1 tvg-id="Formula.ge" tvg-name="Formula" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="News",Formula (1080p)
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+
+#EXTINF:-1 tvg-id="Formula.ge" tvg-name="Formula" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="News",Formula (1080p)
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GDSTV.ge" tvg-name="GDS TV" tvg-logo="https://i.imgur.com/gv61tFf.png" group-title="General",GDS TV (HD)
+http://31.146.5.178:8087/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="GMSTV.ge" tvg-name="GMS TV" tvg-logo="" group-title="General",GMS TV (HD)
+http://158.101.222.193:88/georgia_play.php?id=gms
+
+#EXTINF:-1 tvg-id="ImediTV.ge" tvg-name="Imedi TV" tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="General",Imedi TV (1080p)
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+
+#EXTINF:-1 tvg-id="ImediTV.ge" tvg-name="Imedi TV" tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="General",Imedi TV (HD)
+http://nue01-edge01.itdc.ge/imedihd/mpegts
+
+#EXTINF:-1 tvg-id="Maestro.ge" tvg-name="Maestro" tvg-logo="https://i.imgur.com/nUz1VRv.png" group-title="General",Maestro (576p)
+http://str2.iptvhd.ru:8080/maestro/index.m3u8
+
+#EXTINF:-1 tvg-id="MtavariArkhi.ge" tvg-name="Mtavari Arkhi" tvg-logo="https://i.imgur.com/tLtGnJW.png" group-title="General",Mtavari Arkhi (HD)
+https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
+
+#EXTINF:-1 tvg-id="ObieqtiviTV.ge" tvg-name="Obieqtivi TV" tvg-logo="https://i.imgur.com/Kqc8H8X.png" group-title="News",Obieqtivi TV (HD)
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
+
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-name="Palitra News" tvg-logo="https://i.imgur.com/BW95PMF.png" group-title="News",Palitra News (480p)
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-name="Palitra News" tvg-logo="https://i.imgur.com/BW95PMF.png" group-title="News",Palitra News (480p)
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 tvg-id="RioniTV.ge" tvg-name="Rioni TV" tvg-logo="https://i.imgur.com/ogMqmth.png" group-title="General",Rioni TV (720p)
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+
+#EXTINF:-1 tvg-id="Rustavi2.ge" tvg-name="Rustavi 2" tvg-logo="https://i.imgur.com/rPqd1Cx.png" group-title="General",Rustavi 2 (HD)
+http://31.146.5.178:8087/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="Rustavi2.ge" tvg-name="Rustavi 2" tvg-logo="https://i.imgur.com/rPqd1Cx.png" group-title="General",Rustavi 2 (HD)
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+
+#EXTINF:-1 tvg-id="SetantaSports3.ge" tvg-name="Setanta Sports 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" group-title="Sports",Setanta Sports 3 (HD)
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+
+#EXTINF:-1 tvg-id="TVC.ge" tvg-name="TVC" tvg-logo="https://sul.ge/images/televizia/tvc.png" group-title="General",TVC (1080p)
+http://31.146.5.178:8087/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPirveli.ge" tvg-name="TV Pirveli" tvg-logo="https://i.imgur.com/cGHsM1x.png" group-title="General",TV Pirveli (HD)
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts

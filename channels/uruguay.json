@@ -1,0 +1,46 @@
+[
+  {
+    "id": "canal5-uy",
+    "name": "Canal 5",
+    "country": "UY",
+    "countryName": "Uruguay",
+    "category": "General",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/IpYxSr1.png",
+    "epgId": "Canal5.uy",
+    "streams": [
+      {
+        "url": "https://tinyurl.com/canal5uy",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ucl-uy",
+    "name": "UCL",
+    "country": "UY",
+    "countryName": "Uruguay",
+    "category": "Culture",
+    "language": "spa",
+    "languageName": "Spanish",
+    "logo": "https://i.imgur.com/BzQphbw.png",
+    "epgId": "UCL.uy",
+    "streams": [
+      {
+        "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

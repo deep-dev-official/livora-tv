@@ -1,0 +1,1248 @@
+[
+  {
+    "id": "canalmotor-no",
+    "name": "Canal Motor",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "Auto",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/nCAt3QN.png",
+    "epgId": "CanalMotor.no",
+    "streams": [
+      {
+        "url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://digicom.hls.iptvdc.com/motorstv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "canalmotor-no",
+    "name": "Canal Motor",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "Auto",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/nCAt3QN.png",
+    "epgId": "CanalMotor.no",
+    "streams": [
+      {
+        "url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://digicom.hls.iptvdc.com/motorstv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "frikanalen-no",
+    "name": "Frikanalen",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/rY3Owxl.png",
+    "epgId": "Frikanalen.no",
+    "streams": [
+      {
+        "url": "https://frikanalen.no/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk1-no",
+    "name": "NRK1",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "epgId": "NRK1.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk1-no",
+    "name": "NRK1",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "epgId": "NRK1.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk1-no",
+    "name": "NRK1",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "epgId": "NRK1.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk1-no",
+    "name": "NRK1",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "epgId": "NRK1.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk1-no",
+    "name": "NRK1",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "epgId": "NRK1.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk1-no",
+    "name": "NRK1",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "epgId": "NRK1.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk1-no",
+    "name": "NRK1",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "epgId": "NRK1.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk1-no",
+    "name": "NRK1",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "epgId": "NRK1.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk1-no",
+    "name": "NRK1",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "epgId": "NRK1.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk1-no",
+    "name": "NRK1",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "epgId": "NRK1.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk2-no",
+    "name": "NRK2",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/SiAdoK9.png",
+    "epgId": "NRK2.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrk3-no",
+    "name": "NRK3",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "Entertainment",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/TNhV2I7.png",
+    "epgId": "NRK3.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrksuper-no",
+    "name": "NRK Super",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "Kids",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/xIATe2T.png",
+    "epgId": "NRKSuper.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrktegnsprak-no",
+    "name": "NRK Tegnsprak",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/VCpWG3h.png",
+    "epgId": "NRKTegnsprak.no",
+    "streams": [
+      {
+        "url": "https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmodum-no",
+    "name": "TVModum",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.imgur.com/kljua5X.png",
+    "epgId": "TVModum.no",
+    "streams": [
+      {
+        "url": "https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvostfold-no",
+    "name": "TV Ostfold",
+    "country": "NO",
+    "countryName": "Norway",
+    "category": "General",
+    "language": "nor",
+    "languageName": "Norwegian",
+    "logo": "https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png",
+    "epgId": "TVOstfold.no",
+    "streams": [
+      {
+        "url": "https://streamnorge.com:8088/hls/tvo.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

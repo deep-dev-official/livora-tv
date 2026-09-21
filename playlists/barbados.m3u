@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="CBCTV8.bb" tvg-name="CBC TV8" tvg-logo="https://i.imgur.com/WsD83lq.png" group-title="General",CBC TV8 (1080p)
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8

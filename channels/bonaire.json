@@ -1,0 +1,134 @@
+[
+  {
+    "id": "bonairetv-bq",
+    "name": "Bonaire.tv",
+    "country": "BQ",
+    "countryName": "Bonaire",
+    "category": "Culture",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png",
+    "epgId": "Bonairetv.bq",
+    "streams": [
+      {
+        "url": "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "energiatv-bq",
+    "name": "Energia TV",
+    "country": "BQ",
+    "countryName": "Bonaire",
+    "category": "General",
+    "language": "pap",
+    "languageName": "Papiamento",
+    "logo": "https://i.imgur.com/GVKjI5c.jpeg",
+    "epgId": "EnergiaTV.bq",
+    "streams": [
+      {
+        "url": "https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "live99fm-bq",
+    "name": "Live99FM",
+    "country": "BQ",
+    "countryName": "Bonaire",
+    "category": "Music",
+    "language": "pap",
+    "languageName": "Papiamento",
+    "logo": "https://i.imgur.com/U43UrQT.png",
+    "epgId": "Live99FM.bq",
+    "streams": [
+      {
+        "url": "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nostvbonaire2-bq",
+    "name": "NosTV Bonaire 2",
+    "country": "BQ",
+    "countryName": "Bonaire",
+    "category": "General",
+    "language": "pap",
+    "languageName": "Papiamento",
+    "logo": "https://i.imgur.com/9pQdGw1.png",
+    "epgId": "NosTVBonaire2.bq",
+    "streams": [
+      {
+        "url": "https://stream2.nostvbonaire.com/hls/0/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nostvbonaire-bq",
+    "name": "NosTV Bonaire",
+    "country": "BQ",
+    "countryName": "Bonaire",
+    "category": "General",
+    "language": "pap",
+    "languageName": "Papiamento",
+    "logo": "https://i.imgur.com/GINI6oP.png",
+    "epgId": "NosTVBonaire.bq",
+    "streams": [
+      {
+        "url": "http://streaming.flamingotv.net/nostv/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vozdibonairetv-bq",
+    "name": "Voz Di Bonaire TV",
+    "country": "BQ",
+    "countryName": "Bonaire",
+    "category": "Entertainment",
+    "language": "nld",
+    "languageName": "Dutch",
+    "logo": "https://i.imgur.com/WOokQmj.png",
+    "epgId": "VozDiBonaireTV.bq",
+    "streams": [
+      {
+        "url": "https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

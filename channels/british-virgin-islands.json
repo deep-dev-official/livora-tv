@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cbngospel-vg",
+    "name": "CBN Gospel",
+    "country": "VG",
+    "countryName": "British Virgin Islands",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/SHBAblV.png",
+    "epgId": "CBNGospel.vg",
+    "streams": [
+      {
+        "url": "https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cbntv-vg",
+    "name": "CBN TV",
+    "country": "VG",
+    "countryName": "British Virgin Islands",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/SHBAblV.png",
+    "epgId": "CBNTV.vg",
+    "streams": [
+      {
+        "url": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

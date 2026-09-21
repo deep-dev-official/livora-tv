@@ -13,13 +13,11 @@
       {
         "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:13.989Z",
-        "http_status": 200,
-        "latency_ms": 1478
+        "last_checked": null
       }
     ]
   },
@@ -37,46 +35,38 @@
       {
         "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:17.988Z",
-        "http_status": 206,
-        "latency_ms": 1622
+        "last_checked": null
       },
       {
         "url": "http://185.9.2.18/chid_146/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:16.784Z",
-        "http_status": 206,
-        "latency_ms": 353
+        "last_checked": null
       },
       {
         "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.123Z",
-        "http_status": 206,
-        "latency_ms": 1626
+        "last_checked": null
       },
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.545Z",
-        "http_status": 206,
-        "latency_ms": 2038
+        "last_checked": null
       }
     ]
   },
@@ -94,46 +84,38 @@
       {
         "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:17.988Z",
-        "http_status": 206,
-        "latency_ms": 1622
+        "last_checked": null
       },
       {
         "url": "http://185.9.2.18/chid_146/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:16.784Z",
-        "http_status": 206,
-        "latency_ms": 353
+        "last_checked": null
       },
       {
         "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.123Z",
-        "http_status": 206,
-        "latency_ms": 1626
+        "last_checked": null
       },
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.545Z",
-        "http_status": 206,
-        "latency_ms": 2038
+        "last_checked": null
       }
     ]
   },
@@ -151,46 +133,38 @@
       {
         "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:17.988Z",
-        "http_status": 206,
-        "latency_ms": 1622
+        "last_checked": null
       },
       {
         "url": "http://185.9.2.18/chid_146/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:16.784Z",
-        "http_status": 206,
-        "latency_ms": 353
+        "last_checked": null
       },
       {
         "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.123Z",
-        "http_status": 206,
-        "latency_ms": 1626
+        "last_checked": null
       },
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.545Z",
-        "http_status": 206,
-        "latency_ms": 2038
+        "last_checked": null
       }
     ]
   },
@@ -208,46 +182,38 @@
       {
         "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:17.988Z",
-        "http_status": 206,
-        "latency_ms": 1622
+        "last_checked": null
       },
       {
         "url": "http://185.9.2.18/chid_146/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:16.784Z",
-        "http_status": 206,
-        "latency_ms": 353
+        "last_checked": null
       },
       {
         "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.123Z",
-        "http_status": 206,
-        "latency_ms": 1626
+        "last_checked": null
       },
       {
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.545Z",
-        "http_status": 206,
-        "latency_ms": 2038
+        "last_checked": null
       }
     ]
   },
@@ -265,13 +231,11 @@
       {
         "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.112Z",
-        "http_status": 206,
-        "latency_ms": 1593
+        "last_checked": null
       }
     ]
   },
@@ -289,13 +253,11 @@
       {
         "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1280p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:18.527Z",
-        "http_status": 206,
-        "latency_ms": 1743
+        "last_checked": null
       }
     ]
   },
@@ -313,13 +275,11 @@
       {
         "url": "https://streamer3.premio.link/alqamar/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:22.191Z",
-        "http_status": 206,
-        "latency_ms": 715
+        "last_checked": null
       }
     ]
   },
@@ -337,13 +297,11 @@
       {
         "url": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:24.882Z",
-        "http_status": 206,
-        "latency_ms": 2256
+        "last_checked": null
       }
     ]
   },
@@ -361,13 +319,951 @@
       {
         "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
         "type": "hls",
-        "status": "active",
+        "status": "pending",
         "quality": "1080p",
         "httpReferrer": "",
         "userAgent": "",
-        "last_checked": "2026-09-21T10:50:25.371Z",
-        "http_status": 200,
-        "latency_ms": 2313
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alwoustatv-ae",
+    "name": "Al Wousta TV",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/zgMqQPQ.png",
+    "epgId": "AlWoustaTV.ae",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alyaumtv-ae",
+    "name": "Al Yaum TV",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/rBixF3P.png",
+    "epgId": "AlYaumTV.ae",
+    "streams": [
+      {
+        "url": "https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "cnbcarabiya-ae",
+    "name": "CNBC Arabiya",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Business",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/CNBC_Arabia_2025.svg",
+    "epgId": "CNBCArabiya.ae",
+    "streams": [
+      {
+        "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dubaitvinternational-ae",
+    "name": "Dubai TV International",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/UMmbyHv.png",
+    "epgId": "DubaiTVInternational.ae",
+    "streams": [
+      {
+        "url": "http://185.9.2.18/chid_139/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fujairahtv-ae",
+    "name": "Fujairah TV",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Entertainment",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/D2tOhbE.png",
+    "epgId": "FujairahTV.ae",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbc1-ae",
+    "name": "MBC 1",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/CiA3plN.png",
+    "epgId": "MBC1.ae",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbc4-ae",
+    "name": "MBC 4",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Entertainment",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/BcXASJp.png",
+    "epgId": "MBC4.ae",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbc5-ae",
+    "name": "MBC 5",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Family",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/fRWaDyF.png",
+    "epgId": "MBC5.ae",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcbollywood-ae",
+    "name": "MBC Bollywood",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Movies",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/TTAGFHG.png",
+    "epgId": "MBCBollywood.ae",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcdrama-ae",
+    "name": "MBC Drama",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Entertainment",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/g5PWnqp.png",
+    "epgId": "MBCDrama.ae",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcfm-ae",
+    "name": "MBC FM",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/lF8UxvR.png",
+    "epgId": "MBCFM.ae",
+    "streams": [
+      {
+        "url": "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcfm-ae",
+    "name": "MBC FM",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/lF8UxvR.png",
+    "epgId": "MBCFM.ae",
+    "streams": [
+      {
+        "url": "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcpersia-ae",
+    "name": "MBC Persia",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Entertainment",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/4FXiyjn.png",
+    "epgId": "MBCPersia.ae",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.mbcpersia.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mbcpersia-ae",
+    "name": "MBC Persia",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Entertainment",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/4FXiyjn.png",
+    "epgId": "MBCPersia.ae",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hls.mbcpersia.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nourtv-ae",
+    "name": "Nour TV",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Religious",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg",
+    "epgId": "NourTV.ae",
+    "streams": [
+      {
+        "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "osnmoviesaction-ae",
+    "name": "OSN Movies Action",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Movies",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/uOzyKup.png",
+    "epgId": "OSNMoviesAction.ae",
+    "streams": [
+      {
+        "url": "http://116.90.120.151:8000/play/a0ax/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "peacetvbangla-ae",
+    "name": "Peace TV Bangla",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Religious",
+    "language": "ben",
+    "languageName": "Bengali",
+    "logo": "https://i.imgur.com/1ztVXUi.png",
+    "epgId": "PeaceTVBangla.ae",
+    "streams": [
+      {
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "peacetvchinese-ae",
+    "name": "Peace TV Chinese",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Religious",
+    "language": "zho",
+    "languageName": "Chinese",
+    "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg",
+    "epgId": "PeaceTVChinese.ae",
+    "streams": [
+      {
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "peacetvenglish-ae",
+    "name": "Peace TV English",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Religious",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/rjgCM2B.png",
+    "epgId": "PeaceTVEnglish.ae",
+    "streams": [
+      {
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "peacetvurdu-ae",
+    "name": "Peace TV Urdu",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Religious",
+    "language": "urd",
+    "languageName": "Urdu",
+    "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg",
+    "epgId": "PeaceTVUrdu.ae",
+    "streams": [
+      {
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pmc-ae",
+    "name": "PMC",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Music",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/AbrHI7K.png",
+    "epgId": "PMC.ae",
+    "streams": [
+      {
+        "url": "https://pmchls.wns.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pmcroyale-ae",
+    "name": "PMC Royale",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Music",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "",
+    "epgId": "PMCRoyale.ae",
+    "streams": [
+      {
+        "url": "https://pmcrohls.wns.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pulse95radio-ae",
+    "name": "Pulse95 Radio",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://maraya.faulio.com/storage/mediagallery/60/26/fullhd_d5c3c81b0562a76bc63f073a5e0947f309b0215b.png",
+    "epgId": "Pulse95Radio.ae",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sharjah2-ae",
+    "name": "Sharjah 2",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Wd3Xvd1.png",
+    "epgId": "Sharjah2.ae",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sharjahradio-ae",
+    "name": "Sharjah Radio",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/q7GGALe.png",
+    "epgId": "SharjahRadio.ae",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sharjahradioquran-ae",
+    "name": "Sharjah Radio Quran",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/MxZlOvc.png",
+    "epgId": "SharjahRadioQuran.ae",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sharjahsports-ae",
+    "name": "Sharjah Sports",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Sports",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/CsEElsJ.png",
+    "epgId": "SharjahSports.ae",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sharjahtv-ae",
+    "name": "Sharjah TV",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Oz2bPOt.png",
+    "epgId": "SharjahTV.ae",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sharjahtv-ae",
+    "name": "Sharjah TV",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Religious",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/Oz2bPOt.png",
+    "epgId": "SharjahTV.ae",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "skynewsarabia-ae",
+    "name": "Sky News Arabia",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/SvjU4h6.png",
+    "epgId": "SkyNewsArabia.ae",
+    "streams": [
+      {
+        "url": "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.skynewsarabia.com/ott/ott.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "skynewsarabia-ae",
+    "name": "Sky News Arabia",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/SvjU4h6.png",
+    "epgId": "SkyNewsArabia.ae",
+    "streams": [
+      {
+        "url": "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.skynewsarabia.com/ott/ott.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "skynewsarabia-ae",
+    "name": "Sky News Arabia",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/SvjU4h6.png",
+    "epgId": "SkyNewsArabia.ae",
+    "streams": [
+      {
+        "url": "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.skynewsarabia.com/ott/ott.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "skynewsarabiavertical-ae",
+    "name": "Sky News Arabia Vertical",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/FjtzQQs.png",
+    "epgId": "SkyNewsArabiaVertical.ae",
+    "streams": [
+      {
+        "url": "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1280p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "skynewsarabiavertical-ae",
+    "name": "Sky News Arabia Vertical",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/FjtzQQs.png",
+    "epgId": "SkyNewsArabiaVertical.ae",
+    "streams": [
+      {
+        "url": "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1280p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "spacetoonarabic-ae",
+    "name": "Spacetoon Arabic",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Animation",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
+    "epgId": "SpacetoonArabic.ae",
+    "streams": [
+      {
+        "url": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "watarradio-ae",
+    "name": "Watar Radio",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://maraya.faulio.com/storage/mediagallery/33/d7/fullhd_b25ca838c984b6ee2a9a254560f1e7bc1b04aa33.png",
+    "epgId": "WatarRadio.ae",
+    "streams": [
+      {
+        "url": "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zeealwan-ae",
+    "name": "Zee Alwan",
+    "country": "AE",
+    "countryName": "United Arab Emirates",
+    "category": "Series",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/OLuCox7.png",
+    "epgId": "ZeeAlwan.ae",
+    "streams": [
+      {
+        "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
       }
     ]
   }

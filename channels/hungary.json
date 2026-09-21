@@ -1,0 +1,3640 @@
+[
+  {
+    "id": "7tv-hu",
+    "name": "7.TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/CnUhAlK.png",
+    "epgId": "7TV.hu",
+    "streams": [
+      {
+        "url": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "16tvbudapest-hu",
+    "name": "16tv Budapest",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/04fCzHl.png",
+    "epgId": "16tvBudapest.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alfoldtv-hu",
+    "name": "Alfold TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/W6jg8iM.png",
+    "epgId": "AlfoldTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "apostoltv-hu",
+    "name": "Apostol TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Religious",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/C43Cc9N.png",
+    "epgId": "ApostolTV.hu",
+    "streams": [
+      {
+        "url": "https://live.apostoltv.hu/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atv-hu",
+    "name": "ATV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/85sIvrX.png",
+    "epgId": "ATV.hu",
+    "streams": [
+      {
+        "url": "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "160p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atv-hu",
+    "name": "ATV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/85sIvrX.png",
+    "epgId": "ATV.hu",
+    "streams": [
+      {
+        "url": "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "160p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atv-hu",
+    "name": "ATV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/85sIvrX.png",
+    "epgId": "ATV.hu",
+    "streams": [
+      {
+        "url": "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "160p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atvspirit-hu",
+    "name": "ATV Spirit",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/JINE5xS.png",
+    "epgId": "ATVSpirit.hu",
+    "streams": [
+      {
+        "url": "https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/test_atv_spirit/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "atvspirit-hu",
+    "name": "ATV Spirit",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/JINE5xS.png",
+    "epgId": "ATVSpirit.hu",
+    "streams": [
+      {
+        "url": "https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/test_atv_spirit/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "axnspin-hu",
+    "name": "AXN Spin",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "pol",
+    "languageName": "Polish",
+    "logo": "https://i.imgur.com/uVFenKm.png",
+    "epgId": "AXNSpin.hu",
+    "streams": [
+      {
+        "url": "https://polska.hach.workers.dev/14847.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://ritsatv.ru/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://cool-tv.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "axnspin-hu",
+    "name": "AXN Spin",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "pol",
+    "languageName": "Polish",
+    "logo": "https://i.imgur.com/uVFenKm.png",
+    "epgId": "AXNSpin.hu",
+    "streams": [
+      {
+        "url": "https://polska.hach.workers.dev/14847.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://ritsatv.ru/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://cool-tv.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "bajaitv-hu",
+    "name": "Bajai TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/cyReGWh.png",
+    "epgId": "BajaiTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "balatontv-hu",
+    "name": "Balaton TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png",
+    "epgId": "BalatonTV.hu",
+    "streams": [
+      {
+        "url": "https://stream.iptvservice.eu/hls/balatontv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "432p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "berentetv-hu",
+    "name": "Berente TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/3H3Ct9f.png",
+    "epgId": "BerenteTV.hu",
+    "streams": [
+      {
+        "url": "https://stream.streaming4u.hu/BerenteTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "btv-hu",
+    "name": "BTV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/0PKqn3V.png",
+    "epgId": "BTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "budapesteuropatelevizio-hu",
+    "name": "Budapest Europa Televizio",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/CqqWtzo.png",
+    "epgId": "BudapestEuropaTelevizio.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "citytv-hu",
+    "name": "City TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/u0AKhzj.png",
+    "epgId": "CityTV.hu",
+    "streams": [
+      {
+        "url": "https://citytv.hu/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "csurgotv-hu",
+    "name": "Csurgo TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/vVOEYuj.png",
+    "epgId": "CsurgoTV.hu",
+    "streams": [
+      {
+        "url": "https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "csurgotv-hu",
+    "name": "Csurgo TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/vVOEYuj.png",
+    "epgId": "CsurgoTV.hu",
+    "streams": [
+      {
+        "url": "https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "csurgotv-hu",
+    "name": "Csurgo TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/vVOEYuj.png",
+    "epgId": "CsurgoTV.hu",
+    "streams": [
+      {
+        "url": "https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "darutv-hu",
+    "name": "Daru TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/0P7QHde.png",
+    "epgId": "DaruTV.hu",
+    "streams": [
+      {
+        "url": "https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dikhtv-hu",
+    "name": "Dikh TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Culture",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/aAcORTL.png",
+    "epgId": "DikhTV.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/dikh/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannel-hu",
+    "name": "Disney Channel",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Kids",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/aOa73uT.png",
+    "epgId": "DisneyChannel.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dstv-hu",
+    "name": "DSTV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/xKJoN8L.png",
+    "epgId": "DSTV.hu",
+    "streams": [
+      {
+        "url": "http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dtv-hu",
+    "name": "DTV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/YSpqmSO.png",
+    "epgId": "DTV.hu",
+    "streams": [
+      {
+        "url": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "duna-hu",
+    "name": "Duna",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/oPbsSlp.png",
+    "epgId": "Duna.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/duna_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dunaworld-hu",
+    "name": "Duna World",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/uOBQJZS.png",
+    "epgId": "DunaWorld.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/duna_world_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "egykertv-hu",
+    "name": "Egyker TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/yhMhvPq.png",
+    "epgId": "EgykerTV.hu",
+    "streams": [
+      {
+        "url": "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "estv-hu",
+    "name": "ESTV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/OCZ8CfK.png",
+    "epgId": "ESTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "420p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "estv-hu",
+    "name": "ESTV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/OCZ8CfK.png",
+    "epgId": "ESTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "420p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ewtnbonumtv-hu",
+    "name": "EWTN/Bonum TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Religious",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/LdsRz2E.png",
+    "epgId": "EWTNBonumTV.hu",
+    "streams": [
+      {
+        "url": "https://dash2.antik.sk/live/ewtn_bonum/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fehervartv-hu",
+    "name": "Fehervar TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://www.fehervartv.hu/css/img/icon-1-2.png",
+    "epgId": "FehervarTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fem3-hu",
+    "name": "FEM3",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/AF4Sz8Z.png",
+    "epgId": "FEM3.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "film4-hu",
+    "name": "Film4",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Movies",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/X5N8CHf.png",
+    "epgId": "Film4.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/film4_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "filmcafe-hu",
+    "name": "Film Cafe",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Movies",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/jaKRnzU.png",
+    "epgId": "FilmCafe.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/film_cafe/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://cool-tv.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "filmcafe-hu",
+    "name": "Film Cafe",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Movies",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/jaKRnzU.png",
+    "epgId": "FilmCafe.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/film_cafe/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "https://cool-tv.net/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "filmplus-hu",
+    "name": "Film+",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Movies",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/OWqzJyy.png",
+    "epgId": "FilmPlus.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/film_plus_hun_atk/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "fixtv-hu",
+    "name": "FIX TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/PLhh0Ps.png",
+    "epgId": "FIXTV.hu",
+    "streams": [
+      {
+        "url": "https://fixhd.tv:8082/fix/1080i/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "galaxy4-hu",
+    "name": "Galaxy4",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/fTG99xh.png",
+    "epgId": "Galaxy4.hu",
+    "streams": [
+      {
+        "url": "https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "globotv-hu",
+    "name": "Globo TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/PJ4c4jq.png",
+    "epgId": "GloboTV.hu",
+    "streams": [
+      {
+        "url": "https://stream.streaming4u.hu/GloboTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "golyatv-hu",
+    "name": "Golya TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/TeK6Pzb.png",
+    "epgId": "GolyaTV.hu",
+    "streams": [
+      {
+        "url": "https://stream.streaming4u.hu/GolyaTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "grantv-hu",
+    "name": "Gran TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Religious",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.ibb.co/qJN7Qh2/gran-kicsi.png",
+    "epgId": "GranTV.hu",
+    "streams": [
+      {
+        "url": "https://stream.medialive.hu/gran/grantvlive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gyongyositv-hu",
+    "name": "Gyongyosi TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/RHgaPCk.png",
+    "epgId": "GyongyosiTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gyongyositv-hu",
+    "name": "Gyongyosi TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/RHgaPCk.png",
+    "epgId": "GyongyosiTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hangulattv-hu",
+    "name": "Hangulat TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Lifestyle",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA",
+    "epgId": "HangulatTV.hu",
+    "streams": [
+      {
+        "url": "https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hatoscsatorna-hu",
+    "name": "Hatoscsatorna",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/XZqg1Pj.png",
+    "epgId": "Hatoscsatorna.hu",
+    "streams": [
+      {
+        "url": "https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hegyvidektv-hu",
+    "name": "Hegyvidek TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/t5bw1J1.png",
+    "epgId": "HegyvidekTV.hu",
+    "streams": [
+      {
+        "url": "https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv.hegyvidek.hu/stream_mpeg.flv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hegyvidektv-hu",
+    "name": "Hegyvidek TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/t5bw1J1.png",
+    "epgId": "HegyvidekTV.hu",
+    "streams": [
+      {
+        "url": "https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tv.hegyvidek.hu/stream_mpeg.flv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hevizitv-hu",
+    "name": "Hevizi TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/zuWQKDm.png",
+    "epgId": "HeviziTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "history-hu",
+    "name": "History",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Documentary",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/OWIK7FJ.png",
+    "epgId": "History.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/history_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "htmusicchannel-hu",
+    "name": "H!t Music Channel",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Music",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/sqC2hqV.png",
+    "epgId": "HtMusicChannel.hu",
+    "streams": [
+      {
+        "url": "http://hitmusic.hu/hitmusic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "izauratv-hu",
+    "name": "Izaura TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/p9YFnpw.png",
+    "epgId": "IzauraTV.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/izaura/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jaszsagitersegitv-hu",
+    "name": "Jaszsagi Tersegi TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/bsDN0lH.png",
+    "epgId": "JaszsagiTersegiTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "440p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jimjam-hu",
+    "name": "JimJam",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Kids",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/ODhkYyx.png",
+    "epgId": "JimJam.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/jim_jam_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jockytv-hu",
+    "name": "Jocky TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/wLawFVP.png",
+    "epgId": "JockyTV.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/jocky/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kanizsatv-hu",
+    "name": "Kanizsa TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/l02znlE.png",
+    "epgId": "KanizsaTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kapostv-hu",
+    "name": "Kapos TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/ZMrj2C5.png",
+    "epgId": "KaposTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "karcagtv-hu",
+    "name": "Karcag TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/QcrVj3Q.png",
+    "epgId": "KarcagTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kecskemetitv-hu",
+    "name": "Kecskemeti TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/yxwrX2N.png",
+    "epgId": "KecskemetiTV.hu",
+    "streams": [
+      {
+        "url": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "416p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://eurobioinvest.hu:444/live/ktv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "416p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kecskemetitv-hu",
+    "name": "Kecskemeti TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/yxwrX2N.png",
+    "epgId": "KecskemetiTV.hu",
+    "streams": [
+      {
+        "url": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "416p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://eurobioinvest.hu:444/live/ktv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "416p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kiskorostv-hu",
+    "name": "Kiskoros TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/Y74Mve1.png",
+    "epgId": "KiskorosTV.hu",
+    "streams": [
+      {
+        "url": "https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kolyokklub-hu",
+    "name": "Kolyokklub",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Kids",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png",
+    "epgId": "Kolyokklub.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/kolyokklub_atk/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "komaromitelevizio-hu",
+    "name": "Komaromi Televizio",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/DifVZkz.png",
+    "epgId": "KomaromiTelevizio.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "400p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "komlostv-hu",
+    "name": "Komlos TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/dnITSUz.png",
+    "epgId": "KomlosTV.hu",
+    "streams": [
+      {
+        "url": "https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "liceumtv-hu",
+    "name": "Liceum TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Culture",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/Hf122ZD.png",
+    "epgId": "LiceumTV.hu",
+    "streams": [
+      {
+        "url": "http://193.225.32.62:8890/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lifetv-hu",
+    "name": "Life TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/3znYv1N.png",
+    "epgId": "LifeTV.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/lifetv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "loversenykozvetites-hu",
+    "name": "Loverseny kozvetites",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Sports",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/IGajR6G.png",
+    "epgId": "Loversenykozvetites.hu",
+    "streams": [
+      {
+        "url": "http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "420p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "m1-hu",
+    "name": "M1",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "News",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/r4tgKZK.png",
+    "epgId": "M1.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "m2-hu",
+    "name": "M2",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/B0nYT0l.png",
+    "epgId": "M2.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/m2_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "m4sport-hu",
+    "name": "M4 Sport",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Sports",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/TQ4uJZk.png",
+    "epgId": "M4Sport.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/m4_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://7nyaler.streamhostingcdn.top/stream/80/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/uatlmvixrr/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "m4sport-hu",
+    "name": "M4 Sport",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Sports",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/TQ4uJZk.png",
+    "epgId": "M4Sport.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/m4_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://7nyaler.streamhostingcdn.top/stream/80/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/uatlmvixrr/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "m4sport-hu",
+    "name": "M4 Sport",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Sports",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/TQ4uJZk.png",
+    "epgId": "M4Sport.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/m4_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://7nyaler.streamhostingcdn.top/stream/80/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/uatlmvixrr/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "m5-hu",
+    "name": "M5",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Education",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/y21wFd0.png",
+    "epgId": "M5.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "magyarmozitv-hu",
+    "name": "Magyar Mozi TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Movies",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/cXajs8V.png",
+    "epgId": "MagyarMoziTV.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/mozi/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "makoivarositelevizio-hu",
+    "name": "Makoi Varosi Televizio",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/PF3BP4X.png",
+    "epgId": "MakoiVarosiTelevizio.hu",
+    "streams": [
+      {
+        "url": "http://makomedia.mikrohalo.hu/hls/makotv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mezokovesditelevizio-hu",
+    "name": "Mezokovesdi Televizio",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/2zCOXmH.png",
+    "epgId": "MezokovesdiTelevizio.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "minimax-hu",
+    "name": "Minimax",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Kids",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/WWOlm1x.png",
+    "epgId": "Minimax.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/minimax_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moranettv-hu",
+    "name": "Mora-Net TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/yT0RmKi.png",
+    "epgId": "MoraNetTV.hu",
+    "streams": [
+      {
+        "url": "https://stream.moranettv.hu/live/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moziklub-hu",
+    "name": "Moziklub",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/1920px-Moziklub.svg.png",
+    "epgId": "Moziklub.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/moziklub_atk/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moziplus-hu",
+    "name": "Mozi+",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Movies",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/LtCnPFJ.png",
+    "epgId": "MoziPlus.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/mozi_plusz/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "moziverzum-hu",
+    "name": "Moziverzum",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Movies",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/NMifecQ.png",
+    "epgId": "Moziverzum.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/moziverzum/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "muzsikatv-hu",
+    "name": "Muzsika TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Music",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/kmQ5vYC.png",
+    "epgId": "MuzsikaTV.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographic-hu",
+    "name": "National Geographic",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Documentary",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "epgId": "NationalGeographic.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/ngc_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographicwild-hu",
+    "name": "National Geographic Wild",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Documentary",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "epgId": "NationalGeographicWild.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/ngw_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nickelodeon-hu",
+    "name": "Nickelodeon",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Kids",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/fXs8f6a.png",
+    "epgId": "Nickelodeon.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nickjr-hu",
+    "name": "Nick Jr.",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Kids",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "epgId": "NickJr.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/nick_junior_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nicktoons-hu",
+    "name": "Nicktoons",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Kids",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+    "epgId": "Nicktoons.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/nicktoons_hungary/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oroszlanyivarositelevizio-hu",
+    "name": "Oroszlanyi Varosi Televizio",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/P0fxUH5.png",
+    "epgId": "OroszlanyiVarosiTelevizio.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "orszaggyulesogyplenaris-hu",
+    "name": "Orszaggyules: OGY plenaris",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Legislative",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/hbblRpZ.png",
+    "epgId": "OrszaggyulesOGYplenaris.hu",
+    "streams": [
+      {
+        "url": "http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "orszaggyulesogyplenaris-hu",
+    "name": "Orszaggyules: OGY plenaris",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Legislative",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/hbblRpZ.png",
+    "epgId": "OrszaggyulesOGYplenaris.hu",
+    "streams": [
+      {
+        "url": "http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "orszaggyulesogytab-hu",
+    "name": "Orszaggyules: OGY TAB",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Legislative",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/hbblRpZ.png",
+    "epgId": "OrszaggyulesOGYTAB.hu",
+    "streams": [
+      {
+        "url": "http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "orszaggyulesogytab-hu",
+    "name": "Orszaggyules: OGY TAB",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Legislative",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/hbblRpZ.png",
+    "epgId": "OrszaggyulesOGYTAB.hu",
+    "streams": [
+      {
+        "url": "http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "oxygenmusic-hu",
+    "name": "Oxygen Music",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Music",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://oxygenmusic.hu/static/media/logo.png",
+    "epgId": "OxygenMusic.hu",
+    "streams": [
+      {
+        "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ozdivarositv-hu",
+    "name": "Ozdi Varosi TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/t0Aq3UD.png",
+    "epgId": "OzdiVarosiTV.hu",
+    "streams": [
+      {
+        "url": "http://stream.nmih.hu:7980/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ozonetv-hu",
+    "name": "Ozone TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Science",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/eSNF9qt.png",
+    "epgId": "OzoneTV.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/ozone/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pilistv-hu",
+    "name": "PilisTV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/5L01wRi.png",
+    "epgId": "PilisTV.hu",
+    "streams": [
+      {
+        "url": "https://stream.streaming4u.hu/PilisTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prime-hu",
+    "name": "Prime",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/VvZEP4s.png",
+    "epgId": "Prime.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/prime/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pvtv-hu",
+    "name": "PVTV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/eKXPBFb.png",
+    "epgId": "PVTV.hu",
+    "streams": [
+      {
+        "url": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rakosmentetv-hu",
+    "name": "Rakosmente TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/n39a2DT.png",
+    "epgId": "RakosmenteTV.hu",
+    "streams": [
+      {
+        "url": "http://rakosmentetv.hu:8080/hls/rmtv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "regioplusztv-hu",
+    "name": "RegioPlusz TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/VXPpukf.png",
+    "epgId": "RegioPluszTV.hu",
+    "streams": [
+      {
+        "url": "https://stream.streaming4u.hu/RegioPluszTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtl-hu",
+    "name": "RTL",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/ruRshE1.png",
+    "epgId": "RTL.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtlgold-hu",
+    "name": "RTL Gold",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/PwbLDUQ.png",
+    "epgId": "RTLGold.hu",
+    "streams": [
+      {
+        "url": "https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtlharom-hu",
+    "name": "RTL Harom",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/c4Hhhzs.png",
+    "epgId": "RTLHarom.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtlketto-hu",
+    "name": "RTL Ketto",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/IVv0qrI.png",
+    "epgId": "RTLKetto.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtlotthon-hu",
+    "name": "RTL Otthon",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png",
+    "epgId": "RTLOtthon.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/rtl_otthon_atk/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sixotv-hu",
+    "name": "SIXO TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.ibb.co/GTPs9Xy/9068.png",
+    "epgId": "SIXOTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "slagertv-hu",
+    "name": "Slager TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Music",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/qDNRgSQ.png",
+    "epgId": "SlagerTV.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "soltvadkertitelevizio-hu",
+    "name": "Soltvadkerti Televizio",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/ihdk45P.png",
+    "epgId": "SoltvadkertiTelevizio.hu",
+    "streams": [
+      {
+        "url": "http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sorozatklub-hu",
+    "name": "Sorozatklub",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png",
+    "epgId": "Sorozatklub.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/sorozatklub_atk/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sorozatplus-hu",
+    "name": "Sorozat+",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/KsxWZIw.png",
+    "epgId": "SorozatPlus.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "spektrum-hu",
+    "name": "Spektrum",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Documentary",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/GmFRQ82.png",
+    "epgId": "Spektrum.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/spektrum_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "spektrumhome-hu",
+    "name": "Spektrum Home",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/VaVi65F.png",
+    "epgId": "SpektrumHome.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/spektrum_home_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "spiler1-hu",
+    "name": "Spiler 1",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Sports",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/pbk8c4x.png",
+    "epgId": "Spiler1.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/spiler1/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "spiler2-hu",
+    "name": "Spiler 2",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Sports",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/1e0VsVH.png",
+    "epgId": "Spiler2.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/spiler2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport1-hu",
+    "name": "Sport 1",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Sports",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/X5X3tKC.png",
+    "epgId": "Sport1.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/sport1_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sport2-hu",
+    "name": "Sport 2",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Sports",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/UxflVoU.png",
+    "epgId": "Sport2.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/sport2_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "story4-hu",
+    "name": "Story4",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "cze",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/pJsLyiv.png",
+    "epgId": "Story4.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/story_4_cze_atk/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "story4-hu",
+    "name": "Story4",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "cze",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/pJsLyiv.png",
+    "epgId": "Story4.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/story_4_cze_atk/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "supertv2-hu",
+    "name": "Super TV2",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/JCu1u2v.png",
+    "epgId": "SuperTV2.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "szecsenytv-hu",
+    "name": "Szecseny TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/ilRmZtF.png",
+    "epgId": "SzecsenyTV.hu",
+    "streams": [
+      {
+        "url": "http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "szolnoktv-hu",
+    "name": "Szolnok TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/Eiab9MP.png",
+    "epgId": "SzolnokTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tataitv-hu",
+    "name": "Tatai TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/skXYntc.png",
+    "epgId": "TataiTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telepaks-hu",
+    "name": "TelePaks",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/T8ueztB.png",
+    "epgId": "TelePaks.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "396p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thefishinghuntingchannel-hu",
+    "name": "The Fishing & Hunting Channel",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Outdoor",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/KcTTnUA.png",
+    "epgId": "TheFishingHuntingChannel.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/fishing_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thefishinghuntingchannel-hu",
+    "name": "The Fishing & Hunting Channel",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Outdoor",
+    "language": "ces",
+    "languageName": "Czech",
+    "logo": "https://i.imgur.com/KcTTnUA.png",
+    "epgId": "TheFishingHuntingChannel.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/fishing_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tiszatv-hu",
+    "name": "Tisza TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/Q2bShnh.png",
+    "epgId": "TiszaTV.hu",
+    "streams": [
+      {
+        "url": "https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trimediotv-hu",
+    "name": "Trimedio TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/P4hxWVZ.png",
+    "epgId": "TrimedioTV.hu",
+    "streams": [
+      {
+        "url": "https://stream.streaming4u.hu/TriMedioTV/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv2-hu",
+    "name": "TV2",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png",
+    "epgId": "TV2.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv2comedy-hu",
+    "name": "TV2 Comedy",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Comedy",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/B02hbcV.png",
+    "epgId": "TV2Comedy.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/tv2_comedy/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv2kids-hu",
+    "name": "TV2 Kids",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Kids",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/Zltlezm.png",
+    "epgId": "TV2Kids.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/tv2_kids/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv2sef-hu",
+    "name": "TV2 Sef",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/8GFj3XP.png",
+    "epgId": "TV2Sef.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv4-hu",
+    "name": "TV4",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/cjypCfu.png",
+    "epgId": "TV4.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvbudakalasz-hu",
+    "name": "TV Budakalasz",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/97xpqt0.png",
+    "epgId": "TVBudakalasz.hu",
+    "streams": [
+      {
+        "url": "https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tveger-hu",
+    "name": "TV Eger",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/GUVW073.png",
+    "epgId": "TVEger.hu",
+    "streams": [
+      {
+        "url": "http://stream.tveger.hu:8010/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvkeszthely-hu",
+    "name": "TV Keszthely",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/2LE8xSW.png",
+    "epgId": "TVKeszthely.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvpaprika-hu",
+    "name": "TV Paprika",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Lifestyle",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/KLpZIS6.png",
+    "epgId": "TVPaprika.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/parpika_hun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvszentendre-hu",
+    "name": "TV Szentendre",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/kzzYLdj.png",
+    "epgId": "TVSzentendre.hu",
+    "streams": [
+      {
+        "url": "https://stream.streaming4u.hu/TVSzentendre/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vasarhelyitelevizio-hu",
+    "name": "Vasarhelyi Televizio",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/WOEqdmx.png",
+    "epgId": "VasarhelyiTelevizio.hu",
+    "streams": [
+      {
+        "url": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasat2-hu",
+    "name": "Viasat2",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/lEAhKPa.png",
+    "epgId": "Viasat2.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/viasat2/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasat3-hu",
+    "name": "Viasat 3",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/ehx7R3A.png",
+    "epgId": "Viasat3.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/viasat3/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viasat6-hu",
+    "name": "Viasat 6",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/kypSbFX.png",
+    "epgId": "Viasat6.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/viasat6/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "volgyhidtv-hu",
+    "name": "Volgyhid TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/9krKKgU.png",
+    "epgId": "VolgyhidTV.hu",
+    "streams": [
+      {
+        "url": "https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vtvfuzesabony-hu",
+    "name": "VTV Fuzesabony",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/IoHyW7w.png",
+    "epgId": "VTVFuzesabony.hu",
+    "streams": [
+      {
+        "url": "https://stream.nmih.hu:7962/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vtvmor-hu",
+    "name": "VTV Mor",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/x8jstsh.png",
+    "epgId": "VTVMor.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "williamstv-hu",
+    "name": "Williams TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/vysX07C.png",
+    "epgId": "WilliamsTV.hu",
+    "streams": [
+      {
+        "url": "http://79.120.178.90:1935/williams/williamstv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "xvtv-hu",
+    "name": "XV TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.ibb.co/hH2KF6W/4792.png",
+    "epgId": "XVTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zalaegerszegitv-hu",
+    "name": "Zalaegerszegi TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/MLVPf0i.png",
+    "epgId": "ZalaegerszegiTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zenebutik-hu",
+    "name": "Zenebutik",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "General",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/xGUlF78.png",
+    "epgId": "Zenebutik.hu",
+    "streams": [
+      {
+        "url": "http://88.212.15.19/live/zenebutik/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zuglotv-hu",
+    "name": "Zuglo TV",
+    "country": "HU",
+    "countryName": "Hungary",
+    "category": "Entertainment",
+    "language": "hun",
+    "languageName": "Hungarian",
+    "logo": "https://i.imgur.com/wPqCtwR.png",
+    "epgId": "ZugloTV.hu",
+    "streams": [
+      {
+        "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

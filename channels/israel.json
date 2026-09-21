@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "5sport-il",
+    "name": "5Sport",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Sports",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/dRVsB89.png",
+    "epgId": "5Sport.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/41/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel9-il",
+    "name": "Channel 9",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "News",
+    "language": "rus",
+    "languageName": "Russian",
+    "logo": "https://i.imgur.com/pttM3KQ.png",
+    "epgId": "Channel9.il",
+    "streams": [
+      {
+        "url": "https://contact.gostreaming.tv/Con-11/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel13-il",
+    "name": "Channel 13",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "General",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/eFM3bTq.png",
+    "epgId": "Channel13.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/295/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel13-il",
+    "name": "Channel 13",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "General",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/eFM3bTq.png",
+    "epgId": "Channel13.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/295/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel24-il",
+    "name": "Channel 24",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "General",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/WLs67QI.png",
+    "epgId": "Channel24.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/42/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "disneychannel-il",
+    "name": "Disney Channel",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "epgId": "DisneyChannel.il",
+    "streams": [
+      {
+        "url": "http://str2.iptvhd.ru:8080/disney/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "goodlife-il",
+    "name": "Good Life",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Lifestyle",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://cdn.epg.one/img2/2686.png",
+    "epgId": "GoodLife.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/47/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "halatv-il",
+    "name": "Hala TV",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/028M4Ew.png",
+    "epgId": "HalaTV.il",
+    "streams": [
+      {
+        "url": "https://stream.panet.com/edge/halaTV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hidabroot-il",
+    "name": "Hidabroot",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Religious",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/CTH4Hu2.png",
+    "epgId": "Hidabroot.il",
+    "streams": [
+      {
+        "url": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hop-il",
+    "name": "Hop!",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Kids",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/bScuilD.png",
+    "epgId": "Hop.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/44/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hot8-il",
+    "name": "HOT8",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "General",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/a/a9/HOT8_2018_Logo.svg/250px-HOT8_2018_Logo.svg.png",
+    "epgId": "HOT8.il",
+    "streams": [
+      {
+        "url": "http://str2.iptvhd.ru:8080/channel8/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hotcinema1-il",
+    "name": "HOT Cinema 1",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Movies",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://antifriz.tv/storage/images/pack_logos/f14b95e0e8b95995de6e7accdba34762.png",
+    "epgId": "HOTCinema1.il",
+    "streams": [
+      {
+        "url": "http://str2.iptvhd.ru:8080/Gold/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hotcinema2-il",
+    "name": "HOT Cinema 2",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Movies",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://antifriz.tv/storage/images/pack_logos/f18976e8a3236dbdabbb35f73f6e8988.png",
+    "epgId": "HOTCinema2.il",
+    "streams": [
+      {
+        "url": "http://str2.iptvhd.ru:8080/action/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hotcinema3-il",
+    "name": "HOT Cinema 3",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Movies",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://antifriz.tv/storage/images/pack_logos/2edb1bb63076c75baacf2674ce8c8c37.png",
+    "epgId": "HOTCinema3.il",
+    "streams": [
+      {
+        "url": "http://str2.iptvhd.ru:8080/fun/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hotcinema4-il",
+    "name": "HOT Cinema 4",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Movies",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://antifriz.tv/storage/images/pack_logos/e055cf2620f58c60b1e65be4717d2c22.png",
+    "epgId": "HOTCinema4.il",
+    "streams": [
+      {
+        "url": "http://str2.iptvhd.ru:8080/drama/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hotdrama-il",
+    "name": "HOT Drama",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Series",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HotNewLogo.svg/250px-HotNewLogo.svg.png",
+    "epgId": "HOTDrama.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/381/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hotzone-il",
+    "name": "HOT Zone",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "General",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/0/00/HOT_Zone.svg/250px-HOT_Zone.svg.png",
+    "epgId": "HOTZone.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/379/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "i24newsarabic-il",
+    "name": "i24NEWS Arabic",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "epgId": "i24NEWSArabic.il",
+    "streams": [
+      {
+        "url": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "i24newsarabic-il",
+    "name": "i24NEWS Arabic",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "epgId": "i24NEWSArabic.il",
+    "streams": [
+      {
+        "url": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "i24newsenglishworld-il",
+    "name": "i24NEWS English World",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "epgId": "i24NEWSEnglishWorld.il",
+    "streams": [
+      {
+        "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "i24newsenglishworld-il",
+    "name": "i24NEWS English World",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "News",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "epgId": "i24NEWSEnglishWorld.il",
+    "streams": [
+      {
+        "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "i24newsfrench-il",
+    "name": "i24NEWS French",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "epgId": "i24NEWSFrench.il",
+    "streams": [
+      {
+        "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "i24newsfrench-il",
+    "name": "i24NEWS French",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "News",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "epgId": "i24NEWSFrench.il",
+    "streams": [
+      {
+        "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "i24newshebrew-il",
+    "name": "i24NEWS Hebrew",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "News",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://www.i24news.tv/images/favicon.png",
+    "epgId": "i24NEWSHebrew.il",
+    "streams": [
+      {
+        "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kabbalahforthepeopleisrael-il",
+    "name": "Kabbalah for the People Israel",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Religious",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/VxAHOgr.png",
+    "epgId": "KabbalahforthePeopleIsrael.il",
+    "streams": [
+      {
+        "url": "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "504p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kan11-il",
+    "name": "Kan 11",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "General",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png",
+    "epgId": "Kan11.il",
+    "streams": [
+      {
+        "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kaneducational-il",
+    "name": "Kan Educational",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Education",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
+    "epgId": "KanEducational.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/378/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "keshet12-il",
+    "name": "Keshet 12",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "General",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/fY3eakc.png",
+    "epgId": "Keshet12.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/294/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "knessetchannel-il",
+    "name": "Knesset Channel",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Legislative",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/QXB1jv8.png",
+    "epgId": "KnessetChannel.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/48/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "knessetchannel-il",
+    "name": "Knesset Channel",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Legislative",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/QXB1jv8.png",
+    "epgId": "KnessetChannel.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/48/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "makan33-il",
+    "name": "Makan 33",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/RVtQTed.png",
+    "epgId": "Makan33.il",
+    "streams": [
+      {
+        "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nickjr-il",
+    "name": "Nick Jr.",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "epgId": "NickJr.il",
+    "streams": [
+      {
+        "url": "http://str2.iptvhd.ru:8080/nickjr/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "now14-il",
+    "name": "Now 14",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "General",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/Iq2Kb69.png",
+    "epgId": "Now14.il",
+    "streams": [
+      {
+        "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "realitychannel-il",
+    "name": "Reality Channel",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Entertainment",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png",
+    "epgId": "RealityChannel.il",
+    "streams": [
+      {
+        "url": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "shelanutv-il",
+    "name": "Shelanu.TV",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Religious",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/UVz2Ojq.png",
+    "epgId": "ShelanuTV.il",
+    "streams": [
+      {
+        "url": "https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "teennick-il",
+    "name": "TeenNick",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Kids",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png",
+    "epgId": "TeenNick.il",
+    "streams": [
+      {
+        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vacationchannel-il",
+    "name": "Vacation Channel",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Entertainment",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://static.g-cdn.app/streams/vacation-channel-il-hd.png",
+    "epgId": "VacationChannel.il",
+    "streams": [
+      {
+        "url": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vivapremium-il",
+    "name": "Viva Premium",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "General",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://cdn.epg.one/img2/9055.png",
+    "epgId": "VivaPremium.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/43/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yamtichoni-il",
+    "name": "Yam Tichoni",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Series",
+    "language": "her",
+    "languageName": "Herero",
+    "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png",
+    "epgId": "YamTichoni.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/46/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yesmoviesaction-il",
+    "name": "Yes Movies Action",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Movies",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/Bgz7p5F.png",
+    "epgId": "YesMoviesAction.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/380/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zoom-il",
+    "name": "Zoom",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Kids",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/KnBzNtA.png",
+    "epgId": "Zoom.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/377/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/zoom/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zoom-il",
+    "name": "Zoom",
+    "country": "IL",
+    "countryName": "Israel",
+    "category": "Kids",
+    "language": "heb",
+    "languageName": "Hebrew",
+    "logo": "https://i.imgur.com/KnBzNtA.png",
+    "epgId": "Zoom.il",
+    "streams": [
+      {
+        "url": "http://stream.mcquack.net/377/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "http://str2.iptvhd.ru:8080/zoom/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

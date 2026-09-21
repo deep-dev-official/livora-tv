@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="QTVGambia.gm" tvg-name="QTV Gambia" tvg-logo="https://i.imgur.com/ZsTuADb.png" group-title="General",QTV Gambia (720p)
+https://player.qtv.gm/hls/live.stream.m3u8

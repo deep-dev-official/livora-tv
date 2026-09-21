@@ -1,0 +1,336 @@
+[
+  {
+    "id": "koreancentraltelevision-kp",
+    "name": "Korean Central Television",
+    "country": "KP",
+    "countryName": "North Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/p02AEOF.png",
+    "epgId": "KoreanCentralTelevision.kp",
+    "streams": [
+      {
+        "url": "https://kctv.koryofront.org/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.intchoson.com/kctv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.intchoson.com/kctv/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer.nknews.org/tvdash/stream.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://kcnawatch.org/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer.nknews.org/tvhls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://kcnawatch.org/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "koreancentraltelevision-kp",
+    "name": "Korean Central Television",
+    "country": "KP",
+    "countryName": "North Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/p02AEOF.png",
+    "epgId": "KoreanCentralTelevision.kp",
+    "streams": [
+      {
+        "url": "https://kctv.koryofront.org/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.intchoson.com/kctv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.intchoson.com/kctv/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer.nknews.org/tvdash/stream.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://kcnawatch.org/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer.nknews.org/tvhls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://kcnawatch.org/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "koreancentraltelevision-kp",
+    "name": "Korean Central Television",
+    "country": "KP",
+    "countryName": "North Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/p02AEOF.png",
+    "epgId": "KoreanCentralTelevision.kp",
+    "streams": [
+      {
+        "url": "https://kctv.koryofront.org/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.intchoson.com/kctv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.intchoson.com/kctv/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer.nknews.org/tvdash/stream.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://kcnawatch.org/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer.nknews.org/tvhls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://kcnawatch.org/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "koreancentraltelevision-kp",
+    "name": "Korean Central Television",
+    "country": "KP",
+    "countryName": "North Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/p02AEOF.png",
+    "epgId": "KoreanCentralTelevision.kp",
+    "streams": [
+      {
+        "url": "https://kctv.koryofront.org/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.intchoson.com/kctv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.intchoson.com/kctv/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer.nknews.org/tvdash/stream.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://kcnawatch.org/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer.nknews.org/tvhls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://kcnawatch.org/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "koreancentraltelevision-kp",
+    "name": "Korean Central Television",
+    "country": "KP",
+    "countryName": "North Korea",
+    "category": "General",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/p02AEOF.png",
+    "epgId": "KoreanCentralTelevision.kp",
+    "streams": [
+      {
+        "url": "https://kctv.koryofront.org/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.intchoson.com/kctv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.intchoson.com/kctv/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer.nknews.org/tvdash/stream.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://kcnawatch.org/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer.nknews.org/tvhls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "https://kcnawatch.org/",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ryongnamsantelevision-kp",
+    "name": "Ryongnamsan Television",
+    "country": "KP",
+    "countryName": "North Korea",
+    "category": "Education",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/1BHJjY4.png",
+    "epgId": "RyongnamsanTelevision.kp",
+    "streams": [
+      {
+        "url": "https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sportstelevision-kp",
+    "name": "Sports Television",
+    "country": "KP",
+    "countryName": "North Korea",
+    "category": "Sports",
+    "language": "kor",
+    "languageName": "Korean",
+    "logo": "https://i.imgur.com/HvFpGeH.png",
+    "epgId": "SportsTelevision.kp",
+    "streams": [
+      {
+        "url": "https://kctv.koryofront.org/stream/sports/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

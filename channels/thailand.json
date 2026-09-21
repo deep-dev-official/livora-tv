@@ -1,0 +1,2694 @@
+[
+  {
+    "id": "3hd-th",
+    "name": "3HD",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/YRiulCU.png",
+    "epgId": "3HD.th",
+    "streams": [
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "13siamthai-th",
+    "name": "13 Siam Thai",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "News",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/FvEp1S2.png",
+    "epgId": "13SiamThai.th",
+    "streams": [
+      {
+        "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "altv-th",
+    "name": "ALTV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/MCbCSWv.png",
+    "epgId": "ALTV.th",
+    "streams": [
+      {
+        "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "altv-th",
+    "name": "ALTV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/MCbCSWv.png",
+    "epgId": "ALTV.th",
+    "streams": [
+      {
+        "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "amarintv-th",
+    "name": "Amarin TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Entertainment",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/512",
+    "epgId": "AmarinTV.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "amarintv-th",
+    "name": "Amarin TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Entertainment",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/512",
+    "epgId": "AmarinTV.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "baanbaantv73-th",
+    "name": "Baan Baan TV 73",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/JGLy1Pm.png",
+    "epgId": "BaanBaanTV73.th",
+    "streams": [
+      {
+        "url": "https://vdo.plathong.net/live8794/live8794/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "boonniyomtv-th",
+    "name": "Boonniyom TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Religious",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/KvdFCD5.png",
+    "epgId": "BoonniyomTV.th",
+    "streams": [
+      {
+        "url": "https://live.x2.co.th/live/bntv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel5-th",
+    "name": "Channel 5",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/wOIaqg7.png",
+    "epgId": "Channel5.th",
+    "streams": [
+      {
+        "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel5-th",
+    "name": "Channel 5",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/wOIaqg7.png",
+    "epgId": "Channel5.th",
+    "streams": [
+      {
+        "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel5-th",
+    "name": "Channel 5",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/wOIaqg7.png",
+    "epgId": "Channel5.th",
+    "streams": [
+      {
+        "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel7-th",
+    "name": "Channel 7",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/SBCIwek.png",
+    "epgId": "Channel7.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel7-th",
+    "name": "Channel 7",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/SBCIwek.png",
+    "epgId": "Channel7.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel8-th",
+    "name": "Channel 8",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/P3c5jAu.png",
+    "epgId": "Channel8.th",
+    "streams": [
+      {
+        "url": "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel8-th",
+    "name": "Channel 8",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/P3c5jAu.png",
+    "epgId": "Channel8.th",
+    "streams": [
+      {
+        "url": "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel8-th",
+    "name": "Channel 8",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/P3c5jAu.png",
+    "epgId": "Channel8.th",
+    "streams": [
+      {
+        "url": "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel8-th",
+    "name": "Channel 8",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/P3c5jAu.png",
+    "epgId": "Channel8.th",
+    "streams": [
+      {
+        "url": "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "charoencable37tv-th",
+    "name": "Charoen Cable 37 TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://www.cabletv.co.th/wp-content/uploads/2023/01/Artboard-3.png",
+    "epgId": "CharoenCable37TV.th",
+    "streams": [
+      {
+        "url": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "coolchannel-th",
+    "name": "Cool Channel",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/MU4E0A7.png",
+    "epgId": "CoolChannel.th",
+    "streams": [
+      {
+        "url": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv1-th",
+    "name": "DLTV 1",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/nLzdGeX.png",
+    "epgId": "DLTV1.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv2-th",
+    "name": "DLTV 2",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/lDBSTfE.png",
+    "epgId": "DLTV2.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv3-th",
+    "name": "DLTV 3",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/wmrxerm.png",
+    "epgId": "DLTV3.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv4-th",
+    "name": "DLTV 4",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/WkpoQhU.png",
+    "epgId": "DLTV4.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv04.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv5-th",
+    "name": "DLTV 5",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/J1E89jX.png",
+    "epgId": "DLTV5.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv05.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv6-th",
+    "name": "DLTV 6",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/qeIHWC0.png",
+    "epgId": "DLTV6.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv7-th",
+    "name": "DLTV 7",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/OjYwMe3.png",
+    "epgId": "DLTV7.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv07.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv8-th",
+    "name": "DLTV 8",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/xIwn5Ha.png",
+    "epgId": "DLTV8.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv08.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv9-th",
+    "name": "DLTV 9",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/yPeSAry.png",
+    "epgId": "DLTV9.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv09.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv10-th",
+    "name": "DLTV 10",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/TgN81Zr.png",
+    "epgId": "DLTV10.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv11-th",
+    "name": "DLTV 11",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/hFk2b5s.png",
+    "epgId": "DLTV11.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv12-th",
+    "name": "DLTV 12",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/ITt6lY7.png",
+    "epgId": "DLTV12.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv13-th",
+    "name": "DLTV 13",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/asB5w3v.png",
+    "epgId": "DLTV13.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv14-th",
+    "name": "DLTV 14",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/HOjZRNS.png",
+    "epgId": "DLTV14.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dltv15-th",
+    "name": "DLTV 15",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/onJi2b6.png",
+    "epgId": "DLTV15.th",
+    "streams": [
+      {
+        "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dopachannel-th",
+    "name": "Dopa Channel",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/Z9vxti4.png",
+    "epgId": "DopaChannel.th",
+    "streams": [
+      {
+        "url": "http://dopachannel.truegse.com/live/dopatv03.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dramachannel-th",
+    "name": "Drama Channel",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Series",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/ill1Ux6.png",
+    "epgId": "DramaChannel.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "etv-th",
+    "name": "ETV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/HTnQGcs.png",
+    "epgId": "ETV.th",
+    "streams": [
+      {
+        "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gmm25-th",
+    "name": "GMM 25",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/uARba6N.png",
+    "epgId": "GMM25.th",
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gmm25-th",
+    "name": "GMM 25",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/uARba6N.png",
+    "epgId": "GMM25.th",
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gmm25-th",
+    "name": "GMM 25",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/uARba6N.png",
+    "epgId": "GMM25.th",
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "goodideatv-th",
+    "name": "Good Idea TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Entertainment",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/ETgVyTy.png",
+    "epgId": "GoodIdeaTV.th",
+    "streams": [
+      {
+        "url": "http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "halaltv-th",
+    "name": "Halal TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/halal-tv-th.png",
+    "epgId": "HalalTV.th",
+    "streams": [
+      {
+        "url": "https://vdo.plathong.net/Halaltv/Halaltv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jkn18-th",
+    "name": "JKN 18",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "News",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/m4nPR2L.png",
+    "epgId": "JKN18.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lanthungtv-th",
+    "name": "Lanthung TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "",
+    "epgId": "LanthungTV.th",
+    "streams": [
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mangorn-th",
+    "name": "Mangorn",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "",
+    "epgId": "Mangorn.th",
+    "streams": [
+      {
+        "url": "http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mayachannel-th",
+    "name": "Maya Channel",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Entertainment",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/UropueN.png",
+    "epgId": "MayaChannel.th",
+    "streams": [
+      {
+        "url": "http://146.88.62.69:1935/Transcoder/%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2HD.stream_576p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mcothd-th",
+    "name": "MCOT HD",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/ejPxGmU.png",
+    "epgId": "MCOTHD.th",
+    "streams": [
+      {
+        "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chmcothd-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mcothd-th",
+    "name": "MCOT HD",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/ejPxGmU.png",
+    "epgId": "MCOTHD.th",
+    "streams": [
+      {
+        "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chmcothd-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mcothd-th",
+    "name": "MCOT HD",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/ejPxGmU.png",
+    "epgId": "MCOTHD.th",
+    "streams": [
+      {
+        "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chmcothd-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mono29-th",
+    "name": "MONO 29",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Entertainment",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+    "epgId": "MONO29.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mono29-th",
+    "name": "MONO 29",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Entertainment",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+    "epgId": "MONO29.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mono29-th",
+    "name": "MONO 29",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Entertainment",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+    "epgId": "MONO29.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+        "type": "dash",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationtv-th",
+    "name": "Nation TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "News",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/h3TY38F.png",
+    "epgId": "NationTV.th",
+    "streams": [
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationtv-th",
+    "name": "Nation TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "News",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/h3TY38F.png",
+    "epgId": "NationTV.th",
+    "streams": [
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nbt2hd-th",
+    "name": "NBT 2 HD",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/IJh6SHb.png",
+    "epgId": "NBT2HD.th",
+    "streams": [
+      {
+        "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nbttvchiangmai-th",
+    "name": "NBT TV Chiang Mai",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/u0Zv1yb.png",
+    "epgId": "NBTTVChiangMai.th",
+    "streams": [
+      {
+        "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nbtworld-th",
+    "name": "NBT World",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/GUQhLeg.png",
+    "epgId": "NBTWorld.th",
+    "streams": [
+      {
+        "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "news1-th",
+    "name": "News1",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "News",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "",
+    "epgId": "News1.th",
+    "streams": [
+      {
+        "url": "http://news1.live14.com/stream/news1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "news1-th",
+    "name": "News1",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "News",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "",
+    "epgId": "News1.th",
+    "streams": [
+      {
+        "url": "http://news1.live14.com/stream/news1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "one31-th",
+    "name": "One 31",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/HXFNbuc.png",
+    "epgId": "One31.th",
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "one31-th",
+    "name": "One 31",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/HXFNbuc.png",
+    "epgId": "One31.th",
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "one31-th",
+    "name": "One 31",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/HXFNbuc.png",
+    "epgId": "One31.th",
+    "streams": [
+      {
+        "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "policetv-th",
+    "name": "Police TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/GhboFGt.png",
+    "epgId": "PoliceTV.th",
+    "streams": [
+      {
+        "url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ramachannel-th",
+    "name": "Rama Channel",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/pnbzE2V.png",
+    "epgId": "RamaChannel.th",
+    "streams": [
+      {
+        "url": "https://ramach.ddns.net/live/ramalive/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rchannel-th",
+    "name": "R Channel",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Education",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/R%20Channel.png",
+    "epgId": "RChannel.th",
+    "streams": [
+      {
+        "url": "http://180.180.243.239/streams/3/hls",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sbbtv-th",
+    "name": "SBB TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/B1tyK1Z.png",
+    "epgId": "SBBTV.th",
+    "streams": [
+      {
+        "url": "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "sbttv-th",
+    "name": "SBT TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/rmNDylW.png",
+    "epgId": "SBTTV.th",
+    "streams": [
+      {
+        "url": "http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "stouchannel-th",
+    "name": "STOU Channel",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/L3T2QZz.png",
+    "epgId": "STOUChannel.th",
+    "streams": [
+      {
+        "url": "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "suwannabhumichannel-th",
+    "name": "Suwannabhumi Channel",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/6AGKP0A.png",
+    "epgId": "SuwannabhumiChannel.th",
+    "streams": [
+      {
+        "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thaiban83-th",
+    "name": "Thaiban 83",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "",
+    "epgId": "Thaiban83.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thaichaiyo-th",
+    "name": "Thai Chaiyo",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/uOfb3y1.png",
+    "epgId": "ThaiChaiyo.th",
+    "streams": [
+      {
+        "url": "https://live.thaichaiyo.tv/tcy/live-transmux.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thaiparliamenttelevision-th",
+    "name": "Thai Parliament Television",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Legislative",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/Okcnmt6.png",
+    "epgId": "ThaiParliamentTelevision.th",
+    "streams": [
+      {
+        "url": "https://tv-live.tpchannel.org/live/tv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thaipbs-th",
+    "name": "Thai PBS",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/CwalZjr.png",
+    "epgId": "ThaiPBS.th",
+    "streams": [
+      {
+        "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thaipbs-th",
+    "name": "Thai PBS",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/CwalZjr.png",
+    "epgId": "ThaiPBS.th",
+    "streams": [
+      {
+        "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thairathtv-th",
+    "name": "Thairath TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/qIorZoy.png",
+    "epgId": "ThairathTV.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thairathtv-th",
+    "name": "Thairath TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/qIorZoy.png",
+    "epgId": "ThairathTV.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tnn16-th",
+    "name": "TNN16",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/skpvuKq.png",
+    "epgId": "TNN16.th",
+    "streams": [
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tnn16-th",
+    "name": "TNN16",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/skpvuKq.png",
+    "epgId": "TNN16.th",
+    "streams": [
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "topnews-th",
+    "name": "Top News",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "News",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/tRFnV9M.png",
+    "epgId": "TopNews.th",
+    "streams": [
+      {
+        "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "true4u-th",
+    "name": "True4U",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/O6Xre1O.png",
+    "epgId": "True4U.th",
+    "streams": [
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "true4u-th",
+    "name": "True4U",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/O6Xre1O.png",
+    "epgId": "True4U.th",
+    "streams": [
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "truefilm1-th",
+    "name": "True Film 1",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Movies",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/z9XvYLe.png",
+    "epgId": "TrueFilm1.th",
+    "streams": [
+      {
+        "url": "http://58.8.186.128:10004/bysid/2415",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "truefilm2-th",
+    "name": "True Film 2",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Movies",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/4K1HbOB.png",
+    "epgId": "TrueFilm2.th",
+    "streams": [
+      {
+        "url": "http://58.8.186.128:10004/bysid/2432",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "truefilmasia-th",
+    "name": "True Film Asia",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Movies",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/Ci872im.png",
+    "epgId": "TrueFilmAsia.th",
+    "streams": [
+      {
+        "url": "http://58.8.186.128:10004/bysid/2416",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "truemoviehits-th",
+    "name": "True Movie Hits",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Movies",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/65kk1R3.png",
+    "epgId": "TrueMovieHits.th",
+    "streams": [
+      {
+        "url": "http://58.8.186.128:10003/bysid/2325",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "truetennis-th",
+    "name": "True Tennis",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Sports",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/Zu72OYA.png",
+    "epgId": "TrueTennis.th",
+    "streams": [
+      {
+        "url": "http://58.8.186.128:10004/bysid/2418",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "truethaifilm-th",
+    "name": "True Thai Film",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Movies",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/MfLY3LF.png",
+    "epgId": "TrueThaiFilm.th",
+    "streams": [
+      {
+        "url": "http://58.8.186.128:10003/bysid/2326",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tsports7-th",
+    "name": "T Sports 7",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Sports",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/KyI0s5n.png",
+    "epgId": "TSports7.th",
+    "streams": [
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvmuslimthailand-th",
+    "name": "TV Muslim Thailand",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Religious",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/aCFpuzW.png",
+    "epgId": "TVMuslimThailand.th",
+    "streams": [
+      {
+        "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ummtv-th",
+    "name": "Umm TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/5AV0JpL.png",
+    "epgId": "UmmTV.th",
+    "streams": [
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chtvb-2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "vipatv-th",
+    "name": "Vipa TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Vipa%20TV.jpg",
+    "epgId": "VipaTV.th",
+    "streams": [
+      {
+        "url": "https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "whitechannel-th",
+    "name": "White Channel",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/Chx0AV9.png",
+    "epgId": "WhiteChannel.th",
+    "streams": [
+      {
+        "url": "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "workpointtv-th",
+    "name": "Workpoint TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/zq6Xshf.png",
+    "epgId": "WorkpointTV.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "workpointtv-th",
+    "name": "Workpoint TV",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/zq6Xshf.png",
+    "epgId": "WorkpointTV.th",
+    "streams": [
+      {
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "worldentertainmenttv42-th",
+    "name": "World Entertainment TV 42",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "Entertainment",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/03bcq49.png",
+    "epgId": "WorldEntertainmentTV42.th",
+    "streams": [
+      {
+        "url": "http://3bb.engatetv.com:25461/hstn/line/147",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zabbchannel-th",
+    "name": "Zabb Channel",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/4TMtUjW.png",
+    "epgId": "ZabbChannel.th",
+    "streams": [
+      {
+        "url": "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zeenung-th",
+    "name": "Zee Nung",
+    "country": "TH",
+    "countryName": "Thailand",
+    "category": "General",
+    "language": "tha",
+    "languageName": "Thai",
+    "logo": "https://i.imgur.com/OqlxU7t.png",
+    "epgId": "ZeeNung.th",
+    "streams": [
+      {
+        "url": "https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

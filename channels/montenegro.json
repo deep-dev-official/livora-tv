@@ -1,0 +1,156 @@
+[
+  {
+    "id": "radiotelevizijarozaje-me",
+    "name": "Radio televizija Rozaje",
+    "country": "ME",
+    "countryName": "Montenegro",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/vTZjEC5.png",
+    "epgId": "RadiotelevizijaRozaje.me",
+    "streams": [
+      {
+        "url": "https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "614p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcg1-me",
+    "name": "TVCG 1",
+    "country": "ME",
+    "countryName": "Montenegro",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/QORHrXu.png",
+    "epgId": "TVCG1.me",
+    "streams": [
+      {
+        "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcg2-me",
+    "name": "TVCG 2",
+    "country": "ME",
+    "countryName": "Montenegro",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/WECmUKH.png",
+    "epgId": "TVCG2.me",
+    "streams": [
+      {
+        "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcg3-me",
+    "name": "TVCG 3",
+    "country": "ME",
+    "countryName": "Montenegro",
+    "category": "Legislative",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/0ZT3Bc2.png",
+    "epgId": "TVCG3.me",
+    "streams": [
+      {
+        "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcgmne-me",
+    "name": "TVCG MNE",
+    "country": "ME",
+    "countryName": "Montenegro",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/pf8VEwf.png",
+    "epgId": "TVCGMNE.me",
+    "streams": [
+      {
+        "url": "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvniksic-me",
+    "name": "TV Niksic",
+    "country": "ME",
+    "countryName": "Montenegro",
+    "category": "General",
+    "language": "srp",
+    "languageName": "Serbian",
+    "logo": "https://i.imgur.com/51fGwzn.png",
+    "epgId": "TVNiksic.me",
+    "streams": [
+      {
+        "url": "https://tv.rtv-niksic.me/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvteuta-me",
+    "name": "TV Teuta",
+    "country": "ME",
+    "countryName": "Montenegro",
+    "category": "General",
+    "language": "cnr",
+    "languageName": "Montenegrin",
+    "logo": "https://i.imgur.com/sWVqBuW.png",
+    "epgId": "TVTeuta.me",
+    "streams": [
+      {
+        "url": "http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

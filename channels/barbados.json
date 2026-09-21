@@ -1,0 +1,24 @@
+[
+  {
+    "id": "cbctv8-bb",
+    "name": "CBC TV8",
+    "country": "BB",
+    "countryName": "Barbados",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/WsD83lq.png",
+    "epgId": "CBCTV8.bb",
+    "streams": [
+      {
+        "url": "https://1740288887.rsc.cdn77.org/1740288887/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

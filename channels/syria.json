@@ -1,0 +1,498 @@
+[
+  {
+    "id": "alalamnewschannelsyria-sy",
+    "name": "Alalam News Channel Syria",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/WQKYPKD.png",
+    "epgId": "AlalamNewsChannelSyria.sy",
+    "streams": [
+      {
+        "url": "http://live2.alalam.ir/live/Alalam/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alikhbariasyria-sy",
+    "name": "Alikhbaria Syria",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp",
+    "epgId": "AlikhbariaSyria.sy",
+    "streams": [
+      {
+        "url": "http://185.9.2.18/chid_423/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alsouriyatv-sy",
+    "name": "Al-Souriya TV",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "Family",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/8FILgXT.jpeg",
+    "epgId": "AlSouriyaTV.sy",
+    "streams": [
+      {
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "althania-sy",
+    "name": "Althania",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg",
+    "epgId": "Althania.sy",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "althania-sy",
+    "name": "Althania",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg",
+    "epgId": "Althania.sy",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria2/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "damascusradio-sy",
+    "name": "Damascus Radio",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://damasradio.fm/wp-content/uploads/2026/01/logo-red.svg",
+    "epgId": "DamascusRadio.sy",
+    "streams": [
+      {
+        "url": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "halabtodaytv-sy",
+    "name": "Halab Today TV",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://pbs.twimg.com/profile_images/1779495135841075200/aPINrLwe_400x400.png",
+    "epgId": "HalabTodayTV.sy",
+    "streams": [
+      {
+        "url": "https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "halabtodaytv-sy",
+    "name": "Halab Today TV",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://pbs.twimg.com/profile_images/1779495135841075200/aPINrLwe_400x400.png",
+    "epgId": "HalabTodayTV.sy",
+    "streams": [
+      {
+        "url": "https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "prime-sy",
+    "name": "Prime",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://prime1tv.com/wp-content/uploads/2025/12/7-1.png",
+    "epgId": "Prime.sy",
+    "streams": [
+      {
+        "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rojavatv-sy",
+    "name": "Rojava TV",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/42noysO.png",
+    "epgId": "RojavaTV.sy",
+    "streams": [
+      {
+        "url": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ronahitv-sy",
+    "name": "Ronahi TV",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "General",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/JSvJpD8.png",
+    "epgId": "RonahiTV.sy",
+    "streams": [
+      {
+        "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "syriatv-sy",
+    "name": "Syria TV",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+    "epgId": "SyriaTV.sy",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria1/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "syriatv-sy",
+    "name": "Syria TV",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+    "epgId": "SyriaTV.sy",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria1/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "syriatv-sy",
+    "name": "Syria TV",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+    "epgId": "SyriaTV.sy",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria1/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "syriatv-sy",
+    "name": "Syria TV",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+    "epgId": "SyriaTV.sy",
+    "streams": [
+      {
+        "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria1/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "welattv-sy",
+    "name": "Welat TV",
+    "country": "SY",
+    "countryName": "Syria",
+    "category": "News",
+    "language": "ara",
+    "languageName": "Arabic",
+    "logo": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
+    "epgId": "WelatTV.sy",
+    "streams": [
+      {
+        "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080i",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

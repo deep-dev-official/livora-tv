@@ -1,0 +1,284 @@
+[
+  {
+    "id": "aparttv-lu",
+    "name": "apart TV",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "Lifestyle",
+    "language": "ltz",
+    "languageName": "Letzeburgesch",
+    "logo": "https://i.imgur.com/IBcMIcZ.png",
+    "epgId": "apartTV.lu",
+    "streams": [
+      {
+        "url": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "dudelangetv-lu",
+    "name": "Dudelange TV",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "General",
+    "language": "ltz",
+    "languageName": "Letzeburgesch",
+    "logo": "https://i.imgur.com/2dLYZsc.png",
+    "epgId": "DudelangeTV.lu",
+    "streams": [
+      {
+        "url": "https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eldotv-lu",
+    "name": "eldo.TV",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "Entertainment",
+    "language": "ltz",
+    "languageName": "Letzeburgesch",
+    "logo": "https://i.imgur.com/vCMQLlt.png",
+    "epgId": "eldoTV.lu",
+    "streams": [
+      {
+        "url": "https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "luxetv-lu",
+    "name": "Luxe TV",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "Lifestyle",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/24ehonx.png",
+    "epgId": "LuxeTV.lu",
+    "streams": [
+      {
+        "url": "http://103.154.3.101:5001/live/1736.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "luxetv-lu",
+    "name": "Luxe TV",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "Lifestyle",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/24ehonx.png",
+    "epgId": "LuxeTV.lu",
+    "streams": [
+      {
+        "url": "http://103.154.3.101:5001/live/1736.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mierschtv-lu",
+    "name": "MierschTV",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "General",
+    "language": "ltz",
+    "languageName": "Letzeburgesch",
+    "logo": "https://i.imgur.com/Vdc1GYP.jpg",
+    "epgId": "MierschTV.lu",
+    "streams": [
+      {
+        "url": "https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtl9-lu",
+    "name": "RTL9",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "Entertainment",
+    "language": "fra",
+    "languageName": "French",
+    "logo": "https://i.imgur.com/nFqjVNW.png",
+    "epgId": "RTL9.lu",
+    "streams": [
+      {
+        "url": "http://145.239.5.177/308/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtlgold-lu",
+    "name": "RTL Gold",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "Music",
+    "language": "ltz",
+    "languageName": "Letzeburgesch",
+    "logo": "https://i.imgur.com/LzHQoUv.png",
+    "epgId": "RTLGold.lu",
+    "streams": [
+      {
+        "url": "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtlteleletzebuerg-lu",
+    "name": "RTL Tele Letzebuerg",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "General",
+    "language": "ltz",
+    "languageName": "Letzeburgesch",
+    "logo": "https://i.imgur.com/fkW5Gbl.png",
+    "epgId": "RTLTeleLetzebuerg.lu",
+    "streams": [
+      {
+        "url": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtlwebradiotv-lu",
+    "name": "RTL Web Radio TV",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "General",
+    "language": "ltz",
+    "languageName": "Letzeburgesch",
+    "logo": "https://i.imgur.com/qyc8LsE.png",
+    "epgId": "RTLWebRadioTV.lu",
+    "streams": [
+      {
+        "url": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "rtlzwee-lu",
+    "name": "RTL Zwee",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "General",
+    "language": "ltz",
+    "languageName": "Letzeburgesch",
+    "logo": "https://i.imgur.com/7SmCtyy.png",
+    "epgId": "RTLZwee.lu",
+    "streams": [
+      {
+        "url": "https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "todayradio-lu",
+    "name": "Today Radio",
+    "country": "LU",
+    "countryName": "Luxembourg",
+    "category": "Music",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/O1c6wpt.png",
+    "epgId": "TodayRadio.lu",
+    "streams": [
+      {
+        "url": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

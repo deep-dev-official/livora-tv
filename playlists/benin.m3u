@@ -1,0 +1,32 @@
+#EXTM3U x-tvg-url="https://deep-dev-official.github.io/livora-tv/epg/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-id="ADOTV.bj" tvg-name="ADO TV" tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Kids",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeninWebTV.bj" tvg-name="Benin Web TV" tvg-logo="https://i.imgur.com/CYy4n0N.png" group-title="News",Benin Web TV (720p)
+https://stream.beninwebtv.bj/2/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="EdenTV.bj" tvg-name="Eden TV" tvg-logo="https://i.imgur.com/4ClnG0x.png" group-title="General",Eden TV (540p)
+https://rtmp.edentv.bj/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="HC2TV.bj" tvg-name="HC2 TV" tvg-logo="https://i.imgur.com/CV38429.jpeg" group-title="News",HC2 TV (HD)
+https://stream.hc2tv.bj/2/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="ICONETV.bj" tvg-name="ICONE TV" tvg-logo="https://i.imgur.com/Aws11wj.jpeg" group-title="News",ICONE TV (HD)
+https://lecteur.iconetv.bj/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="KassouaTV.bj" tvg-name="KassouaTV" tvg-logo="https://i.imgur.com/EfX3HNG.png" group-title="General",KassouaTV (720p)
+https://playtv4k.live/live/kassouatv/index.m3u8
+
+#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" tvg-name="Le Nouveau Manager TV" tvg-logo="https://i.imgur.com/pEoOtEf.jpeg" group-title="Business",Le Nouveau Manager TV (HD)
+https://lnmlive.com/live/lnmtv.m3u8
+
+#EXTINF:-1 tvg-id="ORTBTV.bj" tvg-name="ORTB TV" tvg-logo="https://i.imgur.com/o6zAR88.png" group-title="General",ORTB TV (1080i)
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-name="Speedline TV" tvg-logo="https://i.imgur.com/1lXShsh.png" group-title="General",Speedline TV (HD)
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCBenin.bj" tvg-name="TVC Benin" tvg-logo="https://i.imgur.com/oUnEYl5.png" group-title="General",TVC Benin (720p)
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8

@@ -1,0 +1,1826 @@
+[
+  {
+    "id": "4e-gr",
+    "name": "4E",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Religious",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/Na0UCV7.png",
+    "epgId": "4E.gr",
+    "streams": [
+      {
+        "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "4e-gr",
+    "name": "4E",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Religious",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/Na0UCV7.png",
+    "epgId": "4E.gr",
+    "streams": [
+      {
+        "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "acheloostv-gr",
+    "name": "Acheloos TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/5SVMxcu.png",
+    "epgId": "AcheloosTV.gr",
+    "streams": [
+      {
+        "url": "https://acheloostv.streamings.gr/live/stream/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "action24-gr",
+    "name": "Action 24",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Movies",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+    "epgId": "Action24.gr",
+    "streams": [
+      {
+        "url": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aeolostv-gr",
+    "name": "Aeolos TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/4G9VvUg.png",
+    "epgId": "AeolosTV.gr",
+    "streams": [
+      {
+        "url": "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "aigaiotv-gr",
+    "name": "Aigaio TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/7LfuDJi.png",
+    "epgId": "AigaioTV.gr",
+    "streams": [
+      {
+        "url": "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alerttv-gr",
+    "name": "Alert TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/xqa87lG.png",
+    "epgId": "AlertTV.gr",
+    "streams": [
+      {
+        "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "alphatv-gr",
+    "name": "Alpha TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/6twzd38.png",
+    "epgId": "AlphaTV.gr",
+    "streams": [
+      {
+        "url": "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ant1-gr",
+    "name": "ANT1",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Entertainment",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/ItxKvVS.png",
+    "epgId": "ANT1.gr",
+    "streams": [
+      {
+        "url": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "http://watch.antennaplus.gr",
+        "userAgent": "Chrome",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "art-gr",
+    "name": "ART",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Culture",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/mNeLu04.png",
+    "epgId": "ART.gr",
+    "streams": [
+      {
+        "url": "https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "arttv-gr",
+    "name": "ART TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/8uS0sib.png",
+    "epgId": "ARTTV.gr",
+    "streams": [
+      {
+        "url": "https://rtmp.win:3696/live/arttvgrlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "astratv-gr",
+    "name": "Astra TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/oYRPfZm.png",
+    "epgId": "AstraTV.gr",
+    "streams": [
+      {
+        "url": "https://server.gointernet.gr/live/livestream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "barazatv-gr",
+    "name": "Baraza TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Music",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/TZ1unwF.png",
+    "epgId": "BarazaTV.gr",
+    "streams": [
+      {
+        "url": "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "barazatvdeephouse-gr",
+    "name": "Baraza TV Deep House",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Music",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/TZ1unwF.png",
+    "epgId": "BarazaTVDeepHouse.gr",
+    "streams": [
+      {
+        "url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "barazatvrelaxing-gr",
+    "name": "Baraza TV Relaxing",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Music",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/TZ1unwF.png",
+    "epgId": "BarazaTVRelaxing.gr",
+    "streams": [
+      {
+        "url": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "besttv-gr",
+    "name": "Best TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/AeeeDUc.png",
+    "epgId": "BestTV.gr",
+    "streams": [
+      {
+        "url": "http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "blueskytv-gr",
+    "name": "Blue Sky TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/C9CormG.png",
+    "epgId": "BlueSkyTV.gr",
+    "streams": [
+      {
+        "url": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "centertv-gr",
+    "name": "Center TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/52JW71Q.png",
+    "epgId": "CenterTV.gr",
+    "streams": [
+      {
+        "url": "https://eu1.streams.gr:8081/centertv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "channel8-gr",
+    "name": "Channel 8",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://www.channel8.gr/img/channel8.png",
+    "epgId": "Channel8.gr",
+    "streams": [
+      {
+        "url": "https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "corfuchannel-gr",
+    "name": "Corfu Channel",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/EFL1Tjg.png",
+    "epgId": "CorfuChannel.gr",
+    "streams": [
+      {
+        "url": "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "deltatv-gr",
+    "name": "DELTA TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png",
+    "epgId": "DELTATV.gr",
+    "streams": [
+      {
+        "url": "http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "diontv-gr",
+    "name": "Dion TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/13MverN.png",
+    "epgId": "DionTV.gr",
+    "streams": [
+      {
+        "url": "https://rtmp.win:3650/live/diontvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ecclesiatv-gr",
+    "name": "Ecclesia TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/QQSSMZx.png",
+    "epgId": "EcclesiaTV.gr",
+    "streams": [
+      {
+        "url": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "egnatiatv-gr",
+    "name": "Egnatia TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/zuyYIca.png",
+    "epgId": "EgnatiaTV.gr",
+    "streams": [
+      {
+        "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ellinikosfm-gr",
+    "name": "Ellinikos FM",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Music",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.ibb.co/y0ydCNB/unnamed-4.png",
+    "epgId": "EllinikosFM.gr",
+    "streams": [
+      {
+        "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "enachannel-gr",
+    "name": "ENA Channel",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/3g3yjAq.png",
+    "epgId": "ENAChannel.gr",
+    "streams": [
+      {
+        "url": "https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "epilogestv-gr",
+    "name": "Epiloges TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/3S4P7ob.png",
+    "epgId": "EpilogesTV.gr",
+    "streams": [
+      {
+        "url": "https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "epirustv1-gr",
+    "name": "Epirus TV1",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/nYVqhu8.png",
+    "epgId": "EpirusTV1.gr",
+    "streams": [
+      {
+        "url": "https://rtmp.win:3929/live/epiruslive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ert3-gr",
+    "name": "ERT3",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Entertainment",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/f2l9bDR.png",
+    "epgId": "ERT3.gr",
+    "streams": [
+      {
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ertcosmos-gr",
+    "name": "ERT Cosmos",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png",
+    "epgId": "ERTCosmos.gr",
+    "streams": [
+      {
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ertnews-gr",
+    "name": "ERT News",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/HXbsPfB.png",
+    "epgId": "ERTNews.gr",
+    "streams": [
+      {
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ertsports1-gr",
+    "name": "ERT Sports 1",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Sports",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/EsczO2H.png",
+    "epgId": "ERTSports1.gr",
+    "streams": [
+      {
+        "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ertsports2-gr",
+    "name": "ERT Sports 2",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Sports",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/b2SNQPi.png",
+    "epgId": "ERTSports2.gr",
+    "streams": [
+      {
+        "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "eurotv-gr",
+    "name": "Euro TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://www.eurotv.gr/wp-content/uploads/2018/03/ima-euro-channel-190-x-400.png",
+    "epgId": "EuroTV.gr",
+    "streams": [
+      {
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "432p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "extrapronews-gr",
+    "name": "Extra ProNews",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://www.extra3.tv/wp-content/uploads/2017/02/extra_logo.png",
+    "epgId": "ExtraProNews.gr",
+    "streams": [
+      {
+        "url": "http://62.1.176.18:8888/extra/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "farostv2-gr",
+    "name": "Faros TV2",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/7xtz1Jo.png",
+    "epgId": "FarosTV2.gr",
+    "streams": [
+      {
+        "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "gnomitv-gr",
+    "name": "Gnomi TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.ibb.co/ZNCXr79/gnomi-logo.png",
+    "epgId": "GnomiTV.gr",
+    "streams": [
+      {
+        "url": "https://live.streams.ovh:8081/gnomitv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "groovytv-gr",
+    "name": "Groovy TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Movies",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/ZYNQuf1.png",
+    "epgId": "GroovyTV.gr",
+    "streams": [
+      {
+        "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hellenicparliamenttv-gr",
+    "name": "Hellenic Parliament TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Legislative",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/o2cvqv3.png",
+    "epgId": "HellenicParliamentTV.gr",
+    "streams": [
+      {
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hellenicparliamenttv-gr",
+    "name": "Hellenic Parliament TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Legislative",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/o2cvqv3.png",
+    "epgId": "HellenicParliamentTV.gr",
+    "streams": [
+      {
+        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hightv-gr",
+    "name": "High TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Shop",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/8gHuwt7.png",
+    "epgId": "HighTV.gr",
+    "streams": [
+      {
+        "url": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ioniantv-gr",
+    "name": "Ionian TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/JILN3kS.png",
+    "epgId": "IonianTV.gr",
+    "streams": [
+      {
+        "url": "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ioniantv-gr",
+    "name": "Ionian TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/JILN3kS.png",
+    "epgId": "IonianTV.gr",
+    "streams": [
+      {
+        "url": "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kontrachannel-gr",
+    "name": "Kontra Channel",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://kontrachannel.gr/images/kontrachannel24.png",
+    "epgId": "KontraChannel.gr",
+    "streams": [
+      {
+        "url": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "kostv-gr",
+    "name": "Kos TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/bdJnQ1W.png",
+    "epgId": "KosTV.gr",
+    "streams": [
+      {
+        "url": "https://eu1.streams.gr:8081/kostv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "krititv-gr",
+    "name": "Kriti TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/X7jKwYl.png",
+    "epgId": "KritiTV.gr",
+    "streams": [
+      {
+        "url": "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "lepantotv-gr",
+    "name": "Lepanto TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg",
+    "epgId": "LepantoTV.gr",
+    "streams": [
+      {
+        "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mesogeiostv-gr",
+    "name": "Mesogeios TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/KX5olay.png",
+    "epgId": "MesogeiosTV.gr",
+    "streams": [
+      {
+        "url": "https://rtmp.win:3793/live/mesogeiostvlive.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "messatidatv-gr",
+    "name": "Messatida TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Music",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/WEYrIrC.png",
+    "epgId": "MessatidaTV.gr",
+    "streams": [
+      {
+        "url": "https://rtmp.streams.ovh:8081/mtv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "naftemporikitv-gr",
+    "name": "Naftemporiki TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/9OFdMud.png",
+    "epgId": "NaftemporikiTV.gr",
+    "streams": [
+      {
+        "url": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "neatv-gr",
+    "name": "Nea TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/nvNW8G7.png",
+    "epgId": "NeaTV.gr",
+    "streams": [
+      {
+        "url": "https://live.neatv.gr:8888/hls/neatv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "neatv-gr",
+    "name": "Nea TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/nvNW8G7.png",
+    "epgId": "NeaTV.gr",
+    "streams": [
+      {
+        "url": "https://live.neatv.gr:8888/hls/neatv.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "netmaxtv-gr",
+    "name": "Netmax TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Entertainment",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/dLvRD4k.png",
+    "epgId": "NetmaxTV.gr",
+    "streams": [
+      {
+        "url": "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "notioitv-gr",
+    "name": "Notioi TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/Nq00n8h.png",
+    "epgId": "NotioiTV.gr",
+    "streams": [
+      {
+        "url": "https://srv.streamserver.gr:3451/stream/play.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nrg91-gr",
+    "name": "NRG 91",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Music",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/1Zl1OJ5.png",
+    "epgId": "NRG91.gr",
+    "streams": [
+      {
+        "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "onechannel-gr",
+    "name": "One Channel",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png",
+    "epgId": "OneChannel.gr",
+    "streams": [
+      {
+        "url": "https://onechannel.siliconweb.com/one/stream/chunks.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "paniktv-gr",
+    "name": "Panik TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Music",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/13C3CPr.png",
+    "epgId": "PanikTV.gr",
+    "streams": [
+      {
+        "url": "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "pellatv-gr",
+    "name": "Pella TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/JnDXKZo.png",
+    "epgId": "PellaTV.gr",
+    "streams": [
+      {
+        "url": "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "playtv-gr",
+    "name": "Play TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Music",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/JWFOYuD.png",
+    "epgId": "PlayTV.gr",
+    "streams": [
+      {
+        "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "reloadplay-gr",
+    "name": "Reload Play",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/TZUsA2W.jpg",
+    "epgId": "ReloadPlay.gr",
+    "streams": [
+      {
+        "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "samiakitv-gr",
+    "name": "Samiaki TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/9Pf1we6.png",
+    "epgId": "SamiakiTV.gr",
+    "streams": [
+      {
+        "url": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "skaitv-gr",
+    "name": "Skai TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/mrKRFnf.png",
+    "epgId": "SkaiTV.gr",
+    "streams": [
+      {
+        "url": "http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starchannel-gr",
+    "name": "Star Channel",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Entertainment",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/6NUpxhr.png",
+    "epgId": "StarChannel.gr",
+    "streams": [
+      {
+        "url": "http://livestar.siliconweb.com/starvod/star4/star4.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starchannelinternational-gr",
+    "name": "Star Channel International",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Entertainment",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/6NUpxhr.png",
+    "epgId": "StarChannelInternational.gr",
+    "streams": [
+      {
+        "url": "https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starchannelinternational-gr",
+    "name": "Star Channel International",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "Entertainment",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/6NUpxhr.png",
+    "epgId": "StarChannelInternational.gr",
+    "streams": [
+      {
+        "url": "https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starkentrikiselladas-gr",
+    "name": "Star Kentrikis Elladas",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/ZBt6beo.png",
+    "epgId": "StarKentrikisElladas.gr",
+    "streams": [
+      {
+        "url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starttv-gr",
+    "name": "Start TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",
+    "epgId": "StartTV.gr",
+    "streams": [
+      {
+        "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "480p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "syrostv1-gr",
+    "name": "Syros TV1",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/arQe5qS.png",
+    "epgId": "SyrosTV1.gr",
+    "streams": [
+      {
+        "url": "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "telekriti-gr",
+    "name": "Telekriti",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png",
+    "epgId": "Telekriti.gr",
+    "streams": [
+      {
+        "url": "https://neon.streams.gr:8081/telekriti/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "thrakinettv-gr",
+    "name": "Thraki Net TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/3ITSnqT.png",
+    "epgId": "ThrakiNetTV.gr",
+    "streams": [
+      {
+        "url": "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "topchannel-gr",
+    "name": "Top Channel",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/SfV2gJg.png",
+    "epgId": "TopChannel.gr",
+    "streams": [
+      {
+        "url": "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "trt-gr",
+    "name": "TRT",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/g0jPOcC.png",
+    "epgId": "TRT.gr",
+    "streams": [
+      {
+        "url": "https://av.hellasnet.tv/rst/trt/main_stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tv100-gr",
+    "name": "TV 100",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/OBH2DfE.png",
+    "epgId": "TV100.gr",
+    "streams": [
+      {
+        "url": "https://gwebstream.net/hls/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcreta-gr",
+    "name": "TV Creta",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/CpIeJyt.png",
+    "epgId": "TVCreta.gr",
+    "streams": [
+      {
+        "url": "http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "tvcreta-gr",
+    "name": "TV Creta",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/CpIeJyt.png",
+    "epgId": "TVCreta.gr",
+    "streams": [
+      {
+        "url": "http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "540p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "verginatv-gr",
+    "name": "Vergina TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "News",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/abQmFoH.png",
+    "epgId": "VerginaTV.gr",
+    "streams": [
+      {
+        "url": "https://verginanews.gr:8443/hls_live/stream1.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "xplore-gr",
+    "name": "Xplore",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/8oy62fX.png",
+    "epgId": "Xplore.gr",
+    "streams": [
+      {
+        "url": "http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "714p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "zouglatv-gr",
+    "name": "Zougla TV",
+    "country": "GR",
+    "countryName": "Greece",
+    "category": "General",
+    "language": "ell",
+    "languageName": "Greek",
+    "logo": "https://i.imgur.com/AmW9d6H.jpg",
+    "epgId": "ZouglaTV.gr",
+    "streams": [
+      {
+        "url": "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

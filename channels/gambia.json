@@ -1,0 +1,24 @@
+[
+  {
+    "id": "qtvgambia-gm",
+    "name": "QTV Gambia",
+    "country": "GM",
+    "countryName": "Gambia",
+    "category": "General",
+    "language": "eng",
+    "languageName": "English",
+    "logo": "https://i.imgur.com/ZsTuADb.png",
+    "epgId": "QTVGambia.gm",
+    "streams": [
+      {
+        "url": "https://player.qtv.gm/hls/live.stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

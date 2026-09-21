@@ -1,0 +1,108 @@
+[
+  {
+    "id": "addistv-et",
+    "name": "Addis TV",
+    "country": "ET",
+    "countryName": "Ethiopia",
+    "category": "General",
+    "language": "amh",
+    "languageName": "Amharic",
+    "logo": "https://i.imgur.com/kqHWrZ9.png",
+    "epgId": "AddisTV.et",
+    "streams": [
+      {
+        "url": "https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "merejatv-et",
+    "name": "Mereja TV",
+    "country": "ET",
+    "countryName": "Ethiopia",
+    "category": "News",
+    "language": "amh",
+    "languageName": "Amharic",
+    "logo": "https://i.imgur.com/PaAacxF.png",
+    "epgId": "MerejaTV.et",
+    "streams": [
+      {
+        "url": "https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "merejatv-et",
+    "name": "Mereja TV",
+    "country": "ET",
+    "countryName": "Ethiopia",
+    "category": "News",
+    "language": "amh",
+    "languageName": "Amharic",
+    "logo": "https://i.imgur.com/PaAacxF.png",
+    "epgId": "MerejaTV.et",
+    "streams": [
+      {
+        "url": "https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nesihatv-et",
+    "name": "Nesiha TV",
+    "country": "ET",
+    "countryName": "Ethiopia",
+    "category": "Religious",
+    "language": "amh",
+    "languageName": "Amharic",
+    "logo": "https://i.imgur.com/rqEyzjE.png",
+    "epgId": "NesihaTV.et",
+    "streams": [
+      {
+        "url": "https://stream.cisk.tech/nasihatv/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]

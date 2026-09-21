@@ -1,0 +1,944 @@
+[
+  {
+    "id": "eveo-fi",
+    "name": "Eveo",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/fFIq7tY.png",
+    "epgId": "Eveo.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "hero-fi",
+    "name": "Hero",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Movies",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/4t5JQLY.png",
+    "epgId": "Hero.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "himlentv7-fi",
+    "name": "Himlen TV7",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Religious",
+    "language": "swe",
+    "languageName": "Swedish",
+    "logo": "https://i.imgur.com/k8a7KNn.png",
+    "epgId": "HimlenTV7.fi",
+    "streams": [
+      {
+        "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jim-fi",
+    "name": "Jim",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Entertainment",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/PkMgY0K.png",
+    "epgId": "Jim.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "jrtvjarviradio-fi",
+    "name": "JRTV Jarviradio",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Music",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
+    "epgId": "JRTVJarviradio.fi",
+    "streams": [
+      {
+        "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "liv-fi",
+    "name": "Liv",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Entertainment",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/k6NsXBj.png",
+    "epgId": "Liv.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtv3-fi",
+    "name": "MTV3",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/C5rQbBM.png",
+    "epgId": "MTV3.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://195.222.7.17:8002/ch352",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "http://195.222.7.17:8002/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtv3-fi",
+    "name": "MTV3",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/C5rQbBM.png",
+    "epgId": "MTV3.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "http://195.222.7.17:8002/ch352",
+        "type": "hls",
+        "status": "pending",
+        "quality": "576p",
+        "httpReferrer": "http://195.222.7.17:8002/",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtvava-fi",
+    "name": "MTV Ava",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Entertainment",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/WxNCiAk.png",
+    "epgId": "MTVAva.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/ava/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtvsub-fi",
+    "name": "MTV Sub",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/rmV8LO1.png",
+    "epgId": "MTVSub.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/sub/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "mtvuutiset-fi",
+    "name": "MTV Uutiset",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "News",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/ZO8ShOK.png",
+    "epgId": "MTVUutiset.fi",
+    "streams": [
+      {
+        "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nartv-fi",
+    "name": "Nar-TV",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "swe",
+    "languageName": "Swedish",
+    "logo": "https://i.imgur.com/Ht5yePq.png",
+    "epgId": "NarTV.fi",
+    "streams": [
+      {
+        "url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "360p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nationalgeographic-fi",
+    "name": "National Geographic",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Documentary",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "epgId": "NationalGeographic.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "navahangtv-fi",
+    "name": "Navahang TV",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Music",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/YteKXJy.png",
+    "epgId": "NavahangTV.fi",
+    "streams": [
+      {
+        "url": "https://hls.navahang.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://simahls.wns.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "navahangtv-fi",
+    "name": "Navahang TV",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Music",
+    "language": "fas",
+    "languageName": "Persian",
+    "logo": "https://i.imgur.com/YteKXJy.png",
+    "epgId": "NavahangTV.fi",
+    "streams": [
+      {
+        "url": "https://hls.navahang.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://simahls.wns.live/hls/stream.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nelonen-fi",
+    "name": "Nelonen",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/BFbCyfY.png",
+    "epgId": "Nelonen.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "nopolanews-fi",
+    "name": "Nopola News",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "News",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/vDoQaGl.png",
+    "epgId": "NopolaNews.fi",
+    "streams": [
+      {
+        "url": "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "onnitv-fi",
+    "name": "Onni TV",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/Vba4jUk.png",
+    "epgId": "OnniTV.fi",
+    "streams": [
+      {
+        "url": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starchannel-fi",
+    "name": "STAR Channel",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "epgId": "STARChannel.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "starchannel-fi",
+    "name": "STAR Channel",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "epgId": "STARChannel.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv",
+        "type": "hls",
+        "status": "pending",
+        "quality": "HD",
+        "httpReferrer": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "taevastv7-fi",
+    "name": "Taevas TV7",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Religious",
+    "language": "est",
+    "languageName": "Estonian",
+    "logo": "https://i.imgur.com/usXedIj.png",
+    "epgId": "TaevasTV7.fi",
+    "streams": [
+      {
+        "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "taivastv7-fi",
+    "name": "Taivas TV7",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Religious",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/JyJNiXy.png",
+    "epgId": "TaivasTV7.fi",
+    "streams": [
+      {
+        "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "viaplaytv-fi",
+    "name": "Viaplay TV",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Sports",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg",
+    "epgId": "ViaplayTV.fi",
+    "streams": [
+      {
+        "url": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yleteemafem-fi",
+    "name": "Yle Teema & Fem",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png",
+    "epgId": "YleTeemaFem.fi",
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yleteemafem-fi",
+    "name": "Yle Teema & Fem",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png",
+    "epgId": "YleTeemaFem.fi",
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yleteemafem-fi",
+    "name": "Yle Teema & Fem",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png",
+    "epgId": "YleTeemaFem.fi",
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yletv1-fi",
+    "name": "Yle TV1",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/6yXZwUL.png",
+    "epgId": "YleTV1.fi",
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-tv1/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yletv1-fi",
+    "name": "Yle TV1",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/6yXZwUL.png",
+    "epgId": "YleTV1.fi",
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-tv1/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yletv1-fi",
+    "name": "Yle TV1",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/6yXZwUL.png",
+    "epgId": "YleTV1.fi",
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-tv1/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yletv2-fi",
+    "name": "Yle TV2",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/4xkc6PL.png",
+    "epgId": "YleTV2.fi",
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-tv2/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yletv2-fi",
+    "name": "Yle TV2",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/4xkc6PL.png",
+    "epgId": "YleTV2.fi",
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-tv2/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "yletv2-fi",
+    "name": "Yle TV2",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "General",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://i.imgur.com/4xkc6PL.png",
+    "epgId": "YleTV2.fi",
+    "streams": [
+      {
+        "url": "https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "1080p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      },
+      {
+        "url": "https://live-fi.tvkaista.net/yle-tv2/live.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  },
+  {
+    "id": "ylex-fi",
+    "name": "YleX",
+    "country": "FI",
+    "countryName": "Finland",
+    "category": "Music",
+    "language": "fin",
+    "languageName": "Finnish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/960px-YleX.svg.png",
+    "epgId": "YleX.fi",
+    "streams": [
+      {
+        "url": "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8",
+        "type": "hls",
+        "status": "pending",
+        "quality": "720p",
+        "httpReferrer": "",
+        "userAgent": "",
+        "last_checked": null
+      }
+    ]
+  }
+]
