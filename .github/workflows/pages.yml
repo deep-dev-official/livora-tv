@@ -36,6 +36,7 @@ jobs:
           mkdir -p _site/channels
           cp -r channels/* _site/channels/ || true
           cp stats.json _site/ || true
+          touch _site/.nojekyll
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
